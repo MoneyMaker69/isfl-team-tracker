@@ -22213,6 +22213,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5332,130119,2026-09-07 17:33:37,other,3,CHARITY FREE TPE SPECTACULAR,Frantik
 5332,131336,2026-09-14 08:45:30,activity check,2,Weekly Activity Check: +2,RoyRivers
 5332,131337,2026-09-14 08:45:40,training,5,Weekly Training: +5,RoyRivers
+5332,132225,2026-09-21 08:01:57,activity check,2,Weekly Activity Check: +2,RoyRivers
+5332,132226,2026-09-21 08:02:02,training,5,Weekly Training: +5,RoyRivers
 5333,4383,2025-04-09 23:28:35,Create,731,Initial Import,lemonoppy
 5333,7700,2025-04-20 22:46:29,activity check,2,Weekly Activity Check: +2,18situaseans
 5333,5133,2025-04-20 22:46:29,training,5,Weekly Training: +5,lemonoppy
@@ -26063,6 +26065,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5354,131294,2026-09-14 07:38:54,activity check,2,Weekly Activity Check: +2,Pelochyta
 5354,131295,2026-09-14 07:39:00,training,5,Weekly Training: +5,Pelochyta
 5354,131341,2026-09-14 08:49:22,seasonal equipment,30,Seasonal Equipment: +30,Pelochyta
+5354,132197,2026-09-21 07:17:00,activity check,2,Weekly Activity Check: +2,Pelochyta
+5354,132198,2026-09-21 07:17:05,training,5,Weekly Training: +5,Pelochyta
 5355,4655,2025-04-09 23:28:35,Create,670,Initial Import,lemonoppy
 5355,5386,2025-04-21 10:48:18,point task,7,S54 First Rounders,wizard_literal
 5355,5631,2025-04-21 14:21:05,other,117,Portal Import,lemonoppy
@@ -42797,6 +42801,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5509,130884,2026-09-12 12:10:15,prediction,9,S63 First Rounders Prediction,AustinP0027
 5509,131556,2026-09-14 16:30:35,activity check,2,Weekly Activity Check: +2,bernardhibou
 5509,131557,2026-09-14 16:30:40,training,5,Weekly Training: +5,bernardhibou
+5509,132289,2026-09-21 09:25:39,activity check,2,Weekly Activity Check: +2,bernardhibou
+5509,132290,2026-09-21 09:25:44,training,5,Weekly Training: +5,bernardhibou
 5510,4734,2025-04-09 23:28:35,Create,235,Initial Import,lemonoppy
 5510,5266,2025-04-21 10:48:18,point task,7,S54 First Rounders,wizard_literal
 5510,5490,2025-04-21 11:45:13,other,83,Portal Import,lemonoppy
@@ -45015,6 +45021,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5515,130921,2026-09-12 12:10:15,prediction,9,S63 First Rounders Prediction,AustinP0027
 5515,131347,2026-09-14 08:55:36,activity check,2,Weekly Activity Check: +2,Griff
 5515,131348,2026-09-14 08:55:42,training,5,Weekly Training: +5,Griff
+5515,132278,2026-09-21 09:11:57,activity check,2,Weekly Activity Check: +2,Griff
+5515,132280,2026-09-21 09:12:03,training,5,Weekly Training: +5,Griff
 5516,4743,2025-04-09 23:28:35,Create,269,Initial Import,lemonoppy
 5516,5365,2025-04-21 10:48:18,point task,7,S54 First Rounders,wizard_literal
 5516,5537,2025-04-21 12:35:12,other,90,Portal Import,lemonoppy
@@ -45424,6 +45432,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5516,130796,2026-09-12 12:10:14,prediction,9,S63 First Rounders Prediction,AustinP0027
 5516,131499,2026-09-14 12:29:45,activity check,2,Weekly Activity Check: +2,Opera_Phantom
 5516,131705,2026-09-15 12:51:38,training,5,Weekly Training: +5,Opera_Phantom
+5516,132318,2026-09-21 10:01:19,activity check,2,Weekly Activity Check: +2,Opera_Phantom
+5516,132319,2026-09-21 10:01:24,training,5,Weekly Training: +5,Opera_Phantom
 5517,4744,2025-04-09 23:28:35,Create,252,Initial Import,lemonoppy
 5517,5121,2025-04-20 11:17:15,training,5,Weekly Training: +5,lemonoppy
 5517,5339,2025-04-21 10:48:18,point task,7,S54 First Rounders,wizard_literal
@@ -47516,6 +47526,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5533,130894,2026-09-12 12:10:15,prediction,9,S63 First Rounders Prediction,AustinP0027
 5533,131332,2026-09-14 08:36:17,activity check,2,Weekly Activity Check: +2,jreed12
 5533,131333,2026-09-14 08:36:22,training,5,Weekly Training: +5,jreed12
+5533,132267,2026-09-21 09:05:15,activity check,2,Weekly Activity Check: +2,jreed12
+5533,132268,2026-09-21 09:05:31,training,5,Weekly Training: +5,jreed12
 5534,4769,2025-04-09 23:28:35,Create,217,Initial Import,lemonoppy
 5534,5295,2025-04-21 10:48:18,point task,7,S54 First Rounders,wizard_literal
 5534,5701,2025-04-21 15:29:36,other,96,Portal Import,lemonoppy
@@ -48885,6 +48897,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5545,130867,2026-09-12 12:10:15,prediction,8,S63 First Rounders Prediction,AustinP0027
 5545,131411,2026-09-14 10:01:36,activity check,2,Weekly Activity Check: +2,scudmuffin19
 5545,131412,2026-09-14 10:01:45,training,5,Weekly Training: +5,scudmuffin19
+5545,132270,2026-09-21 09:07:30,activity check,2,Weekly Activity Check: +2,scudmuffin19
+5545,132271,2026-09-21 09:07:34,training,5,Weekly Training: +5,scudmuffin19
 5546,4785,2025-04-09 23:28:35,Create,110,Initial Import,lemonoppy
 5546,5260,2025-04-21 10:48:18,point task,7,S54 First Rounders,wizard_literal
 5546,7471,2025-05-01 19:55:41,point task,3, ISFL S54 Claim Week 1,wizard_literal
@@ -49407,6 +49421,7 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5551,130464,2026-09-08 18:43:48,other,3,CHARITY FREE TPE SPECTACULAR,Frantik
 5551,130797,2026-09-12 12:10:14,prediction,9,S63 First Rounders Prediction,AustinP0027
 5551,131598,2026-09-14 17:56:12,activity check,2,Weekly Activity Check: +2,CLG Rampage
+5551,132269,2026-09-21 09:06:11,activity check,2,Weekly Activity Check: +2,CLG Rampage
 5552,4791,2025-04-09 23:28:35,Create,244,Initial Import,lemonoppy
 5552,5322,2025-04-21 10:48:18,point task,7,S54 First Rounders,wizard_literal
 5552,5468,2025-04-21 11:17:47,other,94,Portal Import,lemonoppy
@@ -52525,6 +52540,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5572,130846,2026-09-12 12:10:14,prediction,9,S63 First Rounders Prediction,AustinP0027
 5572,131384,2026-09-14 09:27:14,activity check,2,Weekly Activity Check: +2,Michiganonymous
 5572,131385,2026-09-14 09:27:20,training,5,Weekly Training: +5,Michiganonymous
+5572,132287,2026-09-21 09:25:30,activity check,2,Weekly Activity Check: +2,Michiganonymous
+5572,132288,2026-09-21 09:25:35,training,5,Weekly Training: +5,Michiganonymous
 5573,4867,2025-04-09 23:28:35,Create,50,Initial Import,lemonoppy
 5573,5257,2025-04-21 10:48:18,point task,7,S54 First Rounders,wizard_literal
 5573,5736,2025-04-21 16:15:12,other,88,Portal Import,lemonoppy
@@ -53917,6 +53934,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5576,130883,2026-09-12 12:10:15,prediction,9,S63 First Rounders Prediction,AustinP0027
 5576,131654,2026-09-14 22:42:32,activity check,2,Weekly Activity Check: +2,lemonoppy
 5576,131655,2026-09-14 22:42:36,training,5,Weekly Training: +5,lemonoppy
+5576,132316,2026-09-21 09:53:28,activity check,2,Weekly Activity Check: +2,lemonoppy
+5576,132317,2026-09-21 09:53:32,training,5,Weekly Training: +5,lemonoppy
 5577,4871,2025-04-09 23:28:35,Create,50,Initial Import,lemonoppy
 5577,6533,2025-04-27 22:35:14,training,5,Weekly Training: +5,Faelax
 5577,6532,2025-04-27 22:35:14,activity check,2,Weekly Activity Check: +2,Faelax
@@ -57221,6 +57240,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5604,130929,2026-09-12 12:10:15,prediction,9,S63 First Rounders Prediction,AustinP0027
 5604,131290,2026-09-14 07:31:47,activity check,2,Weekly Activity Check: +2,rrf_1
 5604,131291,2026-09-14 07:31:51,training,5,Weekly Training: +5,rrf_1
+5604,132199,2026-09-21 07:20:25,activity check,2,Weekly Activity Check: +2,rrf_1
+5604,132200,2026-09-21 07:20:29,training,5,Weekly Training: +5,rrf_1
 5605,4954,2025-04-14 17:42:55,Create,50,Starting TPE,uhnp
 5605,4956,2025-04-14 17:56:50,activity check,2,Weekly Activity Check: +2,uhnp
 5605,4955,2025-04-14 17:56:50,training,3,Weekly Training: +3,uhnp
@@ -65898,6 +65919,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5667,130807,2026-09-12 12:10:14,prediction,9,S63 First Rounders Prediction,AustinP0027
 5667,131367,2026-09-14 09:10:10,activity check,2,Weekly Activity Check: +2,Blasoon
 5667,131368,2026-09-14 09:10:14,training,5,Weekly Training: +5,Blasoon
+5667,132285,2026-09-21 09:22:03,activity check,2,Weekly Activity Check: +2,Blasoon
+5667,132286,2026-09-21 09:22:15,training,5,Weekly Training: +5,Blasoon
 5668,9256,2025-05-15 15:13:25,Create,50,Starting TPE,Vulfzilla
 5668,11359,2025-05-23 13:51:20,activity check,2,Weekly Activity Check: +2,Vulfzilla
 5668,11360,2025-05-23 13:51:32,training,3,Weekly Training: +3,Vulfzilla
@@ -66606,6 +66629,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5670,130809,2026-09-12 12:10:14,prediction,9,S63 First Rounders Prediction,AustinP0027
 5670,131338,2026-09-14 08:46:22,activity check,2,Weekly Activity Check: +2,ZootTX
 5670,131339,2026-09-14 08:46:28,training,5,Weekly Training: +5,ZootTX
+5670,132219,2026-09-21 07:55:10,activity check,2,Weekly Activity Check: +2,ZootTX
+5670,132220,2026-09-21 07:55:15,training,5,Weekly Training: +5,ZootTX
 5671,9666,2025-05-18 11:12:27,Create,50,Starting TPE,WhatAboutBigBob
 5671,11389,2025-05-24 10:37:12,activity check,2,Weekly Activity Check: +2,WhatAboutBigBob
 5671,11390,2025-05-24 10:37:34,training,3,Weekly Training: +3,WhatAboutBigBob
@@ -67801,6 +67826,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5675,130861,2026-09-12 12:10:14,prediction,9,S63 First Rounders Prediction,AustinP0027
 5675,131282,2026-09-14 07:18:54,activity check,2,Weekly Activity Check: +2,soevil
 5675,131283,2026-09-14 07:18:59,training,5,Weekly Training: +5,soevil
+5675,132291,2026-09-21 09:27:38,activity check,2,Weekly Activity Check: +2,soevil
+5675,132292,2026-09-21 09:27:43,training,5,Weekly Training: +5,soevil
 5676,10185,2025-05-21 12:18:55,Create,50,Starting TPE,TheRake
 5676,10281,2025-05-23 08:09:01,activity check,2,Weekly Activity Check: +2,TheRake
 5676,10282,2025-05-23 08:09:42,training,5,Weekly Training: +5,TheRake
@@ -71612,6 +71639,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5694,130887,2026-09-12 12:10:15,prediction,8,S63 First Rounders Prediction,AustinP0027
 5694,131399,2026-09-14 09:51:38,activity check,2,Weekly Activity Check: +2,homercrates
 5694,131400,2026-09-14 09:51:45,training,5,Weekly Training: +5,homercrates
+5694,132310,2026-09-21 09:45:10,activity check,2,Weekly Activity Check: +2,homercrates
+5694,132311,2026-09-21 09:45:16,training,5,Weekly Training: +5,homercrates
 5695,14693,2025-06-07 04:13:58,Create,50,Starting TPE,Deuce2400
 5695,129069,2026-09-05 14:31:06,regression,-10,S63 Regression: 10 TPE,lemonoppy
 5696,15175,2025-06-07 13:09:20,Create,50,Starting TPE,r0tzbua
@@ -74293,6 +74322,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5708,130554,2026-09-09 09:24:23,training,3,Weekly Training: +3,Amaziah
 5708,131523,2026-09-14 14:06:33,activity check,2,Weekly Activity Check: +2,Amaziah
 5708,131524,2026-09-14 14:07:07,training,3,Weekly Training: +3,Amaziah
+5708,132279,2026-09-21 09:11:58,activity check,2,Weekly Activity Check: +2,Amaziah
+5708,132281,2026-09-21 09:12:04,training,3,Weekly Training: +3,Amaziah
 5709,17231,2025-06-10 16:50:40,Create,50,Starting TPE,boycec55
 5709,17264,2025-06-10 18:40:12,activity check,2,Weekly Activity Check: +2,boycec55
 5709,17265,2025-06-10 18:40:26,training camp,20,Team Training Camp: +20,boycec55
@@ -74756,6 +74787,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5716,130477,2026-09-08 18:43:48,other,3,CHARITY FREE TPE SPECTACULAR,Frantik
 5716,131446,2026-09-14 10:55:15,activity check,2,Weekly Activity Check: +2,bobtrek
 5716,131447,2026-09-14 10:55:21,training,5,Weekly Training: +5,bobtrek
+5716,132195,2026-09-21 07:15:37,activity check,2,Weekly Activity Check: +2,bobtrek
+5716,132196,2026-09-21 07:15:42,training,5,Weekly Training: +5,bobtrek
 5717,17281,2025-06-10 19:43:58,Create,50,Starting TPE,Monklock
 5717,17284,2025-06-10 19:46:46,training camp,20,Team Training Camp: +20,Monklock
 5717,17285,2025-06-10 19:47:43,training,5,Weekly Training: +5,Monklock
@@ -75574,6 +75607,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5721,130939,2026-09-12 12:10:15,prediction,9,S63 First Rounders Prediction,AustinP0027
 5721,131403,2026-09-14 09:54:30,activity check,2,Weekly Activity Check: +2,Turd Ferguson
 5721,131404,2026-09-14 09:54:50,training,5,Weekly Training: +5,Turd Ferguson
+5721,132207,2026-09-21 07:35:37,activity check,2,Weekly Activity Check: +2,Turd Ferguson
+5721,132210,2026-09-21 07:35:45,training,5,Weekly Training: +5,Turd Ferguson
 5722,17326,2025-06-11 01:24:46,Create,50,Starting TPE,Degradation
 5722,17327,2025-06-11 01:36:39,activity check,2,Weekly Activity Check: +2,Degradation
 5722,17328,2025-06-11 01:37:00,training camp,20,Team Training Camp: +20,Degradation
@@ -77000,6 +77035,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5727,130940,2026-09-12 12:10:15,prediction,9,S63 First Rounders Prediction,AustinP0027
 5727,131355,2026-09-14 09:04:27,activity check,2,Weekly Activity Check: +2,Bajin
 5727,131356,2026-09-14 09:04:32,training,5,Weekly Training: +5,Bajin
+5727,132306,2026-09-21 09:44:00,training,5,Weekly Training: +5,Bajin
+5727,132307,2026-09-21 09:44:03,activity check,2,Weekly Activity Check: +2,Bajin
 5728,17380,2025-06-11 09:41:54,Create,50,Starting TPE,Tiger2112
 5728,17383,2025-06-11 09:53:20,activity check,2,Weekly Activity Check: +2,Tiger2112
 5728,17384,2025-06-11 09:53:39,training camp,20,Team Training Camp: +20,Tiger2112
@@ -85194,6 +85231,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5791,130069,2026-09-07 17:33:37,other,3,CHARITY FREE TPE SPECTACULAR,Frantik
 5791,131349,2026-09-14 09:01:42,activity check,2,Weekly Activity Check: +2,BoOsH
 5791,131350,2026-09-14 09:01:48,training,5,Weekly Training: +5,BoOsH
+5791,132283,2026-09-21 09:14:55,activity check,2,Weekly Activity Check: +2,BoOsH
+5791,132284,2026-09-21 09:14:59,training,5,Weekly Training: +5,BoOsH
 5792,32187,2025-08-11 02:04:20,Create,50,Starting TPE,Anukar
 5792,32292,2025-08-11 09:07:42,activity check,2,Weekly Activity Check: +2,Anukar
 5792,32293,2025-08-11 09:08:12,training camp,20,Team Training Camp: +20,Anukar
@@ -88213,6 +88252,7 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5813,131737,2026-09-15 17:42:05,activity check,2,Weekly Activity Check: +2,BOS
 5813,131738,2026-09-15 17:42:12,training,5,Weekly Training: +5,BOS
 5813,131739,2026-09-15 17:42:53,seasonal equipment,4,Seasonal Equipment: +4,BOS
+5813,132256,2026-09-21 08:50:56,activity check,2,Weekly Activity Check: +2,BOS
 5814,39383,2025-09-12 10:32:51,Create,50,Starting TPE,Pocketsand007
 5814,39384,2025-09-12 10:41:02,activity check,2,Weekly Activity Check: +2,Pocketsand007
 5814,39385,2025-09-12 10:41:21,training,5,Weekly Training: +5,Pocketsand007
@@ -88917,6 +88957,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5816,131257,2026-09-14 04:19:45,activity check,2,Weekly Activity Check: +2,FootballIsCool
 5816,131258,2026-09-14 04:19:50,training,5,Weekly Training: +5,FootballIsCool
 5816,131982,2026-09-19 11:13:37,other,3,CHARITY FREE TPE SPECTACULAR,Frantik
+5816,132323,2026-09-21 10:08:42,training,5,Weekly Training: +5,FootballIsCool
+5816,132324,2026-09-21 10:08:45,activity check,2,Weekly Activity Check: +2,FootballIsCool
 5817,40196,2025-09-12 23:15:22,Create,50,Starting TPE,EurovisionAmity
 5817,40213,2025-09-13 11:58:50,activity check,2,Weekly Activity Check: +2,EurovisionAmity
 5817,40214,2025-09-13 11:58:56,training,5,Weekly Training: +5,EurovisionAmity
@@ -89884,6 +89926,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5820,130832,2026-09-12 12:10:14,prediction,8,S63 First Rounders Prediction,AustinP0027
 5820,132056,2026-09-20 17:06:32,activity check,2,Weekly Activity Check: +2,frazzle14
 5820,132057,2026-09-20 17:06:40,training,5,Weekly Training: +5,frazzle14
+5820,132227,2026-09-21 08:09:05,activity check,2,Weekly Activity Check: +2,frazzle14
+5820,132228,2026-09-21 08:09:09,training,5,Weekly Training: +5,frazzle14
 5821,43561,2025-09-26 23:14:44,Create,50,Starting TPE,Jimi64
 5821,43562,2025-09-26 23:43:36,activity check,2,Weekly Activity Check: +2,Jimi64
 5821,43853,2025-09-27 11:09:35,training camp,20,Team Training Camp: +20,Jimi64
@@ -91259,6 +91303,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5829,130893,2026-09-12 12:10:15,prediction,9,S63 First Rounders Prediction,AustinP0027
 5829,131313,2026-09-14 08:07:07,activity check,2,Weekly Activity Check: +2,DigDoug11
 5829,131314,2026-09-14 08:07:12,training,5,Weekly Training: +5,DigDoug11
+5829,132213,2026-09-21 07:40:07,activity check,2,Weekly Activity Check: +2,DigDoug11
+5829,132214,2026-09-21 07:40:11,training,5,Weekly Training: +5,DigDoug11
 5830,44766,2025-10-03 00:42:22,Create,50,Starting TPE,rytin6543
 5830,44770,2025-10-03 01:35:03,activity check,2,Weekly Activity Check: +2,rytin6543
 5830,44771,2025-10-03 01:35:11,training camp,20,Team Training Camp: +20,rytin6543
@@ -92419,6 +92465,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5839,130954,2026-09-12 12:10:15,prediction,9,S63 First Rounders Prediction,AustinP0027
 5839,131528,2026-09-14 14:31:55,activity check,2,Weekly Activity Check: +2,fweliiii
 5839,131529,2026-09-14 14:32:01,training,5,Weekly Training: +5,fweliiii
+5839,132203,2026-09-21 07:25:52,activity check,2,Weekly Activity Check: +2,fweliiii
+5839,132204,2026-09-21 07:25:57,training,5,Weekly Training: +5,fweliiii
 5840,50699,2025-10-29 21:48:26,Create,50,Starting TPE,phoenix2838
 5840,50700,2025-10-29 21:51:46,training,3,Weekly Training: +3,phoenix2838
 5840,50701,2025-10-29 21:51:48,training camp,20,Team Training Camp: +20,phoenix2838
@@ -93210,6 +93258,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5843,130865,2026-09-12 12:10:15,prediction,9,S63 First Rounders Prediction,AustinP0027
 5843,131397,2026-09-14 09:51:05,activity check,2,Weekly Activity Check: +2,bechtudo
 5843,131398,2026-09-14 09:51:16,training,5,Weekly Training: +5,bechtudo
+5843,132274,2026-09-21 09:10:15,activity check,2,Weekly Activity Check: +2,bechtudo
+5843,132275,2026-09-21 09:10:23,training,5,Weekly Training: +5,bechtudo
 5844,52339,2025-11-06 21:01:29,Create,50,Starting TPE,abh89
 5844,52354,2025-11-07 02:02:07,activity check,2,Weekly Activity Check: +2,abh89
 5844,52355,2025-11-07 02:02:11,training,5,Weekly Training: +5,abh89
@@ -93701,6 +93751,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5845,130552,2026-09-09 08:26:43,seasonal equipment,30,Seasonal Equipment: +30,WALDO
 5845,131374,2026-09-14 09:17:30,activity check,2,Weekly Activity Check: +2,WALDO
 5845,131375,2026-09-14 09:17:35,training,5,Weekly Training: +5,WALDO
+5845,132249,2026-09-21 08:44:57,activity check,2,Weekly Activity Check: +2,WALDO
+5845,132250,2026-09-21 08:45:16,training,5,Weekly Training: +5,WALDO
 5846,52373,2025-11-07 13:07:32,Create,50,Starting TPE,Soviet Sexpot
 5846,52374,2025-11-07 13:11:30,activity check,2,Weekly Activity Check: +2,Soviet Sexpot
 5846,52375,2025-11-07 13:11:34,training,5,Weekly Training: +5,Soviet Sexpot
@@ -93955,6 +94007,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5846,130897,2026-09-12 12:10:15,prediction,9,S63 First Rounders Prediction,AustinP0027
 5846,131388,2026-09-14 09:31:04,training,5,Weekly Training: +5,Soviet Sexpot
 5846,131389,2026-09-14 09:31:07,activity check,2,Weekly Activity Check: +2,Soviet Sexpot
+5846,132247,2026-09-21 08:42:32,activity check,2,Weekly Activity Check: +2,Soviet Sexpot
+5846,132248,2026-09-21 08:42:36,training,5,Weekly Training: +5,Soviet Sexpot
 5847,52380,2025-11-07 18:20:58,Create,50,Starting TPE,Risingstar123
 5847,52381,2025-11-07 18:22:20,activity check,2,Weekly Activity Check: +2,Risingstar123
 5847,52382,2025-11-07 18:22:30,training,3,Weekly Training: +3,Risingstar123
@@ -94121,6 +94175,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5848,130435,2026-09-08 18:43:48,other,3,CHARITY FREE TPE SPECTACULAR,Frantik
 5848,131873,2026-09-17 04:00:19,activity check,2,Weekly Activity Check: +2,JoeHoe3121
 5848,131874,2026-09-17 04:00:24,training,5,Weekly Training: +5,JoeHoe3121
+5848,132263,2026-09-21 09:00:05,activity check,2,Weekly Activity Check: +2,JoeHoe3121
+5848,132264,2026-09-21 09:00:11,training,5,Weekly Training: +5,JoeHoe3121
 5849,52932,2025-11-08 22:16:09,Create,50,Starting TPE,Z-Whiz
 5849,52933,2025-11-08 23:01:53,activity check,2,Weekly Activity Check: +2,Z-Whiz
 5849,52934,2025-11-08 23:01:56,training,5,Weekly Training: +5,Z-Whiz
@@ -95997,6 +96053,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5860,130960,2026-09-12 12:10:15,prediction,9,S63 First Rounders Prediction,AustinP0027
 5860,131511,2026-09-14 13:20:48,activity check,2,Weekly Activity Check: +2,Lpapi
 5860,131512,2026-09-14 13:20:54,training,5,Weekly Training: +5,Lpapi
+5860,132177,2026-09-21 06:37:53,activity check,2,Weekly Activity Check: +2,Lpapi
+5860,132178,2026-09-21 06:37:58,training,5,Weekly Training: +5,Lpapi
 5861,55244,2025-11-18 16:35:54,Create,50,Starting TPE,Prismz
 5861,55258,2025-11-18 20:59:02,activity check,2,Weekly Activity Check: +2,Prismz
 5861,55259,2025-11-18 20:59:10,training,5,Weekly Training: +5,Prismz
@@ -96292,6 +96350,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5862,130907,2026-09-12 12:10:15,prediction,8,S63 First Rounders Prediction,AustinP0027
 5862,131746,2026-09-15 19:01:52,activity check,2,Weekly Activity Check: +2,Dev0
 5862,131747,2026-09-15 19:01:58,training,5,Weekly Training: +5,Dev0
+5862,132175,2026-09-21 06:37:20,activity check,2,Weekly Activity Check: +2,Dev0
+5862,132176,2026-09-21 06:37:25,training,5,Weekly Training: +5,Dev0
 5863,55323,2025-11-20 13:05:29,Create,50,Starting TPE,djfunkstar
 5863,55324,2025-11-20 13:15:22,activity check,2,Weekly Activity Check: +2,djfunkstar
 5863,55325,2025-11-20 13:17:42,training,5,Weekly Training: +5,djfunkstar
@@ -99251,6 +99311,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5895,130857,2026-09-12 12:10:14,prediction,9,S63 First Rounders Prediction,AustinP0027
 5895,131372,2026-09-14 09:13:56,activity check,2,Weekly Activity Check: +2,FL4K__
 5895,131373,2026-09-14 09:14:00,training,5,Weekly Training: +5,FL4K__
+5895,132167,2026-09-21 05:55:58,activity check,2,Weekly Activity Check: +2,FL4K__
+5895,132168,2026-09-21 05:56:03,training,5,Weekly Training: +5,FL4K__
 5896,58494,2025-12-03 18:17:17,Create,50,Starting TPE,Crog
 5896,58496,2025-12-03 18:52:52,activity check,2,Weekly Activity Check: +2,Crog
 5896,58497,2025-12-03 18:53:07,training,3,Weekly Training: +3,Crog
@@ -100316,6 +100378,9 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5910,131155,2026-09-13 18:32:06,training,5,Weekly Training: +5,siddhus
 5910,131490,2026-09-14 12:15:03,activity check,2,Weekly Activity Check: +2,siddhus
 5910,131491,2026-09-14 12:15:09,training,5,Weekly Training: +5,siddhus
+5910,132162,2026-09-21 05:19:02,activity check,2,Weekly Activity Check: +2,siddhus
+5910,132163,2026-09-21 05:19:18,training,5,Weekly Training: +5,siddhus
+5910,132164,2026-09-21 05:19:29,seasonal equipment,6,Seasonal Equipment: +6,siddhus
 5911,60877,2025-12-15 13:10:39,Create,50,Starting TPE,Starboy
 5911,60914,2025-12-15 15:17:51,activity check,2,Weekly Activity Check: +2,Starboy
 5911,60915,2025-12-15 15:18:04,training,5,Weekly Training: +5,Starboy
@@ -100763,6 +100828,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5912,130962,2026-09-12 12:10:15,prediction,9,S63 First Rounders Prediction,AustinP0027
 5912,131538,2026-09-14 15:29:17,training,5,Weekly Training: +5,FFPPirate
 5912,131539,2026-09-14 15:29:26,activity check,2,Weekly Activity Check: +2,FFPPirate
+5912,132297,2026-09-21 09:34:28,activity check,2,Weekly Activity Check: +2,FFPPirate
+5912,132298,2026-09-21 09:34:33,training,5,Weekly Training: +5,FFPPirate
 5913,62728,2025-12-20 17:49:08,Create,50,Starting TPE,RiceyWriter
 5913,62729,2025-12-20 17:50:45,activity check,2,Weekly Activity Check: +2,RiceyWriter
 5913,62730,2025-12-20 17:50:57,training camp,20,Team Training Camp: +20,RiceyWriter
@@ -102034,6 +102101,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5921,130801,2026-09-12 12:10:14,prediction,9,S63 First Rounders Prediction,AustinP0027
 5921,131259,2026-09-14 04:25:23,training,5,Weekly Training: +5,LiathTheSquirrel
 5921,131260,2026-09-14 04:26:00,activity check,2,Weekly Activity Check: +2,LiathTheSquirrel
+5921,132169,2026-09-21 05:58:09,activity check,2,Weekly Activity Check: +2,LiathTheSquirrel
+5921,132170,2026-09-21 05:58:14,training,5,Weekly Training: +5,LiathTheSquirrel
 5922,65453,2026-01-04 21:32:20,Create,50,Starting TPE,Grilledtwinkiez
 5922,67018,2026-01-08 21:30:46,activity check,2,Weekly Activity Check: +2,Grilledtwinkiez
 5922,67019,2026-01-08 21:30:53,training,5,Weekly Training: +5,Grilledtwinkiez
@@ -102600,6 +102669,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5925,130906,2026-09-12 12:10:15,prediction,9,S63 First Rounders Prediction,AustinP0027
 5925,131424,2026-09-14 10:22:18,activity check,2,Weekly Activity Check: +2,AustinP0027
 5925,131425,2026-09-14 10:22:24,training,5,Weekly Training: +5,AustinP0027
+5925,132254,2026-09-21 08:50:38,activity check,2,Weekly Activity Check: +2,AustinP0027
+5925,132255,2026-09-21 08:50:42,training,5,Weekly Training: +5,AustinP0027
 5926,65991,2026-01-05 14:09:58,Create,50,Starting TPE,ThunderTitan82
 5926,67058,2026-01-09 11:56:14,activity check,2,Weekly Activity Check: +2,ThunderTitan82
 5926,67059,2026-01-09 11:56:28,training,5,Weekly Training: +5,ThunderTitan82
@@ -102947,6 +103018,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5927,130414,2026-09-08 18:43:48,other,3,CHARITY FREE TPE SPECTACULAR,Frantik
 5927,131422,2026-09-14 10:20:28,activity check,2,Weekly Activity Check: +2,oknom
 5927,131423,2026-09-14 10:20:33,training,5,Weekly Training: +5,oknom
+5927,132231,2026-09-21 08:14:51,activity check,2,Weekly Activity Check: +2,oknom
+5927,132232,2026-09-21 08:14:57,training,5,Weekly Training: +5,oknom
 5928,66638,2026-01-06 12:02:33,Create,50,Starting TPE,slothfacekilla
 5928,67026,2026-01-08 21:36:53,activity check,2,Weekly Activity Check: +2,slothfacekilla
 5928,67027,2026-01-08 21:37:05,training,5,Weekly Training: +5,slothfacekilla
@@ -103563,6 +103636,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5931,130034,2026-09-07 17:33:37,other,3,CHARITY FREE TPE SPECTACULAR,Frantik
 5931,131473,2026-09-14 11:36:21,activity check,2,Weekly Activity Check: +2,ACynicalGamer
 5931,131474,2026-09-14 11:36:25,training,5,Weekly Training: +5,ACynicalGamer
+5931,132193,2026-09-21 07:14:42,activity check,2,Weekly Activity Check: +2,ACynicalGamer
+5931,132194,2026-09-21 07:14:48,training,5,Weekly Training: +5,ACynicalGamer
 5932,66703,2026-01-07 21:08:43,Create,50,Starting TPE,bfan8475
 5932,67040,2026-01-08 23:24:05,activity check,2,Weekly Activity Check: +2,bfan8475
 5932,67041,2026-01-08 23:24:20,training,5,Weekly Training: +5,bfan8475
@@ -104592,6 +104667,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5938,131191,2026-09-13 23:27:39,training,5,Weekly Training: +5,Hacob
 5938,131603,2026-09-14 18:31:19,activity check,2,Weekly Activity Check: +2,Hacob
 5938,131604,2026-09-14 18:31:24,training,5,Weekly Training: +5,Hacob
+5938,132314,2026-09-21 09:52:35,training,5,Weekly Training: +5,Hacob
+5938,132315,2026-09-21 09:52:38,activity check,2,Weekly Activity Check: +2,Hacob
 5939,67083,2026-01-10 23:02:22,Create,50,Starting TPE,QuarkyOne
 5939,67088,2026-01-10 23:08:45,activity check,2,Weekly Activity Check: +2,QuarkyOne
 5939,67089,2026-01-10 23:08:55,training,5,Weekly Training: +5,QuarkyOne
@@ -106162,6 +106239,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5949,129965,2026-09-07 17:33:37,other,3,CHARITY FREE TPE SPECTACULAR,Frantik
 5949,131390,2026-09-14 09:31:45,activity check,2,Weekly Activity Check: +2,Sevrin
 5949,131391,2026-09-14 09:31:50,training,5,Weekly Training: +5,Sevrin
+5949,132165,2026-09-21 05:45:23,activity check,2,Weekly Activity Check: +2,Sevrin
+5949,132166,2026-09-21 05:45:28,training,5,Weekly Training: +5,Sevrin
 5950,71270,2026-01-23 22:51:06,Create,50,Starting TPE,TheSparkyDee
 5950,71294,2026-01-23 23:45:13,training camp,20,Team Training Camp: +20,TheSparkyDee
 5950,71293,2026-01-23 23:45:13,activity check,2,Weekly Activity Check: +2,TheSparkyDee
@@ -106469,6 +106548,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5951,130905,2026-09-12 12:10:15,prediction,9,S63 First Rounders Prediction,AustinP0027
 5951,131284,2026-09-14 07:21:50,activity check,2,Weekly Activity Check: +2,wildcatbandit
 5951,131285,2026-09-14 07:22:46,training,3,Weekly Training: +3,wildcatbandit
+5951,132208,2026-09-21 07:35:37,activity check,2,Weekly Activity Check: +2,wildcatbandit
+5951,132209,2026-09-21 07:35:43,training,3,Weekly Training: +3,wildcatbandit
 5952,71366,2026-01-24 10:43:57,Create,50,Starting TPE,Lumosityfan
 5952,71371,2026-01-24 10:59:36,activity check,2,Weekly Activity Check: +2,Lumosityfan
 5952,71372,2026-01-24 10:59:43,training,5,Weekly Training: +5,Lumosityfan
@@ -107863,6 +107944,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5966,130966,2026-09-12 12:10:15,prediction,9,S63 First Rounders Prediction,AustinP0027
 5966,131224,2026-09-14 01:57:04,activity check,2,Weekly Activity Check: +2,xyan
 5966,131225,2026-09-14 01:57:22,training,5,Weekly Training: +5,xyan
+5966,132223,2026-09-21 08:00:47,activity check,2,Weekly Activity Check: +2,xyan
+5966,132224,2026-09-21 08:00:54,training,5,Weekly Training: +5,xyan
 5967,72302,2026-01-30 17:53:18,Create,50,Starting TPE,PidgeyDestined
 5967,72311,2026-01-30 18:54:39,activity check,2,Weekly Activity Check: +2,PidgeyDestined
 5967,72312,2026-01-30 18:55:30,training camp,20,Team Training Camp: +20,PidgeyDestined
@@ -108061,6 +108144,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5967,130967,2026-09-12 12:10:15,prediction,9,S63 First Rounders Prediction,AustinP0027
 5967,131327,2026-09-14 08:28:33,activity check,2,Weekly Activity Check: +2,PidgeyDestined
 5967,131328,2026-09-14 08:28:39,training,5,Weekly Training: +5,PidgeyDestined
+5967,132245,2026-09-21 08:41:23,activity check,2,Weekly Activity Check: +2,PidgeyDestined
+5967,132246,2026-09-21 08:41:27,training,5,Weekly Training: +5,PidgeyDestined
 5968,72318,2026-01-30 19:23:15,Create,50,Starting TPE,Dosman
 5968,72320,2026-01-30 19:27:48,activity check,2,Weekly Activity Check: +2,Dosman
 5968,72321,2026-01-30 19:29:22,training,5,Weekly Training: +5,Dosman
@@ -108747,6 +108832,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 5975,130968,2026-09-12 12:10:15,prediction,9,S63 First Rounders Prediction,AustinP0027
 5975,131426,2026-09-14 10:24:57,activity check,2,Weekly Activity Check: +2,Jm1tch11
 5975,131427,2026-09-14 10:25:03,training,5,Weekly Training: +5,Jm1tch11
+5975,132211,2026-09-21 07:35:50,activity check,2,Weekly Activity Check: +2,Jm1tch11
+5975,132212,2026-09-21 07:35:55,training,5,Weekly Training: +5,Jm1tch11
 5976,72361,2026-01-30 23:45:12,Create,50,Starting TPE,spartansqurl
 5976,72362,2026-01-30 23:50:55,training camp,20,Team Training Camp: +20,spartansqurl
 5976,72363,2026-01-30 23:53:38,activity check,2,Weekly Activity Check: +2,spartansqurl
@@ -110587,6 +110674,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6004,130976,2026-09-12 12:10:15,prediction,9,S63 First Rounders Prediction,AustinP0027
 6004,131438,2026-09-14 10:45:40,activity check,2,Weekly Activity Check: +2,alomo
 6004,131480,2026-09-14 11:44:56,training,3,Weekly Training: +3,alomo
+6004,132312,2026-09-21 09:48:41,activity check,2,Weekly Activity Check: +2,alomo
+6004,132313,2026-09-21 09:49:19,training,3,Weekly Training: +3,alomo
 6005,72638,2026-02-01 01:39:21,Create,50,Starting TPE,Tooswavy420
 6006,72656,2026-02-01 11:26:07,Create,50,Starting TPE,Backer50
 6006,72658,2026-02-01 12:07:12,activity check,2,Weekly Activity Check: +2,Backer50
@@ -110781,6 +110870,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6006,130977,2026-09-12 12:10:15,prediction,9,S63 First Rounders Prediction,AustinP0027
 6006,131587,2026-09-14 17:26:44,activity check,2,Weekly Activity Check: +2,Backer50
 6006,131588,2026-09-14 17:26:50,training,5,Weekly Training: +5,Backer50
+6006,132181,2026-09-21 06:43:11,activity check,2,Weekly Activity Check: +2,Backer50
+6006,132182,2026-09-21 06:43:23,training,5,Weekly Training: +5,Backer50
 6007,72660,2026-02-01 12:35:19,Create,50,Starting TPE,cardamombadgers
 6007,72666,2026-02-01 13:55:06,activity check,2,Weekly Activity Check: +2,cardamombadgers
 6007,72667,2026-02-01 14:08:33,training,3,Weekly Training: +3,cardamombadgers
@@ -111610,6 +111701,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6022,130871,2026-09-12 12:10:15,prediction,9,S63 First Rounders Prediction,AustinP0027
 6022,131488,2026-09-14 12:09:39,activity check,2,Weekly Activity Check: +2,LtHudz
 6022,131489,2026-09-14 12:09:46,training,5,Weekly Training: +5,LtHudz
+6022,132299,2026-09-21 09:34:48,activity check,2,Weekly Activity Check: +2,LtHudz
+6022,132300,2026-09-21 09:34:52,training,5,Weekly Training: +5,LtHudz
 6023,80192,2026-03-02 15:46:31,Create,50,Starting TPE,Southie
 6023,81127,2026-03-06 01:01:44,activity check,2,Weekly Activity Check: +2,Southie
 6023,81128,2026-03-06 01:01:50,training,5,Weekly Training: +5,Southie
@@ -111769,6 +111862,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6023,131206,2026-09-14 01:22:26,training,3,Weekly Training: +3,Southie
 6023,131207,2026-09-14 01:22:31,activity check,2,Weekly Activity Check: +2,Southie
 6023,132041,2026-09-20 01:13:33,training,2,Weekly Training: +2 (upgrade),Southie
+6023,132187,2026-09-21 07:01:36,training,5,Weekly Training: +5,Southie
+6023,132188,2026-09-21 07:01:40,activity check,2,Weekly Activity Check: +2,Southie
 6024,80247,2026-03-02 18:43:58,Create,50,Starting TPE,Cycro
 6024,81113,2026-03-05 21:02:27,activity check,2,Weekly Activity Check: +2,Cycro
 6024,81114,2026-03-05 21:02:33,training,5,Weekly Training: +5,Cycro
@@ -111923,6 +112018,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6024,130873,2026-09-12 12:10:15,prediction,9,S63 First Rounders Prediction,AustinP0027
 6024,131671,2026-09-15 07:03:47,activity check,2,Weekly Activity Check: +2,Cycro
 6024,131672,2026-09-15 07:03:52,training,5,Weekly Training: +5,Cycro
+6024,132205,2026-09-21 07:34:58,activity check,2,Weekly Activity Check: +2,Cycro
+6024,132206,2026-09-21 07:35:03,training,5,Weekly Training: +5,Cycro
 6025,80654,2026-03-03 12:36:58,Create,50,Starting TPE,.Laser
 6025,81149,2026-03-06 09:21:10,activity check,2,Weekly Activity Check: +2,.Laser
 6025,81150,2026-03-06 09:21:17,training,5,Weekly Training: +5,.Laser
@@ -112077,6 +112174,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6025,129979,2026-09-07 17:33:37,other,3,CHARITY FREE TPE SPECTACULAR,Frantik
 6025,131276,2026-09-14 06:52:57,activity check,2,Weekly Activity Check: +2,.Laser
 6025,131277,2026-09-14 06:53:01,training,5,Weekly Training: +5,.Laser
+6025,132308,2026-09-21 09:44:58,activity check,2,Weekly Activity Check: +2,.Laser
+6025,132309,2026-09-21 09:45:03,training,5,Weekly Training: +5,.Laser
 6026,80711,2026-03-04 00:52:18,Create,50,Starting TPE,bold ni wally
 6026,81125,2026-03-05 23:49:26,activity check,2,Weekly Activity Check: +2,bold ni wally
 6026,81126,2026-03-05 23:49:32,training,5,Weekly Training: +5,bold ni wally
@@ -112391,6 +112490,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6027,130979,2026-09-12 12:10:15,prediction,8,S63 First Rounders Prediction,AustinP0027
 6027,131340,2026-09-14 08:47:47,training,5,Weekly Training: +5,Ghamss
 6027,131396,2026-09-14 09:49:21,activity check,2,Weekly Activity Check: +2,Ghamss
+6027,132243,2026-09-21 08:35:59,activity check,2,Weekly Activity Check: +2,Ghamss
+6027,132244,2026-09-21 08:36:04,training,5,Weekly Training: +5,Ghamss
 6028,80726,2026-03-04 14:17:28,Create,50,Starting TPE,Triceracop
 6028,81123,2026-03-05 23:40:20,activity check,2,Weekly Activity Check: +2,Triceracop
 6028,81124,2026-03-05 23:40:27,training,5,Weekly Training: +5,Triceracop
@@ -113274,6 +113375,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6034,130980,2026-09-12 12:10:15,prediction,8,S63 First Rounders Prediction,AustinP0027
 6034,131698,2026-09-15 12:19:38,training,5,Weekly Training: +5,foshizzlemynizzle
 6034,131699,2026-09-15 12:19:41,activity check,2,Weekly Activity Check: +2,foshizzlemynizzle
+6034,132185,2026-09-21 06:55:42,activity check,2,Weekly Activity Check: +2,foshizzlemynizzle
+6034,132186,2026-09-21 06:55:47,training,5,Weekly Training: +5,foshizzlemynizzle
 6035,81143,2026-03-06 07:51:43,Create,50,Starting TPE,RobJG2
 6035,81153,2026-03-06 11:20:56,activity check,2,Weekly Activity Check: +2,RobJG2
 6035,81154,2026-03-06 11:21:00,training,5,Weekly Training: +5,RobJG2
@@ -114631,6 +114734,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6048,130981,2026-09-12 12:10:15,prediction,9,S63 First Rounders Prediction,AustinP0027
 6048,131545,2026-09-14 15:51:33,activity check,2,Weekly Activity Check: +2,secondskin
 6048,131546,2026-09-14 15:51:39,training,5,Weekly Training: +5,secondskin
+6048,132233,2026-09-21 08:15:51,activity check,2,Weekly Activity Check: +2,secondskin
+6048,132234,2026-09-21 08:16:18,training,5,Weekly Training: +5,secondskin
 6049,85545,2026-03-21 17:07:14,Create,50,Starting TPE,Crazytomato
 6049,85546,2026-03-21 17:19:06,activity check,2,Weekly Activity Check: +2,Crazytomato
 6049,85547,2026-03-21 17:19:08,training camp,20,Team Training Camp: +20,Crazytomato
@@ -116086,6 +116191,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6087,130986,2026-09-12 12:10:15,prediction,8,S63 First Rounders Prediction,AustinP0027
 6087,131441,2026-09-14 10:46:54,training,5,Weekly Training: +5,Mr. Soup
 6087,131442,2026-09-14 10:47:07,activity check,2,Weekly Activity Check: +2,Mr. Soup
+6087,132191,2026-09-21 07:10:49,activity check,2,Weekly Activity Check: +2,Mr. Soup
+6087,132192,2026-09-21 07:10:55,training,5,Weekly Training: +5,Mr. Soup
 6088,86388,2026-03-24 16:33:28,Create,50,Starting TPE,By-Tor
 6088,86389,2026-03-24 16:35:19,activity check,2,Weekly Activity Check: +2,By-Tor
 6088,86390,2026-03-24 16:35:25,training,5,Weekly Training: +5,By-Tor
@@ -117935,6 +118042,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6118,130990,2026-09-12 12:10:15,prediction,9,S63 First Rounders Prediction,AustinP0027
 6118,131342,2026-09-14 08:53:07,activity check,2,Weekly Activity Check: +2,Rylakn
 6118,131343,2026-09-14 08:53:14,training,5,Weekly Training: +5,Rylakn
+6118,132171,2026-09-21 06:07:16,activity check,2,Weekly Activity Check: +2,Rylakn
+6118,132172,2026-09-21 06:07:22,training,5,Weekly Training: +5,Rylakn
 6119,90248,2026-04-12 20:38:41,Create,50,Starting TPE,Jilaf
 6119,90249,2026-04-12 20:43:54,training camp,20,Team Training Camp: +20,Jilaf
 6119,90250,2026-04-12 20:44:12,activity check,2,Weekly Activity Check: +2,Jilaf
@@ -118932,6 +119041,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6129,130912,2026-09-12 12:10:15,prediction,9,S63 First Rounders Prediction,AustinP0027
 6129,131415,2026-09-14 10:10:16,activity check,2,Weekly Activity Check: +2,kdr
 6129,131416,2026-09-14 10:10:22,training,5,Weekly Training: +5,kdr
+6129,132229,2026-09-21 08:09:54,activity check,2,Weekly Activity Check: +2,kdr
+6129,132230,2026-09-21 08:10:00,training,5,Weekly Training: +5,kdr
 6130,95455,2026-04-30 15:57:13,Create,50,Starting TPE,MrKrumz
 6130,95488,2026-05-01 01:03:35,activity check,2,Weekly Activity Check: +2,MrKrumz
 6130,95489,2026-05-01 01:04:04,training,5,Weekly Training: +5,MrKrumz
@@ -119194,6 +119305,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6132,130402,2026-09-08 18:43:48,other,3,CHARITY FREE TPE SPECTACULAR,Frantik
 6132,131617,2026-09-14 19:32:56,activity check,2,Weekly Activity Check: +2,wetwilleh
 6132,131618,2026-09-14 19:33:00,training,5,Weekly Training: +5,wetwilleh
+6132,132201,2026-09-21 07:25:39,activity check,2,Weekly Activity Check: +2,wetwilleh
+6132,132202,2026-09-21 07:25:46,training,5,Weekly Training: +5,wetwilleh
 6133,95469,2026-04-30 22:08:01,Create,50,Starting TPE,Kyamprac
 6133,95475,2026-04-30 22:32:54,activity check,2,Weekly Activity Check: +2,Kyamprac
 6133,95476,2026-04-30 22:32:59,training,5,Weekly Training: +5,Kyamprac
@@ -119303,6 +119416,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6133,130817,2026-09-12 12:10:14,prediction,8,S63 First Rounders Prediction,AustinP0027
 6133,131457,2026-09-14 11:07:58,activity check,2,Weekly Activity Check: +2,Kyamprac
 6133,131458,2026-09-14 11:08:04,training,5,Weekly Training: +5,Kyamprac
+6133,132276,2026-09-21 09:11:26,activity check,2,Weekly Activity Check: +2,Kyamprac
+6133,132277,2026-09-21 09:11:31,training,5,Weekly Training: +5,Kyamprac
 6134,95481,2026-04-30 23:32:02,Create,50,Starting TPE,Amidships
 6134,95482,2026-04-30 23:41:37,activity check,2,Weekly Activity Check: +2,Amidships
 6134,95483,2026-04-30 23:41:43,training,5,Weekly Training: +5,Amidships
@@ -119918,6 +120033,7 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6141,130149,2026-09-07 19:56:55,training camp,15,Team Training Camp: +15,1thatguy1
 6141,130993,2026-09-12 12:10:15,prediction,8,S63 First Rounders Prediction,AustinP0027
 6141,131445,2026-09-14 10:47:55,activity check,2,Weekly Activity Check: +2,1thatguy1
+6141,132282,2026-09-21 09:12:54,activity check,2,Weekly Activity Check: +2,1thatguy1
 6142,97245,2026-05-06 22:06:39,Create,50,Starting TPE,ManningTypeAim
 6142,97246,2026-05-06 22:12:22,activity check,2,Weekly Activity Check: +2,ManningTypeAim
 6142,97247,2026-05-06 22:12:29,training,5,Weekly Training: +5,ManningTypeAim
@@ -120022,6 +120138,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6142,131494,2026-09-14 12:17:59,activity check,2,Weekly Activity Check: +2,ManningTypeAim
 6142,131713,2026-09-15 13:40:56,training,5,Weekly Training: +5,ManningTypeAim
 6142,132031,2026-09-19 22:20:06,seasonal equipment,30,Seasonal Equipment: +30,ManningTypeAim
+6142,132320,2026-09-21 10:02:36,activity check,2,Weekly Activity Check: +2,ManningTypeAim
+6142,132321,2026-09-21 10:02:46,training,5,Weekly Training: +5,ManningTypeAim
 6143,97256,2026-05-07 04:57:26,Create,50,Starting TPE,Eric Belmont
 6143,97259,2026-05-07 07:04:26,activity check,2,Weekly Activity Check: +2,Eric Belmont
 6143,97776,2026-05-09 08:52:31,prediction,3,S60 W16 Predictions,AustinP0027
@@ -120380,6 +120498,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6148,130994,2026-09-12 12:10:15,prediction,9,S63 First Rounders Prediction,AustinP0027
 6148,131311,2026-09-14 08:04:46,activity check,2,Weekly Activity Check: +2,Frantik
 6148,131312,2026-09-14 08:04:56,training,5,Weekly Training: +5,Frantik
+6148,132235,2026-09-21 08:17:35,activity check,2,Weekly Activity Check: +2,Frantik
+6148,132236,2026-09-21 08:17:42,training,5,Weekly Training: +5,Frantik
 6149,99016,2026-05-11 21:27:10,Create,50,Starting TPE,Colbai
 6149,99454,2026-05-12 22:12:22,activity check,2,Weekly Activity Check: +2,Colbai
 6149,101330,2026-05-22 20:55:08,training,3,Weekly Training: +3,Colbai
@@ -120621,6 +120741,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6152,130772,2026-09-12 12:10:14,prediction,9,S63 First Rounders Prediction,AustinP0027
 6152,131296,2026-09-14 07:44:10,activity check,2,Weekly Activity Check: +2,Raven
 6152,131297,2026-09-14 07:44:14,training,5,Weekly Training: +5,Raven
+6152,132239,2026-09-21 08:26:42,activity check,2,Weekly Activity Check: +2,Raven
+6152,132240,2026-09-21 08:26:46,training,5,Weekly Training: +5,Raven
 6153,99474,2026-05-13 10:39:12,Create,50,Starting TPE,noah
 6154,99501,2026-05-13 18:24:04,Create,50,Starting TPE,DuckFan108
 6154,99544,2026-05-14 14:06:37,activity check,2,Weekly Activity Check: +2,DuckFan108
@@ -122114,6 +122236,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6194,130789,2026-09-12 12:10:14,prediction,9,S63 First Rounders Prediction,AustinP0027
 6194,131532,2026-09-14 15:16:45,activity check,2,Weekly Activity Check: +2,TomHanks
 6194,131533,2026-09-14 15:16:51,training,5,Weekly Training: +5,TomHanks
+6194,132301,2026-09-21 09:34:57,activity check,2,Weekly Activity Check: +2,TomHanks
+6194,132302,2026-09-21 09:35:02,training,5,Weekly Training: +5,TomHanks
 6195,111100,2026-06-26 22:25:48,Create,50,Starting TPE,UptownCord
 6195,111102,2026-06-26 22:33:00,activity check,2,Weekly Activity Check: +2,UptownCord
 6195,111103,2026-06-26 22:33:05,training,5,Weekly Training: +5,UptownCord
@@ -123090,6 +123214,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6221,130673,2026-09-10 15:58:57,other,3,CHARITY FREE TPE SPECTACULAR,Frantik
 6221,131401,2026-09-14 09:51:58,activity check,2,Weekly Activity Check: +2,Windzer
 6221,131402,2026-09-14 09:52:18,training,5,Weekly Training: +5,Windzer
+6221,132272,2026-09-21 09:09:18,activity check,2,Weekly Activity Check: +2,Windzer
+6221,132273,2026-09-21 09:09:25,training,5,Weekly Training: +5,Windzer
 6222,115905,2026-07-13 19:59:46,Create,50,Starting TPE,Fergie17
 6222,115922,2026-07-13 20:53:31,activity check,2,Weekly Activity Check: +2,Fergie17
 6222,115923,2026-07-13 20:53:49,seasonal equipment,1,Seasonal Equipment: +1,Fergie17
@@ -123497,6 +123623,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6237,130847,2026-09-12 12:10:14,prediction,9,S63 First Rounders Prediction,AustinP0027
 6237,131405,2026-09-14 09:58:36,activity check,2,Weekly Activity Check: +2,g2019
 6237,131406,2026-09-14 09:58:52,training,5,Weekly Training: +5,g2019
+6237,132221,2026-09-21 07:55:16,activity check,2,Weekly Activity Check: +2,g2019
+6237,132222,2026-09-21 07:55:21,training,5,Weekly Training: +5,g2019
 6238,123211,2026-08-14 23:38:02,Create,50,Starting TPE,Daniel
 6238,124730,2026-08-20 20:42:27,prediction,2,S62 W12 Predictions,lemonoppy
 6238,124880,2026-08-20 22:44:14,activity check,2,Weekly Activity Check: +2,Daniel
@@ -123579,6 +123707,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6243,130785,2026-09-12 12:10:14,prediction,9,S63 First Rounders Prediction,AustinP0027
 6243,131353,2026-09-14 09:02:32,activity check,2,Weekly Activity Check: +2,Bigred1580
 6243,131354,2026-09-14 09:02:38,training,5,Weekly Training: +5,Bigred1580
+6243,132303,2026-09-21 09:38:04,activity check,2,Weekly Activity Check: +2,Bigred1580
+6243,132304,2026-09-21 09:38:08,training,5,Weekly Training: +5,Bigred1580
 6244,124288,2026-08-20 13:44:10,Create,50,Starting TPE,Rutilant
 6244,124892,2026-08-21 07:01:41,activity check,2,Weekly Activity Check: +2,Rutilant
 6244,124893,2026-08-21 07:04:23,training,5,Weekly Training: +5,Rutilant
@@ -123675,6 +123805,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6248,130852,2026-09-12 12:10:14,prediction,9,S63 First Rounders Prediction,AustinP0027
 6248,131540,2026-09-14 15:36:48,training,5,Weekly Training: +5,ImSatanJunior
 6248,131549,2026-09-14 15:58:33,activity check,2,Weekly Activity Check: +2,ImSatanJunior
+6248,132217,2026-09-21 07:53:08,activity check,2,Weekly Activity Check: +2,ImSatanJunior
+6248,132218,2026-09-21 07:53:13,training,5,Weekly Training: +5,ImSatanJunior
 6249,124885,2026-08-21 00:38:53,Create,50,Starting TPE,MichkovSzn
 6249,124920,2026-08-22 01:35:42,activity check,2,Weekly Activity Check: +2,MichkovSzn
 6249,125705,2026-08-24 16:22:07,point task,3,S62 PT#4,ZootTX
@@ -123832,6 +123964,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6257,131613,2026-09-14 19:20:19,activity check,2,Weekly Activity Check: +2,dl_sama
 6257,131614,2026-09-14 19:20:47,training,5,Weekly Training: +5,dl_sama
 6257,132026,2026-09-19 18:47:38,seasonal equipment,10,Seasonal Equipment: +10,dl_sama
+6257,132241,2026-09-21 08:33:40,activity check,2,Weekly Activity Check: +2,dl_sama
+6257,132242,2026-09-21 08:34:01,training,5,Weekly Training: +5,dl_sama
 6258,126622,2026-08-28 22:18:35,Create,50,Starting TPE,Carroll03242002
 6258,127350,2026-08-30 20:46:06,activity check,2,Weekly Activity Check: +2,Carroll03242002
 6258,127353,2026-08-30 20:50:34,training,3,Weekly Training: +3,Carroll03242002
@@ -123931,6 +124065,7 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6273,130118,2026-09-07 17:33:37,other,3,CHARITY FREE TPE SPECTACULAR,Frantik
 6273,131676,2026-09-15 08:51:42,activity check,2,Weekly Activity Check: +2,Hoikmaster
 6273,131885,2026-09-17 09:25:10,training,5,Weekly Training: +5,Hoikmaster
+6273,132322,2026-09-21 10:03:00,activity check,2,Weekly Activity Check: +2,Hoikmaster
 6274,127871,2026-08-31 14:49:29,Create,50,Starting TPE,cranberry
 6274,127874,2026-08-31 14:55:24,activity check,2,Weekly Activity Check: +2,cranberry
 6274,127876,2026-08-31 14:57:00,training,5,Weekly Training: +5,cranberry
@@ -124002,6 +124137,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6279,131275,2026-09-14 06:38:33,training,5,Weekly Training: +5,draft76
 6279,131484,2026-09-14 12:02:41,seasonal equipment,2,Seasonal Equipment: +2,draft76
 6279,131968,2026-09-19 06:35:22,seasonal equipment,8,Seasonal Equipment: +8,draft76
+6279,132189,2026-09-21 07:08:36,activity check,2,Weekly Activity Check: +2,draft76
+6279,132190,2026-09-21 07:08:43,training,5,Weekly Training: +5,draft76
 6280,127896,2026-08-31 15:31:18,Create,50,Starting TPE,WolfieCro
 6280,127900,2026-08-31 15:37:49,activity check,2,Weekly Activity Check: +2,WolfieCro
 6280,127901,2026-08-31 15:38:24,training,3,Weekly Training: +3,WolfieCro
@@ -124102,6 +124239,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6288,131775,2026-09-15 20:44:50,seasonal equipment,5,Seasonal Equipment: +5,Nostrich
 6288,131899,2026-09-17 17:17:08,seasonal equipment,1,Seasonal Equipment: +1,Nostrich
 6288,131919,2026-09-17 22:55:39,seasonal equipment,1,Seasonal Equipment: +1,Nostrich
+6288,132179,2026-09-21 06:38:32,activity check,2,Weekly Activity Check: +2,Nostrich
+6288,132180,2026-09-21 06:38:43,training,5,Weekly Training: +5,Nostrich
 6289,128000,2026-08-31 20:36:09,Create,50,Starting TPE,theweaver09
 6289,128154,2026-09-01 22:05:46,training,3,Weekly Training: +3,theweaver09
 6290,128024,2026-08-31 22:23:06,Create,50,Starting TPE,Trashpaddle
@@ -124138,6 +124277,7 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6292,132020,2026-09-19 15:24:09,seasonal equipment,4,Seasonal Equipment: +4,Bumble
 6292,132021,2026-09-19 15:25:51,seasonal equipment,5,Seasonal Equipment: +5,Bumble
 6292,132034,2026-09-19 22:49:02,seasonal equipment,2,Seasonal Equipment: +2,Bumble
+6292,132305,2026-09-21 09:39:44,activity check,2,Weekly Activity Check: +2,Bumble
 6293,128056,2026-09-01 03:52:26,Create,50,Starting TPE,justme318
 6293,128465,2026-09-03 12:18:02,activity check,2,Weekly Activity Check: +2,justme318
 6293,128466,2026-09-03 12:18:29,training,3,Weekly Training: +3,justme318
@@ -124172,6 +124312,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6295,131032,2026-09-12 12:10:15,prediction,8,S63 First Rounders Prediction,AustinP0027
 6295,131443,2026-09-14 10:47:37,activity check,2,Weekly Activity Check: +2,chester
 6295,131444,2026-09-14 10:47:51,training,5,Weekly Training: +5,chester
+6295,132253,2026-09-21 08:50:14,activity check,2,Weekly Activity Check: +2,chester
+6295,132259,2026-09-21 08:54:05,training,5,Weekly Training: +5,chester
 6296,128081,2026-09-01 10:27:21,Create,50,Starting TPE,fish
 6296,128092,2026-09-01 11:55:12,activity check,2,Weekly Activity Check: +2,fish
 6296,128093,2026-09-01 11:55:22,training,5,Weekly Training: +5,fish
@@ -124283,6 +124425,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6305,131594,2026-09-14 17:45:22,seasonal equipment,2,Seasonal Equipment: +2,BigDmAn32
 6305,131970,2026-09-19 09:13:20,seasonal equipment,9,Seasonal Equipment: +9,BigDmAn32
 6305,131971,2026-09-19 09:25:53,seasonal equipment,3,Seasonal Equipment: +3,BigDmAn32
+6305,132260,2026-09-21 08:56:21,activity check,2,Weekly Activity Check: +2,BigDmAn32
+6305,132261,2026-09-21 08:56:29,training,5,Weekly Training: +5,BigDmAn32
 6306,128393,2026-09-02 15:20:09,Create,50,Starting TPE,Grunchcrunch
 6306,128396,2026-09-02 15:27:16,activity check,2,Weekly Activity Check: +2,Grunchcrunch
 6306,128397,2026-09-02 15:27:34,training,3,Weekly Training: +3,Grunchcrunch
@@ -124314,6 +124458,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6307,131042,2026-09-12 12:10:15,prediction,8,S63 First Rounders Prediction,AustinP0027
 6307,131199,2026-09-14 01:10:17,activity check,2,Weekly Activity Check: +2,Mapex
 6307,131200,2026-09-14 01:10:22,training,5,Weekly Training: +5,Mapex
+6307,132293,2026-09-21 09:28:50,activity check,2,Weekly Activity Check: +2,Mapex
+6307,132294,2026-09-21 09:28:55,training,5,Weekly Training: +5,Mapex
 6308,128406,2026-09-02 16:44:30,Create,50,Starting TPE,MagicalVivi
 6308,128407,2026-09-02 16:48:35,activity check,2,Weekly Activity Check: +2,MagicalVivi
 6308,131043,2026-09-12 12:10:15,prediction,7,S63 First Rounders Prediction,AustinP0027
@@ -124376,6 +124522,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6317,132017,2026-09-19 14:30:06,seasonal equipment,5,Seasonal Equipment: +5,PedroloBcn
 6317,132156,2026-09-21 04:05:45,activity check,2,Weekly Activity Check: +2,PedroloBcn
 6317,132157,2026-09-21 04:05:52,training,5,Weekly Training: +5,PedroloBcn
+6317,132173,2026-09-21 06:33:04,seasonal equipment,5,Seasonal Equipment: +5,PedroloBcn
+6317,132174,2026-09-21 06:34:42,seasonal equipment,5,Seasonal Equipment: +5,PedroloBcn
 6318,128499,2026-09-03 18:44:01,Create,50,Starting TPE,iigoateeii
 6318,128562,2026-09-04 17:28:59,activity check,2,Weekly Activity Check: +2,iigoateeii
 6318,128563,2026-09-04 17:29:11,training,5,Weekly Training: +5,iigoateeii
@@ -124389,6 +124537,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6318,131859,2026-09-16 21:00:25,seasonal equipment,2,Seasonal Equipment: +2,iigoateeii
 6318,132038,2026-09-20 00:08:31,seasonal equipment,12,Seasonal Equipment: +12,iigoateeii
 6318,132039,2026-09-20 00:12:30,seasonal equipment,2,Seasonal Equipment: +2,iigoateeii
+6318,132257,2026-09-21 08:50:58,activity check,2,Weekly Activity Check: +2,iigoateeii
+6318,132258,2026-09-21 08:51:11,training,5,Weekly Training: +5,iigoateeii
 6319,128501,2026-09-03 19:57:36,Create,50,Starting TPE,Snayke
 6319,128516,2026-09-03 21:06:59,activity check,2,Weekly Activity Check: +2,Snayke
 6319,128517,2026-09-03 21:07:36,training,5,Weekly Training: +5,Snayke
@@ -124407,6 +124557,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6319,131543,2026-09-14 15:50:41,activity check,2,Weekly Activity Check: +2,Snayke
 6319,131544,2026-09-14 15:50:58,training,5,Weekly Training: +5,Snayke
 6319,131969,2026-09-19 08:13:20,seasonal equipment,14,Seasonal Equipment: +14,Snayke
+6319,132183,2026-09-21 06:54:28,activity check,2,Weekly Activity Check: +2,Snayke
+6319,132184,2026-09-21 06:54:37,training,5,Weekly Training: +5,Snayke
 6320,128519,2026-09-03 22:12:24,Create,50,Starting TPE,ThunderXTEH
 6320,128553,2026-09-04 15:34:47,activity check,2,Weekly Activity Check: +2,ThunderXTEH
 6320,128554,2026-09-04 15:36:34,training,5,Weekly Training: +5,ThunderXTEH
@@ -124464,6 +124616,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6324,131302,2026-09-14 07:56:32,activity check,2,Weekly Activity Check: +2,bubbers
 6324,131436,2026-09-14 10:43:20,training,5,Weekly Training: +5,bubbers
 6324,131437,2026-09-14 10:43:26,seasonal equipment,5,Seasonal Equipment: +5,bubbers
+6324,132265,2026-09-21 09:01:17,activity check,2,Weekly Activity Check: +2,bubbers
+6324,132266,2026-09-21 09:01:25,training,5,Weekly Training: +5,bubbers
 6325,128570,2026-09-04 22:47:47,Create,50,Starting TPE,Nol15736
 6325,128583,2026-09-05 07:36:44,activity check,2,Weekly Activity Check: +2,Nol15736
 6325,128584,2026-09-05 07:36:48,training,5,Weekly Training: +5,Nol15736
@@ -124476,6 +124630,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6325,131345,2026-09-14 08:53:14,point task,20,S63 Late Joiner,AustinP0027
 6325,131679,2026-09-15 09:53:14,activity check,2,Weekly Activity Check: +2,Nol15736
 6325,131680,2026-09-15 09:53:19,training,5,Weekly Training: +5,Nol15736
+6325,132215,2026-09-21 07:41:18,activity check,2,Weekly Activity Check: +2,Nol15736
+6325,132216,2026-09-21 07:41:23,training,5,Weekly Training: +5,Nol15736
 6326,128576,2026-09-05 02:23:20,Create,50,Starting TPE,ismat
 6326,128577,2026-09-05 02:40:43,activity check,2,Weekly Activity Check: +2,ismat
 6326,128578,2026-09-05 02:40:49,training,5,Weekly Training: +5,ismat
@@ -124501,6 +124657,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6328,130324,2026-09-08 13:02:17,point task,14,S63 Late Joiner,AustinP0027
 6328,131324,2026-09-14 08:26:48,activity check,2,Weekly Activity Check: +2,TheAmericanPineapple
 6328,131325,2026-09-14 08:26:54,training,5,Weekly Training: +5,TheAmericanPineapple
+6328,132251,2026-09-21 08:45:17,activity check,2,Weekly Activity Check: +2,TheAmericanPineapple
+6328,132252,2026-09-21 08:45:45,training,5,Weekly Training: +5,TheAmericanPineapple
 6329,129382,2026-09-05 20:30:12,Create,50,Starting TPE,Nathan
 6329,129387,2026-09-05 21:09:47,activity check,2,Weekly Activity Check: +2,Nathan
 6329,129388,2026-09-05 21:09:50,training camp,20,Team Training Camp: +20,Nathan
@@ -124542,6 +124700,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6332,131315,2026-09-14 08:15:49,activity check,2,Weekly Activity Check: +2,ValorX77
 6332,131316,2026-09-14 08:15:53,training,5,Weekly Training: +5,ValorX77
 6332,131344,2026-09-14 08:53:14,point task,20,S63 Late Joiner,AustinP0027
+6332,132295,2026-09-21 09:33:44,activity check,2,Weekly Activity Check: +2,ValorX77
+6332,132296,2026-09-21 09:33:48,training,5,Weekly Training: +5,ValorX77
 6333,130122,2026-09-07 17:51:31,Create,50,Starting TPE,Coachsj35
 6333,130123,2026-09-07 17:55:59,activity check,2,Weekly Activity Check: +2,Coachsj35
 6333,130124,2026-09-07 17:56:08,training camp,20,Team Training Camp: +20,Coachsj35
@@ -124580,6 +124740,8 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6336,130478,2026-09-08 18:43:48,other,3,CHARITY FREE TPE SPECTACULAR,Frantik
 6336,131589,2026-09-14 17:41:04,activity check,2,Weekly Activity Check: +2,ctots
 6336,131590,2026-09-14 17:41:12,training,5,Weekly Training: +5,ctots
+6336,132237,2026-09-21 08:21:10,activity check,2,Weekly Activity Check: +2,ctots
+6336,132238,2026-09-21 08:21:19,training,5,Weekly Training: +5,ctots
 6337,130367,2026-09-08 15:58:23,Create,50,Starting TPE,Fronk
 6337,130374,2026-09-08 16:14:56,training,5,Weekly Training: +5,Fronk
 6337,130375,2026-09-08 16:15:02,training camp,20,Team Training Camp: +20,Fronk
@@ -124618,6 +124780,7 @@ pid,task_id,date,task_type,tpe_change,description,submitted_by
 6343,131893,2026-09-17 11:10:51,activity check,2,Weekly Activity Check: +2,Chicken Lips
 6343,131894,2026-09-17 11:10:59,training,5,Weekly Training: +5,Chicken Lips
 6343,131895,2026-09-17 11:11:03,training camp,20,Team Training Camp: +20,Chicken Lips
+6343,132262,2026-09-21 08:59:46,training,5,Weekly Training: +5,Chicken Lips
 6344,132022,2026-09-19 15:59:12,Create,50,Starting TPE,w3nvy
 6344,132054,2026-09-20 17:05:58,activity check,2,Weekly Activity Check: +2,w3nvy
 6344,132055,2026-09-20 17:06:27,training,5,Weekly Training: +5,w3nvy

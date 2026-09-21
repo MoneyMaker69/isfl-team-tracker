@@ -1,10 +1,10 @@
 {
-  "stage": "slow",
+  "stage": "all",
   "sample": false,
   "current_season": 63,
-  "fast_built_at": "2026-09-21T08:46:26+00:00",
-  "built_at": "2026-09-21T09:47:53+00:00",
-  "duration_seconds": 3635,
+  "fast_built_at": "2026-09-21T14:04:08+00:00",
+  "built_at": "2026-09-21T14:20:08+00:00",
+  "duration_seconds": 1021,
   "files": [
     "analytics.csv",
     "attributes.csv",
@@ -23,6 +23,6 @@
     "tpe_events.csv"
   ],
   "slow_errors": [],
-  "players_fetched": 1858,
-  "slow_built_at": "2026-09-21T09:47:53+00:00"
+  "players_fetched": 1420,
+  "slow_built_at": "2026-09-21T14:20:08+00:00"
 }
