@@ -1,0 +1,747 @@
+season,team,name,location,conference,wins,losses,ties,pct,pf,pa,diff,home_w,home_l,away_w,away_l,conf_w,conf_l,playoff_result
+1,YKW,Wraiths,Yellowknife,NSFC,8,6,0,0.571,256,225,31,6,1,2,5,4,4,semifinal
+1,SJS,Sabercats,San Jose,ASFC,4,10,0,0.286,213,291,-78,3,4,1,6,1,7,missed
+1,COL,Yeti,Colorado,NSFC,8,6,0,0.571,250,253,-3,5,2,3,4,6,2,runner_up
+1,BAL,Hawks,Baltimore,NSFC,4,10,0,0.286,254,330,-76,2,5,2,5,2,6,missed
+1,OCO,Otters,Orange County,ASFC,9,5,0,0.643,249,196,53,6,1,3,4,5,3,semifinal
+1,AZ,Outlaws,Arizona,ASFC,9,5,0,0.643,277,204,73,6,1,3,4,6,2,champion
+2,YKW,Wraiths,Yellowknife,NSFC,8,6,0,0.571,300,295,5,6,1,2,5,3,3,semifinal
+2,COL,Yeti,Colorado,NSFC,8,6,0,0.571,268,216,52,6,1,2,5,3,3,missed
+2,AZ,Outlaws,Arizona,ASFC,12,2,0,0.857,369,175,194,7,0,5,2,6,0,champion
+2,OCO,Otters,Orange County,ASFC,8,6,0,0.571,271,219,52,6,1,2,5,3,3,semifinal
+2,SJS,Sabercats,San Jose,ASFC,4,10,0,0.286,233,374,-141,3,4,1,6,2,4,missed
+2,PHI,Liberty,Philadelphia,NSFC,5,9,0,0.357,245,281,-36,4,3,1,6,2,4,missed
+2,LVL,Legion,Las Vegas,ASFC,3,11,0,0.214,211,335,-124,1,6,2,5,1,5,missed
+2,BAL,Hawks,Baltimore,NSFC,8,6,0,0.571,268,270,-2,7,0,1,6,4,2,runner_up
+3,BAL,Hawks,Baltimore,NSFC,9,5,0,0.643,317,270,47,5,2,4,3,4,2,runner_up
+3,YKW,Wraiths,Yellowknife,NSFC,7,7,0,0.5,332,275,57,5,2,2,5,3,3,missed
+3,COL,Yeti,Colorado,NSFC,3,11,0,0.214,182,372,-190,3,4,0,7,1,5,missed
+3,LVL,Legion,Las Vegas,ASFC,2,12,0,0.143,199,444,-245,1,6,1,6,1,5,missed
+3,AZ,Outlaws,Arizona,ASFC,13,1,0,0.929,427,166,261,6,1,7,0,6,0,champion
+3,SJS,Sabercats,San Jose,ASFC,5,8,1,0.393,292,338,-46,3,3,2,5,2,4,missed
+3,OCO,Otters,Orange County,ASFC,8,6,0,0.571,406,288,118,5,2,3,4,3,3,semifinal
+3,PHI,Liberty,Philadelphia,NSFC,8,5,1,0.607,326,328,-2,6,1,2,4,4,2,semifinal
+4,OCO,Otters,Orange County,ASFC,9,5,0,0.643,421,238,183,5,2,4,3,3,3,champion
+4,AZ,Outlaws,Arizona,ASFC,12,2,0,0.857,435,203,232,7,0,5,2,6,0,semifinal
+4,SJS,Sabercats,San Jose,ASFC,9,5,0,0.643,373,264,109,5,2,4,3,3,3,missed
+4,COL,Yeti,Colorado,NSFC,1,13,0,0.071,175,482,-307,1,6,0,7,1,5,missed
+4,BAL,Hawks,Baltimore,NSFC,7,7,0,0.5,315,324,-9,5,2,2,5,2,4,missed
+4,YKW,Wraiths,Yellowknife,NSFC,8,6,0,0.571,361,279,82,5,2,3,4,3,3,runner_up
+4,PHI,Liberty,Philadelphia,NSFC,7,7,0,0.5,265,350,-85,4,3,3,4,6,0,semifinal
+4,LVL,Legion,Las Vegas,ASFC,3,11,0,0.214,234,439,-205,2,5,1,6,0,6,missed
+5,AZ,Outlaws,Arizona,ASFC,8,6,0,0.571,436,431,5,5,2,3,4,4,2,semifinal
+5,COL,Yeti,Colorado,NSFC,2,12,0,0.143,180,407,-227,1,6,1,6,0,6,missed
+5,SJS,Sabercats,San Jose,ASFC,8,6,0,0.571,343,374,-31,5,2,3,4,2,4,missed
+5,OCO,Otters,Orange County,ASFC,11,3,0,0.786,421,265,156,7,0,4,3,5,1,champion
+5,LVL,Legion,Las Vegas,ASFC,1,13,0,0.071,296,453,-157,1,6,0,7,1,5,missed
+5,PHI,Liberty,Philadelphia,NSFC,8,6,0,0.571,405,339,66,6,1,2,5,3,3,missed
+5,YKW,Wraiths,Yellowknife,NSFC,10,4,0,0.714,433,310,123,6,1,4,3,5,1,runner_up
+5,BAL,Hawks,Baltimore,NSFC,8,6,0,0.571,405,340,65,5,2,3,4,4,2,semifinal
+6,NOLA,Second Line,New Orleans,ASFC,2,11,1,0.179,239,377,-138,1,5,1,6,0,6,missed
+6,OCO,Otters,Orange County,ASFC,11,3,0,0.786,471,254,217,5,2,6,1,6,0,champion
+6,COL,Yeti,Colorado,NSFC,0,14,0,0.0,197,541,-344,0,7,0,7,0,6,missed
+6,BAL,Hawks,Baltimore,NSFC,7,7,0,0.5,397,351,46,4,3,3,4,3,3,missed
+6,YKW,Wraiths,Yellowknife,NSFC,7,6,1,0.536,385,339,46,4,3,3,3,4,2,semifinal
+6,PHI,Liberty,Philadelphia,NSFC,9,5,0,0.643,440,313,127,6,1,3,4,5,1,runner_up
+6,AZ,Outlaws,Arizona,ASFC,8,6,0,0.571,336,374,-38,5,2,3,4,2,4,missed
+6,SJS,Sabercats,San Jose,ASFC,11,3,0,0.786,386,302,84,6,1,5,2,4,2,semifinal
+7,COL,Yeti,Colorado,NSFC,0,14,0,0.0,137,501,-364,0,7,0,7,0,6,missed
+7,YKW,Wraiths,Yellowknife,NSFC,13,1,0,0.929,468,272,196,7,0,6,1,6,0,semifinal
+7,SJS,Sabercats,San Jose,ASFC,5,9,0,0.357,304,380,-76,3,4,2,5,2,4,missed
+7,BAL,Hawks,Baltimore,NSFC,7,7,0,0.5,405,333,72,4,3,3,4,3,3,missed
+7,PHI,Liberty,Philadelphia,NSFC,10,4,0,0.714,426,303,123,6,1,4,3,3,3,champion
+7,OCO,Otters,Orange County,ASFC,12,2,0,0.857,461,274,187,7,0,5,2,6,0,runner_up
+7,AZ,Outlaws,Arizona,ASFC,5,9,0,0.357,357,433,-76,3,4,2,5,3,3,semifinal
+7,NOLA,Second Line,New Orleans,ASFC,4,10,0,0.286,304,366,-62,3,4,1,6,1,5,missed
+8,PHI,Liberty,Philadelphia,NSFC,7,7,0,0.5,387,373,14,5,2,2,5,2,4,missed
+8,COL,Yeti,Colorado,NSFC,6,8,0,0.429,240,338,-98,4,3,2,5,2,4,missed
+8,NOLA,Second Line,New Orleans,ASFC,9,5,0,0.643,413,303,110,5,2,4,3,5,1,runner_up
+8,YKW,Wraiths,Yellowknife,NSFC,11,3,0,0.786,446,286,160,6,1,5,2,6,0,champion
+8,BAL,Hawks,Baltimore,NSFC,7,7,0,0.5,403,329,74,4,3,3,4,2,4,semifinal
+8,SJS,Sabercats,San Jose,ASFC,1,13,0,0.071,191,553,-362,1,6,0,7,1,5,missed
+8,OCO,Otters,Orange County,ASFC,10,4,0,0.714,432,289,143,5,2,5,2,4,2,semifinal
+8,AZ,Outlaws,Arizona,ASFC,5,9,0,0.357,338,379,-41,5,2,0,7,2,4,missed
+9,BAL,Hawks,Baltimore,NSFC,11,3,0,0.786,473,240,233,6,1,5,2,6,0,runner_up
+9,YKW,Wraiths,Yellowknife,NSFC,7,7,0,0.5,380,316,64,3,4,4,3,2,4,missed
+9,COL,Yeti,Colorado,NSFC,8,6,0,0.571,333,347,-14,4,3,4,3,3,3,semifinal
+9,AZ,Outlaws,Arizona,ASFC,3,11,0,0.214,219,433,-214,1,6,2,5,2,4,missed
+9,OCO,Otters,Orange County,ASFC,9,5,0,0.643,445,293,152,6,1,3,4,3,3,semifinal
+9,SJS,Sabercats,San Jose,ASFC,2,12,0,0.143,184,475,-291,1,6,1,6,1,5,missed
+9,PHI,Liberty,Philadelphia,NSFC,4,10,0,0.286,218,481,-263,2,5,2,5,1,5,missed
+9,NOLA,Second Line,New Orleans,ASFC,12,2,0,0.857,530,197,333,6,1,6,1,6,0,champion
+10,YKW,Wraiths,Yellowknife,NSFC,8,6,0,0.571,373,319,54,6,1,2,5,3,3,missed
+10,BAL,Hawks,Baltimore,NSFC,13,1,0,0.929,486,273,213,7,0,6,1,6,0,champion
+10,AZ,Outlaws,Arizona,ASFC,4,10,0,0.286,293,349,-56,3,4,1,6,1,5,missed
+10,COL,Yeti,Colorado,NSFC,9,5,0,0.643,403,286,117,5,2,4,3,3,3,semifinal
+10,SJS,Sabercats,San Jose,ASFC,4,10,0,0.286,258,447,-189,3,4,1,6,1,5,missed
+10,OCO,Otters,Orange County,ASFC,7,7,0,0.5,247,299,-52,4,3,3,4,5,1,semifinal
+10,NOLA,Second Line,New Orleans,ASFC,11,3,0,0.786,505,279,226,7,0,4,3,5,1,runner_up
+10,PHI,Liberty,Philadelphia,NSFC,0,14,0,0.0,162,475,-313,0,7,0,7,0,6,missed
+11,BAL,Hawks,Baltimore,NSFC,9,5,0,0.643,413,336,77,5,2,4,3,4,2,runner_up
+11,YKW,Wraiths,Yellowknife,NSFC,4,10,0,0.286,336,413,-77,3,4,1,6,0,6,missed
+11,COL,Yeti,Colorado,NSFC,8,6,0,0.571,422,417,5,6,1,2,5,4,2,semifinal
+11,AZ,Outlaws,Arizona,ASFC,6,8,0,0.429,376,381,-5,4,3,2,5,3,3,missed
+11,OCO,Otters,Orange County,ASFC,10,4,0,0.714,394,331,63,6,1,4,3,4,2,semifinal
+11,SJS,Sabercats,San Jose,ASFC,1,13,0,0.071,228,411,-183,0,7,1,6,0,6,missed
+11,PHI,Liberty,Philadelphia,NSFC,7,7,0,0.5,309,313,-4,4,3,3,4,4,2,missed
+11,NOLA,Second Line,New Orleans,ASFC,11,3,0,0.786,464,340,124,7,0,4,3,5,1,champion
+12,OCO,Otters,Orange County,ASFC,11,3,0,0.786,383,267,116,6,1,5,2,4,2,champion
+12,COL,Yeti,Colorado,NSFC,6,8,0,0.429,356,495,-139,2,5,4,3,3,3,missed
+12,PHI,Liberty,Philadelphia,NSFC,7,7,0,0.5,361,382,-21,3,4,4,3,3,3,semifinal
+12,BAL,Hawks,Baltimore,NSFC,8,6,0,0.571,454,297,157,5,2,3,4,5,1,runner_up
+12,SJS,Sabercats,San Jose,ASFC,10,4,0,0.714,355,250,105,5,2,5,2,4,2,semifinal
+12,NOLA,Second Line,New Orleans,ASFC,4,10,0,0.286,346,399,-53,3,4,1,6,1,5,missed
+12,YKW,Wraiths,Yellowknife,NSFC,3,11,0,0.214,287,429,-142,2,5,1,6,1,5,missed
+12,AZ,Outlaws,Arizona,ASFC,7,7,0,0.5,326,349,-23,4,3,3,4,3,3,missed
+13,OCO,Otters,Orange County,ASFC,9,5,0,0.643,363,329,34,7,0,2,5,4,2,champion
+13,COL,Yeti,Colorado,NSFC,8,6,0,0.571,417,349,68,6,1,2,5,4,2,runner_up
+13,BAL,Hawks,Baltimore,NSFC,4,10,0,0.286,323,363,-40,3,4,1,6,3,3,missed
+13,PHI,Liberty,Philadelphia,NSFC,8,6,0,0.571,413,377,36,5,2,3,4,4,2,semifinal
+13,AZ,Outlaws,Arizona,ASFC,5,9,0,0.357,338,410,-72,4,3,1,6,2,4,missed
+13,SJS,Sabercats,San Jose,ASFC,12,2,0,0.857,419,276,143,6,1,6,1,4,2,semifinal
+13,YKW,Wraiths,Yellowknife,NSFC,4,10,0,0.286,342,457,-115,4,3,0,7,1,5,missed
+13,NOLA,Second Line,New Orleans,ASFC,6,8,0,0.429,343,397,-54,4,3,2,5,2,4,missed
+14,OCO,Otters,Orange County,ASFC,11,3,0,0.786,441,281,160,6,1,5,2,5,1,semifinal
+14,YKW,Wraiths,Yellowknife,NSFC,6,8,0,0.429,310,326,-16,4,3,2,5,3,3,missed
+14,BAL,Hawks,Baltimore,NSFC,11,3,0,0.786,448,310,138,6,1,5,2,5,1,semifinal
+14,NOLA,Second Line,New Orleans,ASFC,4,10,0,0.286,331,405,-74,3,4,1,6,2,4,missed
+14,PHI,Liberty,Philadelphia,NSFC,9,5,0,0.643,337,331,6,6,1,3,4,4,2,runner_up
+14,AZ,Outlaws,Arizona,ASFC,2,12,0,0.143,224,523,-299,2,5,0,7,1,5,missed
+14,SJS,Sabercats,San Jose,ASFC,9,5,0,0.643,392,233,159,6,1,3,4,4,2,champion
+14,COL,Yeti,Colorado,NSFC,4,10,0,0.286,368,442,-74,2,5,2,5,0,6,missed
+15,BAL,Hawks,Baltimore,NSFC,12,2,0,0.857,520,297,223,7,0,5,2,4,2,champion
+15,COL,Yeti,Colorado,NSFC,2,12,0,0.143,258,474,-216,1,6,1,6,0,6,missed
+15,YKW,Wraiths,Yellowknife,NSFC,7,7,0,0.5,358,305,53,4,3,3,4,4,2,missed
+15,AZ,Outlaws,Arizona,ASFC,6,8,0,0.429,351,373,-22,4,3,2,5,1,5,missed
+15,NOLA,Second Line,New Orleans,ASFC,2,12,0,0.143,283,465,-182,2,5,0,7,1,5,missed
+15,OCO,Otters,Orange County,ASFC,8,6,0,0.571,351,299,52,4,3,4,3,4,2,semifinal
+15,SJS,Sabercats,San Jose,ASFC,11,3,0,0.786,326,265,61,6,1,5,2,6,0,runner_up
+15,PHI,Liberty,Philadelphia,NSFC,8,6,0,0.571,340,309,31,5,2,3,4,4,2,semifinal
+16,YKW,Wraiths,Yellowknife,NSFC,10,3,0,0.769,418,312,106,5,2,5,1,5,3,first_round
+16,BAL,Hawks,Baltimore,NSFC,7,6,0,0.538,324,268,56,4,3,3,3,4,4,missed
+16,PHI,Liberty,Philadelphia,NSFC,7,6,0,0.538,397,306,91,5,1,2,5,5,3,runner_up
+16,COL,Yeti,Colorado,NSFC,1,12,0,0.077,208,424,-216,0,7,1,5,0,8,missed
+16,AZ,Outlaws,Arizona,ASFC,7,6,0,0.538,297,273,24,6,1,1,5,5,3,champion
+16,CHI,Butchers,Chicago,NSFC,10,3,0,0.769,307,257,50,6,0,4,3,6,2,semifinal
+16,SJS,Sabercats,San Jose,ASFC,7,6,0,0.538,337,311,26,3,3,4,3,4,4,first_round
+16,OCO,Otters,Orange County,ASFC,10,3,0,0.769,417,244,173,6,1,4,2,7,1,semifinal
+16,AUS,Copperheads,Austin,ASFC,0,13,0,0.0,186,424,-238,0,6,0,7,0,8,missed
+16,NOLA,Second Line,New Orleans,ASFC,6,7,0,0.462,309,381,-72,3,3,3,4,4,4,missed
+17,PHI,Liberty,Philadelphia,NSFC,5,8,0,0.385,298,388,-90,4,3,1,5,2,6,missed
+17,CHI,Butchers,Chicago,NSFC,8,5,0,0.615,336,268,68,6,1,2,4,4,4,first_round
+17,YKW,Wraiths,Yellowknife,NSFC,8,5,0,0.615,361,267,94,5,1,3,4,6,2,semifinal
+17,COL,Yeti,Colorado,NSFC,5,8,0,0.385,230,364,-134,3,4,2,4,3,5,missed
+17,AZ,Outlaws,Arizona,ASFC,9,4,0,0.692,394,268,126,6,1,3,3,6,2,semifinal
+17,BAL,Hawks,Baltimore,NSFC,8,5,0,0.615,343,305,38,6,0,2,5,5,3,runner_up
+17,SJS,Sabercats,San Jose,ASFC,6,7,0,0.462,280,332,-52,4,2,2,5,4,4,first_round
+17,OCO,Otters,Orange County,ASFC,7,6,0,0.538,361,275,86,4,3,3,3,4,4,champion
+17,AUS,Copperheads,Austin,ASFC,5,8,0,0.385,261,343,-82,3,3,2,5,3,5,missed
+17,NOLA,Second Line,New Orleans,ASFC,4,9,0,0.308,313,367,-54,2,4,2,5,3,5,missed
+18,BAL,Hawks,Baltimore,NSFC,6,7,0,0.462,366,346,20,5,1,1,6,5,3,semifinal
+18,YKW,Wraiths,Yellowknife,NSFC,11,2,0,0.846,393,239,154,6,0,5,2,7,1,runner_up
+18,COL,Yeti,Colorado,NSFC,5,8,0,0.385,271,339,-68,2,4,3,4,3,5,first_round
+18,PHI,Liberty,Philadelphia,NSFC,4,9,0,0.308,286,317,-31,2,5,2,4,3,5,missed
+18,CHI,Butchers,Chicago,NSFC,5,8,0,0.385,300,350,-50,4,3,1,5,2,6,missed
+18,AZ,Outlaws,Arizona,ASFC,9,4,0,0.692,355,291,64,5,1,4,3,5,3,semifinal
+18,OCO,Otters,Orange County,ASFC,10,3,0,0.769,363,233,130,5,1,5,2,6,2,champion
+18,SJS,Sabercats,San Jose,ASFC,4,9,0,0.308,184,338,-154,3,4,1,5,1,7,missed
+18,NOLA,Second Line,New Orleans,ASFC,5,8,0,0.385,285,327,-42,4,3,1,5,4,4,missed
+18,AUS,Copperheads,Austin,ASFC,6,7,0,0.462,367,390,-23,5,2,1,5,4,4,first_round
+19,YKW,Wraiths,Yellowknife,NSFC,9,4,0,0.692,383,331,52,5,1,4,3,5,3,runner_up
+19,PHI,Liberty,Philadelphia,NSFC,6,7,0,0.462,280,278,2,5,1,1,6,4,4,missed
+19,CHI,Butchers,Chicago,NSFC,3,10,0,0.231,223,392,-169,3,3,0,7,2,6,missed
+19,BAL,Hawks,Baltimore,NSFC,8,5,0,0.615,371,266,105,6,1,2,4,5,3,semifinal
+19,COL,Yeti,Colorado,NSFC,8,5,0,0.615,326,275,51,4,3,4,2,4,4,first_round
+19,AUS,Copperheads,Austin,ASFC,5,8,0,0.385,299,288,11,3,3,2,5,2,6,first_round
+19,AZ,Outlaws,Arizona,ASFC,5,8,0,0.385,338,355,-17,3,3,2,5,4,4,missed
+19,SJS,Sabercats,San Jose,ASFC,4,9,0,0.308,187,406,-219,3,4,1,5,3,5,missed
+19,OCO,Otters,Orange County,ASFC,9,4,0,0.692,357,243,114,6,1,3,3,6,2,champion
+19,NOLA,Second Line,New Orleans,ASFC,8,5,0,0.615,341,271,70,6,1,2,4,5,3,semifinal
+20,CHI,Butchers,Chicago,NSFC,4,9,0,0.308,321,408,-87,4,2,0,7,2,6,missed
+20,PHI,Liberty,Philadelphia,NSFC,5,8,0,0.385,242,275,-33,3,3,2,5,3,5,missed
+20,COL,Yeti,Colorado,NSFC,7,6,0,0.538,309,280,29,5,1,2,5,5,3,semifinal
+20,YKW,Wraiths,Yellowknife,NSFC,9,4,0,0.692,351,294,57,7,0,2,4,5,3,runner_up
+20,BAL,Hawks,Baltimore,NSFC,6,7,0,0.462,306,317,-11,4,3,2,4,5,3,first_round
+20,AZ,Outlaws,Arizona,ASFC,7,6,0,0.538,317,328,-11,4,2,3,4,3,5,missed
+20,AUS,Copperheads,Austin,ASFC,8,5,0,0.615,350,260,90,5,1,3,4,7,1,champion
+20,NOLA,Second Line,New Orleans,ASFC,7,6,0,0.538,315,294,21,5,2,2,4,3,5,semifinal
+20,OCO,Otters,Orange County,ASFC,7,6,0,0.538,371,278,93,5,2,2,4,4,4,first_round
+20,SJS,Sabercats,San Jose,ASFC,5,8,0,0.385,275,423,-148,3,4,2,4,3,5,missed
+21,BAL,Hawks,Baltimore,NSFC,9,4,0,0.692,354,290,64,5,1,4,3,5,3,semifinal
+21,YKW,Wraiths,Yellowknife,NSFC,7,6,0,0.538,315,308,7,4,2,3,4,4,4,runner_up
+21,COL,Yeti,Colorado,NSFC,8,5,0,0.615,323,299,24,5,1,3,4,5,3,first_round
+21,PHI,Liberty,Philadelphia,NSFC,3,10,0,0.231,248,356,-108,1,6,2,4,3,5,missed
+21,CHI,Butchers,Chicago,NSFC,5,8,0,0.385,336,357,-21,4,3,1,5,3,5,missed
+21,AZ,Outlaws,Arizona,ASFC,3,10,0,0.231,253,379,-126,2,4,1,6,1,7,missed
+21,OCO,Otters,Orange County,ASFC,10,3,0,0.769,360,230,130,5,1,5,2,7,1,semifinal
+21,SJS,Sabercats,San Jose,ASFC,4,9,0,0.308,221,289,-68,2,5,2,4,1,7,missed
+21,NOLA,Second Line,New Orleans,ASFC,9,4,0,0.692,374,260,114,5,2,4,2,7,1,champion
+21,AUS,Copperheads,Austin,ASFC,7,6,0,0.538,318,334,-16,4,3,3,3,4,4,first_round
+22,BAL,Hawks,Baltimore,NSFC,3,10,0,0.231,195,283,-88,1,6,2,4,3,7,missed
+22,SAR,Sailfish,Sarasota,NSFC,6,7,0,0.462,219,266,-47,4,2,2,5,6,4,first_round
+22,COL,Yeti,Colorado,NSFC,8,5,0,0.615,295,208,87,5,1,3,4,8,2,champion
+22,YKW,Wraiths,Yellowknife,NSFC,11,2,0,0.846,406,196,210,6,1,5,1,9,1,semifinal
+22,PHI,Liberty,Philadelphia,NSFC,6,7,0,0.462,252,263,-11,2,4,4,3,4,6,missed
+22,CHI,Butchers,Chicago,NSFC,1,12,0,0.077,111,389,-278,0,7,1,5,0,10,missed
+22,OCO,Otters,Orange County,ASFC,10,3,0,0.769,341,234,107,5,2,5,1,7,3,runner_up
+22,HON,Hahalua,Honolulu,ASFC,4,9,0,0.308,194,280,-86,3,3,1,6,3,7,missed
+22,NOLA,Second Line,New Orleans,ASFC,8,5,0,0.615,269,257,12,4,2,4,3,5,5,first_round
+22,SJS,Sabercats,San Jose,ASFC,8,5,0,0.615,288,251,37,4,2,4,3,6,4,missed
+22,AZ,Outlaws,Arizona,ASFC,4,8,1,0.346,246,306,-60,2,4,2,4,2,7,missed
+22,AUS,Copperheads,Austin,ASFC,8,4,1,0.654,368,251,117,5,2,3,2,6,3,semifinal
+23,BAL,Hawks,Baltimore,NSFC,8,8,0,0.5,329,337,-8,6,2,2,6,5,5,missed
+23,YKW,Wraiths,Yellowknife,NSFC,10,6,0,0.625,406,337,69,5,3,5,3,7,3,champion
+23,COL,Yeti,Colorado,NSFC,10,6,0,0.625,354,285,69,6,2,4,4,7,3,semifinal
+23,PHI,Liberty,Philadelphia,NSFC,9,7,0,0.563,378,291,87,5,3,4,4,5,5,first_round
+23,CHI,Butchers,Chicago,NSFC,3,13,0,0.188,214,407,-193,2,6,1,7,1,9,missed
+23,SAR,Sailfish,Sarasota,NSFC,8,8,0,0.5,314,376,-62,6,2,2,6,5,5,missed
+23,AZ,Outlaws,Arizona,ASFC,8,8,0,0.5,428,306,122,5,3,3,5,4,6,missed
+23,OCO,Otters,Orange County,ASFC,11,5,0,0.688,422,310,112,6,2,5,3,8,2,semifinal
+23,SJS,Sabercats,San Jose,ASFC,5,11,0,0.313,236,410,-174,3,5,2,6,3,7,missed
+23,NOLA,Second Line,New Orleans,ASFC,9,7,0,0.563,364,385,-21,7,1,2,6,5,5,first_round
+23,AUS,Copperheads,Austin,ASFC,8,8,0,0.5,353,349,4,5,3,3,5,6,4,runner_up
+23,HON,Hahalua,Honolulu,ASFC,7,9,0,0.438,310,315,-5,6,2,1,7,4,6,missed
+24,COL,Yeti,Colorado,NSFC,14,2,0,0.875,455,290,165,7,1,7,1,9,1,runner_up
+24,CHI,Butchers,Chicago,NSFC,7,9,0,0.438,301,403,-102,4,4,3,5,4,6,first_round
+24,PHI,Liberty,Philadelphia,NSFC,3,13,0,0.188,290,440,-150,2,6,1,7,2,8,missed
+24,YKW,Wraiths,Yellowknife,NSFC,6,10,0,0.375,353,397,-44,2,6,4,4,4,6,missed
+24,SAR,Sailfish,Sarasota,NSFC,12,4,0,0.75,431,294,137,5,3,7,1,9,1,semifinal
+24,BAL,Hawks,Baltimore,NSFC,3,13,0,0.188,320,440,-120,3,5,0,8,2,8,missed
+24,AZ,Outlaws,Arizona,ASFC,9,7,0,0.563,348,370,-22,7,1,2,6,4,6,missed
+24,HON,Hahalua,Honolulu,ASFC,8,8,0,0.5,335,391,-56,5,3,3,5,5,5,missed
+24,NOLA,Second Line,New Orleans,ASFC,9,7,0,0.563,336,305,31,6,2,3,5,5,5,first_round
+24,OCO,Otters,Orange County,ASFC,9,7,0,0.563,375,278,97,7,1,2,6,5,5,semifinal
+24,AUS,Copperheads,Austin,ASFC,7,9,0,0.438,393,363,30,5,3,2,6,5,5,missed
+24,SJS,Sabercats,San Jose,ASFC,9,7,0,0.563,342,308,34,5,3,4,4,6,4,champion
+25,OCO,Otters,Orange County,ASFC,11,5,0,0.688,452,367,85,6,2,5,3,8,4,semifinal
+25,SJS,Sabercats,San Jose,ASFC,9,7,0,0.563,370,383,-13,5,3,4,4,7,5,champion
+25,NOLA,Second Line,New Orleans,ASFC,7,9,0,0.438,363,424,-61,6,2,1,7,5,7,missed
+25,AZ,Outlaws,Arizona,ASFC,9,7,0,0.563,447,361,86,6,2,3,5,7,5,first_round
+25,AUS,Copperheads,Austin,ASFC,7,9,0,0.438,423,377,46,6,2,1,7,6,6,missed
+25,HON,Hahalua,Honolulu,ASFC,8,8,0,0.5,458,435,23,4,4,4,4,5,7,missed
+25,NYS,Silverbacks,New York,ASFC,4,12,0,0.25,361,429,-68,4,4,0,8,4,8,missed
+25,BER,Fire Salamanders,Berlin,NSFC,3,13,0,0.188,322,465,-143,1,7,2,6,1,11,missed
+25,COL,Yeti,Colorado,NSFC,13,3,0,0.813,432,324,108,7,1,6,2,10,2,runner_up
+25,SAR,Sailfish,Sarasota,NSFC,11,5,0,0.688,474,383,91,7,1,4,4,8,4,first_round
+25,CHI,Butchers,Chicago,NSFC,8,8,0,0.5,353,358,-5,7,1,1,7,6,6,semifinal
+25,YKW,Wraiths,Yellowknife,NSFC,7,9,0,0.438,365,420,-55,4,4,3,5,7,5,missed
+25,BAL,Hawks,Baltimore,NSFC,8,8,0,0.5,353,387,-34,5,3,3,5,5,7,missed
+25,PHI,Liberty,Philadelphia,NSFC,7,9,0,0.438,368,428,-60,3,5,4,4,5,7,missed
+26,AZ,Outlaws,Arizona,ASFC,9,7,0,0.563,477,386,91,4,4,5,3,6,6,missed
+26,OCO,Otters,Orange County,ASFC,9,7,0,0.563,423,411,12,5,3,4,4,5,7,first_round
+26,HON,Hahalua,Honolulu,ASFC,3,13,0,0.188,381,523,-142,1,7,2,6,3,9,missed
+26,SJS,Sabercats,San Jose,ASFC,8,8,0,0.5,366,384,-18,5,3,3,5,7,5,missed
+26,NOLA,Second Line,New Orleans,ASFC,9,7,0,0.563,417,361,56,4,4,5,3,7,5,runner_up
+26,AUS,Copperheads,Austin,ASFC,9,7,0,0.563,394,359,35,7,1,2,6,7,5,missed
+26,NYS,Silverbacks,New York,ASFC,9,7,0,0.563,337,341,-4,6,2,3,5,7,5,semifinal
+26,BER,Fire Salamanders,Berlin,NSFC,7,9,0,0.438,383,443,-60,4,4,3,5,5,7,missed
+26,COL,Yeti,Colorado,NSFC,8,8,0,0.5,357,367,-10,6,2,2,6,5,7,missed
+26,SAR,Sailfish,Sarasota,NSFC,8,8,0,0.5,387,398,-11,4,4,4,4,6,6,semifinal
+26,CHI,Butchers,Chicago,NSFC,10,6,0,0.625,413,362,51,5,3,5,3,7,5,first_round
+26,BAL,Hawks,Baltimore,NSFC,6,10,0,0.375,355,406,-51,2,6,4,4,4,8,missed
+26,YKW,Wraiths,Yellowknife,NSFC,13,3,0,0.813,462,312,150,7,1,6,2,12,0,champion
+26,PHI,Liberty,Philadelphia,NSFC,4,12,0,0.25,363,462,-99,1,7,3,5,3,9,missed
+27,OCO,Otters,Orange County,ASFC,6,10,0,0.375,358,387,-29,3,5,3,5,6,6,missed
+27,AUS,Copperheads,Austin,ASFC,3,13,0,0.188,306,416,-110,2,6,1,7,2,10,missed
+27,AZ,Outlaws,Arizona,ASFC,11,5,0,0.688,447,355,92,4,4,7,1,8,4,first_round
+27,SJS,Sabercats,San Jose,ASFC,8,8,0,0.5,357,390,-33,4,4,4,4,6,6,missed
+27,CHI,Butchers,Chicago,NSFC,12,4,0,0.75,458,276,182,6,2,6,2,9,3,first_round
+27,YKW,Wraiths,Yellowknife,NSFC,10,6,0,0.625,464,417,47,6,2,4,4,8,4,missed
+27,COL,Yeti,Colorado,NSFC,10,5,1,0.656,473,395,78,4,4,6,1,8,4,semifinal
+27,SAR,Sailfish,Sarasota,NSFC,12,4,0,0.75,475,341,134,6,2,6,2,9,3,champion
+27,BAL,Hawks,Baltimore,NSFC,0,16,0,0.0,218,618,-400,0,8,0,8,0,12,missed
+27,BER,Fire Salamanders,Berlin,NSFC,6,10,0,0.375,333,350,-17,3,5,3,5,5,7,missed
+27,PHI,Liberty,Philadelphia,NSFC,6,10,0,0.375,358,413,-55,4,4,2,6,3,9,missed
+27,HON,Hahalua,Honolulu,ASFC,11,4,1,0.719,426,317,109,5,2,6,2,9,3,semifinal
+27,NYS,Silverbacks,New York,ASFC,7,9,0,0.438,311,375,-64,5,3,2,6,4,8,missed
+27,NOLA,Second Line,New Orleans,ASFC,9,7,0,0.563,445,379,66,5,3,4,4,7,5,runner_up
+28,PHI,Liberty,Philadelphia,NSFC,6,10,0,0.375,396,483,-87,1,7,5,3,5,7,missed
+28,BER,Fire Salamanders,Berlin,NSFC,12,4,0,0.75,436,335,101,6,2,6,2,9,3,semifinal
+28,BAL,Hawks,Baltimore,NSFC,2,14,0,0.125,322,559,-237,1,7,1,7,2,10,missed
+28,AUS,Copperheads,Austin,ASFC,9,7,0,0.563,431,361,70,4,4,5,3,7,5,runner_up
+28,HON,Hahalua,Honolulu,ASFC,9,7,0,0.563,318,356,-38,5,3,4,4,8,4,missed
+28,AZ,Outlaws,Arizona,ASFC,12,4,0,0.75,504,348,156,5,3,7,1,9,3,semifinal
+28,NOLA,Second Line,New Orleans,ASFC,5,11,0,0.313,371,431,-60,4,4,1,7,3,9,missed
+28,SJS,Sabercats,San Jose,ASFC,5,11,0,0.313,388,453,-65,2,6,3,5,4,8,missed
+28,NYS,Silverbacks,New York,ASFC,10,6,0,0.625,368,358,10,7,1,3,5,7,5,first_round
+28,OCO,Otters,Orange County,ASFC,7,9,0,0.438,379,388,-9,3,5,4,4,4,8,missed
+28,CHI,Butchers,Chicago,NSFC,6,10,0,0.375,430,452,-22,2,6,4,4,5,7,missed
+28,SAR,Sailfish,Sarasota,NSFC,10,6,0,0.625,518,391,127,6,2,4,4,7,5,first_round
+28,YKW,Wraiths,Yellowknife,NSFC,11,5,0,0.688,442,368,74,6,2,5,3,8,4,champion
+28,COL,Yeti,Colorado,NSFC,8,8,0,0.5,422,442,-20,5,3,3,5,6,6,missed
+29,YKW,Wraiths,Yellowknife,NSFC,10,6,0,0.625,440,417,23,5,3,5,3,7,5,missed
+29,BER,Fire Salamanders,Berlin,NSFC,13,3,0,0.813,484,335,149,7,1,6,2,10,2,runner_up
+29,COL,Yeti,Colorado,NSFC,12,4,0,0.75,462,373,89,8,0,4,4,9,3,first_round
+29,SAR,Sailfish,Sarasota,NSFC,11,5,0,0.688,487,373,114,5,3,6,2,9,3,semifinal
+29,PHI,Liberty,Philadelphia,NSFC,5,11,0,0.313,368,420,-52,3,5,2,6,3,9,missed
+29,CHI,Butchers,Chicago,NSFC,5,11,0,0.313,347,390,-43,3,5,2,6,3,9,missed
+29,BAL,Hawks,Baltimore,NSFC,3,13,0,0.188,269,521,-252,2,6,1,7,1,11,missed
+29,NOLA,Second Line,New Orleans,ASFC,9,7,0,0.563,430,393,37,7,1,2,6,7,5,first_round
+29,AZ,Outlaws,Arizona,ASFC,11,5,0,0.688,479,370,109,7,1,4,4,9,3,semifinal
+29,NYS,Silverbacks,New York,ASFC,10,6,0,0.625,451,408,43,5,3,5,3,7,5,champion
+29,AUS,Copperheads,Austin,ASFC,5,10,1,0.344,424,442,-18,3,5,2,5,4,7,missed
+29,HON,Hahalua,Honolulu,ASFC,3,13,0,0.188,348,471,-123,1,7,2,6,3,9,missed
+29,OCO,Otters,Orange County,ASFC,8,8,0,0.5,416,409,7,4,4,4,4,6,6,missed
+29,SJS,Sabercats,San Jose,ASFC,6,9,1,0.406,424,507,-83,3,4,3,5,5,6,missed
+30,SJS,Sabercats,San Jose,ASFC,4,12,0,0.25,422,489,-67,3,5,1,7,3,9,missed
+30,AUS,Copperheads,Austin,ASFC,11,5,0,0.688,415,399,16,6,2,5,3,7,5,first_round
+30,NOLA,Second Line,New Orleans,ASFC,5,11,0,0.313,401,479,-78,3,5,2,6,4,8,missed
+30,OCO,Otters,Orange County,ASFC,9,7,0,0.563,404,446,-42,5,3,4,4,6,6,missed
+30,COL,Yeti,Colorado,NSFC,8,8,0,0.5,392,345,47,3,5,5,3,6,6,missed
+30,BER,Fire Salamanders,Berlin,NSFC,9,7,0,0.563,421,354,67,5,3,4,4,8,4,semifinal
+30,BAL,Hawks,Baltimore,NSFC,4,12,0,0.25,304,413,-109,1,7,3,5,2,10,missed
+30,HON,Hahalua,Honolulu,ASFC,6,10,0,0.375,405,474,-69,2,6,4,4,4,8,missed
+30,YKW,Wraiths,Yellowknife,NSFC,10,6,0,0.625,449,367,82,4,4,6,2,8,4,first_round
+30,SAR,Sailfish,Sarasota,NSFC,11,5,0,0.688,454,381,73,6,2,5,3,9,3,champion
+30,AZ,Outlaws,Arizona,ASFC,14,2,0,0.875,549,299,250,7,1,7,1,10,2,runner_up
+30,NYS,Silverbacks,New York,ASFC,11,5,0,0.688,430,407,23,7,1,4,4,8,4,semifinal
+30,CHI,Butchers,Chicago,NSFC,6,10,0,0.375,318,458,-140,2,6,4,4,6,6,missed
+30,PHI,Liberty,Philadelphia,NSFC,4,12,0,0.25,358,411,-53,3,5,1,7,3,9,missed
+31,OCO,Otters,Orange County,ASFC,4,12,0,0.25,315,455,-140,2,6,2,6,4,8,missed
+31,AUS,Copperheads,Austin,ASFC,12,4,0,0.75,457,339,118,6,2,6,2,11,1,semifinal
+31,SAR,Sailfish,Sarasota,NSFC,10,6,0,0.625,468,379,89,6,2,4,4,7,5,first_round
+31,YKW,Wraiths,Yellowknife,NSFC,8,8,0,0.5,430,438,-8,3,5,5,3,6,6,missed
+31,NOLA,Second Line,New Orleans,ASFC,6,10,0,0.375,319,433,-114,3,5,3,5,3,9,missed
+31,HON,Hahalua,Honolulu,ASFC,9,7,0,0.563,373,340,33,4,4,5,3,7,5,champion
+31,CHI,Butchers,Chicago,NSFC,10,6,0,0.625,452,330,122,3,5,7,1,7,5,semifinal
+31,PHI,Liberty,Philadelphia,NSFC,8,8,0,0.5,420,383,37,5,3,3,5,6,6,missed
+31,BER,Fire Salamanders,Berlin,NSFC,9,7,0,0.563,458,360,98,6,2,3,5,5,7,missed
+31,COL,Yeti,Colorado,NSFC,11,5,0,0.688,465,435,30,5,3,6,2,8,4,runner_up
+31,NYS,Silverbacks,New York,ASFC,6,10,0,0.375,370,402,-32,2,6,4,4,5,7,missed
+31,AZ,Outlaws,Arizona,ASFC,9,7,0,0.563,443,374,69,4,4,5,3,7,5,first_round
+31,SJS,Sabercats,San Jose,ASFC,6,10,0,0.375,362,495,-133,3,5,3,5,5,7,missed
+31,BAL,Hawks,Baltimore,NSFC,4,12,0,0.25,375,544,-169,3,5,1,7,3,9,missed
+32,HON,Hahalua,Honolulu,ASFC,9,7,0,0.563,406,363,43,5,3,4,4,6,6,missed
+32,NYS,Silverbacks,New York,ASFC,10,6,0,0.625,481,439,42,7,1,3,5,7,5,champion
+32,SAR,Sailfish,Sarasota,NSFC,9,7,0,0.563,428,370,58,4,4,5,3,7,5,first_round
+32,COL,Yeti,Colorado,NSFC,7,9,0,0.438,409,459,-50,4,4,3,5,5,7,missed
+32,BAL,Hawks,Baltimore,NSFC,5,11,0,0.313,422,464,-42,5,3,0,8,4,8,missed
+32,OCO,Otters,Orange County,ASFC,3,13,0,0.188,277,446,-169,2,6,1,7,2,10,missed
+32,BER,Fire Salamanders,Berlin,NSFC,11,5,0,0.688,471,387,84,6,2,5,3,9,3,runner_up
+32,CHI,Butchers,Chicago,NSFC,5,11,0,0.313,346,470,-124,3,5,2,6,4,8,missed
+32,AUS,Copperheads,Austin,ASFC,11,5,0,0.688,493,405,88,6,2,5,3,8,4,first_round
+32,AZ,Outlaws,Arizona,ASFC,12,4,0,0.75,500,310,190,8,0,4,4,8,4,semifinal
+32,PHI,Liberty,Philadelphia,NSFC,11,5,0,0.688,475,313,162,7,1,4,4,9,3,semifinal
+32,YKW,Wraiths,Yellowknife,NSFC,5,11,0,0.313,343,453,-110,5,3,0,8,4,8,missed
+32,SJS,Sabercats,San Jose,ASFC,8,8,0,0.5,435,490,-55,4,4,4,4,7,5,missed
+32,NOLA,Second Line,New Orleans,ASFC,6,10,0,0.375,338,455,-117,2,6,4,4,4,8,missed
+33,NYS,Silverbacks,New York,ASFC,6,10,0,0.375,352,471,-119,3,5,3,5,5,7,missed
+33,HON,Hahalua,Honolulu,ASFC,7,9,0,0.438,416,442,-26,5,3,2,6,6,6,missed
+33,BER,Fire Salamanders,Berlin,NSFC,9,7,0,0.563,439,408,31,4,4,5,3,7,5,missed
+33,PHI,Liberty,Philadelphia,NSFC,6,10,0,0.375,336,412,-76,4,4,2,6,3,9,missed
+33,YKW,Wraiths,Yellowknife,NSFC,5,11,0,0.313,385,493,-108,2,6,3,5,2,10,missed
+33,OCO,Otters,Orange County,ASFC,9,7,0,0.563,410,412,-2,6,2,3,5,8,4,runner_up
+33,COL,Yeti,Colorado,NSFC,9,7,0,0.563,435,406,29,6,2,3,5,6,6,missed
+33,SAR,Sailfish,Sarasota,NSFC,12,4,0,0.75,431,336,95,7,1,5,3,10,2,semifinal
+33,AZ,Outlaws,Arizona,ASFC,12,4,0,0.75,485,381,104,7,1,5,3,10,2,semifinal
+33,AUS,Copperheads,Austin,ASFC,8,8,0,0.5,452,412,40,5,3,3,5,7,5,first_round
+33,CHI,Butchers,Chicago,NSFC,10,6,0,0.625,518,432,86,4,4,6,2,6,6,first_round
+33,BAL,Hawks,Baltimore,NSFC,11,5,0,0.688,468,401,67,7,1,4,4,8,4,champion
+33,SJS,Sabercats,San Jose,ASFC,5,11,0,0.313,398,434,-36,4,4,1,7,3,9,missed
+33,NOLA,Second Line,New Orleans,ASFC,3,13,0,0.188,362,447,-85,2,6,1,7,3,9,missed
+34,AZ,Outlaws,Arizona,ASFC,10,5,1,0.656,458,363,95,6,1,4,4,8,4,semifinal
+34,AUS,Copperheads,Austin,ASFC,7,9,0,0.438,494,431,63,3,5,4,4,6,6,missed
+34,CHI,Butchers,Chicago,NSFC,12,3,1,0.781,502,357,145,6,2,6,1,11,1,champion
+34,BAL,Hawks,Baltimore,NSFC,6,10,0,0.375,376,482,-106,3,5,3,5,4,8,missed
+34,SJS,Sabercats,San Jose,ASFC,7,8,1,0.469,380,454,-74,3,4,4,4,5,7,missed
+34,NOLA,Second Line,New Orleans,ASFC,8,8,0,0.5,391,440,-49,3,5,5,3,6,6,first_round
+34,NYS,Silverbacks,New York,ASFC,8,8,0,0.5,462,415,47,4,4,4,4,5,7,missed
+34,HON,Hahalua,Honolulu,ASFC,11,5,0,0.688,440,381,59,6,2,5,3,8,4,runner_up
+34,BER,Fire Salamanders,Berlin,NSFC,11,4,1,0.719,442,396,46,5,2,6,2,7,4,semifinal
+34,PHI,Liberty,Philadelphia,NSFC,6,9,1,0.406,355,408,-53,3,5,3,4,5,7,missed
+34,YKW,Wraiths,Yellowknife,NSFC,6,10,0,0.375,364,444,-80,4,4,2,6,5,7,missed
+34,OCO,Otters,Orange County,ASFC,5,11,0,0.313,359,398,-39,3,5,2,6,4,8,missed
+34,COL,Yeti,Colorado,NSFC,2,14,0,0.125,422,556,-134,1,7,1,7,2,10,missed
+34,SAR,Sailfish,Sarasota,NSFC,10,5,1,0.656,484,404,80,5,3,5,2,7,4,first_round
+35,BER,Fire Salamanders,Berlin,NSFC,8,8,0,0.5,385,429,-44,5,3,3,5,7,5,missed
+35,CHI,Butchers,Chicago,NSFC,9,7,0,0.563,479,415,64,6,2,3,5,8,4,semifinal
+35,COL,Yeti,Colorado,NSFC,3,13,0,0.188,399,585,-186,3,5,0,8,2,10,missed
+35,OCO,Otters,Orange County,ASFC,9,7,0,0.563,430,394,36,5,3,4,4,5,7,first_round
+35,PHI,Liberty,Philadelphia,NSFC,8,8,0,0.5,412,384,28,5,3,3,5,6,6,missed
+35,SAR,Sailfish,Sarasota,NSFC,7,9,0,0.438,492,482,10,3,5,4,4,5,7,missed
+35,HON,Hahalua,Honolulu,ASFC,13,3,0,0.813,435,278,157,8,0,5,3,10,2,champion
+35,AZ,Outlaws,Arizona,ASFC,13,3,0,0.813,462,352,110,8,0,5,3,9,3,semifinal
+35,BAL,Hawks,Baltimore,NSFC,9,7,0,0.563,501,431,70,5,3,4,4,8,4,runner_up
+35,YKW,Wraiths,Yellowknife,NSFC,8,8,0,0.5,404,360,44,5,3,3,5,6,6,first_round
+35,SJS,Sabercats,San Jose,ASFC,8,8,0,0.5,413,408,5,6,2,2,6,6,6,missed
+35,AUS,Copperheads,Austin,ASFC,5,11,0,0.313,358,479,-121,4,4,1,7,4,8,missed
+35,NOLA,Second Line,New Orleans,ASFC,6,10,0,0.375,313,394,-81,5,3,1,7,4,8,missed
+35,NYS,Silverbacks,New York,ASFC,6,10,0,0.375,412,504,-92,5,3,1,7,4,8,missed
+36,OCO,Otters,Orange County,ASFC,7,9,0,0.438,392,367,25,5,3,2,6,5,7,missed
+36,SJS,Sabercats,San Jose,ASFC,10,6,0,0.625,398,408,-10,6,2,4,4,8,4,first_round
+36,CHI,Butchers,Chicago,NSFC,13,3,0,0.813,459,314,145,7,1,6,2,9,3,semifinal
+36,BAL,Hawks,Baltimore,NSFC,7,9,0,0.438,409,361,48,3,5,4,4,7,5,missed
+36,COL,Yeti,Colorado,NSFC,5,11,0,0.313,414,496,-82,3,5,2,6,4,8,missed
+36,AUS,Copperheads,Austin,ASFC,7,9,0,0.438,363,412,-49,3,5,4,4,4,8,missed
+36,PHI,Liberty,Philadelphia,NSFC,8,8,0,0.5,367,403,-36,6,2,2,6,6,6,missed
+36,YKW,Wraiths,Yellowknife,NSFC,9,7,0,0.563,396,308,88,6,2,3,5,6,6,first_round
+36,HON,Hahalua,Honolulu,ASFC,11,5,0,0.688,423,311,112,6,2,5,3,9,3,champion
+36,AZ,Outlaws,Arizona,ASFC,9,7,0,0.563,415,387,28,5,3,4,4,6,6,semifinal
+36,SAR,Sailfish,Sarasota,NSFC,12,4,0,0.75,460,308,152,7,1,5,3,9,3,runner_up
+36,BER,Fire Salamanders,Berlin,NSFC,2,14,0,0.125,305,588,-283,1,7,1,7,1,11,missed
+36,NOLA,Second Line,New Orleans,ASFC,7,9,0,0.438,393,343,50,4,4,3,5,5,7,missed
+36,NYS,Silverbacks,New York,ASFC,5,11,0,0.313,334,522,-188,2,6,3,5,5,7,missed
+37,COL,Yeti,Colorado,NSFC,5,11,0,0.313,338,465,-127,2,6,3,5,2,10,missed
+37,BAL,Hawks,Baltimore,NSFC,8,8,0,0.5,402,385,17,6,2,2,6,5,7,missed
+37,AUS,Copperheads,Austin,ASFC,2,14,0,0.125,350,517,-167,2,6,0,8,2,10,missed
+37,NOLA,Second Line,New Orleans,ASFC,9,7,0,0.563,358,368,-10,6,2,3,5,8,4,first_round
+37,SJS,Sabercats,San Jose,ASFC,6,10,0,0.375,419,411,8,4,4,2,6,4,8,missed
+37,OCO,Otters,Orange County,ASFC,7,9,0,0.438,405,390,15,4,4,3,5,7,5,missed
+37,SAR,Sailfish,Sarasota,NSFC,12,4,0,0.75,456,372,84,6,2,6,2,8,4,runner_up
+37,CHI,Butchers,Chicago,NSFC,10,6,0,0.625,409,347,62,6,2,4,4,7,5,first_round
+37,BER,Fire Salamanders,Berlin,NSFC,7,9,0,0.438,290,348,-58,4,4,3,5,6,6,missed
+37,NYS,Silverbacks,New York,ASFC,6,10,0,0.375,384,448,-64,2,6,4,4,5,7,missed
+37,PHI,Liberty,Philadelphia,NSFC,9,7,0,0.563,424,356,68,6,2,3,5,6,6,missed
+37,YKW,Wraiths,Yellowknife,NSFC,11,5,0,0.688,382,311,71,5,3,6,2,8,4,semifinal
+37,HON,Hahalua,Honolulu,ASFC,9,7,0,0.563,407,400,7,5,3,4,4,7,5,semifinal
+37,AZ,Outlaws,Arizona,ASFC,11,5,0,0.688,493,399,94,7,1,4,4,9,3,champion
+38,COL,Yeti,Colorado,NSFC,5,11,0,0.313,363,432,-69,3,5,2,6,4,8,missed
+38,AUS,Copperheads,Austin,ASFC,8,8,0,0.5,377,434,-57,3,5,5,3,7,5,missed
+38,PHI,Liberty,Philadelphia,NSFC,7,9,0,0.438,389,392,-3,5,3,2,6,5,7,missed
+38,CHI,Butchers,Chicago,NSFC,7,9,0,0.438,414,377,37,3,5,4,4,5,7,missed
+38,AZ,Outlaws,Arizona,ASFC,13,3,0,0.813,479,347,132,8,0,5,3,9,3,champion
+38,NOLA,Second Line,New Orleans,ASFC,8,8,0,0.5,459,373,86,5,3,3,5,6,6,missed
+38,BER,Fire Salamanders,Berlin,NSFC,10,6,0,0.625,416,414,2,7,1,3,5,8,4,runner_up
+38,BAL,Hawks,Baltimore,NSFC,9,7,0,0.563,340,359,-19,6,2,3,5,7,5,first_round
+38,NYS,Silverbacks,New York,ASFC,9,7,0,0.563,440,384,56,4,4,5,3,7,5,semifinal
+38,SJS,Sabercats,San Jose,ASFC,10,6,0,0.625,460,412,48,6,2,4,4,7,5,first_round
+38,HON,Hahalua,Honolulu,ASFC,0,16,0,0.0,318,553,-235,0,8,0,8,0,12,missed
+38,OCO,Otters,Orange County,ASFC,9,7,0,0.563,421,451,-30,5,3,4,4,6,6,missed
+38,YKW,Wraiths,Yellowknife,NSFC,10,6,0,0.625,353,335,18,5,3,5,3,8,4,semifinal
+38,SAR,Sailfish,Sarasota,NSFC,7,9,0,0.438,465,431,34,2,6,5,3,5,7,missed
+39,NYS,Silverbacks,New York,ASFC,6,9,1,0.406,337,425,-88,3,5,3,4,5,6,missed
+39,OCO,Otters,Orange County,ASFC,4,11,1,0.281,363,488,-125,2,5,2,6,3,8,missed
+39,YKW,Wraiths,Yellowknife,NSFC,13,3,0,0.813,510,221,289,8,0,5,3,9,3,champion
+39,BER,Fire Salamanders,Berlin,NSFC,4,12,0,0.25,332,467,-135,3,5,1,7,4,8,missed
+39,COL,Yeti,Colorado,NSFC,9,6,1,0.594,437,395,42,5,3,4,3,5,6,missed
+39,HON,Hahalua,Honolulu,ASFC,3,13,0,0.188,373,596,-223,3,5,0,8,2,10,missed
+39,SAR,Sailfish,Sarasota,NSFC,10,5,1,0.656,483,354,129,5,2,5,3,8,3,first_round
+39,BAL,Hawks,Baltimore,NSFC,6,10,0,0.375,316,445,-129,3,5,3,5,3,9,missed
+39,AZ,Outlaws,Arizona,ASFC,11,5,0,0.688,511,354,157,6,2,5,3,9,3,runner_up
+39,SJS,Sabercats,San Jose,ASFC,7,9,0,0.438,417,389,28,6,2,1,7,6,6,missed
+39,CTC,Crash,Cape Town,NSFC,8,8,0,0.5,388,433,-45,5,3,3,5,6,6,missed
+39,CHI,Butchers,Chicago,NSFC,10,6,0,0.625,413,393,20,5,3,5,3,6,6,semifinal
+39,AUS,Copperheads,Austin,ASFC,11,5,0,0.688,405,319,86,7,1,4,4,9,3,first_round
+39,NOLA,Second Line,New Orleans,ASFC,8,8,0,0.5,374,380,-6,4,4,4,4,7,5,semifinal
+40,CTC,Crash,Cape Town,NSFC,10,6,0,0.625,413,376,37,6,2,4,4,6,6,first_round
+40,BAL,Hawks,Baltimore,NSFC,5,11,0,0.313,412,530,-118,5,3,0,8,4,8,missed
+40,CHI,Butchers,Chicago,NSFC,12,4,0,0.75,414,363,51,7,1,5,3,9,3,semifinal
+40,COL,Yeti,Colorado,NSFC,7,8,1,0.469,427,456,-29,4,3,3,5,5,6,missed
+40,AUS,Copperheads,Austin,ASFC,10,6,0,0.625,428,389,39,5,3,5,3,9,3,first_round
+40,AZ,Outlaws,Arizona,ASFC,14,2,0,0.875,509,249,260,8,0,6,2,11,1,champion
+40,HON,Hahalua,Honolulu,ASFC,5,11,0,0.313,392,518,-126,3,5,2,6,4,8,missed
+40,BER,Fire Salamanders,Berlin,NSFC,5,10,1,0.344,362,426,-64,3,4,2,6,2,10,missed
+40,SJS,Sabercats,San Jose,ASFC,5,11,0,0.313,382,449,-67,3,5,2,6,5,7,missed
+40,NOLA,Second Line,New Orleans,ASFC,6,10,0,0.375,314,404,-90,4,4,2,6,4,8,missed
+40,YKW,Wraiths,Yellowknife,NSFC,12,4,0,0.75,429,305,124,7,1,5,3,9,3,runner_up
+40,SAR,Sailfish,Sarasota,NSFC,8,7,1,0.531,429,293,136,5,3,3,4,6,5,missed
+40,OCO,Otters,Orange County,ASFC,7,8,1,0.469,369,450,-81,4,4,3,4,6,6,semifinal
+40,NYS,Silverbacks,New York,ASFC,4,12,0,0.25,344,416,-72,1,7,3,5,3,9,missed
+41,NOLA,Second Line,New Orleans,ASFC,1,15,0,0.063,246,570,-324,0,8,1,7,1,11,missed
+41,OCO,Otters,Orange County,ASFC,10,6,0,0.625,421,364,57,5,3,5,3,8,4,first_round
+41,YKW,Wraiths,Yellowknife,NSFC,10,6,0,0.625,388,290,98,4,4,6,2,7,5,first_round
+41,CHI,Butchers,Chicago,NSFC,9,7,0,0.563,344,368,-24,4,4,5,3,6,6,missed
+41,HON,Hahalua,Honolulu,ASFC,11,5,0,0.688,446,305,141,6,2,5,3,9,3,semifinal
+41,SJS,Sabercats,San Jose,ASFC,7,9,0,0.438,347,350,-3,3,5,4,4,4,8,missed
+41,COL,Yeti,Colorado,NSFC,6,10,0,0.375,336,385,-49,2,6,4,4,4,8,missed
+41,BER,Fire Salamanders,Berlin,NSFC,5,11,0,0.313,255,301,-46,3,5,2,6,3,9,missed
+41,CTC,Crash,Cape Town,NSFC,13,3,0,0.813,454,294,160,7,1,6,2,10,2,champion
+41,SAR,Sailfish,Sarasota,NSFC,9,7,0,0.563,444,400,44,5,3,4,4,7,5,semifinal
+41,AUS,Copperheads,Austin,ASFC,7,9,0,0.438,358,364,-6,3,5,4,4,7,5,missed
+41,AZ,Outlaws,Arizona,ASFC,11,5,0,0.688,358,329,29,4,4,7,1,8,4,runner_up
+41,NYS,Silverbacks,New York,ASFC,7,9,0,0.438,390,402,-12,4,4,3,5,5,7,missed
+41,BAL,Hawks,Baltimore,NSFC,6,10,0,0.375,346,411,-65,3,5,3,5,5,7,missed
+42,SAR,Sailfish,Sarasota,NSFC,8,8,0,0.5,423,444,-21,4,4,4,4,6,6,missed
+42,CHI,Butchers,Chicago,NSFC,4,12,0,0.25,398,587,-189,3,5,1,7,3,9,missed
+42,AZ,Outlaws,Arizona,ASFC,13,3,0,0.813,459,299,160,7,1,6,2,10,2,champion
+42,HON,Hahalua,Honolulu,ASFC,10,6,0,0.625,378,366,12,6,2,4,4,8,4,semifinal
+42,NOLA,Second Line,New Orleans,ASFC,1,15,0,0.063,300,497,-197,0,8,1,7,1,11,missed
+42,BER,Fire Salamanders,Berlin,NSFC,9,7,0,0.563,379,334,45,5,3,4,4,6,6,runner_up
+42,AUS,Copperheads,Austin,ASFC,10,6,0,0.625,407,349,58,5,3,5,3,6,6,missed
+42,OCO,Otters,Orange County,ASFC,5,11,0,0.313,374,413,-39,2,6,3,5,4,8,missed
+42,CTC,Crash,Cape Town,NSFC,10,6,0,0.625,454,365,89,5,3,5,3,7,5,first_round
+42,YKW,Wraiths,Yellowknife,NSFC,8,8,0,0.5,423,444,-21,3,5,5,3,8,4,missed
+42,NYS,Silverbacks,New York,ASFC,11,5,0,0.688,434,319,115,7,1,4,4,8,4,first_round
+42,SJS,Sabercats,San Jose,ASFC,6,10,0,0.375,324,372,-48,1,7,5,3,5,7,missed
+42,BAL,Hawks,Baltimore,NSFC,11,5,0,0.688,428,302,126,6,2,5,3,8,4,semifinal
+42,COL,Yeti,Colorado,NSFC,6,10,0,0.375,394,484,-90,2,6,4,4,4,8,missed
+43,BER,Fire Salamanders,Berlin,NSFC,8,8,0,0.5,399,349,50,5,3,3,5,6,6,missed
+43,YKW,Wraiths,Yellowknife,NSFC,7,9,0,0.438,386,488,-102,4,4,3,5,4,8,missed
+43,NYS,Silverbacks,New York,ASFC,14,2,0,0.875,492,311,181,6,2,8,0,11,1,runner_up
+43,AZ,Outlaws,Arizona,ASFC,9,7,0,0.563,420,350,70,7,1,2,6,7,5,semifinal
+43,NOLA,Second Line,New Orleans,ASFC,1,15,0,0.063,255,494,-239,1,7,0,8,1,11,missed
+43,CHI,Butchers,Chicago,NSFC,3,13,0,0.188,265,472,-207,0,8,3,5,2,10,missed
+43,AUS,Copperheads,Austin,ASFC,7,8,1,0.469,420,402,18,4,4,3,4,6,6,missed
+43,HON,Hahalua,Honolulu,ASFC,8,8,0,0.5,377,359,18,5,3,3,5,7,5,first_round
+43,BAL,Hawks,Baltimore,NSFC,13,2,1,0.844,497,327,170,7,0,6,2,11,1,champion
+43,CTC,Crash,Cape Town,NSFC,12,4,0,0.75,466,301,165,6,2,6,2,8,4,semifinal
+43,OCO,Otters,Orange County,ASFC,7,9,0,0.438,368,414,-46,4,4,3,5,6,6,missed
+43,SJS,Sabercats,San Jose,ASFC,6,10,0,0.375,384,425,-41,3,5,3,5,4,8,missed
+43,SAR,Sailfish,Sarasota,NSFC,8,8,0,0.5,416,457,-41,4,4,4,4,5,7,missed
+43,COL,Yeti,Colorado,NSFC,8,8,0,0.5,403,399,4,5,3,3,5,6,6,first_round
+44,BAL,Hawks,Baltimore,NSFC,12,4,0,0.75,508,378,130,6,2,6,2,8,4,semifinal
+44,CTC,Crash,Cape Town,NSFC,13,3,0,0.813,464,318,146,6,2,7,1,10,2,runner_up
+44,SJS,Sabercats,San Jose,ASFC,3,13,0,0.188,332,489,-157,2,6,1,7,3,9,missed
+44,OCO,Otters,Orange County,ASFC,6,10,0,0.375,388,407,-19,4,4,2,6,4,8,missed
+44,SAR,Sailfish,Sarasota,NSFC,9,7,0,0.563,405,377,28,5,3,4,4,7,5,first_round
+44,YKW,Wraiths,Yellowknife,NSFC,8,8,0,0.5,385,430,-45,4,4,4,4,5,7,missed
+44,COL,Yeti,Colorado,NSFC,5,11,0,0.313,335,442,-107,2,6,3,5,4,8,missed
+44,BER,Fire Salamanders,Berlin,NSFC,8,8,0,0.5,406,395,11,4,4,4,4,6,6,missed
+44,AZ,Outlaws,Arizona,ASFC,9,7,0,0.563,394,362,32,6,2,3,5,8,4,missed
+44,NYS,Silverbacks,New York,ASFC,11,5,0,0.688,424,341,83,7,1,4,4,10,2,semifinal
+44,NOLA,Second Line,New Orleans,ASFC,3,13,0,0.188,316,567,-251,2,6,1,7,0,12,missed
+44,CHI,Butchers,Chicago,NSFC,3,13,0,0.188,308,425,-117,1,7,2,6,2,10,missed
+44,AUS,Copperheads,Austin,ASFC,10,6,0,0.625,445,351,94,6,2,4,4,8,4,first_round
+44,HON,Hahalua,Honolulu,ASFC,12,4,0,0.75,439,267,172,7,1,5,3,9,3,champion
+45,BAL,Hawks,Baltimore,NSFC,9,7,0,0.563,433,393,40,5,3,4,4,8,4,first_round
+45,CTC,Crash,Cape Town,NSFC,7,9,0,0.438,469,486,-17,4,4,3,5,5,7,missed
+45,CHI,Butchers,Chicago,NSFC,8,8,0,0.5,369,389,-20,5,3,3,5,6,6,missed
+45,NOLA,Second Line,New Orleans,ASFC,5,11,0,0.313,353,433,-80,4,4,1,7,3,9,missed
+45,BER,Fire Salamanders,Berlin,NSFC,9,7,0,0.563,411,423,-12,5,3,4,4,6,6,missed
+45,SAR,Sailfish,Sarasota,NSFC,9,7,0,0.563,441,420,21,4,4,5,3,6,6,runner_up
+45,HON,Hahalua,Honolulu,ASFC,11,5,0,0.688,486,367,119,6,2,5,3,8,4,semifinal
+45,NYS,Silverbacks,New York,ASFC,8,8,0,0.5,404,355,49,5,3,3,5,4,8,missed
+45,COL,Yeti,Colorado,NSFC,10,6,0,0.625,367,375,-8,6,2,4,4,9,3,semifinal
+45,YKW,Wraiths,Yellowknife,NSFC,4,12,0,0.25,411,483,-72,3,5,1,7,2,10,missed
+45,OCO,Otters,Orange County,ASFC,8,8,0,0.5,372,406,-34,4,4,4,4,7,5,missed
+45,SJS,Sabercats,San Jose,ASFC,6,10,0,0.375,339,378,-39,2,6,4,4,4,8,missed
+45,AUS,Copperheads,Austin,ASFC,9,7,0,0.563,448,437,11,5,3,4,4,8,4,champion
+45,AZ,Outlaws,Arizona,ASFC,9,7,0,0.563,370,328,42,6,2,3,5,8,4,first_round
+46,YKW,Wraiths,Yellowknife,NSFC,8,8,0,0.5,354,348,6,5,3,3,5,7,5,runner_up
+46,NOLA,Second Line,New Orleans,ASFC,4,12,0,0.25,370,424,-54,3,5,1,7,2,10,missed
+46,CTC,Crash,Cape Town,NSFC,7,9,0,0.438,375,327,48,5,3,2,6,6,6,missed
+46,CHI,Butchers,Chicago,NSFC,8,8,0,0.5,377,403,-26,4,4,4,4,4,8,missed
+46,AZ,Outlaws,Arizona,ASFC,13,3,0,0.813,421,318,103,8,0,5,3,10,2,champion
+46,OCO,Otters,Orange County,ASFC,12,4,0,0.75,435,337,98,6,2,6,2,9,3,first_round
+46,BER,Fire Salamanders,Berlin,NSFC,5,11,0,0.313,341,425,-84,2,6,3,5,4,8,missed
+46,SAR,Sailfish,Sarasota,NSFC,9,7,0,0.563,359,397,-38,6,2,3,5,8,4,first_round
+46,AUS,Copperheads,Austin,ASFC,10,6,0,0.625,390,339,51,6,2,4,4,8,4,semifinal
+46,HON,Hahalua,Honolulu,ASFC,2,14,0,0.125,291,473,-182,2,6,0,8,2,10,missed
+46,NYS,Silverbacks,New York,ASFC,7,9,0,0.438,380,416,-36,3,5,4,4,4,8,missed
+46,SJS,Sabercats,San Jose,ASFC,9,7,0,0.563,345,352,-7,4,4,5,3,7,5,missed
+46,BAL,Hawks,Baltimore,NSFC,12,4,0,0.75,446,311,135,6,2,6,2,9,3,semifinal
+46,COL,Yeti,Colorado,NSFC,6,10,0,0.375,384,398,-14,3,5,3,5,4,8,missed
+47,NYS,Silverbacks,New York,ASFC,6,10,0,0.375,370,465,-95,4,4,2,6,4,8,missed
+47,NOLA,Second Line,New Orleans,ASFC,11,5,0,0.688,429,339,90,5,3,6,2,7,5,first_round
+47,SAR,Sailfish,Sarasota,NSFC,7,9,0,0.438,280,352,-72,4,4,3,5,7,5,missed
+47,BAL,Hawks,Baltimore,NSFC,10,6,0,0.625,451,371,80,7,1,3,5,7,5,first_round
+47,BER,Fire Salamanders,Berlin,NSFC,6,10,0,0.375,374,431,-57,4,4,2,6,4,8,missed
+47,HON,Hahalua,Honolulu,ASFC,2,14,0,0.125,364,543,-179,2,6,0,8,0,12,missed
+47,COL,Yeti,Colorado,NSFC,1,15,0,0.063,297,513,-216,0,8,1,7,1,11,missed
+47,CTC,Crash,Cape Town,NSFC,9,7,0,0.563,467,373,94,7,1,2,6,8,4,runner_up
+47,AUS,Copperheads,Austin,ASFC,6,10,0,0.375,333,372,-39,4,4,2,6,5,7,missed
+47,SJS,Sabercats,San Jose,ASFC,13,3,0,0.813,462,309,153,7,1,6,2,10,2,semifinal
+47,YKW,Wraiths,Yellowknife,NSFC,8,8,0,0.5,420,430,-10,6,2,2,6,6,6,missed
+47,CHI,Butchers,Chicago,NSFC,11,5,0,0.688,386,340,46,5,3,6,2,9,3,semifinal
+47,OCO,Otters,Orange County,ASFC,10,6,0,0.625,409,339,70,5,3,5,3,7,5,missed
+47,AZ,Outlaws,Arizona,ASFC,12,4,0,0.75,469,334,135,6,2,6,2,9,3,champion
+48,NOLA,Second Line,New Orleans,ASFC,12,4,0,0.75,442,346,96,7,1,5,3,10,2,champion
+48,OCO,Otters,Orange County,ASFC,8,8,0,0.5,421,471,-50,6,2,2,6,6,6,missed
+48,CTC,Crash,Cape Town,NSFC,12,4,0,0.75,474,258,216,6,2,6,2,8,4,semifinal
+48,YKW,Wraiths,Yellowknife,NSFC,9,7,0,0.563,404,459,-55,5,3,4,4,6,6,missed
+48,AZ,Outlaws,Arizona,ASFC,11,5,0,0.688,503,395,108,5,3,6,2,8,4,semifinal
+48,SJS,Sabercats,San Jose,ASFC,10,6,0,0.625,420,322,98,6,2,4,4,9,3,first_round
+48,AUS,Copperheads,Austin,ASFC,5,11,0,0.313,340,415,-75,4,4,1,7,3,9,missed
+48,NYS,Silverbacks,New York,ASFC,4,12,0,0.25,351,449,-98,3,5,1,7,2,10,missed
+48,BAL,Hawks,Baltimore,NSFC,10,6,0,0.625,486,348,138,4,4,6,2,8,4,runner_up
+48,CHI,Butchers,Chicago,NSFC,11,5,0,0.688,400,317,83,7,1,4,4,9,3,first_round
+48,COL,Yeti,Colorado,NSFC,0,16,0,0.0,259,609,-350,0,8,0,8,0,12,missed
+48,HON,Hahalua,Honolulu,ASFC,6,10,0,0.375,388,478,-90,4,4,2,6,4,8,missed
+48,BER,Fire Salamanders,Berlin,NSFC,6,10,0,0.375,402,470,-68,3,5,3,5,5,7,missed
+48,SAR,Sailfish,Sarasota,NSFC,8,8,0,0.5,397,350,47,4,4,4,4,6,6,missed
+49,COL,Yeti,Colorado,NSFC,1,15,0,0.063,210,506,-296,0,8,1,7,1,11,missed
+49,NYS,Silverbacks,New York,ASFC,7,9,0,0.438,357,394,-37,5,3,2,6,4,8,missed
+49,BER,Fire Salamanders,Berlin,NSFC,5,11,0,0.313,382,457,-75,3,5,2,6,2,10,missed
+49,SAR,Sailfish,Sarasota,NSFC,10,6,0,0.625,401,328,73,5,3,5,3,6,6,first_round
+49,SJS,Sabercats,San Jose,ASFC,11,5,0,0.688,438,292,146,7,1,4,4,9,3,first_round
+49,OCO,Otters,Orange County,ASFC,3,13,0,0.188,325,389,-64,1,7,2,6,2,10,missed
+49,BAL,Hawks,Baltimore,NSFC,11,5,0,0.688,418,320,98,6,2,5,3,9,3,runner_up
+49,YKW,Wraiths,Yellowknife,NSFC,13,3,0,0.813,430,254,176,7,1,6,2,9,3,semifinal
+49,AZ,Outlaws,Arizona,ASFC,9,7,0,0.563,385,352,33,6,2,3,5,8,4,semifinal
+49,NOLA,Second Line,New Orleans,ASFC,12,4,0,0.75,432,345,87,7,1,5,3,10,2,champion
+49,HON,Hahalua,Honolulu,ASFC,6,10,0,0.375,331,444,-113,3,5,3,5,4,8,missed
+49,AUS,Copperheads,Austin,ASFC,7,9,0,0.438,352,433,-81,5,3,2,6,5,7,missed
+49,OSK,Kaiju,Osaka,NSFC,9,7,0,0.563,360,348,12,5,3,4,4,7,5,missed
+49,CTC,Crash,Cape Town,NSFC,8,8,0,0.5,373,332,41,4,4,4,4,8,4,missed
+50,BAL,Hawks,Baltimore,NSFC,12,4,0,0.75,399,322,77,6,2,6,2,9,3,champion
+50,YKW,Wraiths,Yellowknife,NSFC,9,7,0,0.563,408,357,51,4,4,5,3,7,5,missed
+50,COL,Yeti,Colorado,NSFC,3,13,0,0.188,378,463,-85,1,7,2,6,2,10,missed
+50,OCO,Otters,Orange County,ASFC,1,15,0,0.063,362,655,-293,1,7,0,8,1,11,missed
+50,BER,Fire Salamanders,Berlin,NSFC,5,11,0,0.313,337,452,-115,1,7,4,4,4,8,missed
+50,CTC,Crash,Cape Town,NSFC,9,7,0,0.563,441,375,66,4,4,5,3,5,7,missed
+50,AZ,Outlaws,Arizona,ASFC,10,5,1,0.656,470,347,123,6,1,4,4,7,4,first_round
+50,AUS,Copperheads,Austin,ASFC,8,8,0,0.5,379,354,25,5,3,3,5,6,6,missed
+50,SAR,Sailfish,Sarasota,NSFC,10,6,0,0.625,412,338,74,3,5,7,1,8,4,semifinal
+50,OSK,Kaiju,Osaka,NSFC,10,6,0,0.625,407,365,42,5,3,5,3,7,5,first_round
+50,SJS,Sabercats,San Jose,ASFC,6,10,0,0.375,367,423,-56,4,4,2,6,5,7,missed
+50,NOLA,Second Line,New Orleans,ASFC,7,9,0,0.438,378,381,-3,4,4,3,5,5,7,missed
+50,NYS,Silverbacks,New York,ASFC,9,6,1,0.594,410,388,22,4,4,5,2,8,3,runner_up
+50,HON,Hahalua,Honolulu,ASFC,12,4,0,0.75,476,404,72,6,2,6,2,9,3,semifinal
+51,NYS,Silverbacks,New York,ASFC,9,7,0,0.563,398,354,44,5,3,4,4,7,5,champion
+51,AUS,Copperheads,Austin,ASFC,9,7,0,0.563,490,389,101,6,2,3,5,7,5,first_round
+51,SAR,Sailfish,Sarasota,NSFC,10,6,0,0.625,464,449,15,5,3,5,3,8,4,runner_up
+51,BAL,Hawks,Baltimore,NSFC,10,5,1,0.656,442,375,67,6,2,4,3,8,4,semifinal
+51,CTC,Crash,Cape Town,NSFC,6,10,0,0.375,374,482,-108,3,5,3,5,4,8,missed
+51,BFB,Brood,Black Forest,NSFC,5,11,0,0.313,334,415,-81,3,5,2,6,3,9,missed
+51,AZ,Outlaws,Arizona,ASFC,10,6,0,0.625,456,382,74,5,3,5,3,8,4,semifinal
+51,HON,Hahalua,Honolulu,ASFC,8,7,1,0.531,451,339,112,6,1,2,6,6,6,missed
+51,OCO,Otters,Orange County,ASFC,4,12,0,0.25,259,565,-306,3,5,1,7,3,9,missed
+51,COL,Yeti,Colorado,NSFC,7,9,0,0.438,395,468,-73,6,2,1,7,5,7,missed
+51,SJS,Sabercats,San Jose,ASFC,6,10,0,0.375,324,392,-68,3,5,3,5,5,7,missed
+51,NOLA,Second Line,New Orleans,ASFC,9,7,0,0.563,371,317,54,5,3,4,4,6,6,missed
+51,OSK,Kaiju,Osaka,NSFC,8,8,0,0.5,420,338,82,5,3,3,5,6,6,missed
+51,YKW,Wraiths,Yellowknife,NSFC,10,6,0,0.625,431,344,87,5,3,5,3,8,4,first_round
+52,BFB,Brood,Black Forest,NSFC,2,14,0,0.125,292,574,-282,2,6,0,8,1,11,missed
+52,OCO,Otters,Orange County,ASFC,4,12,0,0.25,289,501,-212,3,5,1,7,2,10,missed
+52,CTC,Crash,Cape Town,NSFC,3,13,0,0.188,333,496,-163,2,6,1,7,3,9,missed
+52,COL,Yeti,Colorado,NSFC,12,4,0,0.75,403,271,132,7,1,5,3,10,2,first_round
+52,NYS,Silverbacks,New York,ASFC,12,3,1,0.781,496,337,159,5,2,7,1,9,2,runner_up
+52,NOLA,Second Line,New Orleans,ASFC,8,8,0,0.5,387,334,53,5,3,3,5,6,6,missed
+52,SAR,Sailfish,Sarasota,NSFC,7,9,0,0.438,429,417,12,5,3,2,6,6,6,missed
+52,OSK,Kaiju,Osaka,NSFC,7,9,0,0.438,375,357,18,5,3,2,6,6,6,missed
+52,AUS,Copperheads,Austin,ASFC,7,8,1,0.469,363,398,-35,4,4,3,4,5,6,missed
+52,AZ,Outlaws,Arizona,ASFC,12,4,0,0.75,434,349,85,6,2,6,2,10,2,semifinal
+52,HON,Hahalua,Honolulu,ASFC,9,7,0,0.563,412,303,109,6,2,3,5,6,6,first_round
+52,SJS,Sabercats,San Jose,ASFC,5,10,1,0.344,325,420,-95,3,4,2,6,3,9,missed
+52,YKW,Wraiths,Yellowknife,NSFC,9,6,1,0.594,508,372,136,8,0,1,6,7,5,semifinal
+52,BAL,Hawks,Baltimore,NSFC,13,3,0,0.813,391,308,83,8,0,5,3,9,3,champion
+53,BFB,Brood,Black Forest,NSFC,0,16,0,0.0,249,560,-311,0,8,0,8,0,12,missed
+53,OCO,Otters,Orange County,ASFC,7,9,0,0.438,395,426,-31,4,4,3,5,3,9,missed
+53,CTC,Crash,Cape Town,NSFC,2,14,0,0.125,281,445,-164,1,7,1,7,2,10,missed
+53,OSK,Kaiju,Osaka,NSFC,4,12,0,0.25,290,571,-281,2,6,2,6,4,8,missed
+53,HON,Hahalua,Honolulu,ASFC,8,7,1,0.531,448,334,114,6,2,2,5,5,6,missed
+53,NOLA,Second Line,New Orleans,ASFC,11,5,0,0.688,401,322,79,8,0,3,5,8,4,semifinal
+53,YKW,Wraiths,Yellowknife,NSFC,9,7,0,0.563,434,339,95,5,3,4,4,9,3,first_round
+53,SAR,Sailfish,Sarasota,NSFC,9,7,0,0.563,391,342,49,6,2,3,5,9,3,missed
+53,AZ,Outlaws,Arizona,ASFC,15,1,0,0.938,498,327,171,8,0,7,1,11,1,champion
+53,NYS,Silverbacks,New York,ASFC,9,7,0,0.563,357,303,54,5,3,4,4,6,6,missed
+53,AUS,Copperheads,Austin,ASFC,10,6,0,0.625,339,314,25,6,2,4,4,6,6,first_round
+53,SJS,Sabercats,San Jose,ASFC,5,10,1,0.344,306,366,-60,2,5,3,5,2,9,missed
+53,COL,Yeti,Colorado,NSFC,10,6,0,0.625,349,303,46,5,3,5,3,8,4,semifinal
+53,BAL,Hawks,Baltimore,NSFC,12,4,0,0.75,504,290,214,6,2,6,2,10,2,runner_up
+54,COL,Yeti,Colorado,NSFC,11,5,0,0.688,362,319,43,5,3,6,2,10,2,semifinal
+54,BAL,Hawks,Baltimore,NSFC,7,9,0,0.438,390,400,-10,4,4,3,5,6,6,missed
+54,BFB,Brood,Black Forest,NSFC,2,14,0,0.125,298,617,-319,1,7,1,7,2,10,missed
+54,SJS,Sabercats,San Jose,ASFC,7,9,0,0.438,352,370,-18,3,5,4,4,5,7,missed
+54,CTC,Crash,Cape Town,NSFC,10,6,0,0.625,389,320,69,6,2,4,4,7,5,first_round
+54,OSK,Kaiju,Osaka,NSFC,0,16,0,0.0,275,557,-282,0,8,0,8,0,12,missed
+54,AUS,Copperheads,Austin,ASFC,9,7,0,0.563,420,348,72,6,2,3,5,7,5,semifinal
+54,NYS,Silverbacks,New York,ASFC,8,8,0,0.5,435,362,73,5,3,3,5,4,8,missed
+54,YKW,Wraiths,Yellowknife,NSFC,9,7,0,0.563,439,357,82,5,3,4,4,7,5,missed
+54,SAR,Sailfish,Sarasota,NSFC,13,3,0,0.813,500,311,189,7,1,6,2,10,2,champion
+54,NOLA,Second Line,New Orleans,ASFC,8,8,0,0.5,377,350,27,3,5,5,3,7,5,missed
+54,AZ,Outlaws,Arizona,ASFC,15,1,0,0.938,454,288,166,7,1,8,0,11,1,runner_up
+54,HON,Hahalua,Honolulu,ASFC,10,6,0,0.625,463,345,118,4,4,6,2,6,6,first_round
+54,OCO,Otters,Orange County,ASFC,3,13,0,0.188,275,485,-210,3,5,0,8,2,10,missed
+55,NYS,Silverbacks,New York,ASFC,10,6,0,0.625,359,339,20,4,4,6,2,7,5,first_round
+55,SJS,Sabercats,San Jose,ASFC,9,7,0,0.563,418,410,8,6,2,3,5,6,6,missed
+55,COL,Yeti,Colorado,NSFC,6,10,0,0.375,414,430,-16,3,5,3,5,6,6,missed
+55,SAR,Sailfish,Sarasota,NSFC,7,9,0,0.438,401,463,-62,2,6,5,3,6,6,missed
+55,OSK,Kaiju,Osaka,NSFC,2,14,0,0.125,302,521,-219,1,7,1,7,1,11,missed
+55,OCO,Otters,Orange County,ASFC,3,13,0,0.188,311,443,-132,1,7,2,6,3,9,missed
+55,BFB,Brood,Black Forest,NSFC,4,12,0,0.25,327,513,-186,2,6,2,6,3,9,missed
+55,BAL,Hawks,Baltimore,NSFC,10,6,0,0.625,431,340,91,6,2,4,4,9,3,champion
+55,AUS,Copperheads,Austin,ASFC,7,9,0,0.438,367,335,32,4,4,3,5,5,7,missed
+55,NOLA,Second Line,New Orleans,ASFC,6,10,0,0.375,347,408,-61,3,5,3,5,2,10,missed
+55,CTC,Crash,Cape Town,NSFC,10,6,0,0.625,410,330,80,6,2,4,4,8,4,first_round
+55,YKW,Wraiths,Yellowknife,NSFC,11,5,0,0.688,448,341,107,6,2,5,3,9,3,semifinal
+55,HON,Hahalua,Honolulu,ASFC,12,4,0,0.75,440,278,162,5,3,7,1,8,4,semifinal
+55,AZ,Outlaws,Arizona,ASFC,15,1,0,0.938,488,312,176,8,0,7,1,11,1,runner_up
+56,HON,Hahalua,Honolulu,ASFC,10,4,2,0.688,395,332,63,6,1,4,3,9,2,champion
+56,AZ,Outlaws,Arizona,ASFC,7,9,0,0.438,397,353,44,4,4,3,5,7,5,first_round
+56,AUS,Copperheads,Austin,ASFC,7,9,0,0.438,400,408,-8,4,4,3,5,6,6,missed
+56,NOLA,Second Line,New Orleans,ASFC,6,10,0,0.375,391,393,-2,3,5,3,5,3,9,missed
+56,BAL,Hawks,Baltimore,NSFC,12,4,0,0.75,466,301,165,6,2,6,2,9,3,runner_up
+56,YKW,Wraiths,Yellowknife,NSFC,10,6,0,0.625,409,312,97,5,3,5,3,6,6,missed
+56,OSK,Kaiju,Osaka,NSFC,5,11,0,0.313,306,425,-119,4,4,1,7,2,10,missed
+56,OCO,Otters,Orange County,ASFC,7,9,0,0.438,360,421,-61,5,3,2,6,5,7,missed
+56,BFB,Brood,Black Forest,NSFC,4,10,2,0.313,344,518,-174,3,3,1,7,4,7,missed
+56,COL,Yeti,Colorado,NSFC,11,5,0,0.688,400,352,48,5,3,6,2,7,5,first_round
+56,NYS,Silverbacks,New York,ASFC,3,13,0,0.188,355,507,-152,1,7,2,6,2,10,missed
+56,SJS,Sabercats,San Jose,ASFC,10,5,1,0.656,391,337,54,6,2,4,3,9,2,semifinal
+56,CTC,Crash,Cape Town,NSFC,12,3,1,0.781,429,355,74,6,2,6,1,9,2,semifinal
+56,SAR,Sailfish,Sarasota,NSFC,5,11,0,0.313,382,411,-29,4,4,1,7,4,8,missed
+57,NOLA,Second Line,New Orleans,ASFC,10,6,0,0.625,375,326,49,6,2,4,4,8,4,runner_up
+57,AUS,Copperheads,Austin,ASFC,9,7,0,0.563,388,342,46,6,2,3,5,7,5,missed
+57,COL,Yeti,Colorado,NSFC,5,11,0,0.313,405,453,-48,4,4,1,7,5,7,missed
+57,YKW,Wraiths,Yellowknife,NSFC,3,13,0,0.188,337,509,-172,2,6,1,7,2,10,missed
+57,AZ,Outlaws,Arizona,ASFC,7,9,0,0.438,330,333,-3,5,3,2,6,5,7,missed
+57,OCO,Otters,Orange County,ASFC,11,5,0,0.688,373,318,55,7,1,4,4,7,5,semifinal
+57,BAL,Hawks,Baltimore,NSFC,11,5,0,0.688,464,372,92,5,3,6,2,9,3,champion
+57,CTC,Crash,Cape Town,NSFC,10,6,0,0.625,468,427,41,4,4,6,2,8,4,semifinal
+57,SAR,Sailfish,Sarasota,NSFC,6,10,0,0.375,383,442,-59,5,3,1,7,4,8,missed
+57,BFB,Brood,Black Forest,NSFC,9,7,0,0.563,374,320,54,6,2,3,5,8,4,first_round
+57,SJS,Sabercats,San Jose,ASFC,10,6,0,0.625,441,359,82,5,3,5,3,7,5,missed
+57,HON,Hahalua,Honolulu,ASFC,10,6,0,0.625,399,301,98,6,2,4,4,7,5,first_round
+57,NYS,Silverbacks,New York,ASFC,2,14,0,0.125,267,530,-263,1,7,1,7,1,11,missed
+57,OSK,Kaiju,Osaka,NSFC,9,7,0,0.563,424,396,28,7,1,2,6,6,6,missed
+58,YKW,Wraiths,Yellowknife,NSFC,4,12,0,0.25,286,458,-172,3,5,1,7,3,9,missed
+58,NYS,Silverbacks,New York,ASFC,6,10,0,0.375,396,487,-91,5,3,1,7,4,8,missed
+58,COL,Yeti,Colorado,NSFC,9,7,0,0.563,409,399,10,5,3,4,4,8,4,semifinal
+58,SAR,Sailfish,Sarasota,NSFC,8,8,0,0.5,386,422,-36,5,3,3,5,4,8,missed
+58,HON,Hahalua,Honolulu,ASFC,11,5,0,0.688,401,333,68,6,2,5,3,7,5,champion
+58,SJS,Sabercats,San Jose,ASFC,9,7,0,0.563,371,334,37,5,3,4,4,7,5,first_round
+58,BFB,Brood,Black Forest,NSFC,8,8,0,0.5,400,379,21,5,3,3,5,7,5,first_round
+58,OSK,Kaiju,Osaka,NSFC,8,8,0,0.5,382,343,39,2,6,6,2,6,6,missed
+58,NOLA,Second Line,New Orleans,ASFC,6,10,0,0.375,298,405,-107,3,5,3,5,4,8,missed
+58,OCO,Otters,Orange County,ASFC,7,9,0,0.438,348,346,2,5,3,2,6,6,6,missed
+58,AUS,Copperheads,Austin,ASFC,7,9,0,0.438,354,357,-3,5,3,2,6,6,6,missed
+58,AZ,Outlaws,Arizona,ASFC,11,5,0,0.688,463,372,91,7,1,4,4,8,4,semifinal
+58,CTC,Crash,Cape Town,NSFC,8,8,0,0.5,425,393,32,3,5,5,3,6,6,missed
+58,BAL,Hawks,Baltimore,NSFC,10,6,0,0.625,393,284,109,6,2,4,4,8,4,runner_up
+59,SAR,Sailfish,Sarasota,NSFC,11,5,0,0.688,440,350,90,6,2,5,3,8,4,semifinal
+59,CTC,Crash,Cape Town,NSFC,0,16,0,0.0,183,684,-501,0,8,0,8,0,12,missed
+59,HON,Hahalua,Honolulu,ASFC,8,8,0,0.5,365,343,22,5,3,3,5,6,6,missed
+59,AZ,Outlaws,Arizona,ASFC,13,3,0,0.813,469,371,98,5,3,8,0,9,3,champion
+59,NOLA,Second Line,New Orleans,ASFC,9,7,0,0.563,395,362,33,3,5,6,2,8,4,first_round
+59,YKW,Wraiths,Yellowknife,NSFC,10,6,0,0.625,411,381,30,5,3,5,3,8,4,missed
+59,NYS,Silverbacks,New York,ASFC,7,9,0,0.438,392,405,-13,4,4,3,5,5,7,missed
+59,OCO,Otters,Orange County,ASFC,8,8,0,0.5,429,363,66,5,3,3,5,5,7,missed
+59,BFB,Brood,Black Forest,NSFC,6,10,0,0.375,429,394,35,2,6,4,4,4,8,missed
+59,OSK,Kaiju,Osaka,NSFC,8,8,0,0.5,470,375,95,4,4,4,4,6,6,missed
+59,SJS,Sabercats,San Jose,ASFC,1,15,0,0.063,211,524,-313,0,8,1,7,0,12,missed
+59,AUS,Copperheads,Austin,ASFC,11,5,0,0.688,406,330,76,5,3,6,2,9,3,semifinal
+59,COL,Yeti,Colorado,NSFC,10,6,0,0.625,497,385,112,6,2,4,4,8,4,first_round
+59,BAL,Hawks,Baltimore,NSFC,10,6,0,0.625,499,329,170,7,1,3,5,8,4,runner_up
+60,YKW,Wraiths,Yellowknife,NSFC,8,8,0,0.5,436,415,21,4,4,4,4,6,6,missed
+60,COL,Yeti,Colorado,NSFC,9,7,0,0.563,383,347,36,6,2,3,5,8,4,missed
+60,NOLA,Second Line,New Orleans,ASFC,6,10,0,0.375,350,444,-94,3,5,3,5,3,9,missed
+60,HON,Hahalua,Honolulu,ASFC,10,6,0,0.625,443,307,136,4,4,6,2,8,4,semifinal
+60,BAL,Hawks,Baltimore,NSFC,11,5,0,0.688,526,355,171,5,3,6,2,8,4,runner_up
+60,SAR,Sailfish,Sarasota,NSFC,10,6,0,0.625,384,349,35,6,2,4,4,8,4,first_round
+60,OSK,Kaiju,Osaka,NSFC,8,8,0,0.5,358,270,88,3,5,5,3,5,7,missed
+60,BFB,Brood,Black Forest,NSFC,11,5,0,0.688,485,240,245,6,2,5,3,7,5,semifinal
+60,AUS,Copperheads,Austin,ASFC,8,8,0,0.5,427,412,15,3,5,5,3,7,5,missed
+60,AZ,Outlaws,Arizona,ASFC,8,8,0,0.5,436,368,68,4,4,4,4,7,5,missed
+60,SJS,Sabercats,San Jose,ASFC,1,15,0,0.063,227,555,-328,1,7,0,8,0,12,missed
+60,CTC,Crash,Cape Town,NSFC,0,16,0,0.0,87,679,-592,0,8,0,8,0,12,missed
+60,NYS,Silverbacks,New York,ASFC,10,6,0,0.625,418,364,54,4,4,6,2,8,4,first_round
+60,OCO,Otters,Orange County,ASFC,12,4,0,0.75,479,334,145,7,1,5,3,9,3,champion
+61,SJS,Sabercats,San Jose,ASFC,1,15,0,0.063,269,546,-277,1,7,0,8,0,12,missed
+61,CTC,Crash,Cape Town,NSFC,1,15,0,0.063,219,611,-392,1,7,0,8,1,11,missed
+61,NOLA,Second Line,New Orleans,ASFC,6,10,0,0.375,401,419,-18,3,5,3,5,5,7,missed
+61,AUS,Copperheads,Austin,ASFC,8,8,0,0.5,373,411,-38,5,3,3,5,7,5,missed
+61,SAR,Sailfish,Sarasota,NSFC,9,7,0,0.563,459,278,181,5,3,4,4,5,7,missed
+61,COL,Yeti,Colorado,NSFC,11,5,0,0.688,370,322,48,7,1,4,4,9,3,first_round
+61,NYS,Silverbacks,New York,ASFC,8,8,0,0.5,471,379,92,5,3,3,5,6,6,missed
+61,AZ,Outlaws,Arizona,ASFC,10,6,0,0.625,405,313,92,5,3,5,3,8,4,first_round
+61,BFB,Brood,Black Forest,NSFC,12,4,0,0.75,339,280,59,7,1,5,3,8,4,semifinal
+61,BAL,Hawks,Baltimore,NSFC,12,4,0,0.75,381,316,65,7,1,5,3,8,4,champion
+61,YKW,Wraiths,Yellowknife,NSFC,6,10,0,0.375,379,379,0,4,4,2,6,4,8,missed
+61,OSK,Kaiju,Osaka,NSFC,9,7,0,0.563,503,400,103,6,2,3,5,7,5,missed
+61,HON,Hahalua,Honolulu,ASFC,11,5,0,0.688,384,308,76,6,2,5,3,9,3,semifinal
+61,OCO,Otters,Orange County,ASFC,8,8,0,0.5,356,347,9,6,2,2,6,7,5,runner_up
+62,BFB,Brood,Black Forest,NSFC,6,10,0,0.375,367,484,-117,2,6,4,4,6,6,missed
+62,BAL,Hawks,Baltimore,NSFC,14,2,0,0.875,471,299,172,6,2,8,0,10,2,champion
+62,CTC,Crash,Cape Town,NSFC,7,9,0,0.438,414,487,-73,4,4,3,5,5,7,missed
+62,SJS,Sabercats,San Jose,ASFC,4,12,0,0.25,341,441,-100,1,7,3,5,4,8,missed
+62,YKW,Wraiths,Yellowknife,NSFC,8,8,0,0.5,458,413,45,4,4,4,4,4,8,missed
+62,SAR,Sailfish,Sarasota,NSFC,8,8,0,0.5,443,414,29,5,3,3,5,5,7,missed
+62,OCO,Otters,Orange County,ASFC,2,14,0,0.125,235,583,-348,1,7,1,7,1,11,missed
+62,AUS,Copperheads,Austin,ASFC,5,11,0,0.313,349,446,-97,2,6,3,5,3,9,missed
+62,COL,Yeti,Colorado,NSFC,9,7,0,0.563,496,448,48,5,3,4,4,6,6,semifinal
+62,OSK,Kaiju,Osaka,NSFC,8,8,0,0.5,462,415,47,4,4,4,4,6,6,first_round
+62,AZ,Outlaws,Arizona,ASFC,8,8,0,0.5,406,330,76,4,4,4,4,7,5,missed
+62,HON,Hahalua,Honolulu,ASFC,12,4,0,0.75,507,322,185,7,1,5,3,11,1,runner_up
+62,NYS,Silverbacks,New York,ASFC,11,5,0,0.688,451,358,93,6,2,5,3,8,4,first_round
+62,NOLA,Second Line,New Orleans,ASFC,10,6,0,0.625,396,356,40,5,3,5,3,8,4,semifinal

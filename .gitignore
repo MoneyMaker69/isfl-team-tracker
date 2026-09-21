@@ -1,0 +1,10 @@
+# cache/ is committed on purpose — it is the whole point of the Action.
+# Only the builder's scratch files are ignored.
+cache/.*.tmp
+cache/build_slow.log
+cache/build_slow.log.err
+
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/

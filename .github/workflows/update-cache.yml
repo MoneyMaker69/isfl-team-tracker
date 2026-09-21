@@ -1,0 +1,41 @@
+# Quoting "on" is deliberate. YAML 1.1 reads a bare `on` as the boolean true,
+# which makes GitHub report "No event triggers defined in `on`".
+name: Update cache
+
+"on":
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install pandas
+
+      - name: Build the cache (incremental)
+        run: python scripts/build_cache.py
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cache/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update cache ($(date -u +%Y-%m-%d))"
+            git push
+          fi

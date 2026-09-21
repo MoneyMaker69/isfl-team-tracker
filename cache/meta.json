@@ -1,0 +1,28 @@
+{
+  "stage": "slow",
+  "sample": false,
+  "current_season": 63,
+  "fast_built_at": "2026-09-21T08:46:26+00:00",
+  "built_at": "2026-09-21T09:47:53+00:00",
+  "duration_seconds": 3635,
+  "files": [
+    "analytics.csv",
+    "attributes.csv",
+    "awards.csv",
+    "bots.csv",
+    "draft_picks.csv",
+    "games.csv",
+    "gm_history.csv",
+    "gm_records.csv",
+    "managers.csv",
+    "player_games.csv",
+    "players.csv",
+    "regressions.csv",
+    "seasons.csv",
+    "standings.csv",
+    "tpe_events.csv"
+  ],
+  "slow_errors": [],
+  "players_fetched": 1858,
+  "slow_built_at": "2026-09-21T09:47:53+00:00"
+}
