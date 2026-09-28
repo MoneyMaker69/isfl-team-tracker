@@ -1,16 +1,16 @@
 uid,username,league,seasons,regWins,regLosses,regTies,regGames,playoffWins,playoffLosses,playoffTies,playoffGames,championships
-2583,IceBear32,ISFL,29,251,209,4,464,17,13,0,30,5
+2583,IceBear32,ISFL,29,251,209,4,464,17,14,0,31,5
 2637,MMFLEX,ISFL,27,203,229,0,432,16,8,0,24,5
 2166,Kotasa,ISFL,10,113,47,0,160,14,4,0,18,5
 582,speculadora,ISFL,12,111,53,0,164,11,7,0,18,5
 3666,swoosh,ISFL,16,170,85,1,256,20,11,0,31,4
 1851,.simo,ISFL,9,104,40,0,144,14,5,0,19,4
 1902,SwankyPants31,ISFL,18,149,136,3,288,12,6,0,18,3
+4308,RoyRivers,ISFL,7,80,32,0,112,12,4,0,16,3
 996,flyeaglesfly29,ISFL,12,112,68,0,180,10,5,0,15,3
 33,ckroyal92,ISFL,45,288,378,3,669,8,8,0,16,3
 149,Molarpistols,ISFL,7,70,28,0,98,7,4,0,11,3
 20,ADwyer87,ISFL,6,57,28,0,85,6,1,0,7,3
-4308,RoyRivers,ISFL,7,80,32,0,112,11,4,0,15,2
 3826,Tmoney6996,ISFL,16,137,119,0,256,8,5,0,13,2
 2214,zaynzk,ISFL,16,122,133,1,256,8,4,0,12,2
 1158,.Laser,ISFL,11,106,55,0,161,8,8,0,16,2
@@ -27,6 +27,7 @@ uid,username,league,seasons,regWins,regLosses,regTies,regGames,playoffWins,playo
 4372,Dmac1200,ISFL,3,31,15,2,48,5,1,0,6,2
 3594,toofpete,ISFL,7,60,52,0,112,4,1,0,5,2
 331,4D Chess,ISFL,3,37,5,0,42,4,1,0,5,2
+4546,uhnp,ISFL,2,26,6,0,32,4,0,0,4,2
 2091,abh89,ISFL,32,287,222,3,512,11,16,0,27,1
 2584,Fronk,ISFL,19,171,131,2,304,9,8,0,17,1
 3573,wizard_literal,ISFL,12,104,86,2,192,8,4,0,12,1
@@ -64,7 +65,6 @@ uid,username,league,seasons,regWins,regLosses,regTies,regGames,playoffWins,playo
 886,gucci,ISFL,5,35,39,0,74,3,1,0,4,1
 2162,Crodyman,ISFL,3,31,16,1,48,3,2,0,5,1
 459,PDXBaller,ISFL,3,26,16,0,42,3,1,0,4,1
-4546,uhnp,ISFL,2,26,6,0,32,3,0,0,3,1
 792,MrStennett,ISFL,3,22,17,0,39,3,1,0,4,1
 2300,Mojojojo,ISFL,5,52,27,1,80,2,4,0,6,1
 4263,lunaripcole,ISFL,5,50,30,0,80,2,2,0,4,1
@@ -93,7 +93,7 @@ uid,username,league,seasons,regWins,regLosses,regTies,regGames,playoffWins,playo
 2874,TubaDeus,ISFL,7,52,60,0,112,2,1,0,3,0
 151,HENDRIX,ISFL,6,46,38,0,84,2,3,0,5,0
 828,Bigred1580,ISFL,5,45,21,0,66,2,4,0,6,0
-4465,Griff,ISFL,4,41,23,0,64,2,2,0,4,0
+4465,Griff,ISFL,4,41,23,0,64,2,3,0,5,0
 963,Duilio05,ISFL,5,32,33,0,65,2,4,0,6,0
 4480,CowboyBlender,ISFL,3,29,19,0,48,2,2,0,4,0
 1365,Kyle,ISFL,4,26,37,1,64,2,1,0,3,0

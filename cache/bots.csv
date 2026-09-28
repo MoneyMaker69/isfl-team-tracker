@@ -2,7 +2,6 @@ season,bot_id,team,dsfl_team,league,tier,position,archetype,status,name
 56,175,SJS,,ISFL,4,Offensive Lineman,Mauler,Active,A Hariyama
 60,594,,LON,DSFL,50,Safety,Ball Hawk - B,Active,Buzz Windsor
 60,593,,LON,DSFL,50,Defensive Tackle,Nose Tackle - A,Active,Gnome Tackle
-60,590,,LON,DSFL,100,Offensive Lineman,Mauler,Active,Milton Bradley
 60,577,AUS,,ISFL,4,Offensive Lineman,Balanced Lineman,Active,Austin Silverhead
 60,576,AUS,,ISFL,4,Offensive Lineman,Balanced Lineman,Active,Austin Goldhead
 61,661,,POR,DSFL,100,Cornerback,Cover Corner,Active,No Fly Zone
@@ -12,18 +11,22 @@ season,bot_id,team,dsfl_team,league,tier,position,archetype,status,name
 62,736,,DAL,DSFL,50,Cornerback,Cover Corner - B,Active,Mackenzie Collie
 62,735,,DAL,DSFL,50,Linebacker,Coverage - B,Active,Jack Terrier
 62,734,,DAL,DSFL,50,Defensive Tackle,Nose Tackle - A,Active,Mort Cattle
-62,732,,DAL,DSFL,100,Cornerback,Cover Corner,Active,Muffin Heeler
-62,730,,DAL,DSFL,100,Linebacker,Versatile LB,Active,Chili Heeler
 62,729,,DAL,DSFL,51,Offensive Lineman,Mauler,Active,Rad Heeler
 62,728,,DAL,DSFL,51,Offensive Lineman,Mauler,Active,Stripe Heeler
 62,727,,DAL,DSFL,51,Offensive Lineman,Mauler,Active,Bandit Heeler
 62,726,,DAL,DSFL,51,Offensive Lineman,Athletic Lineman,Active,Bingo Heeler
 62,697,,TIJ,DSFL,50,Defensive Tackle,Nose Tackle - A,Active,MARUCHAN ROAST BEEF
 62,693,,TIJ,DSFL,50,Defensive End,Power Rusher A,Active,MARUCHAN CHILI
-62,691,,TIJ,DSFL,51,Offensive Lineman,Mauler,Active,MARUCHAN ROAST CHICKEN
 62,687,,TIJ,DSFL,100,Offensive Lineman,Mauler,Active,MARUCHAN BEEF
 62,681,,POR,DSFL,100,Linebacker,Coverage LB,Active,Maxwell Da'Synthest V
 62,665,OCO,,ISFL,4,Offensive Lineman,Mauler,Active,Haha BoredofCord
+63,810,,DAL,DSFL,50,Defensive Tackle,Interior Rusher B,Active,Smaller  Edd
+63,809,,NOR,DSFL,50,Offensive Lineman,Mauler,Active,Makoto Nijiima
+63,808,,LON,DSFL,100,Offensive Lineman,Mauler,Active,Sack Lunch
+63,807,,LON,DSFL,50,Defensive Tackle,Nose Tackle - B,Active,Warren Sapp
+63,806,,LON,DSFL,50,Offensive Lineman,Mauler,Active,Eddy Cartoon
+63,805,,DAL,DSFL,100,Linebacker,Versatile LB,Active,DoYouFindUr Mother-Attractive
+63,804,,DAL,DSFL,100,Cornerback,Cover Corner,Active,Kyle Feet-Lover
 63,803,,LON,DSFL,50,Linebacker,Pass Rusher - A,Active,Lavonte David
 63,802,,KCC,DSFL,50,Safety,Ball Hawk - A,Active,Will Coyote
 63,801,,KCC,DSFL,50,Safety,Ball Hawk - A,Active,Vernon Gholston
