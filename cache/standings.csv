@@ -745,17 +745,17 @@ season,team,name,location,conference,wins,losses,ties,pct,pf,pa,diff,home_w,home
 62,HON,Hahalua,Honolulu,ASFC,12,4,0,0.75,507,322,185,7,1,5,3,11,1,runner_up
 62,NYS,Silverbacks,New York,ASFC,11,5,0,0.688,451,358,93,6,2,5,3,8,4,first_round
 62,NOLA,Second Line,New Orleans,ASFC,10,6,0,0.625,396,356,40,5,3,5,3,8,4,semifinal
-63,OSK,Kaiju,Osaka,NSFC,2,2,0,0.5,98,119,-21,1,2,1,0,2,2,missed
-63,SAR,Sailfish,Sarasota,NSFC,3,1,0,0.75,114,84,30,2,0,1,1,2,1,missed
-63,NYS,Silverbacks,New York,ASFC,2,2,0,0.5,96,120,-24,1,1,1,1,2,1,missed
-63,HON,Hahalua,Honolulu,ASFC,3,1,0,0.75,130,89,41,1,1,2,0,2,1,missed
-63,AUS,Copperheads,Austin,ASFC,1,3,0,0.25,88,86,2,0,2,1,1,1,3,missed
-63,SJS,Sabercats,San Jose,ASFC,2,2,0,0.5,99,101,-2,1,0,1,2,2,1,missed
-63,COL,Yeti,Colorado,NSFC,2,2,0,0.5,105,102,3,1,1,1,1,2,2,missed
-63,BAL,Hawks,Baltimore,NSFC,2,2,0,0.5,134,116,18,1,2,1,0,2,2,missed
-63,BFB,Brood,Black Forest,NSFC,2,2,0,0.5,97,140,-43,2,1,0,1,1,2,missed
-63,OCO,Otters,Orange County,ASFC,0,4,0,0.0,63,163,-100,0,2,0,2,0,3,missed
-63,CTC,Crash,Cape Town,NSFC,3,1,0,0.75,123,85,38,2,0,1,1,2,1,missed
-63,YKW,Wraiths,Yellowknife,NSFC,1,3,0,0.25,113,110,3,0,1,1,2,1,2,missed
-63,NOLA,Second Line,New Orleans,ASFC,1,3,0,0.25,87,96,-9,1,1,0,2,1,3,missed
-63,AZ,Outlaws,Arizona,ASFC,4,0,0,1.0,133,69,64,1,0,3,0,4,0,missed
+63,OSK,Kaiju,Osaka,NSFC,5,2,0,0.714,182,145,37,3,2,2,0,4,2,missed
+63,SAR,Sailfish,Sarasota,NSFC,4,3,0,0.571,165,139,26,3,0,1,3,3,3,missed
+63,NYS,Silverbacks,New York,ASFC,5,2,0,0.714,163,166,-3,2,1,3,1,5,1,missed
+63,HON,Hahalua,Honolulu,ASFC,5,2,0,0.714,228,150,78,1,2,4,0,4,2,missed
+63,AUS,Copperheads,Austin,ASFC,2,5,0,0.286,147,147,0,0,3,2,2,2,4,missed
+63,SJS,Sabercats,San Jose,ASFC,3,4,0,0.429,167,184,-17,1,1,2,3,3,3,missed
+63,COL,Yeti,Colorado,NSFC,4,3,0,0.571,180,160,20,3,1,1,2,3,3,missed
+63,BAL,Hawks,Baltimore,NSFC,4,3,0,0.571,230,177,53,3,2,1,1,3,3,missed
+63,BFB,Brood,Black Forest,NSFC,2,5,0,0.286,130,232,-102,2,2,0,3,1,5,missed
+63,OCO,Otters,Orange County,ASFC,1,6,0,0.143,112,278,-166,0,3,1,3,1,5,missed
+63,CTC,Crash,Cape Town,NSFC,6,1,0,0.857,202,143,59,4,0,2,1,5,1,missed
+63,YKW,Wraiths,Yellowknife,NSFC,2,5,0,0.286,153,162,-9,1,2,1,3,2,4,missed
+63,NOLA,Second Line,New Orleans,ASFC,2,5,0,0.286,155,170,-15,2,2,0,3,2,4,missed
+63,AZ,Outlaws,Arizona,ASFC,4,3,0,0.571,181,142,39,1,2,3,1,4,2,missed

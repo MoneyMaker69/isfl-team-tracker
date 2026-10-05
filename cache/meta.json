@@ -2,9 +2,9 @@
   "stage": "all",
   "sample": false,
   "current_season": 63,
-  "fast_built_at": "2026-09-28T13:19:16+00:00",
-  "built_at": "2026-09-28T13:42:59+00:00",
-  "duration_seconds": 1515,
+  "fast_built_at": "2026-10-05T14:01:30+00:00",
+  "built_at": "2026-10-05T14:16:57+00:00",
+  "duration_seconds": 983,
   "files": [
     "analytics.csv",
     "attributes.csv",
@@ -24,5 +24,5 @@
   ],
   "slow_errors": [],
   "players_fetched": 1425,
-  "slow_built_at": "2026-09-28T13:42:59+00:00"
+  "slow_built_at": "2026-10-05T14:16:57+00:00"
 }
