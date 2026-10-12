@@ -2,9 +2,9 @@
   "stage": "all",
   "sample": false,
   "current_season": 63,
-  "fast_built_at": "2026-10-05T14:01:30+00:00",
-  "built_at": "2026-10-05T14:16:57+00:00",
-  "duration_seconds": 983,
+  "fast_built_at": "2026-10-12T14:50:55+00:00",
+  "built_at": "2026-10-12T15:13:44+00:00",
+  "duration_seconds": 1439,
   "files": [
     "analytics.csv",
     "attributes.csv",
@@ -23,6 +23,6 @@
     "tpe_events.csv"
   ],
   "slow_errors": [],
-  "players_fetched": 1425,
-  "slow_built_at": "2026-10-05T14:16:57+00:00"
+  "players_fetched": 1426,
+  "slow_built_at": "2026-10-12T15:13:44+00:00"
 }
