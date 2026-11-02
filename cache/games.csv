@@ -6133,3 +6133,8 @@ season,phase,seq,week,home,away,home_score,away_score,winner
 63,regular,109,16,SAR,BFB,,,home
 63,regular,110,16,NOLA,NYS,,,away
 63,regular,111,16,OCO,SJS,,,away
+63,playoff,10017,17,AZ,HON,31.0,10.0,home
+63,playoff,10017,17,YKW,SAR,17.0,27.0,away
+63,playoff,10018,18,NYS,AZ,24.0,30.0,away
+63,playoff,10018,18,CTC,SAR,23.0,20.0,home
+63,playoff,10019,19,CTC,AZ,21.0,14.0,home

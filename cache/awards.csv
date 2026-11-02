@@ -903,6 +903,2269 @@ season,pid,team,type,award_position,player_position,name,username
 8,960,KCC,TEOTY,TE,Tight End,Declan Harp,OBESE
 8,750,BAL,WROTY,WR,Wide Receiver,Trey Willie,ItsJustBarry
 8,966,TIJ,WROTY,WR,Wide Receiver,Xavier Flash,Leafs4ever
+9,889,YKW,2317,K,Kicker,- Forfeit,KimJungBigDong
+9,249,BAL,2317,WR,Wide Receiver,Grey Slax,Jonstradamus
+9,576,YKW,2317,QB,Quarterback,Mat Akselsen,Bzerkap
+9,233,BAL,2317,QB,Cornerback,Avon Blocksdale,iamslm22
+9,880,YKW,2317,RB,Linebacker,Robby Rainey,AzhekAhriman
+9,879,YKW,2317,RB,Running Back,Borro Gore,Goretron
+9,230,BAL,2317,RB,Running Back,Owen Taylor,manicmav36
+9,625,BAL,2317,RB,Running Back,Bubba Nuck,NUCK
+9,769,YKW,2317,TE,Tight End,Franklin Harris Jr.,Apache_Chief
+9,729,YKW,2317,WR,Wide Receiver,Eric Kennedy,SwagSloth
+9,882,YKW,2317,TE,Tight End,Glenn McPoyal,Alfredo_Pasta
+9,605,YKW,2317,WR,Wide Receiver,Bailey Cook,RainDelay
+9,770,BAL,2317,WR,Wide Receiver,Budda Browning,Rindiee
+9,931,BAL,2317,TE,Tight End,Verso L’Alto,nunccoepi
+9,750,BAL,2317,WR,Wide Receiver,Trey Willie,ItsJustBarry
+9,212,BAL,2317,WR,Wide Receiver,Alexandre LeClair,Zoone16
+9,216,BAL,2317,K,Kicker,Turk Turkleton,Raven
+9,575,YKW,2317,DE,Defensive End,Ricky Maddox,SimmerDownBruhh
+9,227,YKW,2317,CB,Cornerback,Dermot Lavelle,White Cornerback
+9,213,BAL,2317,CB,Cornerback,Antoine Delacour,37thchamber
+9,775,YKW,2317,LB,Linebacker,Wallace Stone,Evok
+9,222,YKW,2317,LB,Running Back,Boss Tweed,PigSnout
+9,684,YKW,2317,LB,Linebacker,Micah Hendrix,HalfEatenOnionBagel
+9,945,YKW,2317,DT,Defensive Tackle,James Brown,Scootalicious
+9,626,YKW,2317,S,Safety,Clee Hardrool,Saliva^
+9,845,YKW,2317,S,Safety,Cameron Taylor,CDub2
+9,919,YKW,2317,DE,Defensive End,Zach Skinner,Titan127
+9,755,YKW,2317,CB,Cornerback,Samuel Zhang,kcheng686
+9,896,YKW,2317,DT,Defensive Tackle,Gustav Rodriguez,samee
+9,955,YKW,2317,LB,Linebacker,Chad Pennington,caltroit_red_flames
+9,820,BAL,2317,LB,Linebacker,Noah Goodson,toivo
+9,898,BAL,2317,LB,Linebacker,Austin Roenick,Leafer
+9,218,BAL,2317,\\N,Safety,Vikian Marmeladov,Vikain
+9,778,BAL,2317,CB,Cornerback,Clifford Rove,Yurt6
+9,667,BAL,2317,CB,Cornerback,Darnell Turner,Darnellthebeast
+9,604,BAL,2317,DT,Defensive Tackle,Erasmo Broadway,evryday
+9,883,BAL,2317,DE,Defensive End,Arbin Asipi JR,DeathOnReddit
+9,948,BAL,2317,DE,Quarterback,Childish Gambino,Renrut
+9,864,BAL,2317,CB,Cornerback,Gregory Fletcher,The_Hero
+9,210,BAL,2317,DE,Defensive End,Kurt Hendrix,HENDRIX
+9,982,AZ,2318,QB,Quarterback,Kevin Fitzpatrick,kckolbe
+9,928,COL,2318,QB,Cornerback,Ryan Applehort,Daybe
+9,201,AZ,2318,RB,Running Back,Reg Mackworthy,Esa77
+9,926,COL,2318,RB,Running Back,Mark Grau,keanex
+9,669,AZ,2318,WR,Wide Receiver,C.A Chess,4D Chess
+9,942,AZ,2318,TE,Tight End,Balthazar Crindy,dub
+9,937,AZ,2318,WR,Wide Receiver,Viggo Squanch,Durden
+9,659,AZ,2318,WR,Wide Receiver,Cooper Christmas,Ghostspeed
+9,842,AZ,2318,WR,Wide Receiver,John Wachter,JohnWachter
+9,932,COL,2318,WR,Wide Receiver,Howard Miller,dropbear
+9,910,COL,2318,TE,Tight End,Alvin Chipmunk,andybj
+9,893,COL,2318,WR,Wide Receiver,Dwayne Aaron,Supersquare04
+9,792,COL,2318,WR,Wide Receiver,Brian Wheat,Wheaties
+9,779,COL,2318,RB,Defensive End,Jimmy Cox,Waters
+9,856,AZ,2318,K,Kicker,Dean Jackson,run_CMC
+9,895,COL,2318,K,Quarterback,Micycle McCormick,infinitempg
+9,858,AZ,2318,S,Safety,Darren Morris,Roly
+9,738,COL,2318,RB,Running Back,Damien Kroetch,Damienj10
+9,217,AZ,2318,LB,Linebacker,Harrif Ernston,Valtookan
+9,720,AZ,2318,S,Safety,Allen Davis,XxpurplepurpsxX
+9,894,AZ,2318,LB,Linebacker,Jack Dwyer,Neckbishop
+9,658,AZ,2318,LB,Linebacker,Luke Tiernan,Ltsmashie
+9,615,AZ,2318,LB,Linebacker,AC Hackett,Deusolis
+9,969,AZ,2318,S,Safety,Bucky Barnes,Moosecop
+9,861,AZ,2318,DT,Defensive Tackle,Egor Medved,Walder Frey
+9,602,AZ,2318,DT,Defensive Tackle,Mark Ramrio,Anti-Hype
+9,633,AZ,2318,S,Safety,Jogn Floggity,Jogn
+9,978,COL,2318,CB,Cornerback,Oskar Ludvig,RealWackolyte
+9,823,COL,2318,LB,Defensive End,Haruki Ishigawa,ExemplaryChad
+9,940,COL,2318,LB,Defensive End,Rickey Ramero,Ramero
+9,797,COL,2318,DE,Defensive End,Antonio Sandoval,TheMemeMaestro
+9,974,COL,2318,S,Safety,Alexandre Thibault,Jepox
+9,828,COL,2318,CB,Cornerback,Andre Bly Jr.,sapp2013
+9,219,COL,2318,DT,Defensive Tackle,Dan Miller,7hawk77
+9,802,COL,2318,DT,Defensive Tackle,Nicholas Pierno,ralz9
+9,211,COL,2318,LB,Linebacker,Johnathon Saint,jparks98
+9,863,COL,2318,S,Safety,Michael Tillman,mmfootball
+9,795,COL,2318,DT,Defensive Tackle,Eli Kamaka,PDXBaller
+9,673,OCO,2319,K,Kicker,Bradley T Madlad,BradtheMadLad
+9,876,SJS,2319,TE,,Tor Tuck,Ace
+9,944,SJS,2319,QB,Wide Receiver,Brad Pennington,Dawegg
+9,208,OCO,2319,QB,Quarterback,Mike Boss,JBLAZE_THE_BOSS
+9,680,SJS,2319,RB,Running Back,Denzel Diaz,ElMachoNacho
+9,933,SJS,2319,RB,Running Back,D.J. Riddick,OptiimusPR1ME
+9,695,OCO,2319,RB,Running Back,Jordan Yates,jordan327
+9,403,OCO,2319,\\N,Defensive End,Angus Winchester,timeconsumer
+9,650,SJS,2319,WR,Wide Receiver,Shane Weston,Symmetrik
+9,248,SJS,2319,WR,Wide Receiver,Antonio Legion,Keyg_an
+9,970,SJS,2319,TE,Tight End,Zapp Brannigan,pazuzu
+9,860,OCO,2319,WR,Wide Receiver,Carlito Crush,JKortesi81
+9,215,OCO,2319,WR,Wide Receiver,Bradley Westfield,Bwestfield
+9,643,OCO,2319,WR,Wide Receiver,Robert Phelps,DrunkenTeddy
+9,827,OCO,2319,WR,Wide Receiver,Tegan Atwell,Jiggly_333
+9,234,OCO,2319,CB,Cornerback,Marc Spector,RedCydranth
+9,985,SJS,2319,K,Kicker,Kyle Corbett,kylecorbett42
+9,568,SJS,2319,CB,Cornerback,John Canton,Sweetwater
+9,841,SJS,2319,CB,Cornerback,Terrell Brister,tbone415
+9,563,SJS,2319,S,Safety,Alex Hansen,acki
+9,581,SJS,2319,LB,Linebacker,Stephen Harrison,Noppadet
+9,943,SJS,2319,LB,Linebacker,Ben Horne,iseedoug
+9,628,SJS,2319,S,Safety,Ja Brill,ckroyal92
+9,767,SJS,2319,DT,Defensive Tackle,Calkewlated Chambers III,Lendoris
+9,703,SJS,2319,S,Safety,Torque Lewith,Hypodynamic
+9,859,SJS,2319,DE,Defensive End,Bastion Barnhardt,pulsedk
+9,886,SJS,2319,DE,Defensive End,Cordell Joshua,Drizzy
+9,689,SJS,2319,LB,Linebacker,Luke Washington,Den_Tex_Mix2
+9,923,OCO,2319,LB,Safety,Mason Brown,Toasty
+9,247,OCO,2319,\\N,Safety,Jaylon Broxton,speculadora
+9,701,OCO,2319,S,Safety,Marcus Kane,Dangles13
+9,780,OCO,2319,CB,Cornerback,Jonathan King,ralams123
+9,881,OCO,2319,LB,Linebacker,Elvin Enchant,ElvinEnchant
+9,865,OCO,2319,DT,Defensive Tackle,Ryan Sierra,Battleborn
+9,527,OCO,2319,DE,Defensive End,George Wright Jr.,Player1
+9,947,NOLA,2320,FS,Safety,William H. Harrison,Mongoose87
+9,209,PHI,2320,WR,Wide Receiver,- Stormblessed,Stormblessed
+9,868,NOLA,2320,QB,Quarterback,Borkus Maximus III,bovovovo
+9,571,PHI,2320,QB,Quarterback,Logan Noble,Noble
+9,238,NOLA,2320,RB,Wide Receiver,Darren Smallwood,tlk742
+9,733,PHI,2320,RB,Running Back,Darlane Farlane,Gwdaja
+9,854,PHI,2320,RB,Running Back,Conall O’Sullivan,Kristy95
+9,873,PHI,2320,RB,Running Back,Willy Nyquist -,Sleepy
+9,232,NOLA,2320,TE,Tight End,Paul DiMirio,124715
+9,776,NOLA,2320,WR,Wide Receiver,Charlie Law,AdamS
+9,678,NOLA,2320,TE,Tight End,Ardie Savea,Ben
+9,671,NOLA,2320,WR,Wide Receiver,Dustin Evans,AsylumParty
+9,624,NOLA,2320,WR,Wide Receiver,Mayran Jackson,Kendrick
+9,900,PHI,2320,WR,Wide Receiver,Carter Bush,adam2552
+9,826,PHI,2320,TE,Tight End,Steven O’Sullivan,StevenOSullivan
+9,704,PHI,2320,WR,Wide Receiver,Fox North,Silver Fox
+9,759,NOLA,2320,K,Kicker,Iyah Blewitt,Rabidsponge21
+9,946,PHI,2320,K,,Beat Meoff,Loganjj21
+9,241,NOLA,2320,CB,Cornerback,Benson Bayley,Bayley
+9,200,PHI,2320,WR,Wide Receiver,Josh Garden,Ballerstorm
+9,242,NOLA,2320,LB,Linebacker,Julian O'Sullivan,JuOSu
+9,726,NOLA,2320,LB,Linebacker,Vincent Sharpei,Muford
+9,888,NOLA,2320,LB,Linebacker,Brian Mills,PaytonM34
+9,206,NOLA,2320,DE,Defensive End,Fuego Wozy,TheWoZy
+9,927,NOLA,2320,CB,Wide Receiver,Vladimir Fyodorovich,majesiu
+9,816,NOLA,2320,S,Safety,Blackford Oakes,Beaver
+9,550,NOLA,2320,DE,Defensive End,Jayce Tuck,ErMurazor
+9,771,NOLA,2320,DT,Defensive Tackle,Godfrey King,Shadowz
+9,766,NOLA,2320,DT,Defensive Tackle,Joseph Askins,jaskins811
+9,717,PHI,2320,LB,Linebacker,Perry Tucker,Perry87
+9,707,PHI,2320,LB,Linebacker,James Wright,PlotzkeA
+9,585,PHI,2320,S,Safety,Scrub Kyubee,DollarAndADream
+9,207,PHI,2320,LB,Linebacker,Jaylon Lee,youngcricket
+9,954,PHI,2320,DT,Defensive Tackle,Mark David,Mark D
+9,522,PHI,2320,CB,Cornerback,Alex Hayden,Rich
+9,547,PHI,2320,S,Safety,Ryan Flock,theFlock
+9,599,PHI,2320,S,Safety,Dominic Verns,Roshambo
+9,877,PHI,2320,DE,Defensive End,Norman Bagwell,bagwell
+9,666,PHI,2320,DE,Defensive End,Drew Davidson,sabills
+9,936,PHI,2320,DE,Defensive End,Brock Weathers III,BWIII
+9,656,PHI,2320,DE,Defensive End,Adamle Tomlinson,Jbearly
+9,249,BAL,2321,WR,Wide Receiver,Grey Slax,Jonstradamus
+9,928,COL,2321,QB,Cornerback,Ryan Applehort,Daybe
+9,233,BAL,2321,QB,Cornerback,Avon Blocksdale,iamslm22
+9,738,COL,2321,RB,Running Back,Damien Kroetch,Damienj10
+9,926,COL,2321,RB,Running Back,Mark Grau,keanex
+9,230,BAL,2321,RB,Running Back,Owen Taylor,manicmav36
+9,625,BAL,2321,RB,Running Back,Bubba Nuck,NUCK
+9,932,COL,2321,WR,Wide Receiver,Howard Miller,dropbear
+9,910,COL,2321,TE,Tight End,Alvin Chipmunk,andybj
+9,893,COL,2321,WR,Wide Receiver,Dwayne Aaron,Supersquare04
+9,792,COL,2321,WR,Wide Receiver,Brian Wheat,Wheaties
+9,779,COL,2321,RB,Defensive End,Jimmy Cox,Waters
+9,931,BAL,2321,TE,Tight End,Verso L’Alto,nunccoepi
+9,750,BAL,2321,WR,Wide Receiver,Trey Willie,ItsJustBarry
+9,770,BAL,2321,WR,Wide Receiver,Budda Browning,Rindiee
+9,212,BAL,2321,WR,Wide Receiver,Alexandre LeClair,Zoone16
+9,895,COL,2321,K,Quarterback,Micycle McCormick,infinitempg
+9,216,BAL,2321,K,Kicker,Turk Turkleton,Raven
+9,828,COL,2321,CB,Cornerback,Andre Bly Jr.,sapp2013
+9,213,BAL,2321,CB,Cornerback,Antoine Delacour,37thchamber
+9,797,COL,2321,DE,Defensive End,Antonio Sandoval,TheMemeMaestro
+9,863,COL,2321,S,Safety,Michael Tillman,mmfootball
+9,823,COL,2321,LB,Defensive End,Haruki Ishigawa,ExemplaryChad
+9,795,COL,2321,DT,Defensive Tackle,Eli Kamaka,PDXBaller
+9,940,COL,2321,LB,Defensive End,Rickey Ramero,Ramero
+9,211,COL,2321,LB,Linebacker,Johnathon Saint,jparks98
+9,887,COL,2321,LB,Linebacker,Rob Anderson,Robigo_
+9,974,COL,2321,S,Safety,Alexandre Thibault,Jepox
+9,219,COL,2321,DT,Defensive Tackle,Dan Miller,7hawk77
+9,802,COL,2321,DT,Defensive Tackle,Nicholas Pierno,ralz9
+9,667,BAL,2321,CB,Cornerback,Darnell Turner,Darnellthebeast
+9,898,BAL,2321,LB,Linebacker,Austin Roenick,Leafer
+9,820,BAL,2321,LB,Linebacker,Noah Goodson,toivo
+9,218,BAL,2321,\\N,Safety,Vikian Marmeladov,Vikain
+9,210,BAL,2321,DE,Defensive End,Kurt Hendrix,HENDRIX
+9,604,BAL,2321,DT,Defensive Tackle,Erasmo Broadway,evryday
+9,883,BAL,2321,DE,Defensive End,Arbin Asipi JR,DeathOnReddit
+9,864,BAL,2321,CB,Cornerback,Gregory Fletcher,The_Hero
+9,948,BAL,2321,DE,Quarterback,Childish Gambino,Renrut
+9,778,BAL,2321,CB,Cornerback,Clifford Rove,Yurt6
+9,889,YKW,2322,K,Kicker,- Forfeit,KimJungBigDong
+9,982,AZ,2322,QB,Quarterback,Kevin Fitzpatrick,kckolbe
+9,576,YKW,2322,QB,Quarterback,Mat Akselsen,Bzerkap
+9,201,AZ,2322,RB,Running Back,Reg Mackworthy,Esa77
+9,880,YKW,2322,RB,Linebacker,Robby Rainey,AzhekAhriman
+9,879,YKW,2322,RB,Running Back,Borro Gore,Goretron
+9,669,AZ,2322,WR,Wide Receiver,C.A Chess,4D Chess
+9,942,AZ,2322,TE,Tight End,Balthazar Crindy,dub
+9,937,AZ,2322,WR,Wide Receiver,Viggo Squanch,Durden
+9,842,AZ,2322,WR,Wide Receiver,John Wachter,JohnWachter
+9,847,AZ,2322,WR,Wide Receiver,Fresh Booter,PoloPro
+9,659,AZ,2322,WR,Wide Receiver,Cooper Christmas,Ghostspeed
+9,882,YKW,2322,TE,Tight End,Glenn McPoyal,Alfredo_Pasta
+9,729,YKW,2322,WR,Wide Receiver,Eric Kennedy,SwagSloth
+9,605,YKW,2322,WR,Wide Receiver,Bailey Cook,RainDelay
+9,728,YKW,2322,WR,Wide Receiver,Johnny Rocket,:.Elite.:
+9,769,YKW,2322,TE,Tight End,Franklin Harris Jr.,Apache_Chief
+9,909,YKW,2322,WR,Wide Receiver,Footballer Catcherman,cpetrella
+9,856,AZ,2322,K,Kicker,Dean Jackson,run_CMC
+9,858,AZ,2322,S,Safety,Darren Morris,Roly
+9,575,YKW,2322,DE,Defensive End,Ricky Maddox,SimmerDownBruhh
+9,227,YKW,2322,CB,Cornerback,Dermot Lavelle,White Cornerback
+9,658,AZ,2322,LB,Linebacker,Luke Tiernan,Ltsmashie
+9,217,AZ,2322,LB,Linebacker,Harrif Ernston,Valtookan
+9,720,AZ,2322,S,Safety,Allen Davis,XxpurplepurpsxX
+9,969,AZ,2322,S,Safety,Bucky Barnes,Moosecop
+9,633,AZ,2322,S,Safety,Jogn Floggity,Jogn
+9,894,AZ,2322,LB,Linebacker,Jack Dwyer,Neckbishop
+9,615,AZ,2322,LB,Linebacker,AC Hackett,Deusolis
+9,861,AZ,2322,DT,Defensive Tackle,Egor Medved,Walder Frey
+9,602,AZ,2322,DT,Defensive Tackle,Mark Ramrio,Anti-Hype
+9,825,AZ,2322,DE,Defensive End,Andreas Waiters,Chukka
+9,955,YKW,2322,LB,Linebacker,Chad Pennington,caltroit_red_flames
+9,775,YKW,2322,LB,Linebacker,Wallace Stone,Evok
+9,684,YKW,2322,LB,Linebacker,Micah Hendrix,HalfEatenOnionBagel
+9,755,YKW,2322,CB,Cornerback,Samuel Zhang,kcheng686
+9,845,YKW,2322,S,Safety,Cameron Taylor,CDub2
+9,626,YKW,2322,S,Safety,Clee Hardrool,Saliva^
+9,222,YKW,2322,LB,Running Back,Boss Tweed,PigSnout
+9,945,YKW,2322,DT,Defensive Tackle,James Brown,Scootalicious
+9,896,YKW,2322,DT,Defensive Tackle,Gustav Rodriguez,samee
+9,919,YKW,2322,DE,Defensive End,Zach Skinner,Titan127
+9,876,SJS,2323,TE,,Tor Tuck,Ace
+9,571,PHI,2323,QB,Quarterback,Logan Noble,Noble
+9,944,SJS,2323,QB,Wide Receiver,Brad Pennington,Dawegg
+9,733,PHI,2323,RB,Running Back,Darlane Farlane,Gwdaja
+9,854,PHI,2323,RB,Running Back,Conall O’Sullivan,Kristy95
+9,680,SJS,2323,RB,Running Back,Denzel Diaz,ElMachoNacho
+9,933,SJS,2323,RB,Running Back,D.J. Riddick,OptiimusPR1ME
+9,900,PHI,2323,WR,Wide Receiver,Carter Bush,adam2552
+9,826,PHI,2323,TE,Tight End,Steven O’Sullivan,StevenOSullivan
+9,704,PHI,2323,WR,Wide Receiver,Fox North,Silver Fox
+9,200,PHI,2323,WR,Wide Receiver,Josh Garden,Ballerstorm
+9,873,PHI,2323,RB,Running Back,Willy Nyquist -,Sleepy
+9,970,SJS,2323,TE,Tight End,Zapp Brannigan,pazuzu
+9,650,SJS,2323,WR,Wide Receiver,Shane Weston,Symmetrik
+9,248,SJS,2323,WR,Wide Receiver,Antonio Legion,Keyg_an
+9,946,PHI,2323,K,,Beat Meoff,Loganjj21
+9,985,SJS,2323,K,Kicker,Kyle Corbett,kylecorbett42
+9,568,SJS,2323,CB,Cornerback,John Canton,Sweetwater
+9,207,PHI,2323,LB,Linebacker,Jaylon Lee,youngcricket
+9,707,PHI,2323,LB,Linebacker,James Wright,PlotzkeA
+9,936,PHI,2323,DE,Defensive End,Brock Weathers III,BWIII
+9,717,PHI,2323,LB,Linebacker,Perry Tucker,Perry87
+9,666,PHI,2323,DE,Defensive End,Drew Davidson,sabills
+9,954,PHI,2323,DT,Defensive Tackle,Mark David,Mark D
+9,522,PHI,2323,CB,Cornerback,Alex Hayden,Rich
+9,599,PHI,2323,S,Safety,Dominic Verns,Roshambo
+9,877,PHI,2323,DE,Defensive End,Norman Bagwell,bagwell
+9,547,PHI,2323,S,Safety,Ryan Flock,theFlock
+9,585,PHI,2323,S,Safety,Scrub Kyubee,DollarAndADream
+9,961,PHI,2323,LB,Linebacker,Robert Jordan,jlyman
+9,628,SJS,2323,S,Safety,Ja Brill,ckroyal92
+9,943,SJS,2323,LB,Linebacker,Ben Horne,iseedoug
+9,767,SJS,2323,DT,Defensive Tackle,Calkewlated Chambers III,Lendoris
+9,886,SJS,2323,DE,Defensive End,Cordell Joshua,Drizzy
+9,563,SJS,2323,S,Safety,Alex Hansen,acki
+9,689,SJS,2323,LB,Linebacker,Luke Washington,Den_Tex_Mix2
+9,859,SJS,2323,DE,Defensive End,Bastion Barnhardt,pulsedk
+9,581,SJS,2323,LB,Linebacker,Stephen Harrison,Noppadet
+9,703,SJS,2323,S,Safety,Torque Lewith,Hypodynamic
+9,841,SJS,2323,CB,Cornerback,Terrell Brister,tbone415
+9,947,NOLA,2324,FS,Safety,William H. Harrison,Mongoose87
+9,673,OCO,2324,K,Kicker,Bradley T Madlad,BradtheMadLad
+9,208,OCO,2324,QB,Quarterback,Mike Boss,JBLAZE_THE_BOSS
+9,868,NOLA,2324,QB,Quarterback,Borkus Maximus III,bovovovo
+9,695,OCO,2324,RB,Running Back,Jordan Yates,jordan327
+9,238,NOLA,2324,RB,Wide Receiver,Darren Smallwood,tlk742
+9,860,OCO,2324,WR,Wide Receiver,Carlito Crush,JKortesi81
+9,827,OCO,2324,WR,Wide Receiver,Tegan Atwell,Jiggly_333
+9,215,OCO,2324,WR,Wide Receiver,Bradley Westfield,Bwestfield
+9,643,OCO,2324,WR,Wide Receiver,Robert Phelps,DrunkenTeddy
+9,232,NOLA,2324,TE,Tight End,Paul DiMirio,124715
+9,671,NOLA,2324,WR,Wide Receiver,Dustin Evans,AsylumParty
+9,776,NOLA,2324,WR,Wide Receiver,Charlie Law,AdamS
+9,624,NOLA,2324,WR,Wide Receiver,Mayran Jackson,Kendrick
+9,678,NOLA,2324,TE,Tight End,Ardie Savea,Ben
+9,759,NOLA,2324,K,Kicker,Iyah Blewitt,Rabidsponge21
+9,234,OCO,2324,CB,Cornerback,Marc Spector,RedCydranth
+9,241,NOLA,2324,CB,Cornerback,Benson Bayley,Bayley
+9,247,OCO,2324,\\N,Safety,Jaylon Broxton,speculadora
+9,923,OCO,2324,LB,Safety,Mason Brown,Toasty
+9,701,OCO,2324,S,Safety,Marcus Kane,Dangles13
+9,881,OCO,2324,LB,Linebacker,Elvin Enchant,ElvinEnchant
+9,780,OCO,2324,CB,Cornerback,Jonathan King,ralams123
+9,865,OCO,2324,DT,Defensive Tackle,Ryan Sierra,Battleborn
+9,403,OCO,2324,\\N,Defensive End,Angus Winchester,timeconsumer
+9,702,OCO,2324,DT,Defensive Tackle,Greg Clegane,automatic
+9,751,OCO,2324,DT,Defensive Tackle,Ryan Fitzfatrick,runrunpasspunt
+9,527,OCO,2324,DE,Defensive End,George Wright Jr.,Player1
+9,726,NOLA,2324,LB,Linebacker,Vincent Sharpei,Muford
+9,927,NOLA,2324,CB,Wide Receiver,Vladimir Fyodorovich,majesiu
+9,242,NOLA,2324,LB,Linebacker,Julian O'Sullivan,JuOSu
+9,816,NOLA,2324,S,Safety,Blackford Oakes,Beaver
+9,888,NOLA,2324,LB,Linebacker,Brian Mills,PaytonM34
+9,766,NOLA,2324,DT,Defensive Tackle,Joseph Askins,jaskins811
+9,771,NOLA,2324,DT,Defensive Tackle,Godfrey King,Shadowz
+9,550,NOLA,2324,DE,Defensive End,Jayce Tuck,ErMurazor
+9,206,NOLA,2324,DE,Defensive End,Fuego Wozy,TheWoZy
+9,889,YKW,2325,K,Kicker,- Forfeit,KimJungBigDong
+9,947,NOLA,2325,FS,Safety,William H. Harrison,Mongoose87
+9,868,NOLA,2325,QB,Quarterback,Borkus Maximus III,bovovovo
+9,576,YKW,2325,QB,Quarterback,Mat Akselsen,Bzerkap
+9,238,NOLA,2325,RB,Wide Receiver,Darren Smallwood,tlk742
+9,880,YKW,2325,RB,Linebacker,Robby Rainey,AzhekAhriman
+9,879,YKW,2325,RB,Running Back,Borro Gore,Goretron
+9,624,NOLA,2325,WR,Wide Receiver,Mayran Jackson,Kendrick
+9,671,NOLA,2325,WR,Wide Receiver,Dustin Evans,AsylumParty
+9,776,NOLA,2325,WR,Wide Receiver,Charlie Law,AdamS
+9,232,NOLA,2325,TE,Tight End,Paul DiMirio,124715
+9,678,NOLA,2325,TE,Tight End,Ardie Savea,Ben
+9,729,YKW,2325,WR,Wide Receiver,Eric Kennedy,SwagSloth
+9,882,YKW,2325,TE,Tight End,Glenn McPoyal,Alfredo_Pasta
+9,227,YKW,2325,CB,Cornerback,Dermot Lavelle,White Cornerback
+9,769,YKW,2325,TE,Tight End,Franklin Harris Jr.,Apache_Chief
+9,605,YKW,2325,WR,Wide Receiver,Bailey Cook,RainDelay
+9,759,NOLA,2325,K,Kicker,Iyah Blewitt,Rabidsponge21
+9,241,NOLA,2325,CB,Cornerback,Benson Bayley,Bayley
+9,726,NOLA,2325,LB,Linebacker,Vincent Sharpei,Muford
+9,888,NOLA,2325,LB,Linebacker,Brian Mills,PaytonM34
+9,242,NOLA,2325,LB,Linebacker,Julian O'Sullivan,JuOSu
+9,206,NOLA,2325,DE,Defensive End,Fuego Wozy,TheWoZy
+9,816,NOLA,2325,S,Safety,Blackford Oakes,Beaver
+9,927,NOLA,2325,CB,Wide Receiver,Vladimir Fyodorovich,majesiu
+9,771,NOLA,2325,DT,Defensive Tackle,Godfrey King,Shadowz
+9,550,NOLA,2325,DE,Defensive End,Jayce Tuck,ErMurazor
+9,766,NOLA,2325,DT,Defensive Tackle,Joseph Askins,jaskins811
+9,222,YKW,2325,LB,Running Back,Boss Tweed,PigSnout
+9,955,YKW,2325,LB,Linebacker,Chad Pennington,caltroit_red_flames
+9,626,YKW,2325,S,Safety,Clee Hardrool,Saliva^
+9,684,YKW,2325,LB,Linebacker,Micah Hendrix,HalfEatenOnionBagel
+9,845,YKW,2325,S,Safety,Cameron Taylor,CDub2
+9,755,YKW,2325,CB,Cornerback,Samuel Zhang,kcheng686
+9,775,YKW,2325,LB,Linebacker,Wallace Stone,Evok
+9,575,YKW,2325,DE,Defensive End,Ricky Maddox,SimmerDownBruhh
+9,919,YKW,2325,DE,Defensive End,Zach Skinner,Titan127
+9,945,YKW,2325,DT,Defensive Tackle,James Brown,Scootalicious
+9,876,SJS,2326,TE,,Tor Tuck,Ace
+9,944,SJS,2326,QB,Wide Receiver,Brad Pennington,Dawegg
+9,928,COL,2326,QB,Cornerback,Ryan Applehort,Daybe
+9,680,SJS,2326,RB,Running Back,Denzel Diaz,ElMachoNacho
+9,933,SJS,2326,RB,Running Back,D.J. Riddick,OptiimusPR1ME
+9,926,COL,2326,RB,Running Back,Mark Grau,keanex
+9,738,COL,2326,RB,Running Back,Damien Kroetch,Damienj10
+9,779,COL,2326,RB,Defensive End,Jimmy Cox,Waters
+9,970,SJS,2326,TE,Tight End,Zapp Brannigan,pazuzu
+9,650,SJS,2326,WR,Wide Receiver,Shane Weston,Symmetrik
+9,248,SJS,2326,WR,Wide Receiver,Antonio Legion,Keyg_an
+9,893,COL,2326,WR,Wide Receiver,Dwayne Aaron,Supersquare04
+9,932,COL,2326,WR,Wide Receiver,Howard Miller,dropbear
+9,910,COL,2326,TE,Tight End,Alvin Chipmunk,andybj
+9,792,COL,2326,WR,Wide Receiver,Brian Wheat,Wheaties
+9,985,SJS,2326,K,Kicker,Kyle Corbett,kylecorbett42
+9,895,COL,2326,K,Quarterback,Micycle McCormick,infinitempg
+9,568,SJS,2326,CB,Cornerback,John Canton,Sweetwater
+9,828,COL,2326,CB,Cornerback,Andre Bly Jr.,sapp2013
+9,563,SJS,2326,S,Safety,Alex Hansen,acki
+9,943,SJS,2326,LB,Linebacker,Ben Horne,iseedoug
+9,581,SJS,2326,LB,Linebacker,Stephen Harrison,Noppadet
+9,689,SJS,2326,LB,Linebacker,Luke Washington,Den_Tex_Mix2
+9,841,SJS,2326,CB,Cornerback,Terrell Brister,tbone415
+9,767,SJS,2326,DT,Defensive Tackle,Calkewlated Chambers III,Lendoris
+9,628,SJS,2326,S,Safety,Ja Brill,ckroyal92
+9,886,SJS,2326,DE,Defensive End,Cordell Joshua,Drizzy
+9,925,SJS,2326,LB,Linebacker,Thomas Kane III,greygoosevodka
+9,859,SJS,2326,DE,Defensive End,Bastion Barnhardt,pulsedk
+9,703,SJS,2326,S,Safety,Torque Lewith,Hypodynamic
+9,974,COL,2326,S,Safety,Alexandre Thibault,Jepox
+9,887,COL,2326,LB,Linebacker,Rob Anderson,Robigo_
+9,940,COL,2326,LB,Defensive End,Rickey Ramero,Ramero
+9,797,COL,2326,DE,Defensive End,Antonio Sandoval,TheMemeMaestro
+9,823,COL,2326,LB,Defensive End,Haruki Ishigawa,ExemplaryChad
+9,795,COL,2326,DT,Defensive Tackle,Eli Kamaka,PDXBaller
+9,219,COL,2326,DT,Defensive Tackle,Dan Miller,7hawk77
+9,211,COL,2326,LB,Linebacker,Johnathon Saint,jparks98
+9,802,COL,2326,DT,Defensive Tackle,Nicholas Pierno,ralz9
+9,863,COL,2326,S,Safety,Michael Tillman,mmfootball
+9,249,BAL,2327,WR,Wide Receiver,Grey Slax,Jonstradamus
+9,233,BAL,2327,QB,Cornerback,Avon Blocksdale,iamslm22
+9,982,AZ,2327,QB,Quarterback,Kevin Fitzpatrick,kckolbe
+9,230,BAL,2327,RB,Running Back,Owen Taylor,manicmav36
+9,201,AZ,2327,RB,Running Back,Reg Mackworthy,Esa77
+9,750,BAL,2327,WR,Wide Receiver,Trey Willie,ItsJustBarry
+9,212,BAL,2327,WR,Wide Receiver,Alexandre LeClair,Zoone16
+9,931,BAL,2327,TE,Tight End,Verso L’Alto,nunccoepi
+9,770,BAL,2327,WR,Wide Receiver,Budda Browning,Rindiee
+9,937,AZ,2327,WR,Wide Receiver,Viggo Squanch,Durden
+9,942,AZ,2327,TE,Tight End,Balthazar Crindy,dub
+9,669,AZ,2327,WR,Wide Receiver,C.A Chess,4D Chess
+9,842,AZ,2327,WR,Wide Receiver,John Wachter,JohnWachter
+9,847,AZ,2327,WR,Wide Receiver,Fresh Booter,PoloPro
+9,216,BAL,2327,K,Kicker,Turk Turkleton,Raven
+9,856,AZ,2327,K,Kicker,Dean Jackson,run_CMC
+9,213,BAL,2327,CB,Cornerback,Antoine Delacour,37thchamber
+9,858,AZ,2327,S,Safety,Darren Morris,Roly
+9,778,BAL,2327,CB,Cornerback,Clifford Rove,Yurt6
+9,210,BAL,2327,DE,Defensive End,Kurt Hendrix,HENDRIX
+9,898,BAL,2327,LB,Linebacker,Austin Roenick,Leafer
+9,820,BAL,2327,LB,Linebacker,Noah Goodson,toivo
+9,883,BAL,2327,DE,Defensive End,Arbin Asipi JR,DeathOnReddit
+9,864,BAL,2327,CB,Cornerback,Gregory Fletcher,The_Hero
+9,218,BAL,2327,\\N,Safety,Vikian Marmeladov,Vikain
+9,667,BAL,2327,CB,Cornerback,Darnell Turner,Darnellthebeast
+9,604,BAL,2327,DT,Defensive Tackle,Erasmo Broadway,evryday
+9,948,BAL,2327,DE,Quarterback,Childish Gambino,Renrut
+9,969,AZ,2327,S,Safety,Bucky Barnes,Moosecop
+9,894,AZ,2327,LB,Linebacker,Jack Dwyer,Neckbishop
+9,615,AZ,2327,LB,Linebacker,AC Hackett,Deusolis
+9,658,AZ,2327,LB,Linebacker,Luke Tiernan,Ltsmashie
+9,633,AZ,2327,S,Safety,Jogn Floggity,Jogn
+9,217,AZ,2327,LB,Linebacker,Harrif Ernston,Valtookan
+9,602,AZ,2327,DT,Defensive Tackle,Mark Ramrio,Anti-Hype
+9,825,AZ,2327,DE,Defensive End,Andreas Waiters,Chukka
+9,673,OCO,2328,K,Kicker,Bradley T Madlad,BradtheMadLad
+9,208,OCO,2328,QB,Quarterback,Mike Boss,JBLAZE_THE_BOSS
+9,571,PHI,2328,QB,Quarterback,Logan Noble,Noble
+9,695,OCO,2328,RB,Running Back,Jordan Yates,jordan327
+9,733,PHI,2328,RB,Running Back,Darlane Farlane,Gwdaja
+9,854,PHI,2328,RB,Running Back,Conall O’Sullivan,Kristy95
+9,873,PHI,2328,RB,Running Back,Willy Nyquist -,Sleepy
+9,860,OCO,2328,WR,Wide Receiver,Carlito Crush,JKortesi81
+9,827,OCO,2328,WR,Wide Receiver,Tegan Atwell,Jiggly_333
+9,215,OCO,2328,WR,Wide Receiver,Bradley Westfield,Bwestfield
+9,643,OCO,2328,WR,Wide Receiver,Robert Phelps,DrunkenTeddy
+9,234,OCO,2328,CB,Cornerback,Marc Spector,RedCydranth
+9,826,PHI,2328,TE,Tight End,Steven O’Sullivan,StevenOSullivan
+9,704,PHI,2328,WR,Wide Receiver,Fox North,Silver Fox
+9,200,PHI,2328,WR,Wide Receiver,Josh Garden,Ballerstorm
+9,900,PHI,2328,WR,Wide Receiver,Carter Bush,adam2552
+9,946,PHI,2328,K,,Beat Meoff,Loganjj21
+9,923,OCO,2328,LB,Safety,Mason Brown,Toasty
+9,403,OCO,2328,\\N,Defensive End,Angus Winchester,timeconsumer
+9,701,OCO,2328,S,Safety,Marcus Kane,Dangles13
+9,247,OCO,2328,\\N,Safety,Jaylon Broxton,speculadora
+9,881,OCO,2328,LB,Linebacker,Elvin Enchant,ElvinEnchant
+9,865,OCO,2328,DT,Defensive Tackle,Ryan Sierra,Battleborn
+9,780,OCO,2328,CB,Cornerback,Jonathan King,ralams123
+9,702,OCO,2328,DT,Defensive Tackle,Greg Clegane,automatic
+9,751,OCO,2328,DT,Defensive Tackle,Ryan Fitzfatrick,runrunpasspunt
+9,527,OCO,2328,DE,Defensive End,George Wright Jr.,Player1
+9,547,PHI,2328,S,Safety,Ryan Flock,theFlock
+9,585,PHI,2328,S,Safety,Scrub Kyubee,DollarAndADream
+9,666,PHI,2328,DE,Defensive End,Drew Davidson,sabills
+9,717,PHI,2328,LB,Linebacker,Perry Tucker,Perry87
+9,207,PHI,2328,LB,Linebacker,Jaylon Lee,youngcricket
+9,599,PHI,2328,S,Safety,Dominic Verns,Roshambo
+9,707,PHI,2328,LB,Linebacker,James Wright,PlotzkeA
+9,522,PHI,2328,CB,Cornerback,Alex Hayden,Rich
+9,936,PHI,2328,DE,Defensive End,Brock Weathers III,BWIII
+9,954,PHI,2328,DT,Defensive Tackle,Mark David,Mark D
+9,877,PHI,2328,DE,Defensive End,Norman Bagwell,bagwell
+9,571,PHI,2329,QB,Quarterback,Logan Noble,Noble
+9,982,AZ,2329,QB,Quarterback,Kevin Fitzpatrick,kckolbe
+9,733,PHI,2329,RB,Running Back,Darlane Farlane,Gwdaja
+9,854,PHI,2329,RB,Running Back,Conall O’Sullivan,Kristy95
+9,873,PHI,2329,RB,Running Back,Willy Nyquist -,Sleepy
+9,201,AZ,2329,RB,Running Back,Reg Mackworthy,Esa77
+9,900,PHI,2329,WR,Wide Receiver,Carter Bush,adam2552
+9,826,PHI,2329,TE,Tight End,Steven O’Sullivan,StevenOSullivan
+9,704,PHI,2329,WR,Wide Receiver,Fox North,Silver Fox
+9,200,PHI,2329,WR,Wide Receiver,Josh Garden,Ballerstorm
+9,937,AZ,2329,WR,Wide Receiver,Viggo Squanch,Durden
+9,669,AZ,2329,WR,Wide Receiver,C.A Chess,4D Chess
+9,842,AZ,2329,WR,Wide Receiver,John Wachter,JohnWachter
+9,942,AZ,2329,TE,Tight End,Balthazar Crindy,dub
+9,847,AZ,2329,WR,Wide Receiver,Fresh Booter,PoloPro
+9,659,AZ,2329,WR,Wide Receiver,Cooper Christmas,Ghostspeed
+9,946,PHI,2329,K,,Beat Meoff,Loganjj21
+9,856,AZ,2329,K,Kicker,Dean Jackson,run_CMC
+9,858,AZ,2329,S,Safety,Darren Morris,Roly
+9,717,PHI,2329,LB,Linebacker,Perry Tucker,Perry87
+9,666,PHI,2329,DE,Defensive End,Drew Davidson,sabills
+9,522,PHI,2329,CB,Cornerback,Alex Hayden,Rich
+9,207,PHI,2329,LB,Linebacker,Jaylon Lee,youngcricket
+9,707,PHI,2329,LB,Linebacker,James Wright,PlotzkeA
+9,585,PHI,2329,S,Safety,Scrub Kyubee,DollarAndADream
+9,599,PHI,2329,S,Safety,Dominic Verns,Roshambo
+9,936,PHI,2329,DE,Defensive End,Brock Weathers III,BWIII
+9,954,PHI,2329,DT,Defensive Tackle,Mark David,Mark D
+9,877,PHI,2329,DE,Defensive End,Norman Bagwell,bagwell
+9,547,PHI,2329,S,Safety,Ryan Flock,theFlock
+9,969,AZ,2329,S,Safety,Bucky Barnes,Moosecop
+9,658,AZ,2329,LB,Linebacker,Luke Tiernan,Ltsmashie
+9,615,AZ,2329,LB,Linebacker,AC Hackett,Deusolis
+9,633,AZ,2329,S,Safety,Jogn Floggity,Jogn
+9,720,AZ,2329,S,Safety,Allen Davis,XxpurplepurpsxX
+9,894,AZ,2329,LB,Linebacker,Jack Dwyer,Neckbishop
+9,217,AZ,2329,LB,Linebacker,Harrif Ernston,Valtookan
+9,602,AZ,2329,DT,Defensive Tackle,Mark Ramrio,Anti-Hype
+9,861,AZ,2329,DT,Defensive Tackle,Egor Medved,Walder Frey
+9,825,AZ,2329,DE,Defensive End,Andreas Waiters,Chukka
+9,249,BAL,2330,WR,Wide Receiver,Grey Slax,Jonstradamus
+9,673,OCO,2330,K,Kicker,Bradley T Madlad,BradtheMadLad
+9,233,BAL,2330,QB,Cornerback,Avon Blocksdale,iamslm22
+9,208,OCO,2330,QB,Quarterback,Mike Boss,JBLAZE_THE_BOSS
+9,230,BAL,2330,RB,Running Back,Owen Taylor,manicmav36
+9,695,OCO,2330,RB,Running Back,Jordan Yates,jordan327
+9,931,BAL,2330,TE,Tight End,Verso L’Alto,nunccoepi
+9,750,BAL,2330,WR,Wide Receiver,Trey Willie,ItsJustBarry
+9,212,BAL,2330,WR,Wide Receiver,Alexandre LeClair,Zoone16
+9,770,BAL,2330,WR,Wide Receiver,Budda Browning,Rindiee
+9,860,OCO,2330,WR,Wide Receiver,Carlito Crush,JKortesi81
+9,215,OCO,2330,WR,Wide Receiver,Bradley Westfield,Bwestfield
+9,643,OCO,2330,WR,Wide Receiver,Robert Phelps,DrunkenTeddy
+9,827,OCO,2330,WR,Wide Receiver,Tegan Atwell,Jiggly_333
+9,234,OCO,2330,CB,Cornerback,Marc Spector,RedCydranth
+9,216,BAL,2330,K,Kicker,Turk Turkleton,Raven
+9,213,BAL,2330,CB,Cornerback,Antoine Delacour,37thchamber
+9,667,BAL,2330,CB,Cornerback,Darnell Turner,Darnellthebeast
+9,898,BAL,2330,LB,Linebacker,Austin Roenick,Leafer
+9,820,BAL,2330,LB,Linebacker,Noah Goodson,toivo
+9,778,BAL,2330,CB,Cornerback,Clifford Rove,Yurt6
+9,864,BAL,2330,CB,Cornerback,Gregory Fletcher,The_Hero
+9,210,BAL,2330,DE,Defensive End,Kurt Hendrix,HENDRIX
+9,218,BAL,2330,\\N,Safety,Vikian Marmeladov,Vikain
+9,883,BAL,2330,DE,Defensive End,Arbin Asipi JR,DeathOnReddit
+9,948,BAL,2330,DE,Quarterback,Childish Gambino,Renrut
+9,923,OCO,2330,LB,Safety,Mason Brown,Toasty
+9,701,OCO,2330,S,Safety,Marcus Kane,Dangles13
+9,403,OCO,2330,\\N,Defensive End,Angus Winchester,timeconsumer
+9,247,OCO,2330,\\N,Safety,Jaylon Broxton,speculadora
+9,780,OCO,2330,CB,Cornerback,Jonathan King,ralams123
+9,527,OCO,2330,DE,Defensive End,George Wright Jr.,Player1
+9,702,OCO,2330,DT,Defensive Tackle,Greg Clegane,automatic
+9,881,OCO,2330,LB,Linebacker,Elvin Enchant,ElvinEnchant
+9,751,OCO,2330,DT,Defensive Tackle,Ryan Fitzfatrick,runrunpasspunt
+9,865,OCO,2330,DT,Defensive Tackle,Ryan Sierra,Battleborn
+9,604,BAL,2330,DT,Defensive Tackle,Erasmo Broadway,evryday
+9,889,YKW,2331,K,Kicker,- Forfeit,KimJungBigDong
+9,576,YKW,2331,QB,Quarterback,Mat Akselsen,Bzerkap
+9,944,SJS,2331,QB,Wide Receiver,Brad Pennington,Dawegg
+9,880,YKW,2331,RB,Linebacker,Robby Rainey,AzhekAhriman
+9,879,YKW,2331,RB,Running Back,Borro Gore,Goretron
+9,680,SJS,2331,RB,Running Back,Denzel Diaz,ElMachoNacho
+9,933,SJS,2331,RB,Running Back,D.J. Riddick,OptiimusPR1ME
+9,882,YKW,2331,TE,Tight End,Glenn McPoyal,Alfredo_Pasta
+9,729,YKW,2331,WR,Wide Receiver,Eric Kennedy,SwagSloth
+9,605,YKW,2331,WR,Wide Receiver,Bailey Cook,RainDelay
+9,769,YKW,2331,TE,Tight End,Franklin Harris Jr.,Apache_Chief
+9,650,SJS,2331,WR,Wide Receiver,Shane Weston,Symmetrik
+9,248,SJS,2331,WR,Wide Receiver,Antonio Legion,Keyg_an
+9,970,SJS,2331,TE,Tight End,Zapp Brannigan,pazuzu
+9,985,SJS,2331,K,Kicker,Kyle Corbett,kylecorbett42
+9,227,YKW,2331,CB,Cornerback,Dermot Lavelle,White Cornerback
+9,568,SJS,2331,CB,Cornerback,John Canton,Sweetwater
+9,775,YKW,2331,LB,Linebacker,Wallace Stone,Evok
+9,222,YKW,2331,LB,Running Back,Boss Tweed,PigSnout
+9,626,YKW,2331,S,Safety,Clee Hardrool,Saliva^
+9,955,YKW,2331,LB,Linebacker,Chad Pennington,caltroit_red_flames
+9,845,YKW,2331,S,Safety,Cameron Taylor,CDub2
+9,755,YKW,2331,CB,Cornerback,Samuel Zhang,kcheng686
+9,684,YKW,2331,LB,Linebacker,Micah Hendrix,HalfEatenOnionBagel
+9,919,YKW,2331,DE,Defensive End,Zach Skinner,Titan127
+9,945,YKW,2331,DT,Defensive Tackle,James Brown,Scootalicious
+9,896,YKW,2331,DT,Defensive Tackle,Gustav Rodriguez,samee
+9,575,YKW,2331,DE,Defensive End,Ricky Maddox,SimmerDownBruhh
+9,943,SJS,2331,LB,Linebacker,Ben Horne,iseedoug
+9,689,SJS,2331,LB,Linebacker,Luke Washington,Den_Tex_Mix2
+9,628,SJS,2331,S,Safety,Ja Brill,ckroyal92
+9,563,SJS,2331,S,Safety,Alex Hansen,acki
+9,581,SJS,2331,LB,Linebacker,Stephen Harrison,Noppadet
+9,841,SJS,2331,CB,Cornerback,Terrell Brister,tbone415
+9,767,SJS,2331,DT,Defensive Tackle,Calkewlated Chambers III,Lendoris
+9,886,SJS,2331,DE,Defensive End,Cordell Joshua,Drizzy
+9,925,SJS,2331,LB,Linebacker,Thomas Kane III,greygoosevodka
+9,703,SJS,2331,S,Safety,Torque Lewith,Hypodynamic
+9,947,NOLA,2332,FS,Safety,William H. Harrison,Mongoose87
+9,928,COL,2332,QB,Cornerback,Ryan Applehort,Daybe
+9,868,NOLA,2332,QB,Quarterback,Borkus Maximus III,bovovovo
+9,926,COL,2332,RB,Running Back,Mark Grau,keanex
+9,738,COL,2332,RB,Running Back,Damien Kroetch,Damienj10
+9,779,COL,2332,RB,Defensive End,Jimmy Cox,Waters
+9,238,NOLA,2332,RB,Wide Receiver,Darren Smallwood,tlk742
+9,678,NOLA,2332,TE,Tight End,Ardie Savea,Ben
+9,910,COL,2332,TE,Tight End,Alvin Chipmunk,andybj
+9,792,COL,2332,WR,Wide Receiver,Brian Wheat,Wheaties
+9,893,COL,2332,WR,Wide Receiver,Dwayne Aaron,Supersquare04
+9,232,NOLA,2332,TE,Tight End,Paul DiMirio,124715
+9,671,NOLA,2332,WR,Wide Receiver,Dustin Evans,AsylumParty
+9,776,NOLA,2332,WR,Wide Receiver,Charlie Law,AdamS
+9,624,NOLA,2332,WR,Wide Receiver,Mayran Jackson,Kendrick
+9,895,COL,2332,K,Quarterback,Micycle McCormick,infinitempg
+9,759,NOLA,2332,K,Kicker,Iyah Blewitt,Rabidsponge21
+9,828,COL,2332,CB,Cornerback,Andre Bly Jr.,sapp2013
+9,932,COL,2332,WR,Wide Receiver,Howard Miller,dropbear
+9,241,NOLA,2332,CB,Cornerback,Benson Bayley,Bayley
+9,211,COL,2332,LB,Linebacker,Johnathon Saint,jparks98
+9,823,COL,2332,LB,Defensive End,Haruki Ishigawa,ExemplaryChad
+9,863,COL,2332,S,Safety,Michael Tillman,mmfootball
+9,940,COL,2332,LB,Defensive End,Rickey Ramero,Ramero
+9,974,COL,2332,S,Safety,Alexandre Thibault,Jepox
+9,797,COL,2332,DE,Defensive End,Antonio Sandoval,TheMemeMaestro
+9,887,COL,2332,LB,Linebacker,Rob Anderson,Robigo_
+9,219,COL,2332,DT,Defensive Tackle,Dan Miller,7hawk77
+9,802,COL,2332,DT,Defensive Tackle,Nicholas Pierno,ralz9
+9,795,COL,2332,DT,Defensive Tackle,Eli Kamaka,PDXBaller
+9,242,NOLA,2332,LB,Linebacker,Julian O'Sullivan,JuOSu
+9,888,NOLA,2332,LB,Linebacker,Brian Mills,PaytonM34
+9,726,NOLA,2332,LB,Linebacker,Vincent Sharpei,Muford
+9,771,NOLA,2332,DT,Defensive Tackle,Godfrey King,Shadowz
+9,206,NOLA,2332,DE,Defensive End,Fuego Wozy,TheWoZy
+9,766,NOLA,2332,DT,Defensive Tackle,Joseph Askins,jaskins811
+9,927,NOLA,2332,CB,Wide Receiver,Vladimir Fyodorovich,majesiu
+9,550,NOLA,2332,DE,Defensive End,Jayce Tuck,ErMurazor
+9,249,BAL,2333,WR,Wide Receiver,Grey Slax,Jonstradamus
+9,876,SJS,2333,TE,,Tor Tuck,Ace
+9,944,SJS,2333,QB,Wide Receiver,Brad Pennington,Dawegg
+9,233,BAL,2333,QB,Cornerback,Avon Blocksdale,iamslm22
+9,680,SJS,2333,RB,Running Back,Denzel Diaz,ElMachoNacho
+9,933,SJS,2333,RB,Running Back,D.J. Riddick,OptiimusPR1ME
+9,230,BAL,2333,RB,Running Back,Owen Taylor,manicmav36
+9,625,BAL,2333,RB,Running Back,Bubba Nuck,NUCK
+9,650,SJS,2333,WR,Wide Receiver,Shane Weston,Symmetrik
+9,970,SJS,2333,TE,Tight End,Zapp Brannigan,pazuzu
+9,248,SJS,2333,WR,Wide Receiver,Antonio Legion,Keyg_an
+9,931,BAL,2333,TE,Tight End,Verso L’Alto,nunccoepi
+9,750,BAL,2333,WR,Wide Receiver,Trey Willie,ItsJustBarry
+9,212,BAL,2333,WR,Wide Receiver,Alexandre LeClair,Zoone16
+9,770,BAL,2333,WR,Wide Receiver,Budda Browning,Rindiee
+9,985,SJS,2333,K,Kicker,Kyle Corbett,kylecorbett42
+9,216,BAL,2333,K,Kicker,Turk Turkleton,Raven
+9,568,SJS,2333,CB,Cornerback,John Canton,Sweetwater
+9,213,BAL,2333,CB,Cornerback,Antoine Delacour,37thchamber
+9,563,SJS,2333,S,Safety,Alex Hansen,acki
+9,628,SJS,2333,S,Safety,Ja Brill,ckroyal92
+9,581,SJS,2333,LB,Linebacker,Stephen Harrison,Noppadet
+9,841,SJS,2333,CB,Cornerback,Terrell Brister,tbone415
+9,925,SJS,2333,LB,Linebacker,Thomas Kane III,greygoosevodka
+9,689,SJS,2333,LB,Linebacker,Luke Washington,Den_Tex_Mix2
+9,767,SJS,2333,DT,Defensive Tackle,Calkewlated Chambers III,Lendoris
+9,943,SJS,2333,LB,Linebacker,Ben Horne,iseedoug
+9,859,SJS,2333,DE,Defensive End,Bastion Barnhardt,pulsedk
+9,886,SJS,2333,DE,Defensive End,Cordell Joshua,Drizzy
+9,703,SJS,2333,S,Safety,Torque Lewith,Hypodynamic
+9,820,BAL,2333,LB,Linebacker,Noah Goodson,toivo
+9,210,BAL,2333,DE,Defensive End,Kurt Hendrix,HENDRIX
+9,218,BAL,2333,\\N,Safety,Vikian Marmeladov,Vikain
+9,898,BAL,2333,LB,Linebacker,Austin Roenick,Leafer
+9,667,BAL,2333,CB,Cornerback,Darnell Turner,Darnellthebeast
+9,883,BAL,2333,DE,Defensive End,Arbin Asipi JR,DeathOnReddit
+9,604,BAL,2333,DT,Defensive Tackle,Erasmo Broadway,evryday
+9,864,BAL,2333,CB,Cornerback,Gregory Fletcher,The_Hero
+9,948,BAL,2333,DE,Quarterback,Childish Gambino,Renrut
+9,778,BAL,2333,CB,Cornerback,Clifford Rove,Yurt6
+9,889,YKW,2334,K,Kicker,- Forfeit,KimJungBigDong
+9,673,OCO,2334,K,Kicker,Bradley T Madlad,BradtheMadLad
+9,208,OCO,2334,QB,Quarterback,Mike Boss,JBLAZE_THE_BOSS
+9,576,YKW,2334,QB,Quarterback,Mat Akselsen,Bzerkap
+9,695,OCO,2334,RB,Running Back,Jordan Yates,jordan327
+9,403,OCO,2334,\\N,Defensive End,Angus Winchester,timeconsumer
+9,880,YKW,2334,RB,Linebacker,Robby Rainey,AzhekAhriman
+9,879,YKW,2334,RB,Running Back,Borro Gore,Goretron
+9,215,OCO,2334,WR,Wide Receiver,Bradley Westfield,Bwestfield
+9,860,OCO,2334,WR,Wide Receiver,Carlito Crush,JKortesi81
+9,827,OCO,2334,WR,Wide Receiver,Tegan Atwell,Jiggly_333
+9,643,OCO,2334,WR,Wide Receiver,Robert Phelps,DrunkenTeddy
+9,882,YKW,2334,TE,Tight End,Glenn McPoyal,Alfredo_Pasta
+9,729,YKW,2334,WR,Wide Receiver,Eric Kennedy,SwagSloth
+9,769,YKW,2334,TE,Tight End,Franklin Harris Jr.,Apache_Chief
+9,227,YKW,2334,CB,Cornerback,Dermot Lavelle,White Cornerback
+9,234,OCO,2334,CB,Cornerback,Marc Spector,RedCydranth
+9,923,OCO,2334,LB,Safety,Mason Brown,Toasty
+9,247,OCO,2334,\\N,Safety,Jaylon Broxton,speculadora
+9,701,OCO,2334,S,Safety,Marcus Kane,Dangles13
+9,780,OCO,2334,CB,Cornerback,Jonathan King,ralams123
+9,865,OCO,2334,DT,Defensive Tackle,Ryan Sierra,Battleborn
+9,527,OCO,2334,DE,Defensive End,George Wright Jr.,Player1
+9,702,OCO,2334,DT,Defensive Tackle,Greg Clegane,automatic
+9,881,OCO,2334,LB,Linebacker,Elvin Enchant,ElvinEnchant
+9,222,YKW,2334,LB,Running Back,Boss Tweed,PigSnout
+9,626,YKW,2334,S,Safety,Clee Hardrool,Saliva^
+9,684,YKW,2334,LB,Linebacker,Micah Hendrix,HalfEatenOnionBagel
+9,955,YKW,2334,LB,Linebacker,Chad Pennington,caltroit_red_flames
+9,775,YKW,2334,LB,Linebacker,Wallace Stone,Evok
+9,845,YKW,2334,S,Safety,Cameron Taylor,CDub2
+9,945,YKW,2334,DT,Defensive Tackle,James Brown,Scootalicious
+9,919,YKW,2334,DE,Defensive End,Zach Skinner,Titan127
+9,755,YKW,2334,CB,Cornerback,Samuel Zhang,kcheng686
+9,896,YKW,2334,DT,Defensive Tackle,Gustav Rodriguez,samee
+9,575,YKW,2334,DE,Defensive End,Ricky Maddox,SimmerDownBruhh
+9,571,PHI,2335,QB,Quarterback,Logan Noble,Noble
+9,928,COL,2335,QB,Cornerback,Ryan Applehort,Daybe
+9,733,PHI,2335,RB,Running Back,Darlane Farlane,Gwdaja
+9,854,PHI,2335,RB,Running Back,Conall O’Sullivan,Kristy95
+9,738,COL,2335,RB,Running Back,Damien Kroetch,Damienj10
+9,926,COL,2335,RB,Running Back,Mark Grau,keanex
+9,900,PHI,2335,WR,Wide Receiver,Carter Bush,adam2552
+9,704,PHI,2335,WR,Wide Receiver,Fox North,Silver Fox
+9,826,PHI,2335,TE,Tight End,Steven O’Sullivan,StevenOSullivan
+9,200,PHI,2335,WR,Wide Receiver,Josh Garden,Ballerstorm
+9,910,COL,2335,TE,Tight End,Alvin Chipmunk,andybj
+9,932,COL,2335,WR,Wide Receiver,Howard Miller,dropbear
+9,792,COL,2335,WR,Wide Receiver,Brian Wheat,Wheaties
+9,893,COL,2335,WR,Wide Receiver,Dwayne Aaron,Supersquare04
+9,779,COL,2335,RB,Defensive End,Jimmy Cox,Waters
+9,946,PHI,2335,K,,Beat Meoff,Loganjj21
+9,895,COL,2335,K,Quarterback,Micycle McCormick,infinitempg
+9,828,COL,2335,CB,Cornerback,Andre Bly Jr.,sapp2013
+9,207,PHI,2335,LB,Linebacker,Jaylon Lee,youngcricket
+9,522,PHI,2335,CB,Cornerback,Alex Hayden,Rich
+9,666,PHI,2335,DE,Defensive End,Drew Davidson,sabills
+9,717,PHI,2335,LB,Linebacker,Perry Tucker,Perry87
+9,707,PHI,2335,LB,Linebacker,James Wright,PlotzkeA
+9,547,PHI,2335,S,Safety,Ryan Flock,theFlock
+9,954,PHI,2335,DT,Defensive Tackle,Mark David,Mark D
+9,936,PHI,2335,DE,Defensive End,Brock Weathers III,BWIII
+9,585,PHI,2335,S,Safety,Scrub Kyubee,DollarAndADream
+9,599,PHI,2335,S,Safety,Dominic Verns,Roshambo
+9,877,PHI,2335,DE,Defensive End,Norman Bagwell,bagwell
+9,656,PHI,2335,DE,Defensive End,Adamle Tomlinson,Jbearly
+9,797,COL,2335,DE,Defensive End,Antonio Sandoval,TheMemeMaestro
+9,211,COL,2335,LB,Linebacker,Johnathon Saint,jparks98
+9,940,COL,2335,LB,Defensive End,Rickey Ramero,Ramero
+9,863,COL,2335,S,Safety,Michael Tillman,mmfootball
+9,887,COL,2335,LB,Linebacker,Rob Anderson,Robigo_
+9,795,COL,2335,DT,Defensive Tackle,Eli Kamaka,PDXBaller
+9,219,COL,2335,DT,Defensive Tackle,Dan Miller,7hawk77
+9,802,COL,2335,DT,Defensive Tackle,Nicholas Pierno,ralz9
+9,823,COL,2335,LB,Defensive End,Haruki Ishigawa,ExemplaryChad
+9,974,COL,2335,S,Safety,Alexandre Thibault,Jepox
+9,873,PHI,2335,RB,Running Back,Willy Nyquist -,Sleepy
+9,947,NOLA,2336,FS,Safety,William H. Harrison,Mongoose87
+9,982,AZ,2336,QB,Quarterback,Kevin Fitzpatrick,kckolbe
+9,868,NOLA,2336,QB,Quarterback,Borkus Maximus III,bovovovo
+9,201,AZ,2336,RB,Running Back,Reg Mackworthy,Esa77
+9,238,NOLA,2336,RB,Wide Receiver,Darren Smallwood,tlk742
+9,937,AZ,2336,WR,Wide Receiver,Viggo Squanch,Durden
+9,669,AZ,2336,WR,Wide Receiver,C.A Chess,4D Chess
+9,942,AZ,2336,TE,Tight End,Balthazar Crindy,dub
+9,847,AZ,2336,WR,Wide Receiver,Fresh Booter,PoloPro
+9,842,AZ,2336,WR,Wide Receiver,John Wachter,JohnWachter
+9,232,NOLA,2336,TE,Tight End,Paul DiMirio,124715
+9,624,NOLA,2336,WR,Wide Receiver,Mayran Jackson,Kendrick
+9,671,NOLA,2336,WR,Wide Receiver,Dustin Evans,AsylumParty
+9,776,NOLA,2336,WR,Wide Receiver,Charlie Law,AdamS
+9,678,NOLA,2336,TE,Tight End,Ardie Savea,Ben
+9,856,AZ,2336,K,Kicker,Dean Jackson,run_CMC
+9,759,NOLA,2336,K,Kicker,Iyah Blewitt,Rabidsponge21
+9,858,AZ,2336,S,Safety,Darren Morris,Roly
+9,241,NOLA,2336,CB,Cornerback,Benson Bayley,Bayley
+9,658,AZ,2336,LB,Linebacker,Luke Tiernan,Ltsmashie
+9,969,AZ,2336,S,Safety,Bucky Barnes,Moosecop
+9,633,AZ,2336,S,Safety,Jogn Floggity,Jogn
+9,615,AZ,2336,LB,Linebacker,AC Hackett,Deusolis
+9,720,AZ,2336,S,Safety,Allen Davis,XxpurplepurpsxX
+9,894,AZ,2336,LB,Linebacker,Jack Dwyer,Neckbishop
+9,217,AZ,2336,LB,Linebacker,Harrif Ernston,Valtookan
+9,602,AZ,2336,DT,Defensive Tackle,Mark Ramrio,Anti-Hype
+9,861,AZ,2336,DT,Defensive Tackle,Egor Medved,Walder Frey
+9,825,AZ,2336,DE,Defensive End,Andreas Waiters,Chukka
+9,726,NOLA,2336,LB,Linebacker,Vincent Sharpei,Muford
+9,888,NOLA,2336,LB,Linebacker,Brian Mills,PaytonM34
+9,771,NOLA,2336,DT,Defensive Tackle,Godfrey King,Shadowz
+9,242,NOLA,2336,LB,Linebacker,Julian O'Sullivan,JuOSu
+9,766,NOLA,2336,DT,Defensive Tackle,Joseph Askins,jaskins811
+9,550,NOLA,2336,DE,Defensive End,Jayce Tuck,ErMurazor
+9,927,NOLA,2336,CB,Wide Receiver,Vladimir Fyodorovich,majesiu
+9,816,NOLA,2336,S,Safety,Blackford Oakes,Beaver
+9,206,NOLA,2336,DE,Defensive End,Fuego Wozy,TheWoZy
+9,659,AZ,2336,WR,Wide Receiver,Cooper Christmas,Ghostspeed
+9,889,YKW,2337,K,Kicker,- Forfeit,KimJungBigDong
+9,576,YKW,2337,QB,Quarterback,Mat Akselsen,Bzerkap
+9,928,COL,2337,QB,Cornerback,Ryan Applehort,Daybe
+9,880,YKW,2337,RB,Linebacker,Robby Rainey,AzhekAhriman
+9,879,YKW,2337,RB,Running Back,Borro Gore,Goretron
+9,738,COL,2337,RB,Running Back,Damien Kroetch,Damienj10
+9,779,COL,2337,RB,Defensive End,Jimmy Cox,Waters
+9,882,YKW,2337,TE,Tight End,Glenn McPoyal,Alfredo_Pasta
+9,729,YKW,2337,WR,Wide Receiver,Eric Kennedy,SwagSloth
+9,227,YKW,2337,CB,Cornerback,Dermot Lavelle,White Cornerback
+9,769,YKW,2337,TE,Tight End,Franklin Harris Jr.,Apache_Chief
+9,932,COL,2337,WR,Wide Receiver,Howard Miller,dropbear
+9,893,COL,2337,WR,Wide Receiver,Dwayne Aaron,Supersquare04
+9,926,COL,2337,RB,Running Back,Mark Grau,keanex
+9,910,COL,2337,TE,Tight End,Alvin Chipmunk,andybj
+9,792,COL,2337,WR,Wide Receiver,Brian Wheat,Wheaties
+9,895,COL,2337,K,Quarterback,Micycle McCormick,infinitempg
+9,828,COL,2337,CB,Cornerback,Andre Bly Jr.,sapp2013
+9,684,YKW,2337,LB,Linebacker,Micah Hendrix,HalfEatenOnionBagel
+9,222,YKW,2337,LB,Running Back,Boss Tweed,PigSnout
+9,755,YKW,2337,CB,Cornerback,Samuel Zhang,kcheng686
+9,626,YKW,2337,S,Safety,Clee Hardrool,Saliva^
+9,955,YKW,2337,LB,Linebacker,Chad Pennington,caltroit_red_flames
+9,896,YKW,2337,DT,Defensive Tackle,Gustav Rodriguez,samee
+9,775,YKW,2337,LB,Linebacker,Wallace Stone,Evok
+9,845,YKW,2337,S,Safety,Cameron Taylor,CDub2
+9,945,YKW,2337,DT,Defensive Tackle,James Brown,Scootalicious
+9,575,YKW,2337,DE,Defensive End,Ricky Maddox,SimmerDownBruhh
+9,919,YKW,2337,DE,Defensive End,Zach Skinner,Titan127
+9,823,COL,2337,LB,Defensive End,Haruki Ishigawa,ExemplaryChad
+9,211,COL,2337,LB,Linebacker,Johnathon Saint,jparks98
+9,797,COL,2337,DE,Defensive End,Antonio Sandoval,TheMemeMaestro
+9,887,COL,2337,LB,Linebacker,Rob Anderson,Robigo_
+9,795,COL,2337,DT,Defensive Tackle,Eli Kamaka,PDXBaller
+9,974,COL,2337,S,Safety,Alexandre Thibault,Jepox
+9,863,COL,2337,S,Safety,Michael Tillman,mmfootball
+9,219,COL,2337,DT,Defensive Tackle,Dan Miller,7hawk77
+9,940,COL,2337,LB,Defensive End,Rickey Ramero,Ramero
+9,802,COL,2337,DT,Defensive Tackle,Nicholas Pierno,ralz9
+9,673,OCO,2338,K,Kicker,Bradley T Madlad,BradtheMadLad
+9,982,AZ,2338,QB,Quarterback,Kevin Fitzpatrick,kckolbe
+9,208,OCO,2338,QB,Quarterback,Mike Boss,JBLAZE_THE_BOSS
+9,201,AZ,2338,RB,Running Back,Reg Mackworthy,Esa77
+9,695,OCO,2338,RB,Running Back,Jordan Yates,jordan327
+9,403,OCO,2338,\\N,Defensive End,Angus Winchester,timeconsumer
+9,669,AZ,2338,WR,Wide Receiver,C.A Chess,4D Chess
+9,842,AZ,2338,WR,Wide Receiver,John Wachter,JohnWachter
+9,937,AZ,2338,WR,Wide Receiver,Viggo Squanch,Durden
+9,942,AZ,2338,TE,Tight End,Balthazar Crindy,dub
+9,847,AZ,2338,WR,Wide Receiver,Fresh Booter,PoloPro
+9,860,OCO,2338,WR,Wide Receiver,Carlito Crush,JKortesi81
+9,827,OCO,2338,WR,Wide Receiver,Tegan Atwell,Jiggly_333
+9,215,OCO,2338,WR,Wide Receiver,Bradley Westfield,Bwestfield
+9,643,OCO,2338,WR,Wide Receiver,Robert Phelps,DrunkenTeddy
+9,234,OCO,2338,CB,Cornerback,Marc Spector,RedCydranth
+9,856,AZ,2338,K,Kicker,Dean Jackson,run_CMC
+9,858,AZ,2338,S,Safety,Darren Morris,Roly
+9,969,AZ,2338,S,Safety,Bucky Barnes,Moosecop
+9,217,AZ,2338,LB,Linebacker,Harrif Ernston,Valtookan
+9,602,AZ,2338,DT,Defensive Tackle,Mark Ramrio,Anti-Hype
+9,615,AZ,2338,LB,Linebacker,AC Hackett,Deusolis
+9,658,AZ,2338,LB,Linebacker,Luke Tiernan,Ltsmashie
+9,633,AZ,2338,S,Safety,Jogn Floggity,Jogn
+9,720,AZ,2338,S,Safety,Allen Davis,XxpurplepurpsxX
+9,894,AZ,2338,LB,Linebacker,Jack Dwyer,Neckbishop
+9,861,AZ,2338,DT,Defensive Tackle,Egor Medved,Walder Frey
+9,825,AZ,2338,DE,Defensive End,Andreas Waiters,Chukka
+9,780,OCO,2338,CB,Cornerback,Jonathan King,ralams123
+9,527,OCO,2338,DE,Defensive End,George Wright Jr.,Player1
+9,702,OCO,2338,DT,Defensive Tackle,Greg Clegane,automatic
+9,701,OCO,2338,S,Safety,Marcus Kane,Dangles13
+9,923,OCO,2338,LB,Safety,Mason Brown,Toasty
+9,881,OCO,2338,LB,Linebacker,Elvin Enchant,ElvinEnchant
+9,247,OCO,2338,\\N,Safety,Jaylon Broxton,speculadora
+9,865,OCO,2338,DT,Defensive Tackle,Ryan Sierra,Battleborn
+9,751,OCO,2338,DT,Defensive Tackle,Ryan Fitzfatrick,runrunpasspunt
+9,947,NOLA,2339,FS,Safety,William H. Harrison,Mongoose87
+9,876,SJS,2339,TE,,Tor Tuck,Ace
+9,868,NOLA,2339,QB,Quarterback,Borkus Maximus III,bovovovo
+9,944,SJS,2339,QB,Wide Receiver,Brad Pennington,Dawegg
+9,238,NOLA,2339,RB,Wide Receiver,Darren Smallwood,tlk742
+9,680,SJS,2339,RB,Running Back,Denzel Diaz,ElMachoNacho
+9,933,SJS,2339,RB,Running Back,D.J. Riddick,OptiimusPR1ME
+9,232,NOLA,2339,TE,Tight End,Paul DiMirio,124715
+9,678,NOLA,2339,TE,Tight End,Ardie Savea,Ben
+9,776,NOLA,2339,WR,Wide Receiver,Charlie Law,AdamS
+9,671,NOLA,2339,WR,Wide Receiver,Dustin Evans,AsylumParty
+9,624,NOLA,2339,WR,Wide Receiver,Mayran Jackson,Kendrick
+9,650,SJS,2339,WR,Wide Receiver,Shane Weston,Symmetrik
+9,970,SJS,2339,TE,Tight End,Zapp Brannigan,pazuzu
+9,248,SJS,2339,WR,Wide Receiver,Antonio Legion,Keyg_an
+9,759,NOLA,2339,K,Kicker,Iyah Blewitt,Rabidsponge21
+9,985,SJS,2339,K,Kicker,Kyle Corbett,kylecorbett42
+9,241,NOLA,2339,CB,Cornerback,Benson Bayley,Bayley
+9,568,SJS,2339,CB,Cornerback,John Canton,Sweetwater
+9,726,NOLA,2339,LB,Linebacker,Vincent Sharpei,Muford
+9,242,NOLA,2339,LB,Linebacker,Julian O'Sullivan,JuOSu
+9,888,NOLA,2339,LB,Linebacker,Brian Mills,PaytonM34
+9,816,NOLA,2339,S,Safety,Blackford Oakes,Beaver
+9,766,NOLA,2339,DT,Defensive Tackle,Joseph Askins,jaskins811
+9,927,NOLA,2339,CB,Wide Receiver,Vladimir Fyodorovich,majesiu
+9,206,NOLA,2339,DE,Defensive End,Fuego Wozy,TheWoZy
+9,771,NOLA,2339,DT,Defensive Tackle,Godfrey King,Shadowz
+9,550,NOLA,2339,DE,Defensive End,Jayce Tuck,ErMurazor
+9,563,SJS,2339,S,Safety,Alex Hansen,acki
+9,943,SJS,2339,LB,Linebacker,Ben Horne,iseedoug
+9,628,SJS,2339,S,Safety,Ja Brill,ckroyal92
+9,689,SJS,2339,LB,Linebacker,Luke Washington,Den_Tex_Mix2
+9,703,SJS,2339,S,Safety,Torque Lewith,Hypodynamic
+9,841,SJS,2339,CB,Cornerback,Terrell Brister,tbone415
+9,581,SJS,2339,LB,Linebacker,Stephen Harrison,Noppadet
+9,925,SJS,2339,LB,Linebacker,Thomas Kane III,greygoosevodka
+9,859,SJS,2339,DE,Defensive End,Bastion Barnhardt,pulsedk
+9,767,SJS,2339,DT,Defensive Tackle,Calkewlated Chambers III,Lendoris
+9,886,SJS,2339,DE,Defensive End,Cordell Joshua,Drizzy
+9,249,BAL,2340,WR,Wide Receiver,Grey Slax,Jonstradamus
+9,233,BAL,2340,QB,Cornerback,Avon Blocksdale,iamslm22
+9,571,PHI,2340,QB,Quarterback,Logan Noble,Noble
+9,230,BAL,2340,RB,Running Back,Owen Taylor,manicmav36
+9,625,BAL,2340,RB,Running Back,Bubba Nuck,NUCK
+9,733,PHI,2340,RB,Running Back,Darlane Farlane,Gwdaja
+9,854,PHI,2340,RB,Running Back,Conall O’Sullivan,Kristy95
+9,873,PHI,2340,RB,Running Back,Willy Nyquist -,Sleepy
+9,750,BAL,2340,WR,Wide Receiver,Trey Willie,ItsJustBarry
+9,212,BAL,2340,WR,Wide Receiver,Alexandre LeClair,Zoone16
+9,770,BAL,2340,WR,Wide Receiver,Budda Browning,Rindiee
+9,931,BAL,2340,TE,Tight End,Verso L’Alto,nunccoepi
+9,900,PHI,2340,WR,Wide Receiver,Carter Bush,adam2552
+9,704,PHI,2340,WR,Wide Receiver,Fox North,Silver Fox
+9,826,PHI,2340,TE,Tight End,Steven O’Sullivan,StevenOSullivan
+9,200,PHI,2340,WR,Wide Receiver,Josh Garden,Ballerstorm
+9,216,BAL,2340,K,Kicker,Turk Turkleton,Raven
+9,946,PHI,2340,K,,Beat Meoff,Loganjj21
+9,213,BAL,2340,CB,Cornerback,Antoine Delacour,37thchamber
+9,898,BAL,2340,LB,Linebacker,Austin Roenick,Leafer
+9,820,BAL,2340,LB,Linebacker,Noah Goodson,toivo
+9,210,BAL,2340,DE,Defensive End,Kurt Hendrix,HENDRIX
+9,883,BAL,2340,DE,Defensive End,Arbin Asipi JR,DeathOnReddit
+9,864,BAL,2340,CB,Cornerback,Gregory Fletcher,The_Hero
+9,218,BAL,2340,\\N,Safety,Vikian Marmeladov,Vikain
+9,667,BAL,2340,CB,Cornerback,Darnell Turner,Darnellthebeast
+9,948,BAL,2340,DE,Quarterback,Childish Gambino,Renrut
+9,604,BAL,2340,DT,Defensive Tackle,Erasmo Broadway,evryday
+9,778,BAL,2340,CB,Cornerback,Clifford Rove,Yurt6
+9,717,PHI,2340,LB,Linebacker,Perry Tucker,Perry87
+9,207,PHI,2340,LB,Linebacker,Jaylon Lee,youngcricket
+9,707,PHI,2340,LB,Linebacker,James Wright,PlotzkeA
+9,585,PHI,2340,S,Safety,Scrub Kyubee,DollarAndADream
+9,666,PHI,2340,DE,Defensive End,Drew Davidson,sabills
+9,522,PHI,2340,CB,Cornerback,Alex Hayden,Rich
+9,954,PHI,2340,DT,Defensive Tackle,Mark David,Mark D
+9,547,PHI,2340,S,Safety,Ryan Flock,theFlock
+9,599,PHI,2340,S,Safety,Dominic Verns,Roshambo
+9,877,PHI,2340,DE,Defensive End,Norman Bagwell,bagwell
+9,936,PHI,2340,DE,Defensive End,Brock Weathers III,BWIII
+9,249,BAL,2341,WR,Wide Receiver,Grey Slax,Jonstradamus
+9,947,NOLA,2341,FS,Safety,William H. Harrison,Mongoose87
+9,868,NOLA,2341,QB,Quarterback,Borkus Maximus III,bovovovo
+9,233,BAL,2341,QB,Cornerback,Avon Blocksdale,iamslm22
+9,238,NOLA,2341,RB,Wide Receiver,Darren Smallwood,tlk742
+9,678,NOLA,2341,TE,Tight End,Ardie Savea,Ben
+9,230,BAL,2341,RB,Running Back,Owen Taylor,manicmav36
+9,625,BAL,2341,RB,Running Back,Bubba Nuck,NUCK
+9,624,NOLA,2341,WR,Wide Receiver,Mayran Jackson,Kendrick
+9,232,NOLA,2341,TE,Tight End,Paul DiMirio,124715
+9,776,NOLA,2341,WR,Wide Receiver,Charlie Law,AdamS
+9,671,NOLA,2341,WR,Wide Receiver,Dustin Evans,AsylumParty
+9,750,BAL,2341,WR,Wide Receiver,Trey Willie,ItsJustBarry
+9,931,BAL,2341,TE,Tight End,Verso L’Alto,nunccoepi
+9,770,BAL,2341,WR,Wide Receiver,Budda Browning,Rindiee
+9,212,BAL,2341,WR,Wide Receiver,Alexandre LeClair,Zoone16
+9,759,NOLA,2341,K,Kicker,Iyah Blewitt,Rabidsponge21
+9,216,BAL,2341,K,Kicker,Turk Turkleton,Raven
+9,241,NOLA,2341,CB,Cornerback,Benson Bayley,Bayley
+9,213,BAL,2341,CB,Cornerback,Antoine Delacour,37thchamber
+9,888,NOLA,2341,LB,Linebacker,Brian Mills,PaytonM34
+9,242,NOLA,2341,LB,Linebacker,Julian O'Sullivan,JuOSu
+9,726,NOLA,2341,LB,Linebacker,Vincent Sharpei,Muford
+9,771,NOLA,2341,DT,Defensive Tackle,Godfrey King,Shadowz
+9,766,NOLA,2341,DT,Defensive Tackle,Joseph Askins,jaskins811
+9,927,NOLA,2341,CB,Wide Receiver,Vladimir Fyodorovich,majesiu
+9,816,NOLA,2341,S,Safety,Blackford Oakes,Beaver
+9,550,NOLA,2341,DE,Defensive End,Jayce Tuck,ErMurazor
+9,206,NOLA,2341,DE,Defensive End,Fuego Wozy,TheWoZy
+9,820,BAL,2341,LB,Linebacker,Noah Goodson,toivo
+9,667,BAL,2341,CB,Cornerback,Darnell Turner,Darnellthebeast
+9,218,BAL,2341,\\N,Safety,Vikian Marmeladov,Vikain
+9,778,BAL,2341,CB,Cornerback,Clifford Rove,Yurt6
+9,883,BAL,2341,DE,Defensive End,Arbin Asipi JR,DeathOnReddit
+9,864,BAL,2341,CB,Cornerback,Gregory Fletcher,The_Hero
+9,210,BAL,2341,DE,Defensive End,Kurt Hendrix,HENDRIX
+9,898,BAL,2341,LB,Linebacker,Austin Roenick,Leafer
+9,604,BAL,2341,DT,Defensive Tackle,Erasmo Broadway,evryday
+9,948,BAL,2341,DE,Quarterback,Childish Gambino,Renrut
+9,876,SJS,2342,TE,,Tor Tuck,Ace
+9,944,SJS,2342,QB,Wide Receiver,Brad Pennington,Dawegg
+9,982,AZ,2342,QB,Quarterback,Kevin Fitzpatrick,kckolbe
+9,680,SJS,2342,RB,Running Back,Denzel Diaz,ElMachoNacho
+9,933,SJS,2342,RB,Running Back,D.J. Riddick,OptiimusPR1ME
+9,201,AZ,2342,RB,Running Back,Reg Mackworthy,Esa77
+9,650,SJS,2342,WR,Wide Receiver,Shane Weston,Symmetrik
+9,248,SJS,2342,WR,Wide Receiver,Antonio Legion,Keyg_an
+9,970,SJS,2342,TE,Tight End,Zapp Brannigan,pazuzu
+9,669,AZ,2342,WR,Wide Receiver,C.A Chess,4D Chess
+9,842,AZ,2342,WR,Wide Receiver,John Wachter,JohnWachter
+9,937,AZ,2342,WR,Wide Receiver,Viggo Squanch,Durden
+9,942,AZ,2342,TE,Tight End,Balthazar Crindy,dub
+9,847,AZ,2342,WR,Wide Receiver,Fresh Booter,PoloPro
+9,985,SJS,2342,K,Kicker,Kyle Corbett,kylecorbett42
+9,856,AZ,2342,K,Kicker,Dean Jackson,run_CMC
+9,568,SJS,2342,CB,Cornerback,John Canton,Sweetwater
+9,858,AZ,2342,S,Safety,Darren Morris,Roly
+9,943,SJS,2342,LB,Linebacker,Ben Horne,iseedoug
+9,628,SJS,2342,S,Safety,Ja Brill,ckroyal92
+9,767,SJS,2342,DT,Defensive Tackle,Calkewlated Chambers III,Lendoris
+9,689,SJS,2342,LB,Linebacker,Luke Washington,Den_Tex_Mix2
+9,841,SJS,2342,CB,Cornerback,Terrell Brister,tbone415
+9,581,SJS,2342,LB,Linebacker,Stephen Harrison,Noppadet
+9,563,SJS,2342,S,Safety,Alex Hansen,acki
+9,886,SJS,2342,DE,Defensive End,Cordell Joshua,Drizzy
+9,859,SJS,2342,DE,Defensive End,Bastion Barnhardt,pulsedk
+9,925,SJS,2342,LB,Linebacker,Thomas Kane III,greygoosevodka
+9,703,SJS,2342,S,Safety,Torque Lewith,Hypodynamic
+9,894,AZ,2342,LB,Linebacker,Jack Dwyer,Neckbishop
+9,969,AZ,2342,S,Safety,Bucky Barnes,Moosecop
+9,633,AZ,2342,S,Safety,Jogn Floggity,Jogn
+9,615,AZ,2342,LB,Linebacker,AC Hackett,Deusolis
+9,217,AZ,2342,LB,Linebacker,Harrif Ernston,Valtookan
+9,658,AZ,2342,LB,Linebacker,Luke Tiernan,Ltsmashie
+9,602,AZ,2342,DT,Defensive Tackle,Mark Ramrio,Anti-Hype
+9,720,AZ,2342,S,Safety,Allen Davis,XxpurplepurpsxX
+9,825,AZ,2342,DE,Defensive End,Andreas Waiters,Chukka
+9,861,AZ,2342,DT,Defensive Tackle,Egor Medved,Walder Frey
+9,673,OCO,2343,K,Kicker,Bradley T Madlad,BradtheMadLad
+9,928,COL,2343,QB,Cornerback,Ryan Applehort,Daybe
+9,208,OCO,2343,QB,Quarterback,Mike Boss,JBLAZE_THE_BOSS
+9,738,COL,2343,RB,Running Back,Damien Kroetch,Damienj10
+9,779,COL,2343,RB,Defensive End,Jimmy Cox,Waters
+9,695,OCO,2343,RB,Running Back,Jordan Yates,jordan327
+9,932,COL,2343,WR,Wide Receiver,Howard Miller,dropbear
+9,893,COL,2343,WR,Wide Receiver,Dwayne Aaron,Supersquare04
+9,792,COL,2343,WR,Wide Receiver,Brian Wheat,Wheaties
+9,926,COL,2343,RB,Running Back,Mark Grau,keanex
+9,910,COL,2343,TE,Tight End,Alvin Chipmunk,andybj
+9,827,OCO,2343,WR,Wide Receiver,Tegan Atwell,Jiggly_333
+9,860,OCO,2343,WR,Wide Receiver,Carlito Crush,JKortesi81
+9,215,OCO,2343,WR,Wide Receiver,Bradley Westfield,Bwestfield
+9,643,OCO,2343,WR,Wide Receiver,Robert Phelps,DrunkenTeddy
+9,403,OCO,2343,\\N,Defensive End,Angus Winchester,timeconsumer
+9,234,OCO,2343,CB,Cornerback,Marc Spector,RedCydranth
+9,895,COL,2343,K,Quarterback,Micycle McCormick,infinitempg
+9,828,COL,2343,CB,Cornerback,Andre Bly Jr.,sapp2013
+9,940,COL,2343,LB,Defensive End,Rickey Ramero,Ramero
+9,211,COL,2343,LB,Linebacker,Johnathon Saint,jparks98
+9,797,COL,2343,DE,Defensive End,Antonio Sandoval,TheMemeMaestro
+9,863,COL,2343,S,Safety,Michael Tillman,mmfootball
+9,823,COL,2343,LB,Defensive End,Haruki Ishigawa,ExemplaryChad
+9,795,COL,2343,DT,Defensive Tackle,Eli Kamaka,PDXBaller
+9,802,COL,2343,DT,Defensive Tackle,Nicholas Pierno,ralz9
+9,974,COL,2343,S,Safety,Alexandre Thibault,Jepox
+9,887,COL,2343,LB,Linebacker,Rob Anderson,Robigo_
+9,219,COL,2343,DT,Defensive Tackle,Dan Miller,7hawk77
+9,701,OCO,2343,S,Safety,Marcus Kane,Dangles13
+9,923,OCO,2343,LB,Safety,Mason Brown,Toasty
+9,881,OCO,2343,LB,Linebacker,Elvin Enchant,ElvinEnchant
+9,780,OCO,2343,CB,Cornerback,Jonathan King,ralams123
+9,702,OCO,2343,DT,Defensive Tackle,Greg Clegane,automatic
+9,865,OCO,2343,DT,Defensive Tackle,Ryan Sierra,Battleborn
+9,247,OCO,2343,\\N,Safety,Jaylon Broxton,speculadora
+9,889,YKW,2344,K,Kicker,- Forfeit,KimJungBigDong
+9,576,YKW,2344,QB,Quarterback,Mat Akselsen,Bzerkap
+9,571,PHI,2344,QB,Quarterback,Logan Noble,Noble
+9,880,YKW,2344,RB,Linebacker,Robby Rainey,AzhekAhriman
+9,879,YKW,2344,RB,Running Back,Borro Gore,Goretron
+9,733,PHI,2344,RB,Running Back,Darlane Farlane,Gwdaja
+9,854,PHI,2344,RB,Running Back,Conall O’Sullivan,Kristy95
+9,882,YKW,2344,TE,Tight End,Glenn McPoyal,Alfredo_Pasta
+9,729,YKW,2344,WR,Wide Receiver,Eric Kennedy,SwagSloth
+9,769,YKW,2344,TE,Tight End,Franklin Harris Jr.,Apache_Chief
+9,227,YKW,2344,CB,Cornerback,Dermot Lavelle,White Cornerback
+9,909,YKW,2344,WR,Wide Receiver,Footballer Catcherman,cpetrella
+9,605,YKW,2344,WR,Wide Receiver,Bailey Cook,RainDelay
+9,900,PHI,2344,WR,Wide Receiver,Carter Bush,adam2552
+9,704,PHI,2344,WR,Wide Receiver,Fox North,Silver Fox
+9,200,PHI,2344,WR,Wide Receiver,Josh Garden,Ballerstorm
+9,826,PHI,2344,TE,Tight End,Steven O’Sullivan,StevenOSullivan
+9,946,PHI,2344,K,,Beat Meoff,Loganjj21
+9,222,YKW,2344,LB,Running Back,Boss Tweed,PigSnout
+9,955,YKW,2344,LB,Linebacker,Chad Pennington,caltroit_red_flames
+9,919,YKW,2344,DE,Defensive End,Zach Skinner,Titan127
+9,845,YKW,2344,S,Safety,Cameron Taylor,CDub2
+9,626,YKW,2344,S,Safety,Clee Hardrool,Saliva^
+9,775,YKW,2344,LB,Linebacker,Wallace Stone,Evok
+9,684,YKW,2344,LB,Linebacker,Micah Hendrix,HalfEatenOnionBagel
+9,575,YKW,2344,DE,Defensive End,Ricky Maddox,SimmerDownBruhh
+9,755,YKW,2344,CB,Cornerback,Samuel Zhang,kcheng686
+9,945,YKW,2344,DT,Defensive Tackle,James Brown,Scootalicious
+9,896,YKW,2344,DT,Defensive Tackle,Gustav Rodriguez,samee
+9,793,YKW,2344,LB,Linebacker,William Ridley,MacTonight
+9,707,PHI,2344,LB,Linebacker,James Wright,PlotzkeA
+9,207,PHI,2344,LB,Linebacker,Jaylon Lee,youngcricket
+9,717,PHI,2344,LB,Linebacker,Perry Tucker,Perry87
+9,599,PHI,2344,S,Safety,Dominic Verns,Roshambo
+9,522,PHI,2344,CB,Cornerback,Alex Hayden,Rich
+9,954,PHI,2344,DT,Defensive Tackle,Mark David,Mark D
+9,936,PHI,2344,DE,Defensive End,Brock Weathers III,BWIII
+9,877,PHI,2344,DE,Defensive End,Norman Bagwell,bagwell
+9,585,PHI,2344,S,Safety,Scrub Kyubee,DollarAndADream
+9,666,PHI,2344,DE,Defensive End,Drew Davidson,sabills
+9,547,PHI,2344,S,Safety,Ryan Flock,theFlock
+9,873,PHI,2344,RB,Running Back,Willy Nyquist -,Sleepy
+9,889,YKW,2345,K,Kicker,- Forfeit,KimJungBigDong
+9,249,BAL,2345,WR,Wide Receiver,Grey Slax,Jonstradamus
+9,233,BAL,2345,QB,Cornerback,Avon Blocksdale,iamslm22
+9,576,YKW,2345,QB,Quarterback,Mat Akselsen,Bzerkap
+9,230,BAL,2345,RB,Running Back,Owen Taylor,manicmav36
+9,625,BAL,2345,RB,Running Back,Bubba Nuck,NUCK
+9,880,YKW,2345,RB,Linebacker,Robby Rainey,AzhekAhriman
+9,879,YKW,2345,RB,Running Back,Borro Gore,Goretron
+9,931,BAL,2345,TE,Tight End,Verso L’Alto,nunccoepi
+9,750,BAL,2345,WR,Wide Receiver,Trey Willie,ItsJustBarry
+9,212,BAL,2345,WR,Wide Receiver,Alexandre LeClair,Zoone16
+9,770,BAL,2345,WR,Wide Receiver,Budda Browning,Rindiee
+9,729,YKW,2345,WR,Wide Receiver,Eric Kennedy,SwagSloth
+9,882,YKW,2345,TE,Tight End,Glenn McPoyal,Alfredo_Pasta
+9,227,YKW,2345,CB,Cornerback,Dermot Lavelle,White Cornerback
+9,769,YKW,2345,TE,Tight End,Franklin Harris Jr.,Apache_Chief
+9,216,BAL,2345,K,Kicker,Turk Turkleton,Raven
+9,213,BAL,2345,CB,Cornerback,Antoine Delacour,37thchamber
+9,667,BAL,2345,CB,Cornerback,Darnell Turner,Darnellthebeast
+9,218,BAL,2345,\\N,Safety,Vikian Marmeladov,Vikain
+9,883,BAL,2345,DE,Defensive End,Arbin Asipi JR,DeathOnReddit
+9,820,BAL,2345,LB,Linebacker,Noah Goodson,toivo
+9,210,BAL,2345,DE,Defensive End,Kurt Hendrix,HENDRIX
+9,778,BAL,2345,CB,Cornerback,Clifford Rove,Yurt6
+9,864,BAL,2345,CB,Cornerback,Gregory Fletcher,The_Hero
+9,948,BAL,2345,DE,Quarterback,Childish Gambino,Renrut
+9,898,BAL,2345,LB,Linebacker,Austin Roenick,Leafer
+9,955,YKW,2345,LB,Linebacker,Chad Pennington,caltroit_red_flames
+9,222,YKW,2345,LB,Running Back,Boss Tweed,PigSnout
+9,626,YKW,2345,S,Safety,Clee Hardrool,Saliva^
+9,775,YKW,2345,LB,Linebacker,Wallace Stone,Evok
+9,845,YKW,2345,S,Safety,Cameron Taylor,CDub2
+9,755,YKW,2345,CB,Cornerback,Samuel Zhang,kcheng686
+9,684,YKW,2345,LB,Linebacker,Micah Hendrix,HalfEatenOnionBagel
+9,896,YKW,2345,DT,Defensive Tackle,Gustav Rodriguez,samee
+9,575,YKW,2345,DE,Defensive End,Ricky Maddox,SimmerDownBruhh
+9,919,YKW,2345,DE,Defensive End,Zach Skinner,Titan127
+9,604,BAL,2345,DT,Defensive Tackle,Erasmo Broadway,evryday
+9,928,COL,2346,QB,Cornerback,Ryan Applehort,Daybe
+9,982,AZ,2346,QB,Quarterback,Kevin Fitzpatrick,kckolbe
+9,738,COL,2346,RB,Running Back,Damien Kroetch,Damienj10
+9,779,COL,2346,RB,Defensive End,Jimmy Cox,Waters
+9,201,AZ,2346,RB,Running Back,Reg Mackworthy,Esa77
+9,893,COL,2346,WR,Wide Receiver,Dwayne Aaron,Supersquare04
+9,932,COL,2346,WR,Wide Receiver,Howard Miller,dropbear
+9,926,COL,2346,RB,Running Back,Mark Grau,keanex
+9,792,COL,2346,WR,Wide Receiver,Brian Wheat,Wheaties
+9,669,AZ,2346,WR,Wide Receiver,C.A Chess,4D Chess
+9,842,AZ,2346,WR,Wide Receiver,John Wachter,JohnWachter
+9,942,AZ,2346,TE,Tight End,Balthazar Crindy,dub
+9,937,AZ,2346,WR,Wide Receiver,Viggo Squanch,Durden
+9,847,AZ,2346,WR,Wide Receiver,Fresh Booter,PoloPro
+9,895,COL,2346,K,Quarterback,Micycle McCormick,infinitempg
+9,856,AZ,2346,K,Kicker,Dean Jackson,run_CMC
+9,828,COL,2346,CB,Cornerback,Andre Bly Jr.,sapp2013
+9,858,AZ,2346,S,Safety,Darren Morris,Roly
+9,887,COL,2346,LB,Linebacker,Rob Anderson,Robigo_
+9,940,COL,2346,LB,Defensive End,Rickey Ramero,Ramero
+9,797,COL,2346,DE,Defensive End,Antonio Sandoval,TheMemeMaestro
+9,823,COL,2346,LB,Defensive End,Haruki Ishigawa,ExemplaryChad
+9,211,COL,2346,LB,Linebacker,Johnathon Saint,jparks98
+9,863,COL,2346,S,Safety,Michael Tillman,mmfootball
+9,795,COL,2346,DT,Defensive Tackle,Eli Kamaka,PDXBaller
+9,974,COL,2346,S,Safety,Alexandre Thibault,Jepox
+9,633,AZ,2346,S,Safety,Jogn Floggity,Jogn
+9,720,AZ,2346,S,Safety,Allen Davis,XxpurplepurpsxX
+9,894,AZ,2346,LB,Linebacker,Jack Dwyer,Neckbishop
+9,615,AZ,2346,LB,Linebacker,AC Hackett,Deusolis
+9,658,AZ,2346,LB,Linebacker,Luke Tiernan,Ltsmashie
+9,217,AZ,2346,LB,Linebacker,Harrif Ernston,Valtookan
+9,861,AZ,2346,DT,Defensive Tackle,Egor Medved,Walder Frey
+9,969,AZ,2346,S,Safety,Bucky Barnes,Moosecop
+9,602,AZ,2346,DT,Defensive Tackle,Mark Ramrio,Anti-Hype
+9,825,AZ,2346,DE,Defensive End,Andreas Waiters,Chukka
+9,802,COL,2346,DT,Defensive Tackle,Nicholas Pierno,ralz9
+9,673,OCO,2347,K,Kicker,Bradley T Madlad,BradtheMadLad
+9,876,SJS,2347,TE,,Tor Tuck,Ace
+9,208,OCO,2347,QB,Quarterback,Mike Boss,JBLAZE_THE_BOSS
+9,944,SJS,2347,QB,Wide Receiver,Brad Pennington,Dawegg
+9,695,OCO,2347,RB,Running Back,Jordan Yates,jordan327
+9,680,SJS,2347,RB,Running Back,Denzel Diaz,ElMachoNacho
+9,933,SJS,2347,RB,Running Back,D.J. Riddick,OptiimusPR1ME
+9,860,OCO,2347,WR,Wide Receiver,Carlito Crush,JKortesi81
+9,827,OCO,2347,WR,Wide Receiver,Tegan Atwell,Jiggly_333
+9,215,OCO,2347,WR,Wide Receiver,Bradley Westfield,Bwestfield
+9,643,OCO,2347,WR,Wide Receiver,Robert Phelps,DrunkenTeddy
+9,650,SJS,2347,WR,Wide Receiver,Shane Weston,Symmetrik
+9,970,SJS,2347,TE,Tight End,Zapp Brannigan,pazuzu
+9,248,SJS,2347,WR,Wide Receiver,Antonio Legion,Keyg_an
+9,985,SJS,2347,K,Kicker,Kyle Corbett,kylecorbett42
+9,234,OCO,2347,CB,Cornerback,Marc Spector,RedCydranth
+9,568,SJS,2347,CB,Cornerback,John Canton,Sweetwater
+9,923,OCO,2347,LB,Safety,Mason Brown,Toasty
+9,247,OCO,2347,\\N,Safety,Jaylon Broxton,speculadora
+9,702,OCO,2347,DT,Defensive Tackle,Greg Clegane,automatic
+9,881,OCO,2347,LB,Linebacker,Elvin Enchant,ElvinEnchant
+9,780,OCO,2347,CB,Cornerback,Jonathan King,ralams123
+9,403,OCO,2347,\\N,Defensive End,Angus Winchester,timeconsumer
+9,527,OCO,2347,DE,Defensive End,George Wright Jr.,Player1
+9,751,OCO,2347,DT,Defensive Tackle,Ryan Fitzfatrick,runrunpasspunt
+9,701,OCO,2347,S,Safety,Marcus Kane,Dangles13
+9,865,OCO,2347,DT,Defensive Tackle,Ryan Sierra,Battleborn
+9,841,SJS,2347,CB,Cornerback,Terrell Brister,tbone415
+9,581,SJS,2347,LB,Linebacker,Stephen Harrison,Noppadet
+9,943,SJS,2347,LB,Linebacker,Ben Horne,iseedoug
+9,628,SJS,2347,S,Safety,Ja Brill,ckroyal92
+9,689,SJS,2347,LB,Linebacker,Luke Washington,Den_Tex_Mix2
+9,859,SJS,2347,DE,Defensive End,Bastion Barnhardt,pulsedk
+9,563,SJS,2347,S,Safety,Alex Hansen,acki
+9,886,SJS,2347,DE,Defensive End,Cordell Joshua,Drizzy
+9,925,SJS,2347,LB,Linebacker,Thomas Kane III,greygoosevodka
+9,703,SJS,2347,S,Safety,Torque Lewith,Hypodynamic
+9,767,SJS,2347,DT,Defensive Tackle,Calkewlated Chambers III,Lendoris
+9,947,NOLA,2348,FS,Safety,William H. Harrison,Mongoose87
+9,209,PHI,2348,WR,Wide Receiver,- Stormblessed,Stormblessed
+9,571,PHI,2348,QB,Quarterback,Logan Noble,Noble
+9,868,NOLA,2348,QB,Quarterback,Borkus Maximus III,bovovovo
+9,733,PHI,2348,RB,Running Back,Darlane Farlane,Gwdaja
+9,854,PHI,2348,RB,Running Back,Conall O’Sullivan,Kristy95
+9,873,PHI,2348,RB,Running Back,Willy Nyquist -,Sleepy
+9,238,NOLA,2348,RB,Wide Receiver,Darren Smallwood,tlk742
+9,678,NOLA,2348,TE,Tight End,Ardie Savea,Ben
+9,900,PHI,2348,WR,Wide Receiver,Carter Bush,adam2552
+9,704,PHI,2348,WR,Wide Receiver,Fox North,Silver Fox
+9,826,PHI,2348,TE,Tight End,Steven O’Sullivan,StevenOSullivan
+9,200,PHI,2348,WR,Wide Receiver,Josh Garden,Ballerstorm
+9,776,NOLA,2348,WR,Wide Receiver,Charlie Law,AdamS
+9,624,NOLA,2348,WR,Wide Receiver,Mayran Jackson,Kendrick
+9,671,NOLA,2348,WR,Wide Receiver,Dustin Evans,AsylumParty
+9,232,NOLA,2348,TE,Tight End,Paul DiMirio,124715
+9,946,PHI,2348,K,,Beat Meoff,Loganjj21
+9,759,NOLA,2348,K,Kicker,Iyah Blewitt,Rabidsponge21
+9,241,NOLA,2348,CB,Cornerback,Benson Bayley,Bayley
+9,522,PHI,2348,CB,Cornerback,Alex Hayden,Rich
+9,707,PHI,2348,LB,Linebacker,James Wright,PlotzkeA
+9,207,PHI,2348,LB,Linebacker,Jaylon Lee,youngcricket
+9,936,PHI,2348,DE,Defensive End,Brock Weathers III,BWIII
+9,954,PHI,2348,DT,Defensive Tackle,Mark David,Mark D
+9,717,PHI,2348,LB,Linebacker,Perry Tucker,Perry87
+9,599,PHI,2348,S,Safety,Dominic Verns,Roshambo
+9,666,PHI,2348,DE,Defensive End,Drew Davidson,sabills
+9,877,PHI,2348,DE,Defensive End,Norman Bagwell,bagwell
+9,547,PHI,2348,S,Safety,Ryan Flock,theFlock
+9,585,PHI,2348,S,Safety,Scrub Kyubee,DollarAndADream
+9,888,NOLA,2348,LB,Linebacker,Brian Mills,PaytonM34
+9,816,NOLA,2348,S,Safety,Blackford Oakes,Beaver
+9,726,NOLA,2348,LB,Linebacker,Vincent Sharpei,Muford
+9,206,NOLA,2348,DE,Defensive End,Fuego Wozy,TheWoZy
+9,242,NOLA,2348,LB,Linebacker,Julian O'Sullivan,JuOSu
+9,771,NOLA,2348,DT,Defensive Tackle,Godfrey King,Shadowz
+9,550,NOLA,2348,DE,Defensive End,Jayce Tuck,ErMurazor
+9,766,NOLA,2348,DT,Defensive Tackle,Joseph Askins,jaskins811
+9,927,NOLA,2348,CB,Wide Receiver,Vladimir Fyodorovich,majesiu
+9,249,BAL,2349,WR,Wide Receiver,Grey Slax,Jonstradamus
+9,233,BAL,2349,QB,Cornerback,Avon Blocksdale,iamslm22
+9,928,COL,2349,QB,Cornerback,Ryan Applehort,Daybe
+9,230,BAL,2349,RB,Running Back,Owen Taylor,manicmav36
+9,625,BAL,2349,RB,Running Back,Bubba Nuck,NUCK
+9,738,COL,2349,RB,Running Back,Damien Kroetch,Damienj10
+9,926,COL,2349,RB,Running Back,Mark Grau,keanex
+9,779,COL,2349,RB,Defensive End,Jimmy Cox,Waters
+9,750,BAL,2349,WR,Wide Receiver,Trey Willie,ItsJustBarry
+9,931,BAL,2349,TE,Tight End,Verso L’Alto,nunccoepi
+9,770,BAL,2349,WR,Wide Receiver,Budda Browning,Rindiee
+9,212,BAL,2349,WR,Wide Receiver,Alexandre LeClair,Zoone16
+9,910,COL,2349,TE,Tight End,Alvin Chipmunk,andybj
+9,932,COL,2349,WR,Wide Receiver,Howard Miller,dropbear
+9,792,COL,2349,WR,Wide Receiver,Brian Wheat,Wheaties
+9,893,COL,2349,WR,Wide Receiver,Dwayne Aaron,Supersquare04
+9,216,BAL,2349,K,Kicker,Turk Turkleton,Raven
+9,895,COL,2349,K,Quarterback,Micycle McCormick,infinitempg
+9,213,BAL,2349,CB,Cornerback,Antoine Delacour,37thchamber
+9,828,COL,2349,CB,Cornerback,Andre Bly Jr.,sapp2013
+9,667,BAL,2349,CB,Cornerback,Darnell Turner,Darnellthebeast
+9,820,BAL,2349,LB,Linebacker,Noah Goodson,toivo
+9,218,BAL,2349,\\N,Safety,Vikian Marmeladov,Vikain
+9,864,BAL,2349,CB,Cornerback,Gregory Fletcher,The_Hero
+9,778,BAL,2349,CB,Cornerback,Clifford Rove,Yurt6
+9,210,BAL,2349,DE,Defensive End,Kurt Hendrix,HENDRIX
+9,898,BAL,2349,LB,Linebacker,Austin Roenick,Leafer
+9,883,BAL,2349,DE,Defensive End,Arbin Asipi JR,DeathOnReddit
+9,604,BAL,2349,DT,Defensive Tackle,Erasmo Broadway,evryday
+9,823,COL,2349,LB,Defensive End,Haruki Ishigawa,ExemplaryChad
+9,974,COL,2349,S,Safety,Alexandre Thibault,Jepox
+9,797,COL,2349,DE,Defensive End,Antonio Sandoval,TheMemeMaestro
+9,219,COL,2349,DT,Defensive Tackle,Dan Miller,7hawk77
+9,940,COL,2349,LB,Defensive End,Rickey Ramero,Ramero
+9,211,COL,2349,LB,Linebacker,Johnathon Saint,jparks98
+9,795,COL,2349,DT,Defensive Tackle,Eli Kamaka,PDXBaller
+9,978,COL,2349,CB,Cornerback,Oskar Ludvig,RealWackolyte
+9,802,COL,2349,DT,Defensive Tackle,Nicholas Pierno,ralz9
+9,863,COL,2349,S,Safety,Michael Tillman,mmfootball
+9,889,YKW,2350,K,Kicker,- Forfeit,KimJungBigDong
+9,576,YKW,2350,QB,Quarterback,Mat Akselsen,Bzerkap
+9,982,AZ,2350,QB,Quarterback,Kevin Fitzpatrick,kckolbe
+9,880,YKW,2350,RB,Linebacker,Robby Rainey,AzhekAhriman
+9,879,YKW,2350,RB,Running Back,Borro Gore,Goretron
+9,201,AZ,2350,RB,Running Back,Reg Mackworthy,Esa77
+9,227,YKW,2350,CB,Cornerback,Dermot Lavelle,White Cornerback
+9,729,YKW,2350,WR,Wide Receiver,Eric Kennedy,SwagSloth
+9,769,YKW,2350,TE,Tight End,Franklin Harris Jr.,Apache_Chief
+9,605,YKW,2350,WR,Wide Receiver,Bailey Cook,RainDelay
+9,882,YKW,2350,TE,Tight End,Glenn McPoyal,Alfredo_Pasta
+9,669,AZ,2350,WR,Wide Receiver,C.A Chess,4D Chess
+9,937,AZ,2350,WR,Wide Receiver,Viggo Squanch,Durden
+9,842,AZ,2350,WR,Wide Receiver,John Wachter,JohnWachter
+9,942,AZ,2350,TE,Tight End,Balthazar Crindy,dub
+9,847,AZ,2350,WR,Wide Receiver,Fresh Booter,PoloPro
+9,856,AZ,2350,K,Kicker,Dean Jackson,run_CMC
+9,858,AZ,2350,S,Safety,Darren Morris,Roly
+9,222,YKW,2350,LB,Running Back,Boss Tweed,PigSnout
+9,845,YKW,2350,S,Safety,Cameron Taylor,CDub2
+9,684,YKW,2350,LB,Linebacker,Micah Hendrix,HalfEatenOnionBagel
+9,955,YKW,2350,LB,Linebacker,Chad Pennington,caltroit_red_flames
+9,945,YKW,2350,DT,Defensive Tackle,James Brown,Scootalicious
+9,896,YKW,2350,DT,Defensive Tackle,Gustav Rodriguez,samee
+9,626,YKW,2350,S,Safety,Clee Hardrool,Saliva^
+9,775,YKW,2350,LB,Linebacker,Wallace Stone,Evok
+9,755,YKW,2350,CB,Cornerback,Samuel Zhang,kcheng686
+9,575,YKW,2350,DE,Defensive End,Ricky Maddox,SimmerDownBruhh
+9,658,AZ,2350,LB,Linebacker,Luke Tiernan,Ltsmashie
+9,894,AZ,2350,LB,Linebacker,Jack Dwyer,Neckbishop
+9,969,AZ,2350,S,Safety,Bucky Barnes,Moosecop
+9,602,AZ,2350,DT,Defensive Tackle,Mark Ramrio,Anti-Hype
+9,217,AZ,2350,LB,Linebacker,Harrif Ernston,Valtookan
+9,861,AZ,2350,DT,Defensive Tackle,Egor Medved,Walder Frey
+9,633,AZ,2350,S,Safety,Jogn Floggity,Jogn
+9,825,AZ,2350,DE,Defensive End,Andreas Waiters,Chukka
+9,720,AZ,2350,S,Safety,Allen Davis,XxpurplepurpsxX
+9,615,AZ,2350,LB,Linebacker,AC Hackett,Deusolis
+9,947,NOLA,2351,FS,Safety,William H. Harrison,Mongoose87
+9,673,OCO,2351,K,Kicker,Bradley T Madlad,BradtheMadLad
+9,868,NOLA,2351,QB,Quarterback,Borkus Maximus III,bovovovo
+9,208,OCO,2351,QB,Quarterback,Mike Boss,JBLAZE_THE_BOSS
+9,238,NOLA,2351,RB,Wide Receiver,Darren Smallwood,tlk742
+9,678,NOLA,2351,TE,Tight End,Ardie Savea,Ben
+9,695,OCO,2351,RB,Running Back,Jordan Yates,jordan327
+9,671,NOLA,2351,WR,Wide Receiver,Dustin Evans,AsylumParty
+9,776,NOLA,2351,WR,Wide Receiver,Charlie Law,AdamS
+9,232,NOLA,2351,TE,Tight End,Paul DiMirio,124715
+9,624,NOLA,2351,WR,Wide Receiver,Mayran Jackson,Kendrick
+9,860,OCO,2351,WR,Wide Receiver,Carlito Crush,JKortesi81
+9,215,OCO,2351,WR,Wide Receiver,Bradley Westfield,Bwestfield
+9,643,OCO,2351,WR,Wide Receiver,Robert Phelps,DrunkenTeddy
+9,827,OCO,2351,WR,Wide Receiver,Tegan Atwell,Jiggly_333
+9,403,OCO,2351,\\N,Defensive End,Angus Winchester,timeconsumer
+9,759,NOLA,2351,K,Kicker,Iyah Blewitt,Rabidsponge21
+9,241,NOLA,2351,CB,Cornerback,Benson Bayley,Bayley
+9,234,OCO,2351,CB,Cornerback,Marc Spector,RedCydranth
+9,726,NOLA,2351,LB,Linebacker,Vincent Sharpei,Muford
+9,927,NOLA,2351,CB,Wide Receiver,Vladimir Fyodorovich,majesiu
+9,242,NOLA,2351,LB,Linebacker,Julian O'Sullivan,JuOSu
+9,771,NOLA,2351,DT,Defensive Tackle,Godfrey King,Shadowz
+9,888,NOLA,2351,LB,Linebacker,Brian Mills,PaytonM34
+9,816,NOLA,2351,S,Safety,Blackford Oakes,Beaver
+9,206,NOLA,2351,DE,Defensive End,Fuego Wozy,TheWoZy
+9,766,NOLA,2351,DT,Defensive Tackle,Joseph Askins,jaskins811
+9,550,NOLA,2351,DE,Defensive End,Jayce Tuck,ErMurazor
+9,247,OCO,2351,\\N,Safety,Jaylon Broxton,speculadora
+9,865,OCO,2351,DT,Defensive Tackle,Ryan Sierra,Battleborn
+9,923,OCO,2351,LB,Safety,Mason Brown,Toasty
+9,701,OCO,2351,S,Safety,Marcus Kane,Dangles13
+9,780,OCO,2351,CB,Cornerback,Jonathan King,ralams123
+9,702,OCO,2351,DT,Defensive Tackle,Greg Clegane,automatic
+9,527,OCO,2351,DE,Defensive End,George Wright Jr.,Player1
+9,881,OCO,2351,LB,Linebacker,Elvin Enchant,ElvinEnchant
+9,751,OCO,2351,DT,Defensive Tackle,Ryan Fitzfatrick,runrunpasspunt
+9,209,PHI,2352,WR,Wide Receiver,- Stormblessed,Stormblessed
+9,876,SJS,2352,TE,,Tor Tuck,Ace
+9,944,SJS,2352,QB,Wide Receiver,Brad Pennington,Dawegg
+9,571,PHI,2352,QB,Quarterback,Logan Noble,Noble
+9,680,SJS,2352,RB,Running Back,Denzel Diaz,ElMachoNacho
+9,933,SJS,2352,RB,Running Back,D.J. Riddick,OptiimusPR1ME
+9,733,PHI,2352,RB,Running Back,Darlane Farlane,Gwdaja
+9,873,PHI,2352,RB,Running Back,Willy Nyquist -,Sleepy
+9,650,SJS,2352,WR,Wide Receiver,Shane Weston,Symmetrik
+9,970,SJS,2352,TE,Tight End,Zapp Brannigan,pazuzu
+9,248,SJS,2352,WR,Wide Receiver,Antonio Legion,Keyg_an
+9,900,PHI,2352,WR,Wide Receiver,Carter Bush,adam2552
+9,704,PHI,2352,WR,Wide Receiver,Fox North,Silver Fox
+9,826,PHI,2352,TE,Tight End,Steven O’Sullivan,StevenOSullivan
+9,200,PHI,2352,WR,Wide Receiver,Josh Garden,Ballerstorm
+9,985,SJS,2352,K,Kicker,Kyle Corbett,kylecorbett42
+9,946,PHI,2352,K,,Beat Meoff,Loganjj21
+9,568,SJS,2352,CB,Cornerback,John Canton,Sweetwater
+9,841,SJS,2352,CB,Cornerback,Terrell Brister,tbone415
+9,563,SJS,2352,S,Safety,Alex Hansen,acki
+9,943,SJS,2352,LB,Linebacker,Ben Horne,iseedoug
+9,767,SJS,2352,DT,Defensive Tackle,Calkewlated Chambers III,Lendoris
+9,581,SJS,2352,LB,Linebacker,Stephen Harrison,Noppadet
+9,628,SJS,2352,S,Safety,Ja Brill,ckroyal92
+9,703,SJS,2352,S,Safety,Torque Lewith,Hypodynamic
+9,689,SJS,2352,LB,Linebacker,Luke Washington,Den_Tex_Mix2
+9,859,SJS,2352,DE,Defensive End,Bastion Barnhardt,pulsedk
+9,925,SJS,2352,LB,Linebacker,Thomas Kane III,greygoosevodka
+9,207,PHI,2352,LB,Linebacker,Jaylon Lee,youngcricket
+9,707,PHI,2352,LB,Linebacker,James Wright,PlotzkeA
+9,717,PHI,2352,LB,Linebacker,Perry Tucker,Perry87
+9,599,PHI,2352,S,Safety,Dominic Verns,Roshambo
+9,522,PHI,2352,CB,Cornerback,Alex Hayden,Rich
+9,585,PHI,2352,S,Safety,Scrub Kyubee,DollarAndADream
+9,547,PHI,2352,S,Safety,Ryan Flock,theFlock
+9,954,PHI,2352,DT,Defensive Tackle,Mark David,Mark D
+9,666,PHI,2352,DE,Defensive End,Drew Davidson,sabills
+9,854,PHI,2352,RB,Running Back,Conall O’Sullivan,Kristy95
+9,249,BAL,2353,WR,Wide Receiver,Grey Slax,Jonstradamus
+9,982,AZ,2353,QB,Quarterback,Kevin Fitzpatrick,kckolbe
+9,233,BAL,2353,QB,Cornerback,Avon Blocksdale,iamslm22
+9,201,AZ,2353,RB,Running Back,Reg Mackworthy,Esa77
+9,230,BAL,2353,RB,Running Back,Owen Taylor,manicmav36
+9,625,BAL,2353,RB,Running Back,Bubba Nuck,NUCK
+9,669,AZ,2353,WR,Wide Receiver,C.A Chess,4D Chess
+9,937,AZ,2353,WR,Wide Receiver,Viggo Squanch,Durden
+9,942,AZ,2353,TE,Tight End,Balthazar Crindy,dub
+9,842,AZ,2353,WR,Wide Receiver,John Wachter,JohnWachter
+9,750,BAL,2353,WR,Wide Receiver,Trey Willie,ItsJustBarry
+9,212,BAL,2353,WR,Wide Receiver,Alexandre LeClair,Zoone16
+9,770,BAL,2353,WR,Wide Receiver,Budda Browning,Rindiee
+9,931,BAL,2353,TE,Tight End,Verso L’Alto,nunccoepi
+9,856,AZ,2353,K,Kicker,Dean Jackson,run_CMC
+9,216,BAL,2353,K,Kicker,Turk Turkleton,Raven
+9,858,AZ,2353,S,Safety,Darren Morris,Roly
+9,213,BAL,2353,CB,Cornerback,Antoine Delacour,37thchamber
+9,894,AZ,2353,LB,Linebacker,Jack Dwyer,Neckbishop
+9,969,AZ,2353,S,Safety,Bucky Barnes,Moosecop
+9,720,AZ,2353,S,Safety,Allen Davis,XxpurplepurpsxX
+9,217,AZ,2353,LB,Linebacker,Harrif Ernston,Valtookan
+9,658,AZ,2353,LB,Linebacker,Luke Tiernan,Ltsmashie
+9,615,AZ,2353,LB,Linebacker,AC Hackett,Deusolis
+9,861,AZ,2353,DT,Defensive Tackle,Egor Medved,Walder Frey
+9,633,AZ,2353,S,Safety,Jogn Floggity,Jogn
+9,602,AZ,2353,DT,Defensive Tackle,Mark Ramrio,Anti-Hype
+9,820,BAL,2353,LB,Linebacker,Noah Goodson,toivo
+9,864,BAL,2353,CB,Cornerback,Gregory Fletcher,The_Hero
+9,898,BAL,2353,LB,Linebacker,Austin Roenick,Leafer
+9,218,BAL,2353,\\N,Safety,Vikian Marmeladov,Vikain
+9,778,BAL,2353,CB,Cornerback,Clifford Rove,Yurt6
+9,667,BAL,2353,CB,Cornerback,Darnell Turner,Darnellthebeast
+9,210,BAL,2353,DE,Defensive End,Kurt Hendrix,HENDRIX
+9,604,BAL,2353,DT,Defensive Tackle,Erasmo Broadway,evryday
+9,883,BAL,2353,DE,Defensive End,Arbin Asipi JR,DeathOnReddit
+9,847,AZ,2353,WR,Wide Receiver,Fresh Booter,PoloPro
+9,673,OCO,2354,K,Kicker,Bradley T Madlad,BradtheMadLad
+9,571,PHI,2354,QB,Quarterback,Logan Noble,Noble
+9,208,OCO,2354,QB,Quarterback,Mike Boss,JBLAZE_THE_BOSS
+9,733,PHI,2354,RB,Running Back,Darlane Farlane,Gwdaja
+9,695,OCO,2354,RB,Running Back,Jordan Yates,jordan327
+9,900,PHI,2354,WR,Wide Receiver,Carter Bush,adam2552
+9,826,PHI,2354,TE,Tight End,Steven O’Sullivan,StevenOSullivan
+9,704,PHI,2354,WR,Wide Receiver,Fox North,Silver Fox
+9,200,PHI,2354,WR,Wide Receiver,Josh Garden,Ballerstorm
+9,873,PHI,2354,RB,Running Back,Willy Nyquist -,Sleepy
+9,215,OCO,2354,WR,Wide Receiver,Bradley Westfield,Bwestfield
+9,860,OCO,2354,WR,Wide Receiver,Carlito Crush,JKortesi81
+9,827,OCO,2354,WR,Wide Receiver,Tegan Atwell,Jiggly_333
+9,643,OCO,2354,WR,Wide Receiver,Robert Phelps,DrunkenTeddy
+9,946,PHI,2354,K,,Beat Meoff,Loganjj21
+9,234,OCO,2354,CB,Cornerback,Marc Spector,RedCydranth
+9,599,PHI,2354,S,Safety,Dominic Verns,Roshambo
+9,207,PHI,2354,LB,Linebacker,Jaylon Lee,youngcricket
+9,877,PHI,2354,DE,Defensive End,Norman Bagwell,bagwell
+9,585,PHI,2354,S,Safety,Scrub Kyubee,DollarAndADream
+9,707,PHI,2354,LB,Linebacker,James Wright,PlotzkeA
+9,717,PHI,2354,LB,Linebacker,Perry Tucker,Perry87
+9,547,PHI,2354,S,Safety,Ryan Flock,theFlock
+9,522,PHI,2354,CB,Cornerback,Alex Hayden,Rich
+9,954,PHI,2354,DT,Defensive Tackle,Mark David,Mark D
+9,936,PHI,2354,DE,Defensive End,Brock Weathers III,BWIII
+9,923,OCO,2354,LB,Safety,Mason Brown,Toasty
+9,247,OCO,2354,\\N,Safety,Jaylon Broxton,speculadora
+9,881,OCO,2354,LB,Linebacker,Elvin Enchant,ElvinEnchant
+9,403,OCO,2354,\\N,Defensive End,Angus Winchester,timeconsumer
+9,702,OCO,2354,DT,Defensive Tackle,Greg Clegane,automatic
+9,865,OCO,2354,DT,Defensive Tackle,Ryan Sierra,Battleborn
+9,751,OCO,2354,DT,Defensive Tackle,Ryan Fitzfatrick,runrunpasspunt
+9,701,OCO,2354,S,Safety,Marcus Kane,Dangles13
+9,780,OCO,2354,CB,Cornerback,Jonathan King,ralams123
+9,854,PHI,2354,RB,Running Back,Conall O’Sullivan,Kristy95
+9,876,SJS,2355,TE,,Tor Tuck,Ace
+9,928,COL,2355,QB,Cornerback,Ryan Applehort,Daybe
+9,944,SJS,2355,QB,Wide Receiver,Brad Pennington,Dawegg
+9,738,COL,2355,RB,Running Back,Damien Kroetch,Damienj10
+9,926,COL,2355,RB,Running Back,Mark Grau,keanex
+9,779,COL,2355,RB,Defensive End,Jimmy Cox,Waters
+9,680,SJS,2355,RB,Running Back,Denzel Diaz,ElMachoNacho
+9,933,SJS,2355,RB,Running Back,D.J. Riddick,OptiimusPR1ME
+9,893,COL,2355,WR,Wide Receiver,Dwayne Aaron,Supersquare04
+9,910,COL,2355,TE,Tight End,Alvin Chipmunk,andybj
+9,932,COL,2355,WR,Wide Receiver,Howard Miller,dropbear
+9,792,COL,2355,WR,Wide Receiver,Brian Wheat,Wheaties
+9,650,SJS,2355,WR,Wide Receiver,Shane Weston,Symmetrik
+9,248,SJS,2355,WR,Wide Receiver,Antonio Legion,Keyg_an
+9,970,SJS,2355,TE,Tight End,Zapp Brannigan,pazuzu
+9,895,COL,2355,K,Quarterback,Micycle McCormick,infinitempg
+9,985,SJS,2355,K,Kicker,Kyle Corbett,kylecorbett42
+9,828,COL,2355,CB,Cornerback,Andre Bly Jr.,sapp2013
+9,211,COL,2355,LB,Linebacker,Johnathon Saint,jparks98
+9,823,COL,2355,LB,Defensive End,Haruki Ishigawa,ExemplaryChad
+9,797,COL,2355,DE,Defensive End,Antonio Sandoval,TheMemeMaestro
+9,974,COL,2355,S,Safety,Alexandre Thibault,Jepox
+9,795,COL,2355,DT,Defensive Tackle,Eli Kamaka,PDXBaller
+9,802,COL,2355,DT,Defensive Tackle,Nicholas Pierno,ralz9
+9,940,COL,2355,LB,Defensive End,Rickey Ramero,Ramero
+9,863,COL,2355,S,Safety,Michael Tillman,mmfootball
+9,978,COL,2355,CB,Cornerback,Oskar Ludvig,RealWackolyte
+9,219,COL,2355,DT,Defensive Tackle,Dan Miller,7hawk77
+9,943,SJS,2355,LB,Linebacker,Ben Horne,iseedoug
+9,628,SJS,2355,S,Safety,Ja Brill,ckroyal92
+9,568,SJS,2355,CB,Cornerback,John Canton,Sweetwater
+9,563,SJS,2355,S,Safety,Alex Hansen,acki
+9,689,SJS,2355,LB,Linebacker,Luke Washington,Den_Tex_Mix2
+9,767,SJS,2355,DT,Defensive Tackle,Calkewlated Chambers III,Lendoris
+9,581,SJS,2355,LB,Linebacker,Stephen Harrison,Noppadet
+9,841,SJS,2355,CB,Cornerback,Terrell Brister,tbone415
+9,925,SJS,2355,LB,Linebacker,Thomas Kane III,greygoosevodka
+9,859,SJS,2355,DE,Defensive End,Bastion Barnhardt,pulsedk
+9,703,SJS,2355,S,Safety,Torque Lewith,Hypodynamic
+9,889,YKW,2356,K,Kicker,- Forfeit,KimJungBigDong
+9,947,NOLA,2356,FS,Safety,William H. Harrison,Mongoose87
+9,576,YKW,2356,QB,Quarterback,Mat Akselsen,Bzerkap
+9,868,NOLA,2356,QB,Quarterback,Borkus Maximus III,bovovovo
+9,880,YKW,2356,RB,Linebacker,Robby Rainey,AzhekAhriman
+9,879,YKW,2356,RB,Running Back,Borro Gore,Goretron
+9,238,NOLA,2356,RB,Wide Receiver,Darren Smallwood,tlk742
+9,882,YKW,2356,TE,Tight End,Glenn McPoyal,Alfredo_Pasta
+9,729,YKW,2356,WR,Wide Receiver,Eric Kennedy,SwagSloth
+9,769,YKW,2356,TE,Tight End,Franklin Harris Jr.,Apache_Chief
+9,227,YKW,2356,CB,Cornerback,Dermot Lavelle,White Cornerback
+9,605,YKW,2356,WR,Wide Receiver,Bailey Cook,RainDelay
+9,232,NOLA,2356,TE,Tight End,Paul DiMirio,124715
+9,776,NOLA,2356,WR,Wide Receiver,Charlie Law,AdamS
+9,624,NOLA,2356,WR,Wide Receiver,Mayran Jackson,Kendrick
+9,671,NOLA,2356,WR,Wide Receiver,Dustin Evans,AsylumParty
+9,678,NOLA,2356,TE,Tight End,Ardie Savea,Ben
+9,759,NOLA,2356,K,Kicker,Iyah Blewitt,Rabidsponge21
+9,222,YKW,2356,LB,Running Back,Boss Tweed,PigSnout
+9,241,NOLA,2356,CB,Cornerback,Benson Bayley,Bayley
+9,626,YKW,2356,S,Safety,Clee Hardrool,Saliva^
+9,955,YKW,2356,LB,Linebacker,Chad Pennington,caltroit_red_flames
+9,575,YKW,2356,DE,Defensive End,Ricky Maddox,SimmerDownBruhh
+9,945,YKW,2356,DT,Defensive Tackle,James Brown,Scootalicious
+9,896,YKW,2356,DT,Defensive Tackle,Gustav Rodriguez,samee
+9,775,YKW,2356,LB,Linebacker,Wallace Stone,Evok
+9,684,YKW,2356,LB,Linebacker,Micah Hendrix,HalfEatenOnionBagel
+9,845,YKW,2356,S,Safety,Cameron Taylor,CDub2
+9,755,YKW,2356,CB,Cornerback,Samuel Zhang,kcheng686
+9,726,NOLA,2356,LB,Linebacker,Vincent Sharpei,Muford
+9,888,NOLA,2356,LB,Linebacker,Brian Mills,PaytonM34
+9,242,NOLA,2356,LB,Linebacker,Julian O'Sullivan,JuOSu
+9,771,NOLA,2356,DT,Defensive Tackle,Godfrey King,Shadowz
+9,816,NOLA,2356,S,Safety,Blackford Oakes,Beaver
+9,206,NOLA,2356,DE,Defensive End,Fuego Wozy,TheWoZy
+9,766,NOLA,2356,DT,Defensive Tackle,Joseph Askins,jaskins811
+9,550,NOLA,2356,DE,Defensive End,Jayce Tuck,ErMurazor
+9,927,NOLA,2356,CB,Wide Receiver,Vladimir Fyodorovich,majesiu
+9,919,YKW,2356,DE,Defensive End,Zach Skinner,Titan127
+9,249,BAL,2357,WR,Wide Receiver,Grey Slax,Jonstradamus
+9,673,OCO,2357,K,Kicker,Bradley T Madlad,BradtheMadLad
+9,208,OCO,2357,QB,Quarterback,Mike Boss,JBLAZE_THE_BOSS
+9,233,BAL,2357,QB,Cornerback,Avon Blocksdale,iamslm22
+9,695,OCO,2357,RB,Running Back,Jordan Yates,jordan327
+9,403,OCO,2357,\\N,Defensive End,Angus Winchester,timeconsumer
+9,230,BAL,2357,RB,Running Back,Owen Taylor,manicmav36
+9,931,BAL,2357,TE,Tight End,Verso L’Alto,nunccoepi
+9,625,BAL,2357,RB,Running Back,Bubba Nuck,NUCK
+9,860,OCO,2357,WR,Wide Receiver,Carlito Crush,JKortesi81
+9,827,OCO,2357,WR,Wide Receiver,Tegan Atwell,Jiggly_333
+9,643,OCO,2357,WR,Wide Receiver,Robert Phelps,DrunkenTeddy
+9,215,OCO,2357,WR,Wide Receiver,Bradley Westfield,Bwestfield
+9,234,OCO,2357,CB,Cornerback,Marc Spector,RedCydranth
+9,750,BAL,2357,WR,Wide Receiver,Trey Willie,ItsJustBarry
+9,212,BAL,2357,WR,Wide Receiver,Alexandre LeClair,Zoone16
+9,770,BAL,2357,WR,Wide Receiver,Budda Browning,Rindiee
+9,216,BAL,2357,K,Kicker,Turk Turkleton,Raven
+9,213,BAL,2357,CB,Cornerback,Antoine Delacour,37thchamber
+9,881,OCO,2357,LB,Linebacker,Elvin Enchant,ElvinEnchant
+9,923,OCO,2357,LB,Safety,Mason Brown,Toasty
+9,701,OCO,2357,S,Safety,Marcus Kane,Dangles13
+9,247,OCO,2357,\\N,Safety,Jaylon Broxton,speculadora
+9,780,OCO,2357,CB,Cornerback,Jonathan King,ralams123
+9,527,OCO,2357,DE,Defensive End,George Wright Jr.,Player1
+9,751,OCO,2357,DT,Defensive Tackle,Ryan Fitzfatrick,runrunpasspunt
+9,865,OCO,2357,DT,Defensive Tackle,Ryan Sierra,Battleborn
+9,702,OCO,2357,DT,Defensive Tackle,Greg Clegane,automatic
+9,898,BAL,2357,LB,Linebacker,Austin Roenick,Leafer
+9,820,BAL,2357,LB,Linebacker,Noah Goodson,toivo
+9,210,BAL,2357,DE,Defensive End,Kurt Hendrix,HENDRIX
+9,864,BAL,2357,CB,Cornerback,Gregory Fletcher,The_Hero
+9,218,BAL,2357,\\N,Safety,Vikian Marmeladov,Vikain
+9,604,BAL,2357,DT,Defensive Tackle,Erasmo Broadway,evryday
+9,778,BAL,2357,CB,Cornerback,Clifford Rove,Yurt6
+9,667,BAL,2357,CB,Cornerback,Darnell Turner,Darnellthebeast
+9,883,BAL,2357,DE,Defensive End,Arbin Asipi JR,DeathOnReddit
+9,889,YKW,2358,K,Kicker,- Forfeit,KimJungBigDong
+9,876,SJS,2358,TE,,Tor Tuck,Ace
+9,944,SJS,2358,QB,Wide Receiver,Brad Pennington,Dawegg
+9,576,YKW,2358,QB,Quarterback,Mat Akselsen,Bzerkap
+9,680,SJS,2358,RB,Running Back,Denzel Diaz,ElMachoNacho
+9,933,SJS,2358,RB,Running Back,D.J. Riddick,OptiimusPR1ME
+9,880,YKW,2358,RB,Linebacker,Robby Rainey,AzhekAhriman
+9,879,YKW,2358,RB,Running Back,Borro Gore,Goretron
+9,248,SJS,2358,WR,Wide Receiver,Antonio Legion,Keyg_an
+9,650,SJS,2358,WR,Wide Receiver,Shane Weston,Symmetrik
+9,970,SJS,2358,TE,Tight End,Zapp Brannigan,pazuzu
+9,729,YKW,2358,WR,Wide Receiver,Eric Kennedy,SwagSloth
+9,227,YKW,2358,CB,Cornerback,Dermot Lavelle,White Cornerback
+9,909,YKW,2358,WR,Wide Receiver,Footballer Catcherman,cpetrella
+9,882,YKW,2358,TE,Tight End,Glenn McPoyal,Alfredo_Pasta
+9,769,YKW,2358,TE,Tight End,Franklin Harris Jr.,Apache_Chief
+9,605,YKW,2358,WR,Wide Receiver,Bailey Cook,RainDelay
+9,985,SJS,2358,K,Kicker,Kyle Corbett,kylecorbett42
+9,568,SJS,2358,CB,Cornerback,John Canton,Sweetwater
+9,563,SJS,2358,S,Safety,Alex Hansen,acki
+9,628,SJS,2358,S,Safety,Ja Brill,ckroyal92
+9,841,SJS,2358,CB,Cornerback,Terrell Brister,tbone415
+9,767,SJS,2358,DT,Defensive Tackle,Calkewlated Chambers III,Lendoris
+9,943,SJS,2358,LB,Linebacker,Ben Horne,iseedoug
+9,859,SJS,2358,DE,Defensive End,Bastion Barnhardt,pulsedk
+9,925,SJS,2358,LB,Linebacker,Thomas Kane III,greygoosevodka
+9,581,SJS,2358,LB,Linebacker,Stephen Harrison,Noppadet
+9,886,SJS,2358,DE,Defensive End,Cordell Joshua,Drizzy
+9,703,SJS,2358,S,Safety,Torque Lewith,Hypodynamic
+9,689,SJS,2358,LB,Linebacker,Luke Washington,Den_Tex_Mix2
+9,684,YKW,2358,LB,Linebacker,Micah Hendrix,HalfEatenOnionBagel
+9,626,YKW,2358,S,Safety,Clee Hardrool,Saliva^
+9,955,YKW,2358,LB,Linebacker,Chad Pennington,caltroit_red_flames
+9,222,YKW,2358,LB,Running Back,Boss Tweed,PigSnout
+9,919,YKW,2358,DE,Defensive End,Zach Skinner,Titan127
+9,845,YKW,2358,S,Safety,Cameron Taylor,CDub2
+9,755,YKW,2358,CB,Cornerback,Samuel Zhang,kcheng686
+9,896,YKW,2358,DT,Defensive Tackle,Gustav Rodriguez,samee
+9,775,YKW,2358,LB,Linebacker,Wallace Stone,Evok
+9,945,YKW,2358,DT,Defensive Tackle,James Brown,Scootalicious
+9,575,YKW,2358,DE,Defensive End,Ricky Maddox,SimmerDownBruhh
+9,947,NOLA,2359,FS,Safety,William H. Harrison,Mongoose87
+9,868,NOLA,2359,QB,Quarterback,Borkus Maximus III,bovovovo
+9,928,COL,2359,QB,Cornerback,Ryan Applehort,Daybe
+9,238,NOLA,2359,RB,Wide Receiver,Darren Smallwood,tlk742
+9,926,COL,2359,RB,Running Back,Mark Grau,keanex
+9,738,COL,2359,RB,Running Back,Damien Kroetch,Damienj10
+9,776,NOLA,2359,WR,Wide Receiver,Charlie Law,AdamS
+9,232,NOLA,2359,TE,Tight End,Paul DiMirio,124715
+9,678,NOLA,2359,TE,Tight End,Ardie Savea,Ben
+9,671,NOLA,2359,WR,Wide Receiver,Dustin Evans,AsylumParty
+9,624,NOLA,2359,WR,Wide Receiver,Mayran Jackson,Kendrick
+9,932,COL,2359,WR,Wide Receiver,Howard Miller,dropbear
+9,893,COL,2359,WR,Wide Receiver,Dwayne Aaron,Supersquare04
+9,910,COL,2359,TE,Tight End,Alvin Chipmunk,andybj
+9,792,COL,2359,WR,Wide Receiver,Brian Wheat,Wheaties
+9,779,COL,2359,RB,Defensive End,Jimmy Cox,Waters
+9,759,NOLA,2359,K,Kicker,Iyah Blewitt,Rabidsponge21
+9,895,COL,2359,K,Quarterback,Micycle McCormick,infinitempg
+9,241,NOLA,2359,CB,Cornerback,Benson Bayley,Bayley
+9,828,COL,2359,CB,Cornerback,Andre Bly Jr.,sapp2013
+9,726,NOLA,2359,LB,Linebacker,Vincent Sharpei,Muford
+9,242,NOLA,2359,LB,Linebacker,Julian O'Sullivan,JuOSu
+9,888,NOLA,2359,LB,Linebacker,Brian Mills,PaytonM34
+9,927,NOLA,2359,CB,Wide Receiver,Vladimir Fyodorovich,majesiu
+9,816,NOLA,2359,S,Safety,Blackford Oakes,Beaver
+9,766,NOLA,2359,DT,Defensive Tackle,Joseph Askins,jaskins811
+9,771,NOLA,2359,DT,Defensive Tackle,Godfrey King,Shadowz
+9,550,NOLA,2359,DE,Defensive End,Jayce Tuck,ErMurazor
+9,206,NOLA,2359,DE,Defensive End,Fuego Wozy,TheWoZy
+9,823,COL,2359,LB,Defensive End,Haruki Ishigawa,ExemplaryChad
+9,211,COL,2359,LB,Linebacker,Johnathon Saint,jparks98
+9,924,COL,2359,CB,Cornerback,Desta Danger,DestaDanger
+9,219,COL,2359,DT,Defensive Tackle,Dan Miller,7hawk77
+9,940,COL,2359,LB,Defensive End,Rickey Ramero,Ramero
+9,797,COL,2359,DE,Defensive End,Antonio Sandoval,TheMemeMaestro
+9,974,COL,2359,S,Safety,Alexandre Thibault,Jepox
+9,863,COL,2359,S,Safety,Michael Tillman,mmfootball
+9,802,COL,2359,DT,Defensive Tackle,Nicholas Pierno,ralz9
+9,795,COL,2359,DT,Defensive Tackle,Eli Kamaka,PDXBaller
+9,982,AZ,2360,QB,Quarterback,Kevin Fitzpatrick,kckolbe
+9,571,PHI,2360,QB,Quarterback,Logan Noble,Noble
+9,201,AZ,2360,RB,Running Back,Reg Mackworthy,Esa77
+9,733,PHI,2360,RB,Running Back,Darlane Farlane,Gwdaja
+9,873,PHI,2360,RB,Running Back,Willy Nyquist -,Sleepy
+9,854,PHI,2360,RB,Running Back,Conall O’Sullivan,Kristy95
+9,937,AZ,2360,WR,Wide Receiver,Viggo Squanch,Durden
+9,669,AZ,2360,WR,Wide Receiver,C.A Chess,4D Chess
+9,842,AZ,2360,WR,Wide Receiver,John Wachter,JohnWachter
+9,942,AZ,2360,TE,Tight End,Balthazar Crindy,dub
+9,900,PHI,2360,WR,Wide Receiver,Carter Bush,adam2552
+9,826,PHI,2360,TE,Tight End,Steven O’Sullivan,StevenOSullivan
+9,704,PHI,2360,WR,Wide Receiver,Fox North,Silver Fox
+9,200,PHI,2360,WR,Wide Receiver,Josh Garden,Ballerstorm
+9,856,AZ,2360,K,Kicker,Dean Jackson,run_CMC
+9,946,PHI,2360,K,,Beat Meoff,Loganjj21
+9,858,AZ,2360,S,Safety,Darren Morris,Roly
+9,633,AZ,2360,S,Safety,Jogn Floggity,Jogn
+9,658,AZ,2360,LB,Linebacker,Luke Tiernan,Ltsmashie
+9,894,AZ,2360,LB,Linebacker,Jack Dwyer,Neckbishop
+9,217,AZ,2360,LB,Linebacker,Harrif Ernston,Valtookan
+9,720,AZ,2360,S,Safety,Allen Davis,XxpurplepurpsxX
+9,602,AZ,2360,DT,Defensive Tackle,Mark Ramrio,Anti-Hype
+9,861,AZ,2360,DT,Defensive Tackle,Egor Medved,Walder Frey
+9,969,AZ,2360,S,Safety,Bucky Barnes,Moosecop
+9,615,AZ,2360,LB,Linebacker,AC Hackett,Deusolis
+9,825,AZ,2360,DE,Defensive End,Andreas Waiters,Chukka
+9,707,PHI,2360,LB,Linebacker,James Wright,PlotzkeA
+9,547,PHI,2360,S,Safety,Ryan Flock,theFlock
+9,717,PHI,2360,LB,Linebacker,Perry Tucker,Perry87
+9,585,PHI,2360,S,Safety,Scrub Kyubee,DollarAndADream
+9,207,PHI,2360,LB,Linebacker,Jaylon Lee,youngcricket
+9,936,PHI,2360,DE,Defensive End,Brock Weathers III,BWIII
+9,954,PHI,2360,DT,Defensive Tackle,Mark David,Mark D
+9,877,PHI,2360,DE,Defensive End,Norman Bagwell,bagwell
+9,522,PHI,2360,CB,Cornerback,Alex Hayden,Rich
+9,599,PHI,2360,S,Safety,Dominic Verns,Roshambo
+9,666,PHI,2360,DE,Defensive End,Drew Davidson,sabills
+9,947,NOLA,2361,FS,Safety,William H. Harrison,Mongoose87
+9,868,NOLA,2361,QB,Quarterback,Borkus Maximus III,bovovovo
+9,982,AZ,2361,QB,Quarterback,Kevin Fitzpatrick,kckolbe
+9,238,NOLA,2361,RB,Wide Receiver,Darren Smallwood,tlk742
+9,678,NOLA,2361,TE,Tight End,Ardie Savea,Ben
+9,201,AZ,2361,RB,Running Back,Reg Mackworthy,Esa77
+9,847,AZ,2361,WR,Wide Receiver,Fresh Booter,PoloPro
+9,232,NOLA,2361,TE,Tight End,Paul DiMirio,124715
+9,671,NOLA,2361,WR,Wide Receiver,Dustin Evans,AsylumParty
+9,776,NOLA,2361,WR,Wide Receiver,Charlie Law,AdamS
+9,624,NOLA,2361,WR,Wide Receiver,Mayran Jackson,Kendrick
+9,937,AZ,2361,WR,Wide Receiver,Viggo Squanch,Durden
+9,669,AZ,2361,WR,Wide Receiver,C.A Chess,4D Chess
+9,942,AZ,2361,TE,Tight End,Balthazar Crindy,dub
+9,842,AZ,2361,WR,Wide Receiver,John Wachter,JohnWachter
+9,759,NOLA,2361,K,Kicker,Iyah Blewitt,Rabidsponge21
+9,856,AZ,2361,K,Kicker,Dean Jackson,run_CMC
+9,241,NOLA,2361,CB,Cornerback,Benson Bayley,Bayley
+9,858,AZ,2361,S,Safety,Darren Morris,Roly
+9,242,NOLA,2361,LB,Linebacker,Julian O'Sullivan,JuOSu
+9,726,NOLA,2361,LB,Linebacker,Vincent Sharpei,Muford
+9,816,NOLA,2361,S,Safety,Blackford Oakes,Beaver
+9,766,NOLA,2361,DT,Defensive Tackle,Joseph Askins,jaskins811
+9,206,NOLA,2361,DE,Defensive End,Fuego Wozy,TheWoZy
+9,771,NOLA,2361,DT,Defensive Tackle,Godfrey King,Shadowz
+9,927,NOLA,2361,CB,Wide Receiver,Vladimir Fyodorovich,majesiu
+9,888,NOLA,2361,LB,Linebacker,Brian Mills,PaytonM34
+9,550,NOLA,2361,DE,Defensive End,Jayce Tuck,ErMurazor
+9,969,AZ,2361,S,Safety,Bucky Barnes,Moosecop
+9,217,AZ,2361,LB,Linebacker,Harrif Ernston,Valtookan
+9,658,AZ,2361,LB,Linebacker,Luke Tiernan,Ltsmashie
+9,894,AZ,2361,LB,Linebacker,Jack Dwyer,Neckbishop
+9,615,AZ,2361,LB,Linebacker,AC Hackett,Deusolis
+9,602,AZ,2361,DT,Defensive Tackle,Mark Ramrio,Anti-Hype
+9,633,AZ,2361,S,Safety,Jogn Floggity,Jogn
+9,861,AZ,2361,DT,Defensive Tackle,Egor Medved,Walder Frey
+9,825,AZ,2361,DE,Defensive End,Andreas Waiters,Chukka
+9,720,AZ,2361,S,Safety,Allen Davis,XxpurplepurpsxX
+9,889,YKW,2362,K,Kicker,- Forfeit,KimJungBigDong
+9,673,OCO,2362,K,Kicker,Bradley T Madlad,BradtheMadLad
+9,576,YKW,2362,QB,Quarterback,Mat Akselsen,Bzerkap
+9,208,OCO,2362,QB,Quarterback,Mike Boss,JBLAZE_THE_BOSS
+9,880,YKW,2362,RB,Linebacker,Robby Rainey,AzhekAhriman
+9,879,YKW,2362,RB,Running Back,Borro Gore,Goretron
+9,695,OCO,2362,RB,Running Back,Jordan Yates,jordan327
+9,729,YKW,2362,WR,Wide Receiver,Eric Kennedy,SwagSloth
+9,882,YKW,2362,TE,Tight End,Glenn McPoyal,Alfredo_Pasta
+9,769,YKW,2362,TE,Tight End,Franklin Harris Jr.,Apache_Chief
+9,227,YKW,2362,CB,Cornerback,Dermot Lavelle,White Cornerback
+9,860,OCO,2362,WR,Wide Receiver,Carlito Crush,JKortesi81
+9,827,OCO,2362,WR,Wide Receiver,Tegan Atwell,Jiggly_333
+9,643,OCO,2362,WR,Wide Receiver,Robert Phelps,DrunkenTeddy
+9,215,OCO,2362,WR,Wide Receiver,Bradley Westfield,Bwestfield
+9,403,OCO,2362,\\N,Defensive End,Angus Winchester,timeconsumer
+9,234,OCO,2362,CB,Cornerback,Marc Spector,RedCydranth
+9,684,YKW,2362,LB,Linebacker,Micah Hendrix,HalfEatenOnionBagel
+9,222,YKW,2362,LB,Running Back,Boss Tweed,PigSnout
+9,955,YKW,2362,LB,Linebacker,Chad Pennington,caltroit_red_flames
+9,626,YKW,2362,S,Safety,Clee Hardrool,Saliva^
+9,775,YKW,2362,LB,Linebacker,Wallace Stone,Evok
+9,845,YKW,2362,S,Safety,Cameron Taylor,CDub2
+9,896,YKW,2362,DT,Defensive Tackle,Gustav Rodriguez,samee
+9,575,YKW,2362,DE,Defensive End,Ricky Maddox,SimmerDownBruhh
+9,919,YKW,2362,DE,Defensive End,Zach Skinner,Titan127
+9,755,YKW,2362,CB,Cornerback,Samuel Zhang,kcheng686
+9,881,OCO,2362,LB,Linebacker,Elvin Enchant,ElvinEnchant
+9,923,OCO,2362,LB,Safety,Mason Brown,Toasty
+9,865,OCO,2362,DT,Defensive Tackle,Ryan Sierra,Battleborn
+9,247,OCO,2362,\\N,Safety,Jaylon Broxton,speculadora
+9,780,OCO,2362,CB,Cornerback,Jonathan King,ralams123
+9,701,OCO,2362,S,Safety,Marcus Kane,Dangles13
+9,702,OCO,2362,DT,Defensive Tackle,Greg Clegane,automatic
+9,945,YKW,2362,DT,Defensive Tackle,James Brown,Scootalicious
+9,527,OCO,2362,DE,Defensive End,George Wright Jr.,Player1
+9,249,BAL,2363,WR,Wide Receiver,Grey Slax,Jonstradamus
+9,876,SJS,2363,TE,,Tor Tuck,Ace
+9,233,BAL,2363,QB,Cornerback,Avon Blocksdale,iamslm22
+9,944,SJS,2363,QB,Wide Receiver,Brad Pennington,Dawegg
+9,230,BAL,2363,RB,Running Back,Owen Taylor,manicmav36
+9,625,BAL,2363,RB,Running Back,Bubba Nuck,NUCK
+9,680,SJS,2363,RB,Running Back,Denzel Diaz,ElMachoNacho
+9,933,SJS,2363,RB,Running Back,D.J. Riddick,OptiimusPR1ME
+9,770,BAL,2363,WR,Wide Receiver,Budda Browning,Rindiee
+9,931,BAL,2363,TE,Tight End,Verso L’Alto,nunccoepi
+9,750,BAL,2363,WR,Wide Receiver,Trey Willie,ItsJustBarry
+9,212,BAL,2363,WR,Wide Receiver,Alexandre LeClair,Zoone16
+9,650,SJS,2363,WR,Wide Receiver,Shane Weston,Symmetrik
+9,248,SJS,2363,WR,Wide Receiver,Antonio Legion,Keyg_an
+9,970,SJS,2363,TE,Tight End,Zapp Brannigan,pazuzu
+9,216,BAL,2363,K,Kicker,Turk Turkleton,Raven
+9,985,SJS,2363,K,Kicker,Kyle Corbett,kylecorbett42
+9,213,BAL,2363,CB,Cornerback,Antoine Delacour,37thchamber
+9,568,SJS,2363,CB,Cornerback,John Canton,Sweetwater
+9,820,BAL,2363,LB,Linebacker,Noah Goodson,toivo
+9,667,BAL,2363,CB,Cornerback,Darnell Turner,Darnellthebeast
+9,898,BAL,2363,LB,Linebacker,Austin Roenick,Leafer
+9,210,BAL,2363,DE,Defensive End,Kurt Hendrix,HENDRIX
+9,218,BAL,2363,\\N,Safety,Vikian Marmeladov,Vikain
+9,604,BAL,2363,DT,Defensive Tackle,Erasmo Broadway,evryday
+9,864,BAL,2363,CB,Cornerback,Gregory Fletcher,The_Hero
+9,778,BAL,2363,CB,Cornerback,Clifford Rove,Yurt6
+9,948,BAL,2363,DE,Quarterback,Childish Gambino,Renrut
+9,943,SJS,2363,LB,Linebacker,Ben Horne,iseedoug
+9,563,SJS,2363,S,Safety,Alex Hansen,acki
+9,703,SJS,2363,S,Safety,Torque Lewith,Hypodynamic
+9,689,SJS,2363,LB,Linebacker,Luke Washington,Den_Tex_Mix2
+9,859,SJS,2363,DE,Defensive End,Bastion Barnhardt,pulsedk
+9,841,SJS,2363,CB,Cornerback,Terrell Brister,tbone415
+9,767,SJS,2363,DT,Defensive Tackle,Calkewlated Chambers III,Lendoris
+9,886,SJS,2363,DE,Defensive End,Cordell Joshua,Drizzy
+9,925,SJS,2363,LB,Linebacker,Thomas Kane III,greygoosevodka
+9,628,SJS,2363,S,Safety,Ja Brill,ckroyal92
+9,581,SJS,2363,LB,Linebacker,Stephen Harrison,Noppadet
+9,928,COL,2364,QB,Cornerback,Ryan Applehort,Daybe
+9,571,PHI,2364,QB,Quarterback,Logan Noble,Noble
+9,926,COL,2364,RB,Running Back,Mark Grau,keanex
+9,738,COL,2364,RB,Running Back,Damien Kroetch,Damienj10
+9,733,PHI,2364,RB,Running Back,Darlane Farlane,Gwdaja
+9,932,COL,2364,WR,Wide Receiver,Howard Miller,dropbear
+9,893,COL,2364,WR,Wide Receiver,Dwayne Aaron,Supersquare04
+9,910,COL,2364,TE,Tight End,Alvin Chipmunk,andybj
+9,779,COL,2364,RB,Defensive End,Jimmy Cox,Waters
+9,792,COL,2364,WR,Wide Receiver,Brian Wheat,Wheaties
+9,200,PHI,2364,WR,Wide Receiver,Josh Garden,Ballerstorm
+9,900,PHI,2364,WR,Wide Receiver,Carter Bush,adam2552
+9,826,PHI,2364,TE,Tight End,Steven O’Sullivan,StevenOSullivan
+9,704,PHI,2364,WR,Wide Receiver,Fox North,Silver Fox
+9,895,COL,2364,K,Quarterback,Micycle McCormick,infinitempg
+9,946,PHI,2364,K,,Beat Meoff,Loganjj21
+9,828,COL,2364,CB,Cornerback,Andre Bly Jr.,sapp2013
+9,211,COL,2364,LB,Linebacker,Johnathon Saint,jparks98
+9,219,COL,2364,DT,Defensive Tackle,Dan Miller,7hawk77
+9,924,COL,2364,CB,Cornerback,Desta Danger,DestaDanger
+9,823,COL,2364,LB,Defensive End,Haruki Ishigawa,ExemplaryChad
+9,795,COL,2364,DT,Defensive Tackle,Eli Kamaka,PDXBaller
+9,863,COL,2364,S,Safety,Michael Tillman,mmfootball
+9,974,COL,2364,S,Safety,Alexandre Thibault,Jepox
+9,802,COL,2364,DT,Defensive Tackle,Nicholas Pierno,ralz9
+9,940,COL,2364,LB,Defensive End,Rickey Ramero,Ramero
+9,797,COL,2364,DE,Defensive End,Antonio Sandoval,TheMemeMaestro
+9,585,PHI,2364,S,Safety,Scrub Kyubee,DollarAndADream
+9,707,PHI,2364,LB,Linebacker,James Wright,PlotzkeA
+9,547,PHI,2364,S,Safety,Ryan Flock,theFlock
+9,207,PHI,2364,LB,Linebacker,Jaylon Lee,youngcricket
+9,599,PHI,2364,S,Safety,Dominic Verns,Roshambo
+9,936,PHI,2364,DE,Defensive End,Brock Weathers III,BWIII
+9,877,PHI,2364,DE,Defensive End,Norman Bagwell,bagwell
+9,717,PHI,2364,LB,Linebacker,Perry Tucker,Perry87
+9,522,PHI,2364,CB,Cornerback,Alex Hayden,Rich
+9,873,PHI,2364,RB,Running Back,Willy Nyquist -,Sleepy
+9,249,BAL,2365,WR,Wide Receiver,Grey Slax,Jonstradamus
+9,571,PHI,2365,QB,Quarterback,Logan Noble,Noble
+9,233,BAL,2365,QB,Cornerback,Avon Blocksdale,iamslm22
+9,733,PHI,2365,RB,Running Back,Darlane Farlane,Gwdaja
+9,230,BAL,2365,RB,Running Back,Owen Taylor,manicmav36
+9,625,BAL,2365,RB,Running Back,Bubba Nuck,NUCK
+9,704,PHI,2365,WR,Wide Receiver,Fox North,Silver Fox
+9,826,PHI,2365,TE,Tight End,Steven O’Sullivan,StevenOSullivan
+9,900,PHI,2365,WR,Wide Receiver,Carter Bush,adam2552
+9,200,PHI,2365,WR,Wide Receiver,Josh Garden,Ballerstorm
+9,873,PHI,2365,RB,Running Back,Willy Nyquist -,Sleepy
+9,931,BAL,2365,TE,Tight End,Verso L’Alto,nunccoepi
+9,750,BAL,2365,WR,Wide Receiver,Trey Willie,ItsJustBarry
+9,770,BAL,2365,WR,Wide Receiver,Budda Browning,Rindiee
+9,212,BAL,2365,WR,Wide Receiver,Alexandre LeClair,Zoone16
+9,946,PHI,2365,K,,Beat Meoff,Loganjj21
+9,216,BAL,2365,K,Kicker,Turk Turkleton,Raven
+9,213,BAL,2365,CB,Cornerback,Antoine Delacour,37thchamber
+9,522,PHI,2365,CB,Cornerback,Alex Hayden,Rich
+9,599,PHI,2365,S,Safety,Dominic Verns,Roshambo
+9,954,PHI,2365,DT,Defensive Tackle,Mark David,Mark D
+9,585,PHI,2365,S,Safety,Scrub Kyubee,DollarAndADream
+9,717,PHI,2365,LB,Linebacker,Perry Tucker,Perry87
+9,707,PHI,2365,LB,Linebacker,James Wright,PlotzkeA
+9,877,PHI,2365,DE,Defensive End,Norman Bagwell,bagwell
+9,547,PHI,2365,S,Safety,Ryan Flock,theFlock
+9,207,PHI,2365,LB,Linebacker,Jaylon Lee,youngcricket
+9,936,PHI,2365,DE,Defensive End,Brock Weathers III,BWIII
+9,898,BAL,2365,LB,Linebacker,Austin Roenick,Leafer
+9,778,BAL,2365,CB,Cornerback,Clifford Rove,Yurt6
+9,948,BAL,2365,DE,Quarterback,Childish Gambino,Renrut
+9,864,BAL,2365,CB,Cornerback,Gregory Fletcher,The_Hero
+9,820,BAL,2365,LB,Linebacker,Noah Goodson,toivo
+9,210,BAL,2365,DE,Defensive End,Kurt Hendrix,HENDRIX
+9,667,BAL,2365,CB,Cornerback,Darnell Turner,Darnellthebeast
+9,883,BAL,2365,DE,Defensive End,Arbin Asipi JR,DeathOnReddit
+9,604,BAL,2365,DT,Defensive Tackle,Erasmo Broadway,evryday
+9,218,BAL,2365,\\N,Safety,Vikian Marmeladov,Vikain
+9,889,YKW,2366,K,Kicker,- Forfeit,KimJungBigDong
+9,928,COL,2366,QB,Cornerback,Ryan Applehort,Daybe
+9,576,YKW,2366,QB,Quarterback,Mat Akselsen,Bzerkap
+9,738,COL,2366,RB,Running Back,Damien Kroetch,Damienj10
+9,926,COL,2366,RB,Running Back,Mark Grau,keanex
+9,880,YKW,2366,RB,Linebacker,Robby Rainey,AzhekAhriman
+9,879,YKW,2366,RB,Running Back,Borro Gore,Goretron
+9,910,COL,2366,TE,Tight End,Alvin Chipmunk,andybj
+9,932,COL,2366,WR,Wide Receiver,Howard Miller,dropbear
+9,893,COL,2366,WR,Wide Receiver,Dwayne Aaron,Supersquare04
+9,779,COL,2366,RB,Defensive End,Jimmy Cox,Waters
+9,792,COL,2366,WR,Wide Receiver,Brian Wheat,Wheaties
+9,729,YKW,2366,WR,Wide Receiver,Eric Kennedy,SwagSloth
+9,227,YKW,2366,CB,Cornerback,Dermot Lavelle,White Cornerback
+9,882,YKW,2366,TE,Tight End,Glenn McPoyal,Alfredo_Pasta
+9,769,YKW,2366,TE,Tight End,Franklin Harris Jr.,Apache_Chief
+9,895,COL,2366,K,Quarterback,Micycle McCormick,infinitempg
+9,828,COL,2366,CB,Cornerback,Andre Bly Jr.,sapp2013
+9,211,COL,2366,LB,Linebacker,Johnathon Saint,jparks98
+9,924,COL,2366,CB,Cornerback,Desta Danger,DestaDanger
+9,974,COL,2366,S,Safety,Alexandre Thibault,Jepox
+9,823,COL,2366,LB,Defensive End,Haruki Ishigawa,ExemplaryChad
+9,795,COL,2366,DT,Defensive Tackle,Eli Kamaka,PDXBaller
+9,219,COL,2366,DT,Defensive Tackle,Dan Miller,7hawk77
+9,797,COL,2366,DE,Defensive End,Antonio Sandoval,TheMemeMaestro
+9,940,COL,2366,LB,Defensive End,Rickey Ramero,Ramero
+9,863,COL,2366,S,Safety,Michael Tillman,mmfootball
+9,802,COL,2366,DT,Defensive Tackle,Nicholas Pierno,ralz9
+9,626,YKW,2366,S,Safety,Clee Hardrool,Saliva^
+9,955,YKW,2366,LB,Linebacker,Chad Pennington,caltroit_red_flames
+9,222,YKW,2366,LB,Running Back,Boss Tweed,PigSnout
+9,684,YKW,2366,LB,Linebacker,Micah Hendrix,HalfEatenOnionBagel
+9,845,YKW,2366,S,Safety,Cameron Taylor,CDub2
+9,896,YKW,2366,DT,Defensive Tackle,Gustav Rodriguez,samee
+9,775,YKW,2366,LB,Linebacker,Wallace Stone,Evok
+9,755,YKW,2366,CB,Cornerback,Samuel Zhang,kcheng686
+9,575,YKW,2366,DE,Defensive End,Ricky Maddox,SimmerDownBruhh
+9,919,YKW,2366,DE,Defensive End,Zach Skinner,Titan127
+9,673,OCO,2367,K,Kicker,Bradley T Madlad,BradtheMadLad
+9,208,OCO,2367,QB,Quarterback,Mike Boss,JBLAZE_THE_BOSS
+9,982,AZ,2367,QB,Quarterback,Kevin Fitzpatrick,kckolbe
+9,695,OCO,2367,RB,Running Back,Jordan Yates,jordan327
+9,201,AZ,2367,RB,Running Back,Reg Mackworthy,Esa77
+9,847,AZ,2367,WR,Wide Receiver,Fresh Booter,PoloPro
+9,860,OCO,2367,WR,Wide Receiver,Carlito Crush,JKortesi81
+9,827,OCO,2367,WR,Wide Receiver,Tegan Atwell,Jiggly_333
+9,215,OCO,2367,WR,Wide Receiver,Bradley Westfield,Bwestfield
+9,643,OCO,2367,WR,Wide Receiver,Robert Phelps,DrunkenTeddy
+9,669,AZ,2367,WR,Wide Receiver,C.A Chess,4D Chess
+9,942,AZ,2367,TE,Tight End,Balthazar Crindy,dub
+9,937,AZ,2367,WR,Wide Receiver,Viggo Squanch,Durden
+9,842,AZ,2367,WR,Wide Receiver,John Wachter,JohnWachter
+9,856,AZ,2367,K,Kicker,Dean Jackson,run_CMC
+9,234,OCO,2367,CB,Cornerback,Marc Spector,RedCydranth
+9,858,AZ,2367,S,Safety,Darren Morris,Roly
+9,923,OCO,2367,LB,Safety,Mason Brown,Toasty
+9,403,OCO,2367,\\N,Defensive End,Angus Winchester,timeconsumer
+9,881,OCO,2367,LB,Linebacker,Elvin Enchant,ElvinEnchant
+9,780,OCO,2367,CB,Cornerback,Jonathan King,ralams123
+9,702,OCO,2367,DT,Defensive Tackle,Greg Clegane,automatic
+9,247,OCO,2367,\\N,Safety,Jaylon Broxton,speculadora
+9,751,OCO,2367,DT,Defensive Tackle,Ryan Fitzfatrick,runrunpasspunt
+9,527,OCO,2367,DE,Defensive End,George Wright Jr.,Player1
+9,865,OCO,2367,DT,Defensive Tackle,Ryan Sierra,Battleborn
+9,615,AZ,2367,LB,Linebacker,AC Hackett,Deusolis
+9,658,AZ,2367,LB,Linebacker,Luke Tiernan,Ltsmashie
+9,969,AZ,2367,S,Safety,Bucky Barnes,Moosecop
+9,894,AZ,2367,LB,Linebacker,Jack Dwyer,Neckbishop
+9,217,AZ,2367,LB,Linebacker,Harrif Ernston,Valtookan
+9,633,AZ,2367,S,Safety,Jogn Floggity,Jogn
+9,720,AZ,2367,S,Safety,Allen Davis,XxpurplepurpsxX
+9,861,AZ,2367,DT,Defensive Tackle,Egor Medved,Walder Frey
+9,602,AZ,2367,DT,Defensive Tackle,Mark Ramrio,Anti-Hype
+9,947,NOLA,2368,FS,Safety,William H. Harrison,Mongoose87
+9,876,SJS,2368,TE,,Tor Tuck,Ace
+9,944,SJS,2368,QB,Wide Receiver,Brad Pennington,Dawegg
+9,868,NOLA,2368,QB,Quarterback,Borkus Maximus III,bovovovo
+9,680,SJS,2368,RB,Running Back,Denzel Diaz,ElMachoNacho
+9,933,SJS,2368,RB,Running Back,D.J. Riddick,OptiimusPR1ME
+9,238,NOLA,2368,RB,Wide Receiver,Darren Smallwood,tlk742
+9,970,SJS,2368,TE,Tight End,Zapp Brannigan,pazuzu
+9,248,SJS,2368,WR,Wide Receiver,Antonio Legion,Keyg_an
+9,650,SJS,2368,WR,Wide Receiver,Shane Weston,Symmetrik
+9,232,NOLA,2368,TE,Tight End,Paul DiMirio,124715
+9,671,NOLA,2368,WR,Wide Receiver,Dustin Evans,AsylumParty
+9,776,NOLA,2368,WR,Wide Receiver,Charlie Law,AdamS
+9,624,NOLA,2368,WR,Wide Receiver,Mayran Jackson,Kendrick
+9,678,NOLA,2368,TE,Tight End,Ardie Savea,Ben
+9,985,SJS,2368,K,Kicker,Kyle Corbett,kylecorbett42
+9,759,NOLA,2368,K,Kicker,Iyah Blewitt,Rabidsponge21
+9,568,SJS,2368,CB,Cornerback,John Canton,Sweetwater
+9,241,NOLA,2368,CB,Cornerback,Benson Bayley,Bayley
+9,563,SJS,2368,S,Safety,Alex Hansen,acki
+9,886,SJS,2368,DE,Defensive End,Cordell Joshua,Drizzy
+9,689,SJS,2368,LB,Linebacker,Luke Washington,Den_Tex_Mix2
+9,581,SJS,2368,LB,Linebacker,Stephen Harrison,Noppadet
+9,628,SJS,2368,S,Safety,Ja Brill,ckroyal92
+9,943,SJS,2368,LB,Linebacker,Ben Horne,iseedoug
+9,841,SJS,2368,CB,Cornerback,Terrell Brister,tbone415
+9,767,SJS,2368,DT,Defensive Tackle,Calkewlated Chambers III,Lendoris
+9,703,SJS,2368,S,Safety,Torque Lewith,Hypodynamic
+9,859,SJS,2368,DE,Defensive End,Bastion Barnhardt,pulsedk
+9,925,SJS,2368,LB,Linebacker,Thomas Kane III,greygoosevodka
+9,242,NOLA,2368,LB,Linebacker,Julian O'Sullivan,JuOSu
+9,726,NOLA,2368,LB,Linebacker,Vincent Sharpei,Muford
+9,888,NOLA,2368,LB,Linebacker,Brian Mills,PaytonM34
+9,927,NOLA,2368,CB,Wide Receiver,Vladimir Fyodorovich,majesiu
+9,771,NOLA,2368,DT,Defensive Tackle,Godfrey King,Shadowz
+9,816,NOLA,2368,S,Safety,Blackford Oakes,Beaver
+9,766,NOLA,2368,DT,Defensive Tackle,Joseph Askins,jaskins811
+9,550,NOLA,2368,DE,Defensive End,Jayce Tuck,ErMurazor
+9,206,NOLA,2368,DE,Defensive End,Fuego Wozy,TheWoZy
+9,889,YKW,2369,K,Kicker,- Forfeit,KimJungBigDong
+9,209,PHI,2369,WR,Wide Receiver,- Stormblessed,Stormblessed
+9,571,PHI,2369,QB,Quarterback,Logan Noble,Noble
+9,576,YKW,2369,QB,Quarterback,Mat Akselsen,Bzerkap
+9,733,PHI,2369,RB,Running Back,Darlane Farlane,Gwdaja
+9,854,PHI,2369,RB,Running Back,Conall O’Sullivan,Kristy95
+9,880,YKW,2369,RB,Linebacker,Robby Rainey,AzhekAhriman
+9,879,YKW,2369,RB,Running Back,Borro Gore,Goretron
+9,900,PHI,2369,WR,Wide Receiver,Carter Bush,adam2552
+9,826,PHI,2369,TE,Tight End,Steven O’Sullivan,StevenOSullivan
+9,200,PHI,2369,WR,Wide Receiver,Josh Garden,Ballerstorm
+9,704,PHI,2369,WR,Wide Receiver,Fox North,Silver Fox
+9,882,YKW,2369,TE,Tight End,Glenn McPoyal,Alfredo_Pasta
+9,769,YKW,2369,TE,Tight End,Franklin Harris Jr.,Apache_Chief
+9,227,YKW,2369,CB,Cornerback,Dermot Lavelle,White Cornerback
+9,729,YKW,2369,WR,Wide Receiver,Eric Kennedy,SwagSloth
+9,946,PHI,2369,K,,Beat Meoff,Loganjj21
+9,877,PHI,2369,DE,Defensive End,Norman Bagwell,bagwell
+9,522,PHI,2369,CB,Cornerback,Alex Hayden,Rich
+9,707,PHI,2369,LB,Linebacker,James Wright,PlotzkeA
+9,599,PHI,2369,S,Safety,Dominic Verns,Roshambo
+9,207,PHI,2369,LB,Linebacker,Jaylon Lee,youngcricket
+9,954,PHI,2369,DT,Defensive Tackle,Mark David,Mark D
+9,585,PHI,2369,S,Safety,Scrub Kyubee,DollarAndADream
+9,717,PHI,2369,LB,Linebacker,Perry Tucker,Perry87
+9,666,PHI,2369,DE,Defensive End,Drew Davidson,sabills
+9,547,PHI,2369,S,Safety,Ryan Flock,theFlock
+9,222,YKW,2369,LB,Running Back,Boss Tweed,PigSnout
+9,684,YKW,2369,LB,Linebacker,Micah Hendrix,HalfEatenOnionBagel
+9,626,YKW,2369,S,Safety,Clee Hardrool,Saliva^
+9,845,YKW,2369,S,Safety,Cameron Taylor,CDub2
+9,896,YKW,2369,DT,Defensive Tackle,Gustav Rodriguez,samee
+9,575,YKW,2369,DE,Defensive End,Ricky Maddox,SimmerDownBruhh
+9,955,YKW,2369,LB,Linebacker,Chad Pennington,caltroit_red_flames
+9,919,YKW,2369,DE,Defensive End,Zach Skinner,Titan127
+9,775,YKW,2369,LB,Linebacker,Wallace Stone,Evok
+9,755,YKW,2369,CB,Cornerback,Samuel Zhang,kcheng686
+9,945,YKW,2369,DT,Defensive Tackle,James Brown,Scootalicious
+9,873,PHI,2369,RB,Running Back,Willy Nyquist -,Sleepy
+9,673,OCO,2370,K,Kicker,Bradley T Madlad,BradtheMadLad
+9,208,OCO,2370,QB,Quarterback,Mike Boss,JBLAZE_THE_BOSS
+9,928,COL,2370,QB,Cornerback,Ryan Applehort,Daybe
+9,695,OCO,2370,RB,Running Back,Jordan Yates,jordan327
+9,403,OCO,2370,\\N,Defensive End,Angus Winchester,timeconsumer
+9,738,COL,2370,RB,Running Back,Damien Kroetch,Damienj10
+9,926,COL,2370,RB,Running Back,Mark Grau,keanex
+9,215,OCO,2370,WR,Wide Receiver,Bradley Westfield,Bwestfield
+9,860,OCO,2370,WR,Wide Receiver,Carlito Crush,JKortesi81
+9,643,OCO,2370,WR,Wide Receiver,Robert Phelps,DrunkenTeddy
+9,827,OCO,2370,WR,Wide Receiver,Tegan Atwell,Jiggly_333
+9,893,COL,2370,WR,Wide Receiver,Dwayne Aaron,Supersquare04
+9,932,COL,2370,WR,Wide Receiver,Howard Miller,dropbear
+9,910,COL,2370,TE,Tight End,Alvin Chipmunk,andybj
+9,792,COL,2370,WR,Wide Receiver,Brian Wheat,Wheaties
+9,779,COL,2370,RB,Defensive End,Jimmy Cox,Waters
+9,895,COL,2370,K,Quarterback,Micycle McCormick,infinitempg
+9,234,OCO,2370,CB,Cornerback,Marc Spector,RedCydranth
+9,828,COL,2370,CB,Cornerback,Andre Bly Jr.,sapp2013
+9,923,OCO,2370,LB,Safety,Mason Brown,Toasty
+9,780,OCO,2370,CB,Cornerback,Jonathan King,ralams123
+9,247,OCO,2370,\\N,Safety,Jaylon Broxton,speculadora
+9,701,OCO,2370,S,Safety,Marcus Kane,Dangles13
+9,751,OCO,2370,DT,Defensive Tackle,Ryan Fitzfatrick,runrunpasspunt
+9,702,OCO,2370,DT,Defensive Tackle,Greg Clegane,automatic
+9,865,OCO,2370,DT,Defensive Tackle,Ryan Sierra,Battleborn
+9,527,OCO,2370,DE,Defensive End,George Wright Jr.,Player1
+9,881,OCO,2370,LB,Linebacker,Elvin Enchant,ElvinEnchant
+9,823,COL,2370,LB,Defensive End,Haruki Ishigawa,ExemplaryChad
+9,211,COL,2370,LB,Linebacker,Johnathon Saint,jparks98
+9,924,COL,2370,CB,Cornerback,Desta Danger,DestaDanger
+9,863,COL,2370,S,Safety,Michael Tillman,mmfootball
+9,802,COL,2370,DT,Defensive Tackle,Nicholas Pierno,ralz9
+9,940,COL,2370,LB,Defensive End,Rickey Ramero,Ramero
+9,974,COL,2370,S,Safety,Alexandre Thibault,Jepox
+9,795,COL,2370,DT,Defensive Tackle,Eli Kamaka,PDXBaller
+9,219,COL,2370,DT,Defensive Tackle,Dan Miller,7hawk77
+9,797,COL,2370,DE,Defensive End,Antonio Sandoval,TheMemeMaestro
+9,876,SJS,2371,TE,,Tor Tuck,Ace
+9,982,AZ,2371,QB,Quarterback,Kevin Fitzpatrick,kckolbe
+9,944,SJS,2371,QB,Wide Receiver,Brad Pennington,Dawegg
+9,201,AZ,2371,RB,Running Back,Reg Mackworthy,Esa77
+9,933,SJS,2371,RB,Running Back,D.J. Riddick,OptiimusPR1ME
+9,680,SJS,2371,RB,Running Back,Denzel Diaz,ElMachoNacho
+9,937,AZ,2371,WR,Wide Receiver,Viggo Squanch,Durden
+9,942,AZ,2371,TE,Tight End,Balthazar Crindy,dub
+9,842,AZ,2371,WR,Wide Receiver,John Wachter,JohnWachter
+9,669,AZ,2371,WR,Wide Receiver,C.A Chess,4D Chess
+9,847,AZ,2371,WR,Wide Receiver,Fresh Booter,PoloPro
+9,248,SJS,2371,WR,Wide Receiver,Antonio Legion,Keyg_an
+9,650,SJS,2371,WR,Wide Receiver,Shane Weston,Symmetrik
+9,970,SJS,2371,TE,Tight End,Zapp Brannigan,pazuzu
+9,856,AZ,2371,K,Kicker,Dean Jackson,run_CMC
+9,985,SJS,2371,K,Kicker,Kyle Corbett,kylecorbett42
+9,858,AZ,2371,S,Safety,Darren Morris,Roly
+9,568,SJS,2371,CB,Cornerback,John Canton,Sweetwater
+9,217,AZ,2371,LB,Linebacker,Harrif Ernston,Valtookan
+9,894,AZ,2371,LB,Linebacker,Jack Dwyer,Neckbishop
+9,969,AZ,2371,S,Safety,Bucky Barnes,Moosecop
+9,720,AZ,2371,S,Safety,Allen Davis,XxpurplepurpsxX
+9,861,AZ,2371,DT,Defensive Tackle,Egor Medved,Walder Frey
+9,658,AZ,2371,LB,Linebacker,Luke Tiernan,Ltsmashie
+9,825,AZ,2371,DE,Defensive End,Andreas Waiters,Chukka
+9,615,AZ,2371,LB,Linebacker,AC Hackett,Deusolis
+9,633,AZ,2371,S,Safety,Jogn Floggity,Jogn
+9,602,AZ,2371,DT,Defensive Tackle,Mark Ramrio,Anti-Hype
+9,581,SJS,2371,LB,Linebacker,Stephen Harrison,Noppadet
+9,943,SJS,2371,LB,Linebacker,Ben Horne,iseedoug
+9,767,SJS,2371,DT,Defensive Tackle,Calkewlated Chambers III,Lendoris
+9,563,SJS,2371,S,Safety,Alex Hansen,acki
+9,689,SJS,2371,LB,Linebacker,Luke Washington,Den_Tex_Mix2
+9,628,SJS,2371,S,Safety,Ja Brill,ckroyal92
+9,841,SJS,2371,CB,Cornerback,Terrell Brister,tbone415
+9,859,SJS,2371,DE,Defensive End,Bastion Barnhardt,pulsedk
+9,886,SJS,2371,DE,Defensive End,Cordell Joshua,Drizzy
+9,703,SJS,2371,S,Safety,Torque Lewith,Hypodynamic
+9,249,BAL,2372,WR,Wide Receiver,Grey Slax,Jonstradamus
+9,947,NOLA,2372,FS,Safety,William H. Harrison,Mongoose87
+9,233,BAL,2372,QB,Cornerback,Avon Blocksdale,iamslm22
+9,868,NOLA,2372,QB,Quarterback,Borkus Maximus III,bovovovo
+9,230,BAL,2372,RB,Running Back,Owen Taylor,manicmav36
+9,238,NOLA,2372,RB,Wide Receiver,Darren Smallwood,tlk742
+9,931,BAL,2372,TE,Tight End,Verso L’Alto,nunccoepi
+9,750,BAL,2372,WR,Wide Receiver,Trey Willie,ItsJustBarry
+9,770,BAL,2372,WR,Wide Receiver,Budda Browning,Rindiee
+9,212,BAL,2372,WR,Wide Receiver,Alexandre LeClair,Zoone16
+9,232,NOLA,2372,TE,Tight End,Paul DiMirio,124715
+9,776,NOLA,2372,WR,Wide Receiver,Charlie Law,AdamS
+9,624,NOLA,2372,WR,Wide Receiver,Mayran Jackson,Kendrick
+9,678,NOLA,2372,TE,Tight End,Ardie Savea,Ben
+9,671,NOLA,2372,WR,Wide Receiver,Dustin Evans,AsylumParty
+9,216,BAL,2372,K,Kicker,Turk Turkleton,Raven
+9,759,NOLA,2372,K,Kicker,Iyah Blewitt,Rabidsponge21
+9,241,NOLA,2372,CB,Cornerback,Benson Bayley,Bayley
+9,820,BAL,2372,LB,Linebacker,Noah Goodson,toivo
+9,210,BAL,2372,DE,Defensive End,Kurt Hendrix,HENDRIX
+9,218,BAL,2372,\\N,Safety,Vikian Marmeladov,Vikain
+9,898,BAL,2372,LB,Linebacker,Austin Roenick,Leafer
+9,667,BAL,2372,CB,Cornerback,Darnell Turner,Darnellthebeast
+9,883,BAL,2372,DE,Defensive End,Arbin Asipi JR,DeathOnReddit
+9,864,BAL,2372,CB,Cornerback,Gregory Fletcher,The_Hero
+9,778,BAL,2372,CB,Cornerback,Clifford Rove,Yurt6
+9,213,BAL,2372,CB,Cornerback,Antoine Delacour,37thchamber
+9,604,BAL,2372,DT,Defensive Tackle,Erasmo Broadway,evryday
+9,948,BAL,2372,DE,Quarterback,Childish Gambino,Renrut
+9,888,NOLA,2372,LB,Linebacker,Brian Mills,PaytonM34
+9,726,NOLA,2372,LB,Linebacker,Vincent Sharpei,Muford
+9,927,NOLA,2372,CB,Wide Receiver,Vladimir Fyodorovich,majesiu
+9,242,NOLA,2372,LB,Linebacker,Julian O'Sullivan,JuOSu
+9,771,NOLA,2372,DT,Defensive Tackle,Godfrey King,Shadowz
+9,816,NOLA,2372,S,Safety,Blackford Oakes,Beaver
+9,550,NOLA,2372,DE,Defensive End,Jayce Tuck,ErMurazor
+9,766,NOLA,2372,DT,Defensive Tackle,Joseph Askins,jaskins811
+9,206,NOLA,2372,DE,Defensive End,Fuego Wozy,TheWoZy
+9,249,BAL,2373,WR,Wide Receiver,Grey Slax,Jonstradamus
+9,928,COL,2373,QB,Cornerback,Ryan Applehort,Daybe
+9,233,BAL,2373,QB,Cornerback,Avon Blocksdale,iamslm22
+9,738,COL,2373,RB,Running Back,Damien Kroetch,Damienj10
+9,926,COL,2373,RB,Running Back,Mark Grau,keanex
+9,230,BAL,2373,RB,Running Back,Owen Taylor,manicmav36
+9,625,BAL,2373,RB,Running Back,Bubba Nuck,NUCK
+9,932,COL,2373,WR,Wide Receiver,Howard Miller,dropbear
+9,893,COL,2373,WR,Wide Receiver,Dwayne Aaron,Supersquare04
+9,792,COL,2373,WR,Wide Receiver,Brian Wheat,Wheaties
+9,779,COL,2373,RB,Defensive End,Jimmy Cox,Waters
+9,910,COL,2373,TE,Tight End,Alvin Chipmunk,andybj
+9,750,BAL,2373,WR,Wide Receiver,Trey Willie,ItsJustBarry
+9,212,BAL,2373,WR,Wide Receiver,Alexandre LeClair,Zoone16
+9,770,BAL,2373,WR,Wide Receiver,Budda Browning,Rindiee
+9,931,BAL,2373,TE,Tight End,Verso L’Alto,nunccoepi
+9,895,COL,2373,K,Quarterback,Micycle McCormick,infinitempg
+9,216,BAL,2373,K,Kicker,Turk Turkleton,Raven
+9,828,COL,2373,CB,Cornerback,Andre Bly Jr.,sapp2013
+9,213,BAL,2373,CB,Cornerback,Antoine Delacour,37thchamber
+9,823,COL,2373,LB,Defensive End,Haruki Ishigawa,ExemplaryChad
+9,924,COL,2373,CB,Cornerback,Desta Danger,DestaDanger
+9,974,COL,2373,S,Safety,Alexandre Thibault,Jepox
+9,211,COL,2373,LB,Linebacker,Johnathon Saint,jparks98
+9,219,COL,2373,DT,Defensive Tackle,Dan Miller,7hawk77
+9,940,COL,2373,LB,Defensive End,Rickey Ramero,Ramero
+9,795,COL,2373,DT,Defensive Tackle,Eli Kamaka,PDXBaller
+9,802,COL,2373,DT,Defensive Tackle,Nicholas Pierno,ralz9
+9,797,COL,2373,DE,Defensive End,Antonio Sandoval,TheMemeMaestro
+9,863,COL,2373,S,Safety,Michael Tillman,mmfootball
+9,820,BAL,2373,LB,Linebacker,Noah Goodson,toivo
+9,667,BAL,2373,CB,Cornerback,Darnell Turner,Darnellthebeast
+9,864,BAL,2373,CB,Cornerback,Gregory Fletcher,The_Hero
+9,898,BAL,2373,LB,Linebacker,Austin Roenick,Leafer
+9,210,BAL,2373,DE,Defensive End,Kurt Hendrix,HENDRIX
+9,218,BAL,2373,\\N,Safety,Vikian Marmeladov,Vikain
+9,778,BAL,2373,CB,Cornerback,Clifford Rove,Yurt6
+9,883,BAL,2373,DE,Defensive End,Arbin Asipi JR,DeathOnReddit
+9,604,BAL,2373,DT,Defensive Tackle,Erasmo Broadway,evryday
+9,947,NOLA,2374,FS,Safety,William H. Harrison,Mongoose87
+9,673,OCO,2374,K,Kicker,Bradley T Madlad,BradtheMadLad
+9,208,OCO,2374,QB,Quarterback,Mike Boss,JBLAZE_THE_BOSS
+9,868,NOLA,2374,QB,Quarterback,Borkus Maximus III,bovovovo
+9,695,OCO,2374,RB,Running Back,Jordan Yates,jordan327
+9,238,NOLA,2374,RB,Wide Receiver,Darren Smallwood,tlk742
+9,860,OCO,2374,WR,Wide Receiver,Carlito Crush,JKortesi81
+9,215,OCO,2374,WR,Wide Receiver,Bradley Westfield,Bwestfield
+9,827,OCO,2374,WR,Wide Receiver,Tegan Atwell,Jiggly_333
+9,643,OCO,2374,WR,Wide Receiver,Robert Phelps,DrunkenTeddy
+9,234,OCO,2374,CB,Cornerback,Marc Spector,RedCydranth
+9,232,NOLA,2374,TE,Tight End,Paul DiMirio,124715
+9,671,NOLA,2374,WR,Wide Receiver,Dustin Evans,AsylumParty
+9,776,NOLA,2374,WR,Wide Receiver,Charlie Law,AdamS
+9,624,NOLA,2374,WR,Wide Receiver,Mayran Jackson,Kendrick
+9,678,NOLA,2374,TE,Tight End,Ardie Savea,Ben
+9,759,NOLA,2374,K,Kicker,Iyah Blewitt,Rabidsponge21
+9,241,NOLA,2374,CB,Cornerback,Benson Bayley,Bayley
+9,247,OCO,2374,\\N,Safety,Jaylon Broxton,speculadora
+9,923,OCO,2374,LB,Safety,Mason Brown,Toasty
+9,865,OCO,2374,DT,Defensive Tackle,Ryan Sierra,Battleborn
+9,403,OCO,2374,\\N,Defensive End,Angus Winchester,timeconsumer
+9,881,OCO,2374,LB,Linebacker,Elvin Enchant,ElvinEnchant
+9,701,OCO,2374,S,Safety,Marcus Kane,Dangles13
+9,751,OCO,2374,DT,Defensive Tackle,Ryan Fitzfatrick,runrunpasspunt
+9,780,OCO,2374,CB,Cornerback,Jonathan King,ralams123
+9,702,OCO,2374,DT,Defensive Tackle,Greg Clegane,automatic
+9,527,OCO,2374,DE,Defensive End,George Wright Jr.,Player1
+9,816,NOLA,2374,S,Safety,Blackford Oakes,Beaver
+9,242,NOLA,2374,LB,Linebacker,Julian O'Sullivan,JuOSu
+9,726,NOLA,2374,LB,Linebacker,Vincent Sharpei,Muford
+9,927,NOLA,2374,CB,Wide Receiver,Vladimir Fyodorovich,majesiu
+9,771,NOLA,2374,DT,Defensive Tackle,Godfrey King,Shadowz
+9,550,NOLA,2374,DE,Defensive End,Jayce Tuck,ErMurazor
+9,766,NOLA,2374,DT,Defensive Tackle,Joseph Askins,jaskins811
+9,888,NOLA,2374,LB,Linebacker,Brian Mills,PaytonM34
+9,206,NOLA,2374,DE,Defensive End,Fuego Wozy,TheWoZy
+9,249,BAL,2375,WR,Wide Receiver,Grey Slax,Jonstradamus
+9,947,NOLA,2375,FS,Safety,William H. Harrison,Mongoose87
+9,233,BAL,2375,QB,Cornerback,Avon Blocksdale,iamslm22
+9,868,NOLA,2375,QB,Quarterback,Borkus Maximus III,bovovovo
+9,230,BAL,2375,RB,Running Back,Owen Taylor,manicmav36
+9,625,BAL,2375,RB,Running Back,Bubba Nuck,NUCK
+9,238,NOLA,2375,RB,Wide Receiver,Darren Smallwood,tlk742
+9,931,BAL,2375,TE,Tight End,Verso L’Alto,nunccoepi
+9,750,BAL,2375,WR,Wide Receiver,Trey Willie,ItsJustBarry
+9,770,BAL,2375,WR,Wide Receiver,Budda Browning,Rindiee
+9,212,BAL,2375,WR,Wide Receiver,Alexandre LeClair,Zoone16
+9,232,NOLA,2375,TE,Tight End,Paul DiMirio,124715
+9,671,NOLA,2375,WR,Wide Receiver,Dustin Evans,AsylumParty
+9,776,NOLA,2375,WR,Wide Receiver,Charlie Law,AdamS
+9,624,NOLA,2375,WR,Wide Receiver,Mayran Jackson,Kendrick
+9,678,NOLA,2375,TE,Tight End,Ardie Savea,Ben
+9,216,BAL,2375,K,Kicker,Turk Turkleton,Raven
+9,759,NOLA,2375,K,Kicker,Iyah Blewitt,Rabidsponge21
+9,213,BAL,2375,CB,Cornerback,Antoine Delacour,37thchamber
+9,241,NOLA,2375,CB,Cornerback,Benson Bayley,Bayley
+9,820,BAL,2375,LB,Linebacker,Noah Goodson,toivo
+9,864,BAL,2375,CB,Cornerback,Gregory Fletcher,The_Hero
+9,218,BAL,2375,\\N,Safety,Vikian Marmeladov,Vikain
+9,778,BAL,2375,CB,Cornerback,Clifford Rove,Yurt6
+9,898,BAL,2375,LB,Linebacker,Austin Roenick,Leafer
+9,883,BAL,2375,DE,Defensive End,Arbin Asipi JR,DeathOnReddit
+9,604,BAL,2375,DT,Defensive Tackle,Erasmo Broadway,evryday
+9,667,BAL,2375,CB,Cornerback,Darnell Turner,Darnellthebeast
+9,948,BAL,2375,DE,Quarterback,Childish Gambino,Renrut
+9,242,NOLA,2375,LB,Linebacker,Julian O'Sullivan,JuOSu
+9,726,NOLA,2375,LB,Linebacker,Vincent Sharpei,Muford
+9,888,NOLA,2375,LB,Linebacker,Brian Mills,PaytonM34
+9,927,NOLA,2375,CB,Wide Receiver,Vladimir Fyodorovich,majesiu
+9,206,NOLA,2375,DE,Defensive End,Fuego Wozy,TheWoZy
+9,766,NOLA,2375,DT,Defensive Tackle,Joseph Askins,jaskins811
+9,816,NOLA,2375,S,Safety,Blackford Oakes,Beaver
+9,771,NOLA,2375,DT,Defensive Tackle,Godfrey King,Shadowz
+9,210,BAL,2375,DE,Defensive End,Kurt Hendrix,HENDRIX
 9,923,OCO,BROTY,LB,Safety,Mason Brown,Toasty
 9,206,NOLA,championship,DE,Defensive End,Fuego Wozy,TheWoZy
 9,232,NOLA,championship,TE,Tight End,Paul DiMirio,124715
@@ -1691,7 +3954,6 @@ season,pid,team,type,award_position,player_position,name,username
 15,1064,PHI,Pro Bowl,LB,Linebacker,K.J. Becker,Kendrick
 15,943,BAL,Pro Bowl,LB,Linebacker,Ben Horne,iseedoug
 15,1156,YKW,Pro Bowl,LB,Linebacker,"Sandip ""Sandy"" Bakshi",Player1
-15,1055,PHI,Pro Bowl,LB,Safety,Lennox Garnett,37thchamber
 15,1089,BAL,Pro Bowl,DB,Cornerback,Axel Hornbacher,PDXBaller
 15,1145,YKW,Pro Bowl,DB,Cornerback,Johnny Snuggles,manicmav36
 15,1123,BAL,Pro Bowl,DB,Cornerback,Arbin Asipi III,DeathOnReddit
@@ -4722,7 +6984,7 @@ season,pid,team,type,award_position,player_position,name,username
 36,2820,OCO,All-Pro First Team,DE,Linebacker,Leonardo McTurtle,KaleSalad
 36,2156,AZ,All-Pro First Team,DT,Defensive Tackle,Chuck Roth,zeagle1
 36,2860,LIB,All-Pro First Team,DT,Defensive Tackle,Christian Marciano,Pat
-36,2320,OCO,All-Pro First Team,OLB,Linebacker,Big Slammu,moonlight
+36,2320,HON,All-Pro First Team,OLB,Linebacker,Big Slammu,moonlight
 36,2769,YKW,All-Pro First Team,OLB,Linebacker,"Zephyr ""Tater"" GreyWolf",taterswc
 36,2323,BAL,All-Pro First Team,ILB,Linebacker,A.J Lucas,Alucas
 36,2532,HON,All-Pro First Team,CB,Cornerback,Lip Gallagher,fever95
@@ -4804,11 +7066,13 @@ season,pid,team,type,award_position,player_position,name,username
 36,2746,HON,championship,CB,Cornerback,Modern Nazgûl,Vulfzilla
 36,2841,HON,championship,G,Offensive Lineman,Lane Frost II,LANEFROST
 36,3014,HON,championship,WR,Offensive Lineman,Leek Mai-Heinous,br0_0ker
+36,2320,HON,DPOTY,LB,Linebacker,Big Slammu,moonlight
 36,1776,COL,HoF,Wide Receiver,Wide Receiver,William Lim,yonggarius
 36,1895,SAR,HoF,Tight End,Tight End,James Angler,tMuse
 36,1868,NOLA,HoF,Cornerback,Cornerback,Andrew Witten,mithrandir
 36,1550,HON,HoF,Kicker,Kicker,Venus Powers,Baron1898
 36,576,YKW,HoF,Quarterback,Quarterback,Mat Akselsen,Bzerkap
+36,2320,HON,LBOTY,LB,Linebacker,Big Slammu,moonlight
 36,2472,HON,Pro Bowl,QB,Quarterback,Dexter Zaylren,.Laser
 36,2616,OCO,Pro Bowl,QB,Quarterback,Tron Carter,Revolution5
 36,2536,AZ,Pro Bowl,RB,Running Back,Jay Cue Jr.,Opera_Phantom
@@ -9896,7 +12160,7 @@ season,pid,team,type,award_position,player_position,name,username
 62,5606,COL,All-Pro First Team,RET,Wide Receiver,Rod Kimble,gucci
 62,6020,MINN,All-Pro First Team,QB,Wide Receiver,Duquan Feldman,speculadora
 62,6137,BBB,All-Pro First Team,RB,Running Back,Wendy Corduroy,Ultimatedestroye
-62,6195,NOR,All-Pro First Team,RB,Running Back,Rand McNally,UptownCord
+62,6195,NOR,All-Pro First Team,RB,Running Back,Vercingetorix Jones,UptownCord
 62,6117,TIJ,All-Pro First Team,FB,Running Back,Desi Cotton,ThatMobi
 62,6132,POR,All-Pro First Team,WR,Wide Receiver,Willeh Handsy,wetwilleh
 62,6131,KCC,All-Pro First Team,WR,Wide Receiver,Jalen Odunze,Rindiee
@@ -9969,7 +12233,7 @@ season,pid,team,type,award_position,player_position,name,username
 62,5522,OSK,OPerOTY,QB,Quarterback,Forcing ToOsaka,Muford
 62,6137,BBB,OPOTY,RB,Running Back,Wendy Corduroy,Ultimatedestroye
 62,5773,HON,OPOTY,QB,Quarterback,Vlad Wolf,Brad Woof
-62,6195,LON,OROTY,RB,Running Back,Rand McNally,UptownCord
+62,6195,LON,OROTY,RB,Running Back,Vercingetorix Jones,UptownCord
 62,5967,CTC,OROTY,WR,Wide Receiver,Bubba Gump,PidgeyDestined
 62,5773,HON,Pro Bowl,QB,Quarterback,Vlad Wolf,Brad Woof
 62,5952,AUS,Pro Bowl,QB,Quarterback,Sage Rosencopter,Lumosityfan
@@ -10044,7 +12308,7 @@ season,pid,team,type,award_position,player_position,name,username
 62,6020,MIN,Pro Bowl,QB,Wide Receiver,Duquan Feldman,speculadora
 62,6128,POR,Pro Bowl,QB,Quarterback,Cross Summers,lunaripcole
 62,6055,MIN,Pro Bowl,RB,Tight End,Jayne Cobb,gsharp
-62,6195,LON,Pro Bowl,RB,Running Back,Rand McNally,UptownCord
+62,6195,LON,Pro Bowl,RB,Running Back,Vercingetorix Jones,UptownCord
 62,6130,POR,Pro Bowl,RB,Running Back,Goon Summers,MrKrumz
 62,6132,POR,Pro Bowl,WR,Wide Receiver,Willeh Handsy,wetwilleh
 62,6131,KCC,Pro Bowl,WR,Wide Receiver,Jalen Odunze,Rindiee
@@ -10068,9 +12332,9 @@ season,pid,team,type,award_position,player_position,name,username
 62,6176,KCC,Pro Bowl,S,Safety,Jay Deen,BarebackAlpaca
 62,6181,MIN,Pro Bowl,S,Safety,Anthony Johnson,Anthony8139
 62,6212,MIN,Pro Bowl,K,Kicker,Ethereal Platinum,PlatinumsGalaxy
-62,6150,KCC,Pro Bowl,P,Kicker,Who’s on First,McGriddy10
+62,6150,KCC,Pro Bowl,P,Offensive Lineman,Who’s on First,McGriddy10
 62,6131,KCC,Pro Bowl,ST,Wide Receiver,Jalen Odunze,Rindiee
-62,6195,LON,Pro Bowl,ST,Running Back,Rand McNally,UptownCord
+62,6195,LON,Pro Bowl,ST,Running Back,Vercingetorix Jones,UptownCord
 62,6142,DAL,Pro Bowl,QB,Quarterback,Payaton Manning,ManningTypeAim
 62,6199,TIJ,Pro Bowl,QB,Quarterback,How Ma,Jaywe88
 62,6103,TIJ,Pro Bowl,RB,Running Back,Treyvon Reddick,JET12TEX
@@ -10103,3 +12367,134 @@ season,pid,team,type,award_position,player_position,name,username
 62,6152,NOR,Pro Bowl,ST,Running Back,Hrafn Óðinsson,Raven
 62,5606,COL,RetOTY,WR,Wide Receiver,Rod Kimble,gucci
 62,6212,MIN,STOTY,K,Kicker,Ethereal Platinum,PlatinumsGalaxy
+63,5754,OSK,1600 Club,OL,Offensive Lineman,King Ghidorah,firstfray
+63,5756,YKW,1600 Club,QB,Quarterback,- GEQBUS,TubaDeus
+63,5763,BAL,1600 Club,QB,Quarterback,Purdy 'PP' Penix,Bazooka_Joe
+63,5458,CTC,championship,Linebacker,Linebacker,Kevin Kirkpatrick,Pyro182
+63,5568,CTC,championship,Running Back,Running Back,Blocked On Discord,Charple
+63,5617,CTC,championship,Wide Receiver,Wide Receiver,Oliver Clozeoff,Weaves
+63,5674,CTC,championship,Defensive End,Defensive End,Big Strong,nickyvmlp
+63,5677,CTC,championship,Safety,Safety,Carlin Creakis,SmittyHextall
+63,5805,CTC,championship,Cornerback,Cornerback,Earl Grey,lordcoolcats
+63,5842,CTC,championship,Offensive Lineman,Offensive Lineman,Big Bis,negs
+63,5858,CTC,championship,Quarterback,Quarterback,John Waffle,ReadySalted
+63,5877,CTC,championship,Kicker,Kicker,Bo Tteur,ItsFrenchie
+63,5895,CTC,championship,Running Back,Running Back,Stankle McQuade,FL4K__
+63,5896,CTC,championship,Safety,Safety,Yama End,Crog
+63,5922,CTC,championship,Cornerback,Cornerback,Newman Douglas,Grilledtwinkiez
+63,5927,CTC,championship,Cornerback,Cornerback,Boss Nassty,oknom
+63,5947,CTC,championship,Offensive Lineman,Offensive Lineman,Richard Patterson,bjkman
+63,5953,CTC,championship,Offensive Lineman,Offensive Lineman,TheCFL IsBetter,TubbyTim69
+63,5967,CTC,championship,Wide Receiver,Wide Receiver,Bubba Gump,PidgeyDestined
+63,5975,CTC,championship,Linebacker,Linebacker,Squash Mitchell,Jm1tch11
+63,5997,CTC,championship,Tight End,Tight End,David Bruno,AJW
+63,6022,CTC,championship,Running Back,Running Back,Michelan Shello,LtHudz
+63,6024,CTC,championship,Wide Receiver,Wide Receiver,Kendall Morgan,Cycro
+63,6076,CTC,championship,Linebacker,Linebacker,Demo L'ition,lordvita
+63,6115,CTC,championship,Offensive Lineman,Offensive Lineman,MayBe In-Active,Beck
+63,6118,CTC,championship,Defensive Tackle,Defensive Tackle,Will Vincefork,Rylakn
+63,6136,CTC,championship,Offensive Lineman,Offensive Lineman,Glizzie McGuire,Dewalt27
+63,6148,CTC,championship,Defensive End,Defensive End,Mike Honcho,Frantik
+63,6028,KCC,championship,Quarterback,Quarterback,Bettercall Quasar,Triceracop
+63,6040,KCC,championship,Defensive Tackle,Defensive Tackle,Dylan Munoz,Dylanpausin
+63,6043,KCC,championship,Wide Receiver,Wide Receiver,Natan Gunner,keaton
+63,6044,KCC,championship,Tight End,Tight End,Ugarth son of Ugarth,frithjofr
+63,6059,KCC,championship,Tight End,Tight End,Aaron Bell,SteveAmHydrogen
+63,6085,KCC,championship,Running Back,Running Back,Lewis Ratskin,Skyvid
+63,6092,KCC,championship,Running Back,Running Back,Pretty Mofo,slumped64
+63,6116,KCC,championship,Offensive Lineman,Offensive Lineman,Bigg Boay,Timbuktu
+63,6131,KCC,championship,Wide Receiver,Wide Receiver,Jalen Odunze,Rindiee
+63,6149,KCC,championship,Quarterback,Quarterback,Lion Trees,Colbai
+63,6150,KCC,championship,Kicker,Offensive Lineman,Who’s on First,McGriddy10
+63,6153,KCC,championship,Running Back,Running Back,Noah Eargle,noah
+63,6167,KCC,championship,Tight End,Tight End,Thierry Terrington,WildBoyy
+63,6175,KCC,championship,Defensive End,Defensive End,Travon Austin,Darkangel2021!
+63,6193,KCC,championship,Wide Receiver,Wide Receiver,Robin D. Blinde,o1playz
+63,6194,KCC,championship,Running Back,Running Back,Carl Hanratty,TomHanks
+63,6201,KCC,championship,Wide Receiver,Wide Receiver,Carter Catchings,Packattack
+63,6220,KCC,championship,Cornerback,Cornerback,Socks Maybe,SocksMaybe
+63,6227,KCC,championship,Linebacker,Linebacker,Tall Green,Reno
+63,6234,KCC,championship,Tight End,Tight End,Austin Evermore,Anty
+63,6245,KCC,championship,Safety,Safety,Thomas Sankara,JoeSteel
+63,6249,KCC,championship,Linebacker,Linebacker,Bryce Reed,MichkovSzn
+63,6267,KCC,championship,Defensive End,Defensive End,Joseph Fingerz,jojio88
+63,6289,KCC,championship,Tight End,Tight End,Titus Tron,theweaver09
+63,6292,KCC,championship,Defensive End,Defensive End,Randy Carlson,Bumble
+63,6293,KCC,championship,Wide Receiver,Wide Receiver,Chris Barry,justme318
+63,6295,KCC,championship,Linebacker,Linebacker,Chester Von Isaacs,chester
+63,6296,KCC,championship,Safety,Safety,Orange Juice Simpson,fish
+63,6300,KCC,championship,Wide Receiver,Wide Receiver,JD Stingray,EuropoorBird
+63,6301,KCC,championship,Defensive End,Defensive End,Reginald McFoster,Biohazard
+63,6314,KCC,championship,Offensive Lineman,Offensive Lineman,Hank Hill,Strong-strong96
+63,6334,KCC,championship,Running Back,Quarterback,Reformed Multi,Zephyrus1128
+63,6336,KCC,championship,Cornerback,Cornerback,Rush Wheek,ctots
+63,5773,HON,Pro Bowl,QB,Quarterback,Vlad Wolf,Brad Woof
+63,5556,AZ,Pro Bowl,QB,Quarterback,Noa Yu II,CROney3
+63,5988,HON,Pro Bowl,RB,Running Back,Dee Nye,anjro
+63,5743,AZ,Pro Bowl,RB,Running Back,Jonathon Jameston,Joriel
+63,5817,NYS,Pro Bowl,RB,Running Back,Dr. Squid,EurovisionAmity
+63,6130,AZ,Pro Bowl,FB,Running Back,Goon Summers,MrKrumz
+63,5920,OCO,Pro Bowl,WR,Tight End,Cutty Von Turbo,roquefort
+63,5515,HON,Pro Bowl,WR,Wide Receiver,Griffin Stone,Griff
+63,6104,NYS,Pro Bowl,WR,Wide Receiver,Dante Von Wolfe,Bloodless
+63,5523,AUS,Pro Bowl,WR,Wide Receiver,Oh Haewon,Shiamus
+63,5919,HON,Pro Bowl,TE,Tight End,Thomas The Tank,Rusfan
+63,5843,NOLA,Pro Bowl,TE,Tight End,Jason Beaty,bechtudo
+63,5824,HON,Pro Bowl,IOL,Offensive Lineman,TzTok Jad,PMoney
+63,5545,HON,Pro Bowl,IOL,Offensive Lineman,Pegme Amadeus,scudmuffin19
+63,5682,AZ,Pro Bowl,T,Offensive Lineman,Shnitzel Radda,DivogoJota
+63,5718,NYS,Pro Bowl,T,Offensive Lineman,Drake Rider,Water
+63,5949,SJS,Pro Bowl,T,Offensive Lineman,Servin Cakes,Sevrin
+63,5740,AUS,Pro Bowl,DE,Defensive End,Trent Butterfingers,tnerT
+63,5778,NYS,Pro Bowl,DE,Defensive End,Joe Pigott,PurplePiratePoo
+63,5721,NOLA,Pro Bowl,DT,Defensive Tackle,Turd Ferguson,Turd Ferguson
+63,5637,HON,Pro Bowl,DT,Defensive Tackle,Felix Fortuna,Sizz
+63,5670,NOLA,Pro Bowl,OLB,Linebacker,Tex Richards,ZootTX
+63,5799,SJS,Pro Bowl,OLB,Linebacker,Brock Lesnar,JakeTE10
+63,5989,SJS,Pro Bowl,ILB,Linebacker,Ryan Wolf,wolfmn8989
+63,5508,HON,Pro Bowl,ILB,Linebacker,Laramie Rose,oilmandan
+63,5769,NOLA,Pro Bowl,CB,Cornerback,. Torchwood,thewhovian
+63,5933,SJS,Pro Bowl,CB,Cornerback,Pickle Rick,KaleSalad
+63,5684,AUS,Pro Bowl,CB,Cornerback,Silas Santana,Frostbite
+63,5725,HON,Pro Bowl,S,Safety,Devon Lynch,Vumion
+63,5623,NOLA,Pro Bowl,S,Safety,Worf Moghson,Mongoose87
+63,5926,SJS,Pro Bowl,S,Safety,Darian Blackfyre,ThunderTitan82
+63,5883,NYS,Pro Bowl,K,Kicker,The Labubu,kahri
+63,5883,NYS,Pro Bowl,P,Kicker,The Labubu,kahri
+63,5849,AZ,Pro Bowl,ST,Safety,Golly Oo-De-Lally,Z-Whiz
+63,5515,HON,Pro Bowl,ST,Wide Receiver,Griffin Stone,Griff
+63,5858,CTC,Pro Bowl,QB,Quarterback,John Waffle,ReadySalted
+63,5702,SAR,Pro Bowl,QB,Quarterback,Alejandro Alonso,jaypc8237
+63,5576,OSK,Pro Bowl,RB,Running Back,Kim Minjeong,lemonoppy
+63,5574,BAL,Pro Bowl,RB,Running Back,Dino Nuggets Jr.,swoosh
+63,5795,SAR,Pro Bowl,RB,Running Back,Dan Smith,DApolloS
+63,6129,BAL,Pro Bowl,FB,Running Back,Harold Carmichael,kdr
+63,5829,OSK,Pro Bowl,WR,Wide Receiver,Titus Tortuga,DigDoug11
+63,5562,SAR,Pro Bowl,WR,Wide Receiver,Slater Williamson,ThreeToeSloth
+63,5681,BAL,Pro Bowl,WR,Wide Receiver,Alexandros Mograine,sliceruser
+63,5946,YKW,Pro Bowl,WR,Wide Receiver,Matthew Mady,Buttersqauch101
+63,5511,BFB,Pro Bowl,TE,Tight End,Ms. Frizzle,Jackienape
+63,5966,YKW,Pro Bowl,TE,Tight End,Eizo Xyan,xyan
+63,5890,YKW,Pro Bowl,IOL,Offensive Lineman,Acrylic Block,wizard_literal
+63,6115,CTC,Pro Bowl,IOL,Offensive Lineman,MayBe In-Active,Beck
+63,5694,YKW,Pro Bowl,T,Offensive Lineman,1234567890 Creakis,homercrates
+63,5842,CTC,Pro Bowl,T,Offensive Lineman,Big Bis,negs
+63,5678,OSK,Pro Bowl,T,Offensive Lineman,Steve's Lava Kaiju,captainsb
+63,5572,SAR,Pro Bowl,DE,Defensive End,Mobius Stripp,Michiganonymous
+63,5914,YKW,Pro Bowl,DE,Defensive End,Wyatt Syksy,Dire12
+63,5727,OSK,Pro Bowl,DT,Defensive Tackle,Bajin Inui,Bajin
+63,5757,BAL,Pro Bowl,DT,Defensive Tackle,Ben Savea,Ben
+63,5777,YKW,Pro Bowl,OLB,Linebacker,Jean Claude Goddamn,BOOM™
+63,5887,COL,Pro Bowl,OLB,Linebacker,Brian Eshleman,Brianesh73
+63,6179,SAR,Pro Bowl,ILB,Linebacker,Maziar Sardar,MazTheWall
+63,5569,YKW,Pro Bowl,ILB,Linebacker,Norlina Halfpillow,TheCC
+63,5927,CTC,Pro Bowl,CB,Cornerback,Boss Nassty,oknom
+63,5707,COL,Pro Bowl,CB,Cornerback,Drew Winemaker,Quitolis
+63,5805,CTC,Pro Bowl,CB,Cornerback,Earl Grey,lordcoolcats
+63,5941,SAR,Pro Bowl,S,Safety,Bleebs Blunkinchuns,jacobcarson877
+63,5793,BAL,Pro Bowl,S,Safety,DJ Law II,Law
+63,5631,COL,Pro Bowl,S,Safety,Obi-Wan Picknobi,stixvim
+63,5332,BAL,Pro Bowl,K,Kicker,Roy Rivers,RoyRivers
+63,5960,BFB,Pro Bowl,P,Kicker,Johnny Zyns,bigbluex02
+63,5839,YKW,Pro Bowl,ST,Safety,Water Boy,fweliiii
+63,5838,COL,Pro Bowl,ST,Running Back,Dijon Robinson,slasherr

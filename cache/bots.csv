@@ -1,12 +1,11 @@
 season,bot_id,team,dsfl_team,league,tier,position,archetype,status,name
+57,478,AUS,,ISFL,4,Offensive Lineman,Mauler,Active,Mauler Murphy
+57,335,BFB,,ISFL,4,Offensive Lineman,Mauler,Active,Brock Woll
 60,594,,LON,DSFL,50,Safety,Ball Hawk - B,Active,Buzz Windsor
 60,593,,LON,DSFL,50,Defensive Tackle,Nose Tackle - A,Active,Gnome Tackle
 60,577,AUS,,ISFL,4,Offensive Lineman,Balanced Lineman,Active,Austin Silverhead
-60,576,AUS,,ISFL,4,Offensive Lineman,Balanced Lineman,Active,Austin Goldhead
 61,661,,POR,DSFL,100,Cornerback,Cover Corner,Active,No Fly Zone
-61,631,OCO,,ISFL,4,Offensive Lineman,Mauler,Active,Meguru Bumchira
 61,612,,LON,DSFL,100,Cornerback,Cover Corner,Active,Ronde Barber
-62,751,OCO,,ISFL,4,Offensive Lineman,Mauler,Active,Ghost Morrigan
 62,736,,DAL,DSFL,50,Cornerback,Cover Corner - B,Active,Mackenzie Collie
 62,735,,DAL,DSFL,50,Linebacker,Coverage - B,Active,Jack Terrier
 62,734,,DAL,DSFL,50,Defensive Tackle,Nose Tackle - A,Active,Mort Cattle
@@ -18,7 +17,6 @@ season,bot_id,team,dsfl_team,league,tier,position,archetype,status,name
 62,693,,TIJ,DSFL,50,Defensive End,Power Rusher A,Active,MARUCHAN CHILI
 62,687,,TIJ,DSFL,100,Offensive Lineman,Mauler,Active,MARUCHAN BEEF
 62,681,,POR,DSFL,100,Linebacker,Coverage LB,Active,Maxwell Da'Synthest V
-62,665,OCO,,ISFL,4,Offensive Lineman,Mauler,Active,Haha BoredofCord
 63,811,,POR,DSFL,50,Linebacker,Coverage - B,Active,Backing The Line
 63,810,,DAL,DSFL,50,Defensive Tackle,Interior Rusher B,Active,Smaller  Edd
 63,809,,NOR,DSFL,50,Offensive Lineman,Mauler,Active,Makoto Nijiima
@@ -68,8 +66,4 @@ season,bot_id,team,dsfl_team,league,tier,position,archetype,status,name
 63,761,,MIN,DSFL,100,Offensive Lineman,Athletic Lineman,Active,BetThe HonchoOver
 63,760,BFB,,ISFL,2,Offensive Lineman,Mauler,Active,Jelly Roll
 63,759,BFB,,ISFL,2,Offensive Lineman,Mauler,Active,Tulsa King
-63,758,AZ,,ISFL,4,Offensive Lineman,Athletic Lineman,Active,Faith Train
-63,757,OCO,,ISFL,4,Offensive Lineman,Athletic Lineman,Active,Ghost Cone
-63,756,OCO,,ISFL,4,Offensive Lineman,Athletic Lineman,Active,Ghost Strong
-63,754,NYS,,ISFL,3,Offensive Lineman,Mauler,Active,Pineapple Pen
-63,752,NYS,,ISFL,2,Offensive Lineman,Mauler,Active,T Monkey
+64,814,AZ,,ISFL,3,Offensive Lineman,Mauler,Active,Pew Pew
