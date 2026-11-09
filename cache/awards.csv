@@ -9970,6 +9970,23 @@ season,pid,team,type,award_position,player_position,name,username
 52,5331,BAL,championship,WR,Running Back,Jeff Land Shark,LiathTheSquirrel
 52,5332,BAL,championship,LB,Kicker,Roy Rivers,RoyRivers
 52,5333,BAL,championship,RB,Running Back,Quincy Robinson,18situaseans
+52,5414,KCC,championship,QB,Running Back,Wilson Goatobert,Bayley
+52,5423,KCC,championship,RB,Running Back,Alex Bridges,Oatex
+52,5451,KCC,championship,RB,Running Back,Chucky McDavid,CodeK29
+52,5452,KCC,championship,TE,Tight End,Inigo Sudworth,Will3
+52,5444,KCC,championship,WR,Wide Receiver,Football Catcherman,manicmav36
+52,5413,KCC,championship,WR,Wide Receiver,Mo Love,Lowkey
+52,5399,KCC,championship,CB,Cornerback,Scoober Bert,LGMForever
+52,5416,KCC,championship,CB,Cornerback,Brady SonKisser,McGriddy10
+52,5453,KCC,championship,CB,Cornerback,Dwayne Swanson,RobJG2
+52,5415,KCC,championship,LB,Linebacker,Bamba Jamin,Flamingmedal
+52,5279,KCC,championship,LB,Linebacker,Guess Who,Air Crou
+52,5427,KCC,championship,DT,Defensive Tackle,BUMBO BONKORSKI,Trubuckifan
+52,5359,KCC,championship,DT,Defensive End,Brick Wall,IR15H0000000000
+52,5454,KCC,championship,DE,Linebacker,Ryama D. Yugo,hhh81
+52,5445,KCC,championship,FS,Safety,Zero Escape,MobiausGrander
+52,5385,KCC,championship,FS,Safety,Grïm R3ÆPËR,GrïmR3æpêr
+52,5338,KCC,championship,K,Offensive Lineman,Justin Fern,dead_potato_
 52,5106,HON,DPerOTY,CB,Cornerback,Adam Journey,WildfireMicro
 52,5405,MIN,DPerOTY,CB,Cornerback,Demar Harris,Breeze837
 52,5185,AZ,DPOTY,CB,Cornerback,Kim Yeon-Seok,Crunk
@@ -10172,6 +10189,23 @@ season,pid,team,type,award_position,player_position,name,username
 53,5346,AZ,championship,CB,Wide Receiver,Xander Le Roux,zeagle1
 53,5397,AZ,championship,DT,Defensive Tackle,Benji Raga,SabaDonutMan
 53,5398,AZ,championship,T,Offensive Lineman,Fairly Smart,Pib
+53,5350,MIN,championship,QB,Offensive Lineman,Cyrus MacDougall,g2019
+53,5514,MIN,championship,QB,Quarterback,Trevor Simian,Daniel
+53,5517,MIN,championship,RB,Running Back,Randy Beavers,Chicken Lips
+53,5515,MIN,championship,RB,Wide Receiver,Griffin Stone,Griff
+53,5521,MIN,championship,T,Offensive Lineman,William Cramer,William2
+53,5518,MIN,championship,T,Offensive Lineman,Daniel Martin,dannythegoat
+53,5520,MIN,championship,TE,Tight End,Pterodactyl Steve,Samx
+53,5461,MIN,championship,WR,Wide Receiver,Stylon Grissom,Stylon
+53,5419,MIN,championship,WR,Wide Receiver,Shakir Hodges-Allen,SonOfCar
+53,5463,MIN,championship,WR,Wide Receiver,Ezra Torrent,Skindog44
+53,5511,MIN,championship,CB,Tight End,Ms. Frizzle,Jackienape
+53,5516,MIN,championship,LB,Linebacker,Jay Cue IV,Opera_Phantom
+53,5460,MIN,championship,LB,Linebacker,Phantom Ghost,Coachsj35
+53,5512,MIN,championship,DT,Defensive Tackle,Max Payne,Nol15736
+53,5462,MIN,championship,FS,Safety,Garcia Bear,SnowyWolfz
+53,5513,MIN,championship,FS,Safety,LMoney Pickarelli,Tmoney6996
+53,5519,MIN,championship,SS,Safety,MJ Woodson,Gee2Grand
 53,5104,AUS,DPerOTY,S,Safety,Rocket Ride,Ulaire
 53,5513,MIN,DPerOTY,S,Safety,LMoney Pickarelli,Tmoney6996
 53,5111,NOLA,DPOTY,LB,Linebacker,Mac Mannheim,ACynicalGamer
@@ -10377,10 +10411,34 @@ season,pid,team,type,award_position,player_position,name,username
 54,5394,SAR,championship,CB,Cornerback,Brick Pudding,Fronk
 54,5395,SAR,championship,T,Offensive Lineman,Jack White,Ostaf
 54,5510,SAR,championship,CB,Cornerback,Zamir Kehla III,Thor
+54,5555,BBB,championship,QB,Quarterback,Princess Leia Organa,Tesla
+54,5449,BBB,championship,QB,Offensive Lineman,Thorfinn Vinland,Bubba
+54,5615,BBB,championship,RB,Running Back,Krish Gainz,LilGainz901
+54,5481,BBB,championship,RB,Offensive Lineman,Willom hill,princejeremiah
+54,5601,BBB,championship,RB,Running Back,Rachel Morimura,Jiggly_333
+54,5642,BBB,championship,T,Offensive Lineman,Tytus Gilley,Briedaqueduc
+54,5679,BBB,championship,T,Offensive Lineman,Brick Tupp,ForSucksFake
+54,5613,BBB,championship,TE,Tight End,- Chewbacca,SchwarzNarr
+54,5587,BBB,championship,WR,Offensive Lineman,Mega Man Battle Network,aleks
+54,5605,BBB,championship,WR,Cornerback,Alex Baudelaire,uhnp
+54,5473,BBB,championship,WR,Wide Receiver,Drake Maye,Drake_Maye
+54,5476,BBB,championship,WR,Safety,Faramir Took,robstien
+54,5478,BBB,championship,CB,Cornerback,Maxx Baker,Viking8712
+54,5479,BBB,championship,CB,Cornerback,Park Sujin,jeffie43
+54,5599,BBB,championship,LB,Linebacker,Gut McNair,wcowden
+54,5610,BBB,championship,LB,Linebacker,Nico Ramsey,rainzyyy
+54,5644,BBB,championship,LB,Linebacker,Nick Richardson,Nick Richardson 721
+54,5661,BBB,championship,LB,Linebacker,Daenerys Targaryen,Im2Klutch
+54,5477,BBB,championship,LB,Linebacker,Multiliki Waialiki,JoeSteel
+54,5474,BBB,championship,DT,Offensive Lineman,Rick Diggersbee,CowboyBlender
+54,5483,BBB,championship,DE,Defensive End,Bonkers Disco,jollyjiggs
+54,5603,BBB,championship,FS,Safety,Art Emis,loaner
+54,5623,BBB,championship,FS,Safety,Worf Moghson,Mongoose87
+54,5480,BBB,championship,K,Kicker,Dawson Jackson,Kewl
 54,4837,BAL,DPerOTY,LB,Linebacker,Joe Bazooka,Bazooka_Joe
 54,5478,BBB,DPerOTY,CB,Cornerback,Maxx Baker,Viking8712
 54,5012,SAR,DPOTY,S,Safety,Toller Retriever,mer
-54,5509,NOR,DPOTY,LB,Linebacker,Vlad The Inhaler,bernardhibou
+54,5509,NOR,DPOTY,LB,Offensive Lineman,Vlad The Inhaler,bernardhibou
 54,5359,BFB,DROTY,DE,Defensive End,Brick Wall,IR15H0000000000
 54,5631,MIN,DROTY,S,Safety,Obi-Wan Picknobi,stixvim
 54,3317,SJS,HoF,Linebacker,Linebacker,Cruella de Ville,Exilizer
@@ -10582,6 +10640,30 @@ season,pid,team,type,award_position,player_position,name,username
 55,5420,BAL,championship,T,Offensive Lineman,Da'Truest Rusha,Trempale
 55,5477,BAL,championship,LB,Linebacker,Multiliki Waialiki,JoeSteel
 55,5526,BAL,championship,LB,Linebacker,Charlie Kelly,Tylertokesome04
+55,5697,KCC,championship,QB,Quarterback,Drew McPewPewPew Jr,MMFLEX
+55,5494,KCC,championship,RB,Running Back,Artemis Claire Ozolina,Seany148
+55,5451,KCC,championship,RB,Running Back,Chucky McDavid,CodeK29
+55,5634,KCC,championship,T,Offensive Lineman,Hefty Tank,BigfootXVI
+55,5640,KCC,championship,T,Offensive Lineman,Connor Wojak,good_ole_kimmy
+55,5607,KCC,championship,TE,Tight End,Jay Dub,JDub_55Real
+55,5693,KCC,championship,TE,Tight End,CJ Henderson,Shaggy28
+55,5602,KCC,championship,WR,Wide Receiver,Rúben Ira,Retuperkele
+55,5565,KCC,championship,WR,Wide Receiver,Flapjack McKringleShnoz,roastfuego
+55,5588,KCC,championship,WR,Running Back,Scott Pilgrim,lore
+55,5675,KCC,championship,CB,Cornerback,Wyntir Creakis,soevil
+55,5703,KCC,championship,CB,Offensive Lineman,Kenrith Kristalonso,ChiefBast
+55,5485,KCC,championship,LB,Offensive Lineman,Aaron Ford JR,Aford9910
+55,5569,KCC,championship,LB,Linebacker,Norlina Halfpillow,TheCC
+55,5656,KCC,championship,LB,Defensive Tackle,Kilian Liam,ToastCharger
+55,5665,KCC,championship,LB,Linebacker,Jeremiah Mission,stxllar1
+55,5736,KCC,championship,LB,Offensive Lineman,Billy Monbro,Rjm2492
+55,5721,KCC,championship,DT,Defensive Tackle,Turd Ferguson,Turd Ferguson
+55,5745,KCC,championship,DE,Defensive End,Krieg Lupercal,ThePope
+55,5722,KCC,championship,DE,Running Back,Vince Morrigan,Degradation
+55,5694,KCC,championship,FS,Offensive Lineman,1234567890 Creakis,homercrates
+55,5488,KCC,championship,FS,Safety,DJ Hayes,dj_doubledos_22
+55,5748,KCC,championship,SS,Safety,Elijah Miller,Villn
+55,5627,KCC,championship,K,Kicker,Aaron Sterling,USCDani
 55,5093,COL,DPerOTY,LB,Linebacker,Adolin Collins,infern8
 55,5581,LON,DPerOTY,DE,Defensive End,Fuego Toro,DarthDaevin
 55,4935,BAL,DPOTY,CB,Cornerback,Devin Jones,Drizzy
@@ -10777,9 +10859,32 @@ season,pid,team,type,award_position,player_position,name,username
 56,5446,HON,championship,K,Kicker,Kicky Martin,rickymartin_irl
 56,5465,HON,championship,RB,Running Back,Ban Hammer,bowl0
 56,5487,HON,championship,T,Offensive Lineman,Dan Smith,MichkovSzn
-56,5508,HON,championship,LB,Linebacker,Laramie Rose,oilmandan
+56,5508,HON,championship,LB,Kicker,Laramie Rose,oilmandan
 56,5515,HON,championship,WR,Wide Receiver,Griffin Stone,Griff
 56,5545,HON,championship,T,Offensive Lineman,Pegme Amadeus,scudmuffin19
+56,5697,KCC,championship,QB,Quarterback,Drew McPewPewPew Jr,MMFLEX
+56,5494,KCC,championship,RB,Running Back,Artemis Claire Ozolina,Seany148
+56,5754,KCC,championship,RB,Offensive Lineman,King Ghidorah,firstfray
+56,5770,KCC,championship,RB,Running Back,JJ Who,JJ5
+56,5485,KCC,championship,T,Offensive Lineman,Aaron Ford JR,Aford9910
+56,5634,KCC,championship,T,Offensive Lineman,Hefty Tank,BigfootXVI
+56,5607,KCC,championship,TE,Tight End,Jay Dub,JDub_55Real
+56,5693,KCC,championship,TE,Tight End,CJ Henderson,Shaggy28
+56,5799,KCC,championship,TE,Linebacker,Brock Lesnar,JakeTE10
+56,5602,KCC,championship,WR,Wide Receiver,Rúben Ira,Retuperkele
+56,5565,KCC,championship,WR,Wide Receiver,Flapjack McKringleShnoz,roastfuego
+56,5588,KCC,championship,WR,Running Back,Scott Pilgrim,lore
+56,5781,KCC,championship,CB,Cornerback,Zaius Doctor,Luddite
+56,5569,KCC,championship,LB,Linebacker,Norlina Halfpillow,TheCC
+56,5656,KCC,championship,LB,Defensive Tackle,Kilian Liam,ToastCharger
+56,5665,KCC,championship,LB,Linebacker,Jeremiah Mission,stxllar1
+56,5736,KCC,championship,LB,Offensive Lineman,Billy Monbro,Rjm2492
+56,5721,KCC,championship,DT,Defensive Tackle,Turd Ferguson,Turd Ferguson
+56,5745,KCC,championship,DE,Defensive End,Krieg Lupercal,ThePope
+56,5722,KCC,championship,DE,Running Back,Vince Morrigan,Degradation
+56,5597,KCC,championship,DE,Defensive End,Jordan Saint Ariusae,ariusae
+56,5488,KCC,championship,FS,Safety,DJ Hayes,dj_doubledos_22
+56,5774,KCC,championship,FS,Safety,Friend Stefani,FriendStefani
 56,5635,LON,DPerOTY,LB,Linebacker,Oopsie Wrongball,Summerstood
 56,5292,HON,DPerOTY,DT,Defensive Tackle,Okuyasu Nijimura,KnowledgeBoy
 56,5769,MIN,DPOTY,CB,Cornerback,. Torchwood,thewhovian
@@ -11006,6 +11111,23 @@ season,pid,team,type,award_position,player_position,name,username
 57,5624,BAL,championship,T,Offensive Lineman,Gumbo Trashman,CR225
 57,5629,BAL,championship,CB,Cornerback,Conner Beck,ColonelSaunders
 57,5696,BAL,championship,T,Offensive Lineman,Canada Goose,r0tzbua
+57,5698,TIJ,championship,QB,Offensive Lineman,Marquees Acho III,Nathan
+57,5834,TIJ,championship,QB,Running Back,Tame Brady,Garbear000
+57,5557,TIJ,championship,RB,Linebacker,Financial Planning,Jaywe88
+57,5838,TIJ,championship,RB,Running Back,Dijon Robinson,slasherr
+57,5832,TIJ,championship,TE,Tight End,Tip Manzardo,AW13
+57,5622,TIJ,championship,TE,Tight End,Lay Zeph,LuluAnum
+57,5672,TIJ,championship,WR,Wide Receiver,Rok Košir,Daleks
+57,5817,TIJ,championship,WR,Running Back,Dr. Squid,EurovisionAmity
+57,5829,TIJ,championship,CB,Wide Receiver,Titus Tortuga,DigDoug11
+57,5827,TIJ,championship,LB,Linebacker,MJ Football,DixieGnormus
+57,5636,TIJ,championship,LB,Linebacker,John Rex,BrettManJD
+57,5632,TIJ,championship,DT,Defensive Tackle,Teddy Fantobens,Fantobens
+57,5757,TIJ,championship,DT,Defensive Tackle,Ben Savea,Ben
+57,5830,TIJ,championship,DE,Defensive End,Sir Sacksalot,rytin6543
+57,5809,TIJ,championship,FS,Safety,Jackson Travis,Zi215
+57,5584,TIJ,championship,SS,Safety,Stelio Kontos,BoogShlazetti
+57,5648,TIJ,championship,K,Kicker,Punto McKickerman VI,bluesfan55
 57,5741,MIN,DPerOTY,S,Safety,Trey Demungas,Anthony8139
 57,5358,SJS,DPerOTY,LB,Defensive Tackle,Senior Seau,ComebackZak
 57,5819,BBB,DPOTY,LB,Linebacker,Hugh Jassman,admiralballtr8s
@@ -11193,7 +11315,7 @@ season,pid,team,type,award_position,player_position,name,username
 58,5446,HON,championship,K,Kicker,Kicky Martin,rickymartin_irl
 58,5465,HON,championship,RB,Running Back,Ban Hammer,bowl0
 58,5487,HON,championship,T,Offensive Lineman,Dan Smith,MichkovSzn
-58,5508,HON,championship,LB,Linebacker,Laramie Rose,oilmandan
+58,5508,HON,championship,LB,Kicker,Laramie Rose,oilmandan
 58,5515,HON,championship,WR,Wide Receiver,Griffin Stone,Griff
 58,5545,HON,championship,T,Offensive Lineman,Pegme Amadeus,scudmuffin19
 58,5588,HON,championship,RB,Running Back,Scott Pilgrim,lore
@@ -11203,6 +11325,22 @@ season,pid,team,type,award_position,player_position,name,username
 58,5675,HON,championship,CB,Cornerback,Wyntir Creakis,soevil
 58,5700,HON,championship,DT,Defensive Tackle,Joey Miller,WildfireMicro
 58,5725,HON,championship,SS,Safety,Devon Lynch,Vumion
+58,5698,TIJ,championship,QB,Offensive Lineman,Marquees Acho III,Nathan
+58,5838,TIJ,championship,RB,Running Back,Dijon Robinson,slasherr
+58,5845,TIJ,championship,RB,Running Back,Cookout Tray,WALDO
+58,5890,TIJ,championship,T,Offensive Lineman,Acrylic Block,wizard_literal
+58,5832,TIJ,championship,TE,Tight End,Tip Manzardo,AW13
+58,5903,TIJ,championship,WR,Wide Receiver,Lane Frost IV,LANEFROST
+58,5892,TIJ,championship,WR,Wide Receiver,Nick Kirkland,chaserck
+58,5817,TIJ,championship,WR,Running Back,Dr. Squid,EurovisionAmity
+58,5829,TIJ,championship,CB,Wide Receiver,Titus Tortuga,DigDoug11
+58,5827,TIJ,championship,LB,Linebacker,MJ Football,DixieGnormus
+58,5907,TIJ,championship,LB,Linebacker,Bentley Ryan,Dirtybird
+58,5891,TIJ,championship,LB,Linebacker,Konto Stelios,BoogShlazetti
+58,5830,TIJ,championship,DE,Defensive End,Sir Sacksalot,rytin6543
+58,5849,TIJ,championship,FS,Safety,Golly Oo-De-Lally,Z-Whiz
+58,5809,TIJ,championship,FS,Safety,Jackson Travis,Zi215
+58,5880,TIJ,championship,SS,Tight End,Hardbody Mayhem,MaxSuperset
 58,5908,KCC,DPerOTY,S,Safety,Robert Robertson,Arctic
 58,5496,BFB,DPerOTY,LB,Linebacker,Bryan Jones,itztimg
 58,5766,MIN,DPOTY,LB,Linebacker,Andre Pope,6god757
@@ -11369,7 +11507,7 @@ season,pid,team,type,award_position,player_position,name,username
 59,5186,AUS,All-Pro Second Team,OLB,Linebacker,Billdozer Dauterive,Kyamprac
 59,5273,SAR,All-Pro Second Team,ILB,Linebacker,Alexander Hordle Jr.,slate
 59,5513,NOLA,All-Pro Second Team,CB,Safety,LMoney Pickarelli,Tmoney6996
-59,5684,AUS,All-Pro Second Team,CB,Cornerback,Silas Santana,Frostbite
+59,5684,AUS,All-Pro Second Team,CB,Safety,Silas Santana,Frostbite
 59,5402,BFB,All-Pro Second Team,S,Safety,Count Sevem,baz
 59,5475,YKW,All-Pro Second Team,S,Safety,La'induh Trenches,CeeKay
 59,5707,COL,All-Pro Second Team,DB,Cornerback,Drew Winemaker,Quitolis
@@ -11386,7 +11524,7 @@ season,pid,team,type,award_position,player_position,name,username
 59,5398,AZ,championship,OL,Offensive Lineman,Fairly Smart,Pib
 59,5467,AZ,championship,OL,Offensive Lineman,Gerry Atrick,Kotasa
 59,5481,AZ,championship,OL,Offensive Lineman,Willom hill,princejeremiah
-59,5509,AZ,championship,LB,Linebacker,Vlad The Inhaler,bernardhibou
+59,5509,AZ,championship,LB,Offensive Lineman,Vlad The Inhaler,bernardhibou
 59,5516,AZ,championship,LB,Linebacker,Jay Cue IV,Opera_Phantom
 59,5544,AZ,championship,S,Safety,Minkah Polamalu,mirrorlake_cultivator
 59,5556,AZ,championship,QB,Quarterback,Noa Yu II,CROney3
@@ -11399,6 +11537,28 @@ season,pid,team,type,award_position,player_position,name,username
 59,5682,AZ,championship,OL,Offensive Lineman,Shnitzel Radda,DivogoJota
 59,5743,AZ,championship,RB,Running Back,Jonathon Jameston,Joriel
 59,5755,AZ,championship,CB,Cornerback,Gods Comma,Bamford13
+59,5921,TIJ,championship,QB,Cornerback,Gold ship,LiathTheSquirrel
+59,5980,TIJ,championship,RB,Running Back,Ayyhh Ayh,ayyhh
+59,5845,TIJ,championship,RB,Running Back,Cookout Tray,WALDO
+59,5990,TIJ,championship,RB,Safety,Art Vandelay,Art Vandelay
+59,5890,TIJ,championship,T,Offensive Lineman,Acrylic Block,wizard_literal
+59,6012,TIJ,championship,T,Offensive Lineman,Big Henz,hensleypj
+59,5832,TIJ,championship,TE,Tight End,Tip Manzardo,AW13
+59,5966,TIJ,championship,TE,Tight End,Eizo Xyan,xyan
+59,5903,TIJ,championship,WR,Wide Receiver,Lane Frost IV,LANEFROST
+59,5892,TIJ,championship,WR,Wide Receiver,Nick Kirkland,chaserck
+59,6005,TIJ,championship,WR,Wide Receiver,King Love,Tooswavy420
+59,5829,TIJ,championship,WR,Wide Receiver,Titus Tortuga,DigDoug11
+59,5998,TIJ,championship,CB,Cornerback,Fireball Jones,InspectorDabbit
+59,5981,TIJ,championship,LB,Safety,Florian Bauer,Fire
+59,5827,TIJ,championship,LB,Linebacker,MJ Football,DixieGnormus
+59,6013,TIJ,championship,LB,Linebacker,Brandon Starks,GravynCarrots
+59,5891,TIJ,championship,LB,Linebacker,Konto Stelios,BoogShlazetti
+59,5830,TIJ,championship,DE,Defensive End,Sir Sacksalot,rytin6543
+59,5978,TIJ,championship,SS,Safety,Grayson Kelly,GrayGrayK
+59,5880,TIJ,championship,SS,Tight End,Hardbody Mayhem,MaxSuperset
+59,5979,TIJ,championship,SS,Safety,Grant Price,snowbao
+59,6001,TIJ,championship,K,Offensive Lineman,Kickolas Cage,TenpointBuc
 59,5844,NOR,DPerOTY,LB,Cornerback,Harlan Andrews,abh89
 59,5623,NOLA,DPerOTY,S,Safety,Worf Moghson,Mongoose87
 59,5887,LON,DPOTY,LB,Linebacker,Brian Eshleman,Brianesh73
@@ -11442,7 +11602,7 @@ season,pid,team,type,award_position,player_position,name,username
 59,5353,NYS,Pro Bowl,OLB,Linebacker,Abstract Geometry,Murtsi
 59,5347,AZ,Pro Bowl,ILB,Linebacker,john scamps,scamps
 59,5668,OCO,Pro Bowl,ILB,Linebacker,Colonel Panic,Vulfzilla
-59,5684,AUS,Pro Bowl,CB,Cornerback,Silas Santana,Frostbite
+59,5684,AUS,Pro Bowl,CB,Safety,Silas Santana,Frostbite
 59,5513,NOLA,Pro Bowl,CB,Safety,LMoney Pickarelli,Tmoney6996
 59,5405,SJS,Pro Bowl,CB,Cornerback,Demar Harris,Breeze837
 59,5623,NOLA,Pro Bowl,S,Safety,Worf Moghson,Mongoose87
@@ -11649,7 +11809,7 @@ season,pid,team,type,award_position,player_position,name,username
 60,5510,SAR,All-Pro Second Team,CB,Cornerback,Zamir Kehla III,Thor
 60,5724,NYS,All-Pro Second Team,S,Safety,Theodore Espen,Bearen
 60,5406,OCO,All-Pro Second Team,S,Safety,Jerald Chuprig,dannuic
-60,5684,AUS,All-Pro Second Team,DB,Cornerback,Silas Santana,Frostbite
+60,5684,AUS,All-Pro Second Team,DB,Safety,Silas Santana,Frostbite
 60,5498,YKW,All-Pro Second Team,P,Kicker,Adam Vittori,Hawkeye
 60,5582,NYS,All-Pro Second Team,RET,Wide Receiver,Dash Jackson,Dash
 60,5200,OCO,championship,TE,Tight End,Deacon Blues,UptownCord
@@ -11675,6 +11835,39 @@ season,pid,team,type,award_position,player_position,name,username
 60,5677,OCO,championship,SS,Safety,Carlin Creakis,SmittyHextall
 60,5697,OCO,championship,QB,Quarterback,Drew McPewPewPew Jr,MMFLEX
 60,5837,OCO,championship,WR,Wide Receiver,Muddy Rivers,Muddym13
+60,5925,POR,championship,QB,Quarterback,Master Shake,AustinP0027
+60,5813,POR,championship,RB,Running Back,Marvin Bumgarner,BOS
+60,5977,POR,championship,RB,Defensive Tackle,Krokadilious Hut,krokshut
+60,6095,POR,championship,RB,Running Back,No Jackson,BagleTwembo
+60,6069,POR,championship,T,Offensive Lineman,Hehe Clinton-Wiener,jayblob11
+60,6033,POR,championship,T,Offensive Lineman,Changeling Mordecai,Asked Madden
+60,6078,POR,championship,TE,Tight End,Louw de Clercq,louw_declercq
+60,6086,POR,championship,TE,Tight End,Mister Fister,Candrew2nd
+60,5982,POR,championship,TE,Tight End,Nut Sack,fucknuts69
+60,6061,POR,championship,TE,Tight End,Jack Wynn,buckleup
+60,6047,POR,championship,WR,Safety,Rico Carbonara,lonestarr
+60,5867,POR,championship,WR,Wide Receiver,Krieg Mira,Krieg
+60,5929,POR,championship,WR,Wide Receiver,Geoff Peterson,CementHands
+60,6070,POR,championship,WR,Wide Receiver,Ace Son,Realmrter
+60,5928,POR,championship,WR,Wide Receiver,Isaac TeSlooth,slothfacekilla
+60,5853,POR,championship,CB,Safety,Oliver Closeoffe,Gallade081
+60,5922,POR,championship,CB,Cornerback,Newman Douglas,Grilledtwinkiez
+60,5889,POR,championship,CB,Cornerback,Benny Sanderson,Egglton
+60,5957,POR,championship,LB,Linebacker,Jimmy Fournier,JimdulifAA
+60,5950,POR,championship,LB,Defensive End,Willie Hitt,TheSparkyDee
+60,6006,POR,championship,LB,Defensive Tackle,Maxwell Silverhammer,Backer50
+60,6026,POR,championship,LB,Linebacker,Synth V,bold ni wally
+60,6011,POR,championship,LB,Linebacker,Invictus White,Complete_Golding
+60,6023,POR,championship,LB,Linebacker,Da'Coldest Williams,Southie
+60,5873,POR,championship,DT,Defensive Tackle,Bishop Rockman,u-s-u-r-p
+60,6107,POR,championship,DT,Defensive Tackle,Ardy Sexton,Cstewart
+60,6035,POR,championship,DT,Defensive Tackle,Marvin  The Paranoid Android,RobJG2
+60,6045,POR,championship,DE,Defensive End,Sean Bobby,TigerishFiber
+60,5995,POR,championship,DE,Defensive End,Anders Hones,Shinobi_24
+60,5994,POR,championship,DE,Defensive End,Procidiaa Johnson,Procidia
+60,6120,POR,championship,SS,Safety,Josh Harper,JCPro
+60,6088,POR,championship,K,Kicker,Gumdrop Ballbuster,By-Tor
+60,6015,POR,championship,K,Kicker,Timothy Lee,LimoTee
 60,5477,SAR,DPerOTY,LB,Linebacker,Multiliki Waialiki,JoeSteel
 60,5998,TIJ,DPerOTY,CB,Cornerback,Fireball Jones,InspectorDabbit
 60,5496,BFB,DPOTY,LB,Linebacker,Bryan Jones,itztimg
@@ -11717,7 +11910,7 @@ season,pid,team,type,award_position,player_position,name,username
 60,5347,AZ,Pro Bowl,ILB,Linebacker,john scamps,scamps
 60,5358,OCO,Pro Bowl,ILB,Defensive Tackle,Senior Seau,ComebackZak
 60,5400,HON,Pro Bowl,CB,Cornerback,Dixon Yamada,Dmac1200
-60,5684,AUS,Pro Bowl,CB,Cornerback,Silas Santana,Frostbite
+60,5684,AUS,Pro Bowl,CB,Safety,Silas Santana,Frostbite
 60,5533,OCO,Pro Bowl,CB,Cornerback,Drew LaChance,jreed12
 60,5724,NYS,Pro Bowl,S,Safety,Theodore Espen,Bearen
 60,5513,NOLA,Pro Bowl,S,Safety,LMoney Pickarelli,Tmoney6996
@@ -11959,6 +12152,36 @@ season,pid,team,type,award_position,player_position,name,username
 61,5779,BAL,championship,WR,Wide Receiver,joeronnymo bueno,joeronnymo
 61,5793,BAL,championship,FS,Safety,DJ Law II,Law
 61,5813,BAL,championship,RB,Running Back,Marvin Bumgarner,BOS
+61,5911,BBB,championship,QB,Quarterback,Caleb Ranger,Starboy
+61,6137,BBB,championship,RB,Running Back,Wendy Corduroy,Ultimatedestroye
+61,6141,BBB,championship,RB,Running Back,Gene Eiland III,1thatguy1
+61,6194,BBB,championship,RB,Running Back,Carl Hanratty,TomHanks
+61,6022,BBB,championship,RB,Running Back,Michelan Shello,LtHudz
+61,6122,BBB,championship,T,Offensive Lineman,Lil Tommy Dollars,Tmoney6996
+61,6146,BBB,championship,T,Offensive Lineman,John Finnique,fm3509
+61,6109,BBB,championship,T,Offensive Lineman,Deacon Graves,RecoilIt
+61,6183,BBB,championship,T,Offensive Lineman,Dashiell Horse,Spee996
+61,6032,BBB,championship,T,Offensive Lineman,Swantavius Steel,Swanty
+61,6163,BBB,championship,TE,Tight End,Aj Johnstone,Johnstone68
+61,6083,BBB,championship,TE,Tight End,Ahpik Sauzes,epiclac
+61,5948,BBB,championship,WR,Wide Receiver,Shayne Bottom,ThisSeemsFishy
+61,5898,BBB,championship,WR,Wide Receiver,Candice Flyn,BelieveAy
+61,6060,BBB,championship,WR,Wide Receiver,Joby Mattheux,MellahYellah
+61,5856,BBB,championship,CB,Cornerback,Davey Andrews,Lubotty
+61,5942,BBB,championship,CB,Cornerback,Izaak Athens,STZ
+61,5943,BBB,championship,CB,Cornerback,Reggie Bau,GlimsTC
+61,5973,BBB,championship,LB,Tight End,Slider Glovington III,chicey
+61,6037,BBB,championship,LB,Linebacker,Squid Ink,TwoSocks
+61,6004,BBB,championship,LB,Offensive Lineman,Awesome McCool,alomo
+61,5972,BBB,championship,LB,Linebacker,Glover Slidington,GedgeBrah
+61,6118,BBB,championship,DT,Defensive Tackle,Will Vincefork,Rylakn
+61,5828,BBB,championship,DE,Defensive End,Chubby Chuddy,Godhead
+61,6076,BBB,championship,DE,Linebacker,Demo L'ition,lordvita
+61,6147,BBB,championship,DE,Defensive End,Jake Whelan,YetiTaz
+61,6010,BBB,championship,SS,Safety,Diggy Fresh,MrDiggySmalls
+61,5944,BBB,championship,SS,Safety,Elijah Knock,nasbase
+61,5986,BBB,championship,SS,Safety,Aurelius Thomas,Nave1080
+61,5877,BBB,championship,K,Kicker,Bo Tteur,ItsFrenchie
 61,5889,POR,DPerOTY,CB,Cornerback,Benny Sanderson,Egglton
 61,5629,BAL,DPerOTY,CB,Cornerback,Conner Beck,ColonelSaunders
 61,6096,NOR,DPOTY,LB,Linebacker,Alejandro Rodriguez,JonWane12
@@ -12002,7 +12225,7 @@ season,pid,team,type,award_position,player_position,name,username
 61,5656,OCO,Pro Bowl,ILB,Defensive Tackle,Kilian Liam,ToastCharger
 61,5989,SJS,Pro Bowl,ILB,Linebacker,Ryan Wolf,wolfmn8989
 61,5755,AZ,Pro Bowl,CB,Cornerback,Gods Comma,Bamford13
-61,5684,AUS,Pro Bowl,CB,Cornerback,Silas Santana,Frostbite
+61,5684,AUS,Pro Bowl,CB,Safety,Silas Santana,Frostbite
 61,5675,HON,Pro Bowl,CB,Cornerback,Wyntir Creakis,soevil
 61,5725,HON,Pro Bowl,S,Safety,Devon Lynch,Vumion
 61,5623,NOLA,Pro Bowl,S,Safety,Worf Moghson,Mongoose87
@@ -12211,6 +12434,47 @@ season,pid,team,type,award_position,player_position,name,username
 62,5332,BAL,All-Pro Second Team,K,Kicker,Roy Rivers,RoyRivers
 62,5876,OSK,All-Pro Second Team,P,Kicker,Sexy Poodle,OrbitingDeath
 62,5852,SJS,All-Pro Second Team,RET,Wide Receiver,K. Yobagoya MacArthur,BRNXB0MBERS
+62,6234,KCC,championship,Tight End,Tight End,Austin Evermore,Anty
+62,6028,KCC,championship,Quarterback,Quarterback,Bettercall Quasar,Triceracop
+62,6087,KCC,championship,Cornerback,Cornerback,Billy Dimeballz,Mr. Soup
+62,6194,KCC,championship,Running Back,Running Back,Carl Hanratty,TomHanks
+62,6201,KCC,championship,Wide Receiver,Wide Receiver,Carter Catchings,Packattack
+62,6040,KCC,championship,Defensive Tackle,Defensive Tackle,Dylan Munoz,Dylanpausin
+62,6252,KCC,championship,Safety,Linebacker,JJ When,JJ5
+62,6131,KCC,championship,Wide Receiver,Wide Receiver,Jalen Odunze,Rindiee
+62,6176,KCC,championship,Safety,Safety,Jay Deen,BarebackAlpaca
+62,5954,KCC,championship,Defensive Tackle,Offensive Lineman,Mr. Frog,SonOfCar
+62,6092,KCC,championship,Running Back,Running Back,Pretty Mofo,slumped64
+62,6193,KCC,championship,Wide Receiver,Wide Receiver,Robin D. Blinde,o1playz
+62,6112,KCC,championship,Linebacker,Linebacker,Samuel Frost,Vewdew
+62,6220,KCC,championship,Cornerback,Cornerback,Socks Maybe,SocksMaybe
+62,6227,KCC,championship,Linebacker,Linebacker,Tall Green,Reno
+62,6245,KCC,championship,Safety,Safety,Thomas Sankara,JoeSteel
+62,6175,KCC,championship,Linebacker,Defensive End,Travon Austin,Darkangel2021!
+62,6044,KCC,championship,Tight End,Tight End,Ugarth son of Ugarth,frithjofr
+62,6150,KCC,championship,Kicker,Offensive Lineman,Who’s on First,McGriddy10
+62,5332,BAL,championship,K,Kicker,Roy Rivers,RoyRivers
+62,5448,BAL,championship,RB,Running Back,GM Mellott,GuitarMaster116
+62,5455,BAL,championship,LB,Linebacker,Tyron Brackenridge III,Lowlycrib
+62,5526,BAL,championship,LB,Linebacker,Charlie Kelly,Tylertokesome04
+62,5566,BAL,championship,WR,Wide Receiver,Wolfie McDummy III,infinitempg
+62,5574,BAL,championship,RB,Running Back,Dino Nuggets Jr.,swoosh
+62,5605,BAL,championship,CB,Cornerback,Alex Baudelaire,uhnp
+62,5624,BAL,championship,T,Offensive Lineman,Gumbo Trashman,CR225
+62,5629,BAL,championship,CB,Cornerback,Conner Beck,ColonelSaunders
+62,5651,BAL,championship,T,Offensive Lineman,Mr. Tickles,notorioustig
+62,5668,BAL,championship,LB,Linebacker,Colonel Panic,Vulfzilla
+62,5681,BAL,championship,WR,Wide Receiver,Alexandros Mograine,sliceruser
+62,5696,BAL,championship,T,Offensive Lineman,Canada Goose,r0tzbua
+62,5757,BAL,championship,DT,Defensive Tackle,Ben Savea,Ben
+62,5763,BAL,championship,QB,Quarterback,Purdy 'PP' Penix,Bazooka_Joe
+62,5793,BAL,championship,FS,Safety,DJ Law II,Law
+62,5813,BAL,championship,RB,Running Back,Marvin Bumgarner,BOS
+62,5856,BAL,championship,CB,Cornerback,Davey Andrews,Lubotty
+62,5996,BAL,championship,DT,Defensive Tackle,Peter Griffin,ocho
+62,6004,BAL,championship,T,Offensive Lineman,Awesome McCool,alomo
+62,6023,BAL,championship,LB,Linebacker,Da'Coldest Williams,Southie
+62,6031,BAL,championship,FS,Safety,Pokemon Gotothepolls,Aleris
 62,6168,TIJ,DPerOTY,LB,Linebacker,Marco Fischer,Mattyba
 62,5805,CTC,DPerOTY,S,Cornerback,Earl Grey,lordcoolcats
 62,6016,NOR,DPOTY,LB,Linebacker,King Von,saitoman
@@ -12260,7 +12524,7 @@ season,pid,team,type,award_position,player_position,name,username
 62,5742,NOLA,Pro Bowl,OLB,Linebacker,Adam Plays,AdamEPlays
 62,5811,NYS,Pro Bowl,ILB,Linebacker,Cleon Riley,Gage2
 62,5860,NOLA,Pro Bowl,ILB,Linebacker,Buster Forceps,Lpapi
-62,5684,AUS,Pro Bowl,CB,Cornerback,Silas Santana,Frostbite
+62,5684,AUS,Pro Bowl,CB,Safety,Silas Santana,Frostbite
 62,5755,AZ,Pro Bowl,CB,Cornerback,Gods Comma,Bamford13
 62,5406,OCO,Pro Bowl,CB,Safety,Jerald Chuprig,dannuic
 62,5926,SJS,Pro Bowl,S,Safety,Darian Blackfyre,ThunderTitan82
@@ -12312,7 +12576,7 @@ season,pid,team,type,award_position,player_position,name,username
 62,6130,POR,Pro Bowl,RB,Running Back,Goon Summers,MrKrumz
 62,6132,POR,Pro Bowl,WR,Wide Receiver,Willeh Handsy,wetwilleh
 62,6131,KCC,Pro Bowl,WR,Wide Receiver,Jalen Odunze,Rindiee
-62,5959,MIN,Pro Bowl,WR,Wide Receiver,Greg Buse,GBuse24
+62,5959,MIN,Pro Bowl,WR,Offensive Lineman,Greg Buse,GBuse24
 62,6221,MIN,Pro Bowl,WR,Wide Receiver,Tanji Katsumi,Windzer
 62,6044,KCC,Pro Bowl,TE,Tight End,Ugarth son of Ugarth,frithjofr
 62,6030,MIN,Pro Bowl,T,Offensive Lineman,Colby Lopez,TheNC206
@@ -12320,7 +12584,7 @@ season,pid,team,type,award_position,player_position,name,username
 62,6208,POR,Pro Bowl,T,Offensive Lineman,Christopher Biscuits,nckkss
 62,6148,MIN,Pro Bowl,DE,Defensive End,Mike Honcho,Frantik
 62,5977,POR,Pro Bowl,DT,Defensive Tackle,Krokadilious Hut,krokshut
-62,5954,KCC,Pro Bowl,DT,Defensive Tackle,Mr. Frog,SonOfCar
+62,5954,KCC,Pro Bowl,DT,Offensive Lineman,Mr. Frog,SonOfCar
 62,6050,MIN,Pro Bowl,OLB,Linebacker,Bubba Flex,nathanielbuce
 62,6124,LON,Pro Bowl,OLB,Linebacker,Bruiser Alstott,GoodhandswithAlstott
 62,6157,MIN,Pro Bowl,ILB,Linebacker,Jimmy Voorhees,Jabacon420
@@ -12452,10 +12716,10 @@ season,pid,team,type,award_position,player_position,name,username
 63,5670,NOLA,Pro Bowl,OLB,Linebacker,Tex Richards,ZootTX
 63,5799,SJS,Pro Bowl,OLB,Linebacker,Brock Lesnar,JakeTE10
 63,5989,SJS,Pro Bowl,ILB,Linebacker,Ryan Wolf,wolfmn8989
-63,5508,HON,Pro Bowl,ILB,Linebacker,Laramie Rose,oilmandan
+63,5508,HON,Pro Bowl,ILB,Kicker,Laramie Rose,oilmandan
 63,5769,NOLA,Pro Bowl,CB,Cornerback,. Torchwood,thewhovian
 63,5933,SJS,Pro Bowl,CB,Cornerback,Pickle Rick,KaleSalad
-63,5684,AUS,Pro Bowl,CB,Cornerback,Silas Santana,Frostbite
+63,5684,AUS,Pro Bowl,CB,Safety,Silas Santana,Frostbite
 63,5725,HON,Pro Bowl,S,Safety,Devon Lynch,Vumion
 63,5623,NOLA,Pro Bowl,S,Safety,Worf Moghson,Mongoose87
 63,5926,SJS,Pro Bowl,S,Safety,Darian Blackfyre,ThunderTitan82

@@ -3175,7 +3175,7 @@ season,round,pick,overall,pid,original_team,owning_team,name,position,username
 54,1,3,3,5512,OSK,OSK,Max Payne,Defensive Tackle,Nol15736
 54,1,4,4,5524,SJS,OSK,Reno Vega,Cornerback,Zag
 54,1,5,5,5515,OCO,HON,Griffin Stone,Wide Receiver,Griff
-54,1,6,6,5508,HON,HON,Laramie Rose,Linebacker,oilmandan
+54,1,6,6,5508,HON,HON,Laramie Rose,Kicker,oilmandan
 54,1,7,7,5510,SAR,SAR,Zamir Kehla III,Cornerback,Thor
 54,1,8,8,5494,YKW,NYS,Artemis Claire Ozolina,Running Back,Seany148
 54,1,9,9,5497,NYS,YKW,Hawk DeBeau,Running Back,Casey
@@ -3201,7 +3201,7 @@ season,round,pick,overall,pid,original_team,owning_team,name,position,username
 54,2,29,29,5493,BFB,BFB,Videl Valor,Wide Receiver,ValorX77
 54,3,30,30,5551,BFB,BFB,Wesley Orion,Offensive Lineman,CLG Rampage
 54,3,31,31,5536,CTC,CTC,Bean Beanman IV,Wide Receiver,Seymour
-54,3,32,32,5509,OSK,AZ,Vlad The Inhaler,Linebacker,bernardhibou
+54,3,32,32,5509,OSK,AZ,Vlad The Inhaler,Offensive Lineman,bernardhibou
 54,3,33,33,5547,SJS,SJS,Wallace Big,Offensive Lineman,Reno
 54,3,34,34,5544,OCO,AZ,Minkah Polamalu,Safety,mirrorlake_cultivator
 54,3,35,35,5535,HON,SAR,Cameron Frier,Defensive End,Zac2211
@@ -3329,7 +3329,7 @@ season,round,pick,overall,pid,original_team,owning_team,name,position,username
 56,1,3,3,5722,BFB,BFB,Vince Morrigan,Running Back,Degradation
 56,1,4,4,5716,NOLA,COL,Steve Dave,Cornerback,bobtrek
 56,1,5,5,5721,COL,NOLA,Turd Ferguson,Defensive Tackle,Turd Ferguson
-56,1,6,6,5684,AUS,AUS,Silas Santana,Cornerback,Frostbite
+56,1,6,6,5684,AUS,AUS,Silas Santana,Safety,Frostbite
 56,1,7,7,5667,SAR,SAR,Daud Ramza,Safety,Blasoon
 56,1,8,8,5699,SJS,COL,Mercedes Lambrogini,Defensive Tackle,gracieblais
 56,1,9,9,5724,NYS,NYS,Theodore Espen,Safety,Bearen
@@ -3565,7 +3565,7 @@ season,round,pick,overall,pid,original_team,owning_team,name,position,username
 60,3,35,35,6010,OCO,SJS,Diggy Fresh,Safety,MrDiggySmalls
 60,3,36,36,5946,YKW,YKW,Matthew Mady,Wide Receiver,Buttersqauch101
 60,3,37,37,5921,NOLA,NOLA,Gold ship,Cornerback,LiathTheSquirrel
-60,3,38,38,5954,COL,COL,Mr. Frog,Defensive Tackle,SonOfCar
+60,3,38,38,5954,COL,COL,Mr. Frog,Offensive Lineman,SonOfCar
 60,3,39,39,5951,AUS,AUS,Crusher Casket,Linebacker,wildcatbandit
 60,3,40,40,5941,SAR,SAR,Bleebs Blunkinchuns,Safety,jacobcarson877
 60,3,41,41,5948,BAL,YKW,Shayne Bottom,Wide Receiver,ThisSeemsFishy
@@ -3589,7 +3589,7 @@ season,round,pick,overall,pid,original_team,owning_team,name,position,username
 60,5,59,59,5955,SJS,SJS,Mike Smitty,Offensive Lineman,sparks
 60,5,60,60,5990,BFB,BFB,Art Vandelay,Safety,Art Vandelay
 60,5,61,61,5956,NYS,NYS,Darius Rene,Defensive End,Lefty
-60,5,62,62,5959,OSK,OSK,Greg Buse,Wide Receiver,GBuse24
+60,5,62,62,5959,OSK,OSK,Greg Buse,Offensive Lineman,GBuse24
 60,5,63,63,5998,HON,AZ,Fireball Jones,Cornerback,InspectorDabbit
 60,5,64,64,6003,OCO,OCO,Tofa Niutupuivaha,Offensive Lineman,ebang
 60,5,65,65,6015,YKW,YKW,Timothy Lee,Kicker,LimoTee
@@ -3657,7 +3657,7 @@ season,round,pick,overall,pid,original_team,owning_team,name,position,username
 61,3,40,40,6088,BFB,NOLA,Gumdrop Ballbuster,Kicker,By-Tor
 61,3,41,41,6117,BAL,NYS,Desi Cotton,Running Back,ThatMobi
 61,3,42,42,6106,OCO,OCO,Jeremiah James,Safety,dbdahmir
-61,3,43,43,6049,OCO,OCO,Crazy Tomato III,Linebacker,Crazytomato
+61,3,43,43,6049,OCO,OCO,Crazy Tomato III,Offensive Lineman,Crazytomato
 61,4,44,44,6050,CTC,CTC,Bubba Flex,Linebacker,nathanielbuce
 61,4,45,45,6081,SJS,SJS,Meat Wad,Offensive Lineman,Tubbles
 61,4,46,46,6092,NOLA,NOLA,Pretty Mofo,Running Back,slumped64
@@ -3711,7 +3711,7 @@ season,round,pick,overall,pid,original_team,owning_team,name,position,username
 62,2,21,21,6122,OSK,NOLA,Lil Tommy Dollars,Offensive Lineman,Tmoney6996
 62,2,22,22,6151,SAR,SAR,Torque McGork,Linebacker,Mode
 62,2,23,23,6143,AZ,SJS,Booter McKickerson,Offensive Lineman,Eric Belmont
-62,2,24,24,6123,COL,COL,Hyper Sonic,Running Back,sonicxdoom
+62,2,24,24,6123,COL,COL,Hyper Sonic,Linebacker,sonicxdoom
 62,2,25,25,6168,HON,OCO,Marco Fischer,Linebacker,Mattyba
 62,2,26,26,6171,BFB,BFB,Rollin Stone,Defensive End,IR15H0000000000
 62,2,27,27,6128,OCO,AZ,Cross Summers,Quarterback,lunaripcole
@@ -3743,11 +3743,11 @@ season,round,pick,overall,pid,original_team,owning_team,name,position,username
 63,1,3,3,6215,AUS,BFB,Colt Louis,Linebacker,baz
 63,1,4,4,6191,NOLA,NOLA,Bjørn Tooblock,Offensive Lineman,CamGoldenGun
 63,1,5,5,6220,CTC,NYS,Socks Maybe,Cornerback,SocksMaybe
-63,1,6,6,6186,SAR,SAR,Billy McGlynn,Running Back,Definia
+63,1,6,6,6186,SAR,SAR,Billy McGlynn,Wide Receiver,Definia
 63,1,7,7,6211,AUS,AUS,Chico Churro,Wide Receiver,JKortesi81
 63,1,8,8,6194,SAR,SAR,Carl Hanratty,Running Back,TomHanks
 63,1,9,9,6208,OSK,OSK,Christopher Biscuits,Offensive Lineman,nckkss
-63,1,10,10,6224,NYS,CTC,E. Muff Montblanc,Tight End,Ephenssta
+63,1,10,10,6224,NYS,CTC,E. Muff Montblanc,Linebacker,Ephenssta
 63,1,11,11,6195,COL,COL,Vercingetorix Jones,Running Back,UptownCord
 63,1,12,12,6189,NOLA,NOLA,Stump Chuggins,Offensive Lineman,toofpete
 63,1,13,13,6213,COL,COL,Barry Allen,Cornerback,Light

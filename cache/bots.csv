@@ -1,5 +1,5 @@
 season,bot_id,team,dsfl_team,league,tier,position,archetype,status,name
-57,478,AUS,,ISFL,4,Offensive Lineman,Mauler,Active,Mauler Murphy
+56,298,AUS,,ISFL,4,Offensive Lineman,Balanced Lineman,Active,Meguru Bumchira
 57,335,BFB,,ISFL,4,Offensive Lineman,Mauler,Active,Brock Woll
 60,594,,LON,DSFL,50,Safety,Ball Hawk - B,Active,Buzz Windsor
 60,593,,LON,DSFL,50,Defensive Tackle,Nose Tackle - A,Active,Gnome Tackle
@@ -13,9 +13,6 @@ season,bot_id,team,dsfl_team,league,tier,position,archetype,status,name
 62,728,,DAL,DSFL,51,Offensive Lineman,Mauler,Active,Stripe Heeler
 62,727,,DAL,DSFL,51,Offensive Lineman,Mauler,Active,Bandit Heeler
 62,726,,DAL,DSFL,51,Offensive Lineman,Athletic Lineman,Active,Bingo Heeler
-62,697,,TIJ,DSFL,50,Defensive Tackle,Nose Tackle - A,Active,MARUCHAN ROAST BEEF
-62,693,,TIJ,DSFL,50,Defensive End,Power Rusher A,Active,MARUCHAN CHILI
-62,687,,TIJ,DSFL,100,Offensive Lineman,Mauler,Active,MARUCHAN BEEF
 62,681,,POR,DSFL,100,Linebacker,Coverage LB,Active,Maxwell Da'Synthest V
 63,811,,POR,DSFL,50,Linebacker,Coverage - B,Active,Backing The Line
 63,810,,DAL,DSFL,50,Defensive Tackle,Interior Rusher B,Active,Smaller  Edd
@@ -57,13 +54,11 @@ season,bot_id,team,dsfl_team,league,tier,position,archetype,status,name
 63,770,,NOR,DSFL,100,Defensive Tackle,Interior Rusher,Active,Kermit The Fatguy
 63,769,,LON,DSFL,100,Offensive Lineman,Mauler,Active,The Wall
 63,768,,TIJ,DSFL,100,Offensive Lineman,Mauler,Active,Maruchan Chicken
-63,767,,MIN,DSFL,51,Offensive Lineman,Mauler,Active,Dire Duck
-63,766,,MIN,DSFL,51,Offensive Lineman,Mauler,Active,Griffin Duck
-63,765,,MIN,DSFL,50,Defensive Tackle,Interior Rusher B,Active,Mother Reed
-63,764,,MIN,DSFL,100,Linebacker,Versatile LB,Active,Suzuki Eagle
-63,763,,MIN,DSFL,100,Offensive Lineman,Athletic Lineman,Active,Hyper Tails
-63,762,,MIN,DSFL,100,Offensive Lineman,Athletic Lineman,Active,Punished Ducks
-63,761,,MIN,DSFL,100,Offensive Lineman,Athletic Lineman,Active,BetThe HonchoOver
 63,760,BFB,,ISFL,2,Offensive Lineman,Mauler,Active,Jelly Roll
 63,759,BFB,,ISFL,2,Offensive Lineman,Mauler,Active,Tulsa King
+64,818,,TIJ,DSFL,100,Defensive Tackle,All-Purpose DT,Active,Maruchan Shrimp
+64,817,,TIJ,DSFL,51,Offensive Lineman,Mauler,Active,Maruchan Chili
+64,816,,TIJ,DSFL,51,Offensive Lineman,Mauler,Active,Maruchan Beef
+64,815,HON,,ISFL,2,Offensive Lineman,Mauler,Active,Manta Claus Jr.
 64,814,AZ,,ISFL,3,Offensive Lineman,Mauler,Active,Pew Pew
+64,813,NYS,,ISFL,4,Offensive Lineman,Athletic Lineman,Active,Rhino Gorilla
