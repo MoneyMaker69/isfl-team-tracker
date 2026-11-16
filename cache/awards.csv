@@ -12194,7 +12194,7 @@ season,pid,team,type,award_position,player_position,name,username
 61,5751,SAR,KPOTY,K,Kicker,John Borieo,johnlindbe11
 61,6104,TIJ,MVP,WR,Wide Receiver,Dante Von Wolfe,Bloodless
 61,5576,OSK,MVP,RB,Running Back,Kim Minjeong,lemonoppy
-61,6152,NOR,OPerOTY,RB,Running Back,Hrafn Óðinsson,Raven
+61,6152,NOR,OPerOTY,RB,Linebacker,Hrafn Óðinsson,Raven
 61,5576,OSK,OPerOTY,RB,Running Back,Kim Minjeong,lemonoppy
 61,6124,LON,OPOTY,RB,Linebacker,Bruiser Alstott,GoodhandswithAlstott
 61,5514,NYS,OPOTY,QB,Quarterback,Trevor Simian,Daniel
@@ -12273,12 +12273,12 @@ season,pid,team,type,award_position,player_position,name,username
 61,6128,POR,Pro Bowl,QB,Quarterback,Cross Summers,lunaripcole
 61,6055,MIN,Pro Bowl,RB,Tight End,Jayne Cobb,gsharp
 61,6124,LON,Pro Bowl,RB,Linebacker,Bruiser Alstott,GoodhandswithAlstott
-61,6092,KCC,Pro Bowl,RB,Running Back,Pretty Mofo,slumped64
+61,6092,KCC,Pro Bowl,RB,Linebacker,Pretty Mofo,slumped64
 61,5967,MIN,Pro Bowl,WR,Wide Receiver,Bubba Gump,PidgeyDestined
 61,6132,POR,Pro Bowl,WR,Wide Receiver,Willeh Handsy,wetwilleh
 61,6129,LON,Pro Bowl,WR,Running Back,Harold Carmichael,kdr
 61,5924,MIN,Pro Bowl,WR,Defensive Tackle,Fletcher Claflin,Greenbaynathan
-61,6044,KCC,Pro Bowl,TE,Tight End,Ugarth son of Ugarth,frithjofr
+61,6044,KCC,Pro Bowl,TE,Defensive End,Ugarth son of Ugarth,frithjofr
 61,6159,POR,Pro Bowl,TE,Tight End,King Gonçalves,silpheed
 61,5961,MIN,Pro Bowl,T,Offensive Lineman,Turndown Service,Blckbbyjesus
 61,5968,LON,Pro Bowl,T,Offensive Lineman,Bill Sandwich,Dosman
@@ -12303,7 +12303,7 @@ season,pid,team,type,award_position,player_position,name,username
 61,6047,POR,Pro Bowl,ST,Safety,Rico Carbonara,lonestarr
 61,5921,TIJ,Pro Bowl,QB,Cornerback,Gold ship,LiathTheSquirrel
 61,6038,NOR,Pro Bowl,QB,Wide Receiver,Tyler Oles 4,Oles
-61,6152,NOR,Pro Bowl,RB,Running Back,Hrafn Óðinsson,Raven
+61,6152,NOR,Pro Bowl,RB,Linebacker,Hrafn Óðinsson,Raven
 61,6022,BBB,Pro Bowl,RB,Running Back,Michelan Shello,LtHudz
 61,6039,DAL,Pro Bowl,RB,Wide Receiver,Nightmare Polimilk,UberBJ
 61,6117,TIJ,Pro Bowl,FB,Running Back,Desi Cotton,ThatMobi
@@ -12383,13 +12383,13 @@ season,pid,team,type,award_position,player_position,name,username
 62,5606,COL,All-Pro First Team,RET,Wide Receiver,Rod Kimble,gucci
 62,6020,MINN,All-Pro First Team,QB,Wide Receiver,Duquan Feldman,speculadora
 62,6137,BBB,All-Pro First Team,RB,Running Back,Wendy Corduroy,Ultimatedestroye
-62,6195,NOR,All-Pro First Team,RB,Running Back,Vercingetorix Jones,UptownCord
+62,6195,NOR,All-Pro First Team,RB,Quarterback,Vercingetorix Jones,UptownCord
 62,6117,TIJ,All-Pro First Team,FB,Running Back,Desi Cotton,ThatMobi
 62,6132,POR,All-Pro First Team,WR,Wide Receiver,Willeh Handsy,wetwilleh
 62,6131,KCC,All-Pro First Team,WR,Wide Receiver,Jalen Odunze,Rindiee
 62,6060,BBB,All-Pro First Team,WR,Wide Receiver,Joby Mattheux,MellahYellah
 62,6133,DAL,All-Pro First Team,TE,Wide Receiver,Tight End Eighty-Two Jr,Kyamprac
-62,6044,KCC,All-Pro First Team,TE,Tight End,Ugarth son of Ugarth,frithjofr
+62,6044,KCC,All-Pro First Team,TE,Defensive End,Ugarth son of Ugarth,frithjofr
 62,6191,NOR,All-Pro First Team,IOL,Offensive Lineman,Bjørn Tooblock,CamGoldenGun
 62,6081,NOR,All-Pro First Team,T,Offensive Lineman,Meat Wad,Tubbles
 62,6030,MINN,All-Pro First Team,T,Offensive Lineman,Colby Lopez,TheNC206
@@ -12444,14 +12444,14 @@ season,pid,team,type,award_position,player_position,name,username
 62,6131,KCC,championship,Wide Receiver,Wide Receiver,Jalen Odunze,Rindiee
 62,6176,KCC,championship,Safety,Safety,Jay Deen,BarebackAlpaca
 62,5954,KCC,championship,Defensive Tackle,Offensive Lineman,Mr. Frog,SonOfCar
-62,6092,KCC,championship,Running Back,Running Back,Pretty Mofo,slumped64
+62,6092,KCC,championship,Running Back,Linebacker,Pretty Mofo,slumped64
 62,6193,KCC,championship,Wide Receiver,Wide Receiver,Robin D. Blinde,o1playz
 62,6112,KCC,championship,Linebacker,Linebacker,Samuel Frost,Vewdew
 62,6220,KCC,championship,Cornerback,Cornerback,Socks Maybe,SocksMaybe
 62,6227,KCC,championship,Linebacker,Linebacker,Tall Green,Reno
 62,6245,KCC,championship,Safety,Safety,Thomas Sankara,JoeSteel
 62,6175,KCC,championship,Linebacker,Defensive End,Travon Austin,Darkangel2021!
-62,6044,KCC,championship,Tight End,Tight End,Ugarth son of Ugarth,frithjofr
+62,6044,KCC,championship,Tight End,Defensive End,Ugarth son of Ugarth,frithjofr
 62,6150,KCC,championship,Kicker,Offensive Lineman,Who’s on First,McGriddy10
 62,5332,BAL,championship,K,Kicker,Roy Rivers,RoyRivers
 62,5448,BAL,championship,RB,Running Back,GM Mellott,GuitarMaster116
@@ -12497,7 +12497,7 @@ season,pid,team,type,award_position,player_position,name,username
 62,5522,OSK,OPerOTY,QB,Quarterback,Forcing ToOsaka,Muford
 62,6137,BBB,OPOTY,RB,Running Back,Wendy Corduroy,Ultimatedestroye
 62,5773,HON,OPOTY,QB,Quarterback,Vlad Wolf,Brad Woof
-62,6195,LON,OROTY,RB,Running Back,Vercingetorix Jones,UptownCord
+62,6195,LON,OROTY,RB,Quarterback,Vercingetorix Jones,UptownCord
 62,5967,CTC,OROTY,WR,Wide Receiver,Bubba Gump,PidgeyDestined
 62,5773,HON,Pro Bowl,QB,Quarterback,Vlad Wolf,Brad Woof
 62,5952,AUS,Pro Bowl,QB,Quarterback,Sage Rosencopter,Lumosityfan
@@ -12572,13 +12572,13 @@ season,pid,team,type,award_position,player_position,name,username
 62,6020,MIN,Pro Bowl,QB,Wide Receiver,Duquan Feldman,speculadora
 62,6128,POR,Pro Bowl,QB,Quarterback,Cross Summers,lunaripcole
 62,6055,MIN,Pro Bowl,RB,Tight End,Jayne Cobb,gsharp
-62,6195,LON,Pro Bowl,RB,Running Back,Vercingetorix Jones,UptownCord
+62,6195,LON,Pro Bowl,RB,Quarterback,Vercingetorix Jones,UptownCord
 62,6130,POR,Pro Bowl,RB,Running Back,Goon Summers,MrKrumz
 62,6132,POR,Pro Bowl,WR,Wide Receiver,Willeh Handsy,wetwilleh
 62,6131,KCC,Pro Bowl,WR,Wide Receiver,Jalen Odunze,Rindiee
 62,5959,MIN,Pro Bowl,WR,Offensive Lineman,Greg Buse,GBuse24
 62,6221,MIN,Pro Bowl,WR,Wide Receiver,Tanji Katsumi,Windzer
-62,6044,KCC,Pro Bowl,TE,Tight End,Ugarth son of Ugarth,frithjofr
+62,6044,KCC,Pro Bowl,TE,Defensive End,Ugarth son of Ugarth,frithjofr
 62,6030,MIN,Pro Bowl,T,Offensive Lineman,Colby Lopez,TheNC206
 62,5947,LON,Pro Bowl,T,Offensive Lineman,Richard Patterson,bjkman
 62,6208,POR,Pro Bowl,T,Offensive Lineman,Christopher Biscuits,nckkss
@@ -12598,7 +12598,7 @@ season,pid,team,type,award_position,player_position,name,username
 62,6212,MIN,Pro Bowl,K,Kicker,Ethereal Platinum,PlatinumsGalaxy
 62,6150,KCC,Pro Bowl,P,Offensive Lineman,Who’s on First,McGriddy10
 62,6131,KCC,Pro Bowl,ST,Wide Receiver,Jalen Odunze,Rindiee
-62,6195,LON,Pro Bowl,ST,Running Back,Vercingetorix Jones,UptownCord
+62,6195,LON,Pro Bowl,ST,Quarterback,Vercingetorix Jones,UptownCord
 62,6142,DAL,Pro Bowl,QB,Quarterback,Payaton Manning,ManningTypeAim
 62,6199,TIJ,Pro Bowl,QB,Quarterback,How Ma,Jaywe88
 62,6103,TIJ,Pro Bowl,RB,Running Back,Treyvon Reddick,JET12TEX
@@ -12628,12 +12628,106 @@ season,pid,team,type,award_position,player_position,name,username
 62,6001,TIJ,Pro Bowl,K,Offensive Lineman,Kickolas Cage,TenpointBuc
 62,6001,TIJ,Pro Bowl,P,Offensive Lineman,Kickolas Cage,TenpointBuc
 62,6213,NOR,Pro Bowl,ST,Cornerback,Barry Allen,Light
-62,6152,NOR,Pro Bowl,ST,Running Back,Hrafn Óðinsson,Raven
+62,6152,NOR,Pro Bowl,ST,Linebacker,Hrafn Óðinsson,Raven
 62,5606,COL,RetOTY,WR,Wide Receiver,Rod Kimble,gucci
 62,6212,MIN,STOTY,K,Kicker,Ethereal Platinum,PlatinumsGalaxy
 63,5754,OSK,1600 Club,OL,Offensive Lineman,King Ghidorah,firstfray
 63,5756,YKW,1600 Club,QB,Quarterback,- GEQBUS,TubaDeus
 63,5763,BAL,1600 Club,QB,Quarterback,Purdy 'PP' Penix,Bazooka_Joe
+63,6036,NYS,All Rookie,QB,Quarterback,Tony Delvecchio,DocLars
+63,6137,OCO,All Rookie,RB,Running Back,Wendy Corduroy,Ultimatedestroye
+63,6038,OSK,All Rookie,TE,Wide Receiver,Tyler Oles 4,Oles
+63,6130,AZ,All Rookie,FB,Running Back,Goon Summers,MrKrumz
+63,6039,SJS,All Rookie,WR,Wide Receiver,Nightmare Polimilk,UberBJ
+63,5947,CTC,All Rookie,OT,Offensive Lineman,Richard Patterson,bjkman
+63,6001,SAR,All Rookie,IOL,Offensive Lineman,Kickolas Cage,TenpointBuc
+63,5977,AZ,All Rookie,DT,Defensive Tackle,Krokadilious Hut,krokshut
+63,6148,CTC,All Rookie,DE,Defensive End,Mike Honcho,Frantik
+63,6112,SAR,All Rookie,OLB,Linebacker,Samuel Frost,Vewdew
+63,6139,BFB,All Rookie,ILB,Linebacker,Buster Baxter,jayamshah99
+63,6087,BFB,All Rookie,CB,Cornerback,Billy Dimeballz,Mr. Soup
+63,5944,OSK,All Rookie,S,Safety,Elijah Knock,nasbase
+63,5858,CTC,All-Pro First Team,QB,Quarterback,John Waffle,ReadySalted
+63,5576,OSK,All-Pro First Team,RB,Running Back,Kim Minjeong,lemonoppy
+63,5988,HON,All-Pro First Team,RB,Running Back,Dee Nye,anjro
+63,5568,CTC,All-Pro First Team,FB,Running Back,Blocked On Discord,Charple
+63,5511,BFB,All-Pro First Team,TE,Tight End,Ms. Frizzle,Jackienape
+63,5515,HON,All-Pro First Team,WR,Wide Receiver,Griffin Stone,Griff
+63,5523,AUS,All-Pro First Team,WR,Wide Receiver,Oh Haewon,Shiamus
+63,6104,NYS,All-Pro First Team,WR,Wide Receiver,Dante Von Wolfe,Bloodless
+63,5694,YKW,All-Pro First Team,OT,Offensive Lineman,1234567890 Creakis,homercrates
+63,5682,AZ,All-Pro First Team,OT,Offensive Lineman,Shnitzel Radda,DivogoJota
+63,5890,YKW,All-Pro First Team,IOL,Offensive Lineman,Acrylic Block,wizard_literal
+63,6115,CTC,All-Pro First Team,IOL,Offensive Lineman,MayBe In-Active,Beck
+63,5679,BFB,All-Pro First Team,IOL,Offensive Lineman,Brick Tupp,ForSucksFake
+63,5727,OSK,All-Pro First Team,DT,Defensive Tackle,Bajin Inui,Bajin
+63,5721,NOLA,All-Pro First Team,DT,Defensive Tackle,Turd Ferguson,Turd Ferguson
+63,5778,NYS,All-Pro First Team,DE,Defensive End,Joe Pigott,PurplePiratePoo
+63,5740,AUS,All-Pro First Team,DE,Defensive End,Trent Butterfingers,tnerT
+63,5777,YKW,All-Pro First Team,OLB,Linebacker,Jean Claude Goddamn,BOOM™
+63,5670,NOLA,All-Pro First Team,OLB,Linebacker,Tex Richards,ZootTX
+63,5989,SJS,All-Pro First Team,ILB,Linebacker,Ryan Wolf,wolfmn8989
+63,5927,CTC,All-Pro First Team,CB,Cornerback,Boss Nassty,oknom
+63,5707,COL,All-Pro First Team,CB,Cornerback,Drew Winemaker,Quitolis
+63,5725,HON,All-Pro First Team,S,Safety,Devon Lynch,Vumion
+63,5623,NOLA,All-Pro First Team,S,Safety,Worf Moghson,Mongoose87
+63,5769,NOLA,All-Pro First Team,DB,Cornerback,. Torchwood,thewhovian
+63,5332,BAL,All-Pro First Team,K,Kicker,Roy Rivers,RoyRivers
+63,5883,NYS,All-Pro First Team,P,Kicker,The Labubu,kahri
+63,5849,AZ,All-Pro First Team,RET,Safety,Golly Oo-De-Lally,Z-Whiz
+63,6199,TIJ,All-Pro First Team,QB,Quarterback,How Ma,Jaywe88
+63,6123,MIN,All-Pro First Team,RB,Linebacker,Hyper Sonic,sonicxdoom
+63,6324,BBB,All-Pro First Team,RB,Running Back,Kent Rockman,bubbers
+63,6325,MIN,All-Pro First Team,FB,Running Back,Dino-sty Nuggets,Nol15736
+63,6288,LON,All-Pro First Team,WR,Wide Receiver,Johnathan Ward,Nostrich
+63,6319,NOR,All-Pro First Team,WR,Wide Receiver,Merlin Icefield,Snayke
+63,6034,MIN,All-Pro First Team,WR,Wide Receiver,Kawasaki Eagle,foshizzlemynizzle
+63,6248,BBB,All-Pro First Team,TE,Tight End,Lucius Salem II,ImSatanJunior
+63,6055,MIN,All-Pro First Team,TE,Tight End,Jayne Cobb,gsharp
+63,6208,POR,All-Pro First Team,IOL,Offensive Lineman,Christopher Biscuits,nckkss
+63,6189,POR,All-Pro First Team,T,Offensive Lineman,Stump Chuggins,toofpete
+63,6264,TIJ,All-Pro First Team,T,Offensive Lineman,Dirk Diggler,VittiCent
+63,6302,POR,All-Pro First Team,DL,Defensive End,Tree Trunks,t62pac
+63,6277,MIN,All-Pro First Team,DL,Defensive End,Slarmy Don,sgeep
+63,6279,NOR,All-Pro First Team,DL,Defensive End,Saxon Morsax,draft76
+63,6050,MIN,All-Pro First Team,OLB,Linebacker,Bubba Flex,nathanielbuce
+63,6192,TIJ,All-Pro First Team,OLB,Linebacker,Jimothy Kicket,GingerJLD
+63,6215,BBB,All-Pro First Team,ILB,Linebacker,Colt Louis,baz
+63,6237,MIN,All-Pro First Team,CB,Cornerback,Sconnie McHits Jr.,g2019
+63,6213,NOR,All-Pro First Team,CB,Cornerback,Barry Allen,Light
+63,6331,NOR,All-Pro First Team,S,Safety,Banana Pancakes,Bubba
+63,6205,MIN,All-Pro First Team,S,Safety,Father Dawkins,six_
+63,6250,NOR,All-Pro First Team,K,Kicker,Zzobot Legman,ckroyal92
+63,6236,BBB,All-Pro First Team,P,Kicker,Fred Grouper,ComebackZak
+63,6193,KCC,All-Pro First Team,RET,Wide Receiver,Robin D. Blinde,o1playz
+63,5773,HON,All-Pro Second Team,QB,Quarterback,Vlad Wolf,Brad Woof
+63,5804,AUS,All-Pro Second Team,RB,Running Back,LtHudz’s Left-Foot,Dindog
+63,5743,AZ,All-Pro Second Team,RB,Running Back,Jonathon Jameston,Joriel
+63,6202,BFB,All-Pro Second Team,FB,Running Back,Anastasia Pearl,nunccoepi
+63,5966,YKW,All-Pro Second Team,TE,Tight End,Eizo Xyan,xyan
+63,5829,OSK,All-Pro Second Team,WR,Wide Receiver,Titus Tortuga,DigDoug11
+63,5920,OCO,All-Pro Second Team,WR,Tight End,Cutty Von Turbo,roquefort
+63,5562,SAR,All-Pro Second Team,WR,Wide Receiver,Slater Williamson,ThreeToeSloth
+63,5842,CTC,All-Pro Second Team,OT,Offensive Lineman,Big Bis,negs
+63,5678,OSK,All-Pro Second Team,OT,Offensive Lineman,Steve's Lava Kaiju,captainsb
+63,5824,HON,All-Pro Second Team,IOL,Offensive Lineman,TzTok Jad,PMoney
+63,5758,OSK,All-Pro Second Team,IOL,Offensive Lineman,Amoeboid Changeling,ajtigger
+63,5639,AUS,All-Pro Second Team,IOL,Offensive Lineman,Boss Chud,jackkmart
+63,5637,HON,All-Pro Second Team,DT,Defensive Tackle,Felix Fortuna,Sizz
+63,5757,BAL,All-Pro Second Team,DT,Defensive Tackle,Ben Savea,Ben
+63,5914,YKW,All-Pro Second Team,DE,Defensive End,Wyatt Syksy,Dire12
+63,5572,SAR,All-Pro Second Team,DE,Defensive End,Mobius Stripp,Michiganonymous
+63,5799,SJS,All-Pro Second Team,OLB,Linebacker,Brock Lesnar,JakeTE10
+63,5887,COL,All-Pro Second Team,OLB,Linebacker,Brian Eshleman,Brianesh73
+63,5508,HON,All-Pro Second Team,ILB,Kicker,Laramie Rose,oilmandan
+63,5823,YKW,All-Pro Second Team,CB,Linebacker,Richard McDonald,Dev0
+63,5684,AUS,All-Pro Second Team,CB,Safety,Silas Santana,Frostbite
+63,5926,SJS,All-Pro Second Team,S,Safety,Darian Blackfyre,ThunderTitan82
+63,5476,HON,All-Pro Second Team,S,Safety,Faramir Took,robstien
+63,5791,NYS,All-Pro Second Team,DB,Cornerback,Ottor Sorby,BoOsH
+63,5708,COL,All-Pro Second Team,K,Kicker,Sam Waymon,Amaziah
+63,5751,SAR,All-Pro Second Team,P,Kicker,John Borieo,johnlindbe11
+63,5672,YKW,All-Pro Second Team,RET,Wide Receiver,Rok Košir,Daleks
 63,5458,CTC,championship,Linebacker,Linebacker,Kevin Kirkpatrick,Pyro182
 63,5568,CTC,championship,Running Back,Running Back,Blocked On Discord,Charple
 63,5617,CTC,championship,Wide Receiver,Wide Receiver,Oliver Clozeoff,Weaves
@@ -12662,10 +12756,10 @@ season,pid,team,type,award_position,player_position,name,username
 63,6028,KCC,championship,Quarterback,Quarterback,Bettercall Quasar,Triceracop
 63,6040,KCC,championship,Defensive Tackle,Defensive Tackle,Dylan Munoz,Dylanpausin
 63,6043,KCC,championship,Wide Receiver,Wide Receiver,Natan Gunner,keaton
-63,6044,KCC,championship,Tight End,Tight End,Ugarth son of Ugarth,frithjofr
+63,6044,KCC,championship,Tight End,Defensive End,Ugarth son of Ugarth,frithjofr
 63,6059,KCC,championship,Tight End,Tight End,Aaron Bell,SteveAmHydrogen
 63,6085,KCC,championship,Running Back,Running Back,Lewis Ratskin,Skyvid
-63,6092,KCC,championship,Running Back,Running Back,Pretty Mofo,slumped64
+63,6092,KCC,championship,Running Back,Linebacker,Pretty Mofo,slumped64
 63,6116,KCC,championship,Offensive Lineman,Offensive Lineman,Bigg Boay,Timbuktu
 63,6131,KCC,championship,Wide Receiver,Wide Receiver,Jalen Odunze,Rindiee
 63,6149,KCC,championship,Quarterback,Quarterback,Lion Trees,Colbai
@@ -12692,6 +12786,26 @@ season,pid,team,type,award_position,player_position,name,username
 63,6314,KCC,championship,Offensive Lineman,Offensive Lineman,Hank Hill,Strong-strong96
 63,6334,KCC,championship,Running Back,Quarterback,Reformed Multi,Zephyrus1128
 63,6336,KCC,championship,Cornerback,Cornerback,Rush Wheek,ctots
+63,6050,MIN,DPerOTY,LB,Linebacker,Bubba Flex,nathanielbuce
+63,5927,CTC,DPerOTY,CB,Cornerback,Boss Nassty,oknom
+63,6050,MIN,DPOTY,LB,Linebacker,Bubba Flex,nathanielbuce
+63,5777,YKW,DPOTY,LB,Linebacker,Jean Claude Goddamn,BOOM™
+63,6237,MIN,DROTY,CB,Cornerback,Sconnie McHits Jr.,g2019
+63,6112,SAR,DROTY,LB,Linebacker,Samuel Frost,Vewdew
+63,5185,AZ,HoF,CB,Cornerback,Kim Yeon-Seok,Crunk
+63,5114,BAL,HoF,DT,Defensive Tackle,Draven Chanos,.Laser
+63,5108,HON,HoF,OL,Offensive Lineman,Leonardo Da Pinchi,LtHudz
+63,5094,CTC,HoF,OL,Offensive Lineman,Acutiramus Bohemicus,Gadget
+63,5332,BAL,KPOTY,K,Kicker,Roy Rivers,RoyRivers
+63,6199,TIJ,MVP,QB,Quarterback,How Ma,Jaywe88
+63,5927,CTC,MVP,CB,Cornerback,Boss Nassty,oknom
+63,6028,KCC,OPerOTY,QB,Quarterback,Bettercall Quasar,Triceracop
+63,5773,HON,OPerOTY,QB,Quarterback,Vlad Wolf,Brad Woof
+63,6288,LON,OPOTY,WR,Wide Receiver,Johnathan Ward,Nostrich
+63,6123,MIN,OPOTY,RB,Linebacker,Hyper Sonic,sonicxdoom
+63,5576,OSK,OPOTY,RB,Running Back,Kim Minjeong,lemonoppy
+63,6288,LON,OROTY,WR,Wide Receiver,Johnathan Ward,Nostrich
+63,6039,SJS,OROTY,WR,Wide Receiver,Nightmare Polimilk,UberBJ
 63,5773,HON,Pro Bowl,QB,Quarterback,Vlad Wolf,Brad Woof
 63,5556,AZ,Pro Bowl,QB,Quarterback,Noa Yu II,CROney3
 63,5988,HON,Pro Bowl,RB,Running Back,Dee Nye,anjro
@@ -12762,3 +12876,70 @@ season,pid,team,type,award_position,player_position,name,username
 63,5960,BFB,Pro Bowl,P,Kicker,Johnny Zyns,bigbluex02
 63,5839,YKW,Pro Bowl,ST,Safety,Water Boy,fweliiii
 63,5838,COL,Pro Bowl,ST,Running Back,Dijon Robinson,slasherr
+63,6199,TIJ,Pro Bowl,QB,Quarterback,How Ma,Jaywe88
+63,6218,BBB,Pro Bowl,QB,Quarterback,Cora Coyne,ihatereyson
+63,6324,BBB,Pro Bowl,RB,Running Back,Kent Rockman,bubbers
+63,6152,NOR,Pro Bowl,RB,Linebacker,Hrafn Óðinsson,Raven
+63,6103,TIJ,Pro Bowl,RB,Running Back,Treyvon Reddick,JET12TEX
+63,6319,NOR,Pro Bowl,WR,Wide Receiver,Merlin Icefield,Snayke
+63,6211,TIJ,Pro Bowl,WR,Wide Receiver,Chico Churro,JKortesi81
+63,6160,TIJ,Pro Bowl,WR,Tight End,Luis Pedro,Artemis
+63,6251,DAL,Pro Bowl,WR,Wide Receiver,Ignatius Quaintance,SwagSloth
+63,6248,BBB,Pro Bowl,TE,Tight End,Lucius Salem II,ImSatanJunior
+63,6273,DAL,Pro Bowl,TE,Safety,Glazed Donuts,Hoikmaster
+63,6347,TIJ,Pro Bowl,IOL,Offensive Lineman,Bobby Hill,WildfireMicro
+63,6264,TIJ,Pro Bowl,T,Offensive Lineman,Dirk Diggler,VittiCent
+63,6126,NOR,Pro Bowl,T,Offensive Lineman,Pasta the Turtle II,visceralpotamus
+63,6246,DAL,Pro Bowl,T,Offensive Lineman,Jake Ewe,zeagle1
+63,6279,NOR,Pro Bowl,DE,Defensive End,Saxon Morsax,draft76
+63,6297,TIJ,Pro Bowl,DE,Defensive End,Kalle Jääskeläinen,FailingUpwards
+63,6310,TIJ,Pro Bowl,DE,Defensive End,Aaron Dill,ggmeister
+63,6080,TIJ,Pro Bowl,DT,Defensive Tackle,Discord Polls,Gadget
+63,6256,DAL,Pro Bowl,OLB,Linebacker,Mathieu Delacour,37thchamber
+63,6192,TIJ,Pro Bowl,OLB,Linebacker,Jimothy Kicket,GingerJLD
+63,6215,BBB,Pro Bowl,ILB,Linebacker,Colt Louis,baz
+63,6200,NOR,Pro Bowl,ILB,Linebacker,Roy L'douk,Cymraeg_atodeg
+63,6177,DAL,Pro Bowl,CB,Cornerback,Sullivan Gauthier,BlueWater278
+63,6255,BBB,Pro Bowl,CB,Cornerback,MrBeast Crypto,GuitarMaster116
+63,6252,DAL,Pro Bowl,CB,Linebacker,JJ When,JJ5
+63,6331,NOR,Pro Bowl,S,Safety,Banana Pancakes,Bubba
+63,6281,NOR,Pro Bowl,S,Safety,Emmanuel Araw,etan
+63,6180,TIJ,Pro Bowl,S,Safety,David Corrigan JR,Deecee98
+63,6250,NOR,Pro Bowl,K,Kicker,Zzobot Legman,ckroyal92
+63,6236,BBB,Pro Bowl,P,Kicker,Fred Grouper,ComebackZak
+63,6253,BBB,Pro Bowl,ST,Wide Receiver,Super Creek,Bauer
+63,6152,NOR,Pro Bowl,ST,Linebacker,Hrafn Óðinsson,Raven
+63,6028,KCC,Pro Bowl,QB,Quarterback,Bettercall Quasar,Triceracop
+63,6128,POR,Pro Bowl,QB,Quarterback,Cross Summers,lunaripcole
+63,6123,MIN,Pro Bowl,RB,Linebacker,Hyper Sonic,sonicxdoom
+63,6194,KCC,Pro Bowl,RB,Running Back,Carl Hanratty,TomHanks
+63,6092,KCC,Pro Bowl,RB,Linebacker,Pretty Mofo,slumped64
+63,6288,LON,Pro Bowl,WR,Wide Receiver,Johnathan Ward,Nostrich
+63,6034,MIN,Pro Bowl,WR,Wide Receiver,Kawasaki Eagle,foshizzlemynizzle
+63,6132,POR,Pro Bowl,WR,Wide Receiver,Willeh Handsy,wetwilleh
+63,6221,MIN,Pro Bowl,WR,Wide Receiver,Tanji Katsumi,Windzer
+63,6055,MIN,Pro Bowl,TE,Tight End,Jayne Cobb,gsharp
+63,6044,KCC,Pro Bowl,TE,Defensive End,Ugarth son of Ugarth,frithjofr
+63,6208,POR,Pro Bowl,IOL,Offensive Lineman,Christopher Biscuits,nckkss
+63,6262,POR,Pro Bowl,IOL,Offensive Lineman,=^..^= ˁ˚ᴥ˚ˀ,Painted
+63,6189,POR,Pro Bowl,T,Offensive Lineman,Stump Chuggins,toofpete
+63,6302,POR,Pro Bowl,DE,Defensive End,Tree Trunks,t62pac
+63,6277,MIN,Pro Bowl,DE,Defensive End,Slarmy Don,sgeep
+63,6290,MIN,Pro Bowl,DT,Defensive Tackle,Barney Bonk,Trashpaddle
+63,6172,POR,Pro Bowl,DT,Defensive Tackle,Lencho Mysterio,lorenzomora94
+63,6050,MIN,Pro Bowl,OLB,Linebacker,Bubba Flex,nathanielbuce
+63,6175,KCC,Pro Bowl,OLB,Defensive End,Travon Austin,Darkangel2021!
+63,6295,KCC,Pro Bowl,ILB,Linebacker,Chester Von Isaacs,chester
+63,6157,MIN,Pro Bowl,ILB,Linebacker,Jimmy Voorhees,Jabacon420
+63,6237,MIN,Pro Bowl,CB,Cornerback,Sconnie McHits Jr.,g2019
+63,6220,KCC,Pro Bowl,CB,Cornerback,Socks Maybe,SocksMaybe
+63,6336,KCC,Pro Bowl,CB,Cornerback,Rush Wheek,ctots
+63,6305,POR,Pro Bowl,S,Safety,James Dalton,BigDmAn32
+63,6296,KCC,Pro Bowl,S,Safety,Orange Juice Simpson,fish
+63,6245,KCC,Pro Bowl,S,Safety,Thomas Sankara,JoeSteel
+63,6198,LON,Pro Bowl,K,Offensive Lineman,Eddie Byrd,Eddie Byrd
+63,6198,LON,Pro Bowl,P,Offensive Lineman,Eddie Byrd,Eddie Byrd
+63,6141,LON,Pro Bowl,ST,Running Back,Gene Eiland III,1thatguy1
+63,6303,MIN,Pro Bowl,ST,Wide Receiver,Troy Cooks,JTV13
+63,5849,AZ,RetOTY,S,Safety,Golly Oo-De-Lally,Z-Whiz
+63,6250,NOR,STOTY,K,Kicker,Zzobot Legman,ckroyal92

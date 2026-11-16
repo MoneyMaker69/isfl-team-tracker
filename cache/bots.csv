@@ -1,61 +1,74 @@
 season,bot_id,team,dsfl_team,league,tier,position,archetype,status,name
 56,298,AUS,,ISFL,4,Offensive Lineman,Balanced Lineman,Active,Meguru Bumchira
 57,335,BFB,,ISFL,4,Offensive Lineman,Mauler,Active,Brock Woll
-60,594,,LON,DSFL,50,Safety,Ball Hawk - B,Active,Buzz Windsor
-60,593,,LON,DSFL,50,Defensive Tackle,Nose Tackle - A,Active,Gnome Tackle
+59,535,OSK,,ISFL,4,Offensive Lineman,Athletic Lineman,Active,Titanus Mosura
 60,577,AUS,,ISFL,4,Offensive Lineman,Balanced Lineman,Active,Austin Silverhead
-61,661,,POR,DSFL,100,Cornerback,Cover Corner,Active,No Fly Zone
-61,612,,LON,DSFL,100,Cornerback,Cover Corner,Active,Ronde Barber
-62,736,,DAL,DSFL,50,Cornerback,Cover Corner - B,Active,Mackenzie Collie
-62,735,,DAL,DSFL,50,Linebacker,Coverage - B,Active,Jack Terrier
-62,734,,DAL,DSFL,50,Defensive Tackle,Nose Tackle - A,Active,Mort Cattle
 62,729,,DAL,DSFL,51,Offensive Lineman,Mauler,Active,Rad Heeler
 62,728,,DAL,DSFL,51,Offensive Lineman,Mauler,Active,Stripe Heeler
 62,727,,DAL,DSFL,51,Offensive Lineman,Mauler,Active,Bandit Heeler
 62,726,,DAL,DSFL,51,Offensive Lineman,Athletic Lineman,Active,Bingo Heeler
 62,681,,POR,DSFL,100,Linebacker,Coverage LB,Active,Maxwell Da'Synthest V
 63,811,,POR,DSFL,50,Linebacker,Coverage - B,Active,Backing The Line
-63,810,,DAL,DSFL,50,Defensive Tackle,Interior Rusher B,Active,Smaller  Edd
-63,809,,NOR,DSFL,50,Offensive Lineman,Mauler,Active,Makoto Nijiima
-63,808,,LON,DSFL,100,Offensive Lineman,Mauler,Active,Sack Lunch
-63,807,,LON,DSFL,50,Defensive Tackle,Nose Tackle - B,Active,Warren Sapp
-63,806,,LON,DSFL,50,Offensive Lineman,Mauler,Active,Eddy Cartoon
-63,805,,DAL,DSFL,100,Linebacker,Versatile LB,Active,DoYouFindUr Mother-Attractive
-63,804,,DAL,DSFL,100,Cornerback,Cover Corner,Active,Kyle Feet-Lover
-63,803,,LON,DSFL,50,Linebacker,Pass Rusher - A,Active,Lavonte David
-63,802,,KCC,DSFL,50,Safety,Ball Hawk - A,Active,Will Coyote
-63,801,,KCC,DSFL,50,Safety,Ball Hawk - A,Active,Vernon Gholston
-63,800,,KCC,DSFL,51,Offensive Lineman,Athletic Lineman,Active,Jedrick Wills Jr
-63,799,,KCC,DSFL,100,Offensive Lineman,Athletic Lineman,Active,Mekhi Becton
-63,798,,KCC,DSFL,100,Offensive Lineman,Athletic Lineman,Active,Slagathor Thorson
-63,796,,KCC,DSFL,100,Offensive Lineman,Mauler,Active,Alex Leatherwood
 63,794,,BBB,DSFL,50,Cornerback,Cover Corner - A,Active,Howell Davis
 63,793,,BBB,DSFL,50,Defensive Tackle,Interior Rusher B,Active,Edward Teach
-63,792,,DAL,DSFL,100,Defensive End,Speed Rusher,Active,Bigger Edd
-63,791,,BBB,DSFL,50,Safety,Ball Hawk - B,Active,John Cook
 63,790,,BBB,DSFL,50,Defensive Tackle,Interior Rusher B,Active,Anne Bonny
 63,788,,BBB,DSFL,51,Offensive Lineman,Athletic Lineman,Active,Bartholomew Roberts
 63,787,,BBB,DSFL,51,Offensive Lineman,Athletic Lineman,Active,Dixie Bull
 63,786,,BBB,DSFL,51,Offensive Lineman,Athletic Lineman,Active,John Bear
 63,785,,BBB,DSFL,51,Offensive Lineman,Athletic Lineman,Active,Zheng Jing
 63,784,,BBB,DSFL,51,Offensive Lineman,Athletic Lineman,Active,Red Legs Greaves
-63,783,,BBB,DSFL,100,Cornerback,Cover Corner,Active,Houshou Marine
 63,782,,BBB,DSFL,100,Safety,Ball Hawk,Active,Sea-Dog Fuwawa
-63,781,,BBB,DSFL,100,Linebacker,Versatile LB,Active,Francis Drake
-63,780,,POR,DSFL,100,Safety,Enforcer,Active,Bugginton Harperious
-63,779,,POR,DSFL,100,Cornerback,Physical Corner,Active,Smackin Those Balls
-63,778,,POR,DSFL,50,Defensive End,Speed Rusher A,Active,Defending The End
-63,776,,NOR,DSFL,50,Offensive Lineman,Athletic Lineman,Active,Yuno Gasai
-63,775,,NOR,DSFL,100,Offensive Lineman,Athletic Lineman,Active,All Might
-63,774,,NOR,DSFL,100,Offensive Lineman,Athletic Lineman,Active,John Blocksmith
-63,773,,NOR,DSFL,50,Defensive Tackle,Interior Rusher B,Active,Bigger Rudder
-63,772,,NOR,DSFL,50,Linebacker,Coverage - A,Active,The Real Glims
-63,771,,NOR,DSFL,50,Safety,Center Fielder - A,Active,Green Simpson
-63,770,,NOR,DSFL,100,Defensive Tackle,Interior Rusher,Active,Kermit The Fatguy
-63,769,,LON,DSFL,100,Offensive Lineman,Mauler,Active,The Wall
 63,768,,TIJ,DSFL,100,Offensive Lineman,Mauler,Active,Maruchan Chicken
 63,760,BFB,,ISFL,2,Offensive Lineman,Mauler,Active,Jelly Roll
 63,759,BFB,,ISFL,2,Offensive Lineman,Mauler,Active,Tulsa King
+64,873,,KCC,DSFL,51,Offensive Lineman,Athletic Lineman,Active,Hank Hill's Clone
+64,872,,KCC,DSFL,51,Offensive Lineman,Athletic Lineman,Active,Jedrick Wills Jr
+64,870,,KCC,DSFL,100,Offensive Lineman,Athletic Lineman,Active,Alex Leatherwood
+64,869,,KCC,DSFL,100,Offensive Lineman,Athletic Lineman,Active,Slagathor Thorson
+64,868,,KCC,DSFL,100,Offensive Lineman,Athletic Lineman,Active,Mekhi Becton
+64,867,,MIN,DSFL,51,Offensive Lineman,Mauler,Active,Sumo Duckler
+64,866,,MIN,DSFL,51,Offensive Lineman,Mauler,Active,ThatsAHuge Duck
+64,865,,MIN,DSFL,50,Linebacker,Coverage - B,Active,Bubble Flex
+64,864,,MIN,DSFL,50,Cornerback,Cover Corner - A,Active,Big Quackin
+64,863,,MIN,DSFL,50,Safety,Center Fielder - B,Active,Mother Dawkins
+64,862,,MIN,DSFL,50,Defensive Tackle,Nose Tackle - A,Active,Bjorn BronzeSide
+64,861,,MIN,DSFL,50,Linebacker,Coverage - B,Active,Waggy Pauls
+64,860,,MIN,DSFL,50,Defensive End,Speed Rusher B,Active,TheBetterMike Honcho
+64,858,,MIN,DSFL,100,Safety,Ball Hawk,Active,Given Stine
+64,857,,MIN,DSFL,100,Offensive Lineman,Athletic Lineman,Active,Ezekiel Waffles
+64,856,,MIN,DSFL,100,Offensive Lineman,Athletic Lineman,Active,Mother Ducker
+64,855,,NOR,DSFL,50,Running Back,Fullback - A,Active,Shin  Gojira
+64,854,,NOR,DSFL,51,Offensive Lineman,Athletic Lineman,Active,Kasumi Yoshizawa
+64,853,,NOR,DSFL,51,Offensive Lineman,Athletic Lineman,Active,Aigis
+64,852,,NOR,DSFL,51,Offensive Lineman,Athletic Lineman,Active,All Might
+64,851,,POR,DSFL,100,Wide Receiver,Possession Receiver,Active,Willeh Peter'Slooth
+64,849,,POR,DSFL,50,Cornerback,Cover Corner - A,Active,Nickleback Photograph
+64,848,,POR,DSFL,51,Offensive Lineman,Athletic Lineman,Active,Guarding  The Right
+64,847,,POR,DSFL,51,Offensive Lineman,Athletic Lineman,Active,Guarding The Left
+64,846,,POR,DSFL,100,Kicker,Power,Active,KickingDaBall BallBuster
+64,844,,TIJ,DSFL,100,Linebacker,Versatile LB,Active,Maruchan Soy Sauce
+64,843,,DAL,DSFL,50,Safety,Center Fielder - A,Active,Smaller Edd
+64,842,,DAL,DSFL,100,Cornerback,Cover Corner,Active,Medium Edd
+64,841,,DAL,DSFL,100,Safety,Center Fielder,Active,Smallest Edd
+64,840,,DAL,DSFL,50,Defensive End,Speed Rusher B,Active,Biggest Edd
+64,839,,LON,DSFL,50,Defensive Tackle,Nose Tackle - A,Active,Glorious Mococo
+64,838,,BBB,DSFL,50,Kicker,Accuracy - B,Active,Cap Morgan
+64,837,,BBB,DSFL,50,Safety,Ball Hawk - B,Active,Gan Ning
+64,836,,BBB,DSFL,100,Cornerback,Cover Corner,Active,Houshou Marine
+64,835,,BBB,DSFL,100,Linebacker,Versatile LB,Active,Long-John Silver
+64,833,,NOR,DSFL,100,Offensive Lineman,Athletic Lineman,Active,Makoto Niijima
+64,832,,NOR,DSFL,100,Offensive Lineman,Athletic Lineman,Active,Yukari Takeba
+64,831,,NOR,DSFL,100,Defensive End,Speed Rusher,Active,Yasmi Sukehiro
+64,830,,NOR,DSFL,100,Cornerback,Cover Corner,Active,Hisoka Morow
+64,827,,LON,DSFL,50,Defensive Tackle,All Purpose - A,Active,Chris Hovan
+64,826,,LON,DSFL,50,Safety,Ball Hawk - B,Active,Antoine Winfield
+64,825,,LON,DSFL,100,Safety,Enforcer,Active,John Lynch
+64,824,,LON,DSFL,50,Linebacker,Coverage - B,Active,Derrick Brooks
+64,823,,LON,DSFL,50,Running Back,Fullback - B,Active,A Train
+64,822,,LON,DSFL,51,Offensive Lineman,Mauler,Active,Cody Mauch
+64,821,,LON,DSFL,51,Offensive Lineman,Mauler,Active,Davin Joseph
+64,820,,LON,DSFL,100,Offensive Lineman,Athletic Lineman,Active,Donald Penn
+64,819,,TIJ,DSFL,100,Linebacker,Versatile LB,Active,Maruchan Pork
 64,818,,TIJ,DSFL,100,Defensive Tackle,All-Purpose DT,Active,Maruchan Shrimp
 64,817,,TIJ,DSFL,51,Offensive Lineman,Mauler,Active,Maruchan Chili
 64,816,,TIJ,DSFL,51,Offensive Lineman,Mauler,Active,Maruchan Beef
